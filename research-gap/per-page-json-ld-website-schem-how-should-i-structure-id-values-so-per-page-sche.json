@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most advice skips stable `@id` design for cross-page entity linking",
+  "name": "Gap: most advice skips stable `@id` design for cross-page entity linking",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "Most schema tutorials say to use JSON-LD, but they do not explain how to build a stable entity graph so every page points to the same canonical organization, lo",
+  "articleBody": "Most schema tutorials say to use JSON-LD, but they do not explain how to build a stable entity graph so every page points to the same canonical organization, location, author, or service entities. The missing piece is `@id` strategy. Use one permanent `@id` for each core entity, then reference that same identifier from every page that mentions it. For example, your homepage, location pages, and service pages should all point to the same organization node rather than emitting slightly different copies of the same business facts. This prevents graph fragmentation, makes updates easier, and reduces conflicts when multiple templates or plugins generate markup. For local or multi-location businesses, each office should have its own location `@id`, while the parent brand should remain a separate entity that links to all locations. Page-level schema should then reference those IDs instead of recreating the entire object. The same logic applies to authors, products, and services. This matters at scale because CMS changes, location closures, and rebrands are much easier to manage when the source of truth is centralized. Without a stable entity model, per-page JSON-LD becomes brittle, duplicated, and hard to audit across a large site.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-how-should-i-structure-id-values-so-per-page-schema-stays-co"
+}

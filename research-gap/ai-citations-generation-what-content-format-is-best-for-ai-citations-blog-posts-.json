@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most resources discuss topic coverage, but not **which content formats AI prefers for different intents**",
+  "name": "Gap: most resources discuss topic coverage, but not **which content formats AI prefers for different intents**",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "The gap is that most explanations ignore **content format selection**. For AI citations, format is not cosmetic; it changes how easily a model can identify the ",
+  "articleBody": "The gap is that most explanations ignore **content format selection**. For AI citations, format is not cosmetic; it changes how easily a model can identify the answer. Long narrative posts often underperform when the query is comparative, procedural, or decision-oriented. In those cases, a short definition, a numbered checklist, a table, or an FAQ often gets extracted more cleanly. If the user is asking “best,” “vs,” “how to,” or “cost,” the page should usually include a decision-oriented section near the top rather than burying it after background context. A practical rule is to match the format to intent: definition pages use concise summaries, comparison pages use tables, process pages use step-by-step instructions, and pricing pages use explicit ranges with assumptions. Many competitors talk about “comprehensive” content without recognizing that comprehensiveness should be structured, not just longer. The pitfall is padding a page with generic background that reduces the density of useful answer text. In citation-driven search, brevity and precision often outperform length when both are answering the same query.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-what-content-format-is-best-for-ai-citations-blog-posts-faqs"
+}

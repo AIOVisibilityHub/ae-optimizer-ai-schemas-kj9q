@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What should I avoid when optimizing for voice search in multiple cities so I do not hurt my local rankings or get filtered out by assistants?",
+    "text": "What should I avoid when optimizing for voice search in multiple cities so I do not hurt my local rankings or get filtered out by assistants?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The biggest mistakes in multi-city voice search optimization are usually consistency and credibility problems. Do not create fake office addresses or page after page of near-duplicate city content. Do not stuff the copy with awkward keyword phrases or repeat the city name unnaturally. Avoid mixed business names, different phone numbers for the same location, and stale hours across listings. Voice systems prefer clean, trusted entities, so any confusion can reduce your chances of being surfaced. Another common mistake is writing content that sounds like marketing copy instead of answering the question plainly. The safer approach is to build one high-quality page per real location or service area, keep the data synchronized, and answer customer questions directly. If a detail is uncertain, leave it out rather than inventing it. Clean, truthful, well-structured pages are more likely to be cited than thin, over-optimized ones.",
+      "description": "Avoid fake addresses, duplicate city pages, inconsistent business names, keyword stuffing, and generic copy that does not match the city or service intent. Also avoid stale hours, missing schema, and mixed contact details across Apple, Bing, Google, and your website. These issues reduce trust and make entity matching harder.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "The biggest mistakes in multi-city voice search optimization are usually consistency and credibility problems. Do not create fake office addresses or page after page of near-duplicate city content. Do not stuff the copy with awkward keyword phrases or repeat the city name unnaturally. Avoid mixed business names, different phone numbers for the same location, and stale hours across listings. Voice systems prefer clean, trusted entities, so any confusion can reduce your chances of being surfaced. Another common mistake is writing content that sounds like marketing copy instead of answering the question plainly. The safer approach is to build one high-quality page per real location or service area, keep the data synchronized, and answer customer questions directly. If a detail is uncertain, leave it out rather than inventing it. Clean, truthful, well-structured pages are more likely to be cited than thin, over-optimized ones."
+      }
+    ]
+  },
+  "name": "What should I avoid when optimizing for voice search in multiple cities?",
+  "description": "Avoid fake addresses, duplicate city pages, inconsistent business names, keyword stuffing, and generic copy that does not match the city or service intent. Also",
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/what-should-i-avoid-when-optimizing-for-voice-search-in-multiple-cities-so-i-do"
+}

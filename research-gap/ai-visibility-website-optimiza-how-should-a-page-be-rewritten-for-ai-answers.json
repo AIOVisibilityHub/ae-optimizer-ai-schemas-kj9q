@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "How should a page be rewritten for AI answers? Gap: most advice mentions schema, not the text structure AI systems can extract.",
+  "name": "How should a page be rewritten for AI answers? Gap: most advice mentions schema, not the text structure AI systems can extract.",
+  "about": "AI Visibility website optimization",
+  "articleSection": "Competitive question gap research",
+  "description": "A page can be useful to humans and still be weak for AI systems if it is not structured for extraction. The core changes are simple but often missing: put the d",
+  "articleBody": "A page can be useful to humans and still be weak for AI systems if it is not structured for extraction. The core changes are simple but often missing: put the direct answer first, use descriptive headings that match real questions, keep one idea per section, add concise lists for steps or criteria, and include specific facts instead of generic claims. If the topic is complex, add short examples, edge cases, and comparison tables so the model has material it can quote. Schema helps, but it does not replace readable content; it only reinforces the page’s meaning. The biggest gap is that many sites add FAQ schema to pages that do not actually answer the FAQ clearly in the visible text, which limits value. For AI visibility, answer-first structure matters more than length. A short page that cleanly resolves a question can outperform a long page that buries the answer under marketing copy.",
+  "keywords": "AI Visibility website optimization, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-visibility-website-optimiza-how-should-a-page-be-rewritten-for-ai-answers"
+}

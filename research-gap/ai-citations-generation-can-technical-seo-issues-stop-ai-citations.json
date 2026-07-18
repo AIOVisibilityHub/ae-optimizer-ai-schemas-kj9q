@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most guides ignore **technical crawl and rendering barriers** that prevent AI citation",
+  "name": "Gap: most guides ignore **technical crawl and rendering barriers** that prevent AI citation",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "The overlooked issue is **technical accessibility for AI crawlers**. Many content-gap articles focus on what to write, but not whether the content can be reache",
+  "articleBody": "The overlooked issue is **technical accessibility for AI crawlers**. Many content-gap articles focus on what to write, but not whether the content can be reached, parsed, and extracted efficiently. If important pages are blocked, buried behind scripts, or difficult to render, AI systems may never see the best material. The practical audit should check crawlability, indexability, page speed, structured markup, and whether the answer appears in the rendered HTML rather than only in client-side elements. It also helps to ensure that critical sections are not hidden inside tabs or accordions that are technically accessible but practically harder to extract. A common edge case is a page that looks excellent in a browser but does not expose enough plain text for downstream retrieval systems. Another is a website architecture that places key pages too deep in the site structure, reducing their discoverability. Fixing technical access issues can sometimes produce faster citation gains than rewriting the page because it removes a retrieval barrier rather than hoping the model infers the content. For citation generation, visible and accessible text still matters more than elaborate presentation.",
+  "keywords": "AI citations generation, edge_case",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-can-technical-seo-issues-stop-ai-citations"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most competitors say “make content better,” but not *what makes a page citation-worthy* for AI extraction",
+  "name": "Gap: most competitors say “make content better,” but not *what makes a page citation-worthy* for AI extraction",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A practical way to close this gap is to define **citation-worthiness** before you publish: a page is more likely to be cited by AI when it answers one narrow qu",
+  "articleBody": "A practical way to close this gap is to define **citation-worthiness** before you publish: a page is more likely to be cited by AI when it answers one narrow question, starts with a direct answer in the first 1–2 paragraphs, and includes verifiable specifics such as numbers, dates, definitions, or steps. Many competitors talk about improving “authority” in general, but they do not explain how to make a page extractable in a way AI systems can reliably quote. A strong production workflow is to write a short BLUF-style summary at the top, use clear H2s that mirror user questions, add a concise FAQ block, and support claims with external references and internal methodology notes. In practice, this means every high-intent page should have one primary query, one supporting comparison table or list, and one section that explains how the answer was derived. Refreshing the page on a regular cadence also matters because AI systems tend to favor newer content and visible update signals. The main pitfall is over-optimizing for schema or keyword density while leaving the actual answer vague; citation systems generally reward clarity and specificity more than decoration. The fastest wins usually come from revising existing pages rather than publishing new ones, especially pages already attracting impressions but not citations.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-what-makes-content-more-likely-to-get-cited-by-ai-systems"
+}

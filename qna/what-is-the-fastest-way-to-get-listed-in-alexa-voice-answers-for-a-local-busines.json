@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What is the fastest way to get listed in Alexa voice answers for a local business, and does Bing Places still matter more than Google Business Profile?",
+    "text": "What is the fastest way to get listed in Alexa voice answers for a local business, and does Bing Places still matter more than Google Business Profile?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "For Alexa, the fastest practical step is to claim and fully optimize Bing Places because Bing data has a direct influence on many Alexa local responses. Complete every field, verify the listing, choose the most accurate categories, and keep holiday hours current. Then align your website and other directories so the business entity matches exactly across sources. Google Business Profile still matters for broader local SEO and can strengthen overall prominence, but it is not the primary input for many Alexa answers. A good Alexa-focused strategy also includes a concise FAQ page and a location page written in conversational language, because assistants often pull from structured, easy-to-parse content. If you have multiple locations, each one needs its own distinct listing and matching landing page. Treat Bing as the operational priority, then support it with clean local SEO signals everywhere else.",
+      "description": "Alexa commonly relies on Bing Places and other Bing-indexed sources for local business data. The fastest path is to claim and fully complete Bing Places, make the business name, address, phone, and hours consistent everywhere, and add clear service descriptions. Google Business Profile helps overall local authority, but it is not the main source Alexa uses for many local queries.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "For Alexa, the fastest practical step is to claim and fully optimize Bing Places because Bing data has a direct influence on many Alexa local responses. Complete every field, verify the listing, choose the most accurate categories, and keep holiday hours current. Then align your website and other directories so the business entity matches exactly across sources. Google Business Profile still matters for broader local SEO and can strengthen overall prominence, but it is not the primary input for many Alexa answers. A good Alexa-focused strategy also includes a concise FAQ page and a location page written in conversational language, because assistants often pull from structured, easy-to-parse content. If you have multiple locations, each one needs its own distinct listing and matching landing page. Treat Bing as the operational priority, then support it with clean local SEO signals everywhere else."
+      }
+    ]
+  },
+  "name": "What is the fastest way to get listed in Alexa voice answers?",
+  "description": "Alexa commonly relies on Bing Places and other Bing-indexed sources for local business data. The fastest path is to claim and fully complete Bing Places, make t",
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/what-is-the-fastest-way-to-get-listed-in-alexa-voice-answers-for-a-local-busines"
+}

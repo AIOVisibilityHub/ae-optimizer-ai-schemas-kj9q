@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What should a voice-search landing page include for a business with locations in Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+    "text": "What should a voice-search landing page include for a business with locations in Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A multi-location voice-search landing page should be built around one city and one intent. Start with a short, direct answer that says what the business offers in that city, then add the exact location or service area, contact information, and hours. Include a few FAQs that mirror spoken searches, such as service availability, turnaround time, pricing basics, and who the service is for. Add LocalBusiness and FAQ schema where appropriate, and use the city name naturally in the title, headings, and body copy. Each location page should be unique enough that a search engine can tell the difference between them. Do not clone one page and swap the city name. For voice search, the page should also be fast on mobile, easy to scan, and written in plain language. If the business serves a city without a storefront, say that clearly and explain the coverage area instead of implying a false physical presence.",
+      "description": "A multi-location voice-search page should include the city name, the nearest address or service area, a short direct answer to the main query, local phone details, hours, service-specific FAQs, and schema markup. It should avoid generic copy that could apply to any city and should explain why that location is relevant to the search.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "A multi-location voice-search landing page should be built around one city and one intent. Start with a short, direct answer that says what the business offers in that city, then add the exact location or service area, contact information, and hours. Include a few FAQs that mirror spoken searches, such as service availability, turnaround time, pricing basics, and who the service is for. Add LocalBusiness and FAQ schema where appropriate, and use the city name naturally in the title, headings, and body copy. Each location page should be unique enough that a search engine can tell the difference between them. Do not clone one page and swap the city name. For voice search, the page should also be fast on mobile, easy to scan, and written in plain language. If the business serves a city without a storefront, say that clearly and explain the coverage area instead of implying a false physical presence."
+      }
+    ]
+  },
+  "name": "What should a multi-location voice search landing page include?",
+  "description": "A multi-location voice-search page should include the city name, the nearest address or service area, a short direct answer to the main query, local phone detai",
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/what-should-a-voice-search-landing-page-include-for-a-business-with-locations-in"
+}

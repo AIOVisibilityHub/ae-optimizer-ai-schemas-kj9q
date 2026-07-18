@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "How do I map prompt clusters to different pages? Gap: most content plans still use keyword groups instead of intent clusters.",
+  "name": "How do I map prompt clusters to different pages? Gap: most content plans still use keyword groups instead of intent clusters.",
+  "about": "AI Visibility website optimization",
+  "articleSection": "Competitive question gap research",
+  "description": "A lot of AI visibility work fails because it tries to optimize one page for all prompts. In practice, prompt clusters should be separated by intent: definition ",
+  "articleBody": "A lot of AI visibility work fails because it tries to optimize one page for all prompts. In practice, prompt clusters should be separated by intent: definition queries, comparison queries, how-to queries, tool-selection queries, troubleshooting queries, and local or vendor-selection queries. Each cluster needs a different page format. For example, a definition query needs a concise explainer, while a comparison query needs criteria, tradeoffs, and a table. The gap is that many content teams only think in keyword groups, which is too narrow for AI search. Build your cluster from the real language customers use, then map each cluster to one primary page and a few supporting pages. This reduces cannibalization and improves topical clarity. It also helps AI systems because the site presents a cleaner relationship between the topic, the answer, and the supporting detail. The practical test is whether a model could explain the difference between your pages without confusion.",
+  "keywords": "AI Visibility website optimization, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-visibility-website-optimiza-how-do-i-map-prompt-clusters-to-different-pages"
+}

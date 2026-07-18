@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most resources ignore schema governance and duplicate-source conflicts",
+  "name": "Gap: most resources ignore schema governance and duplicate-source conflicts",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "Many schema generators focus on creating markup, but they rarely address governance: who owns schema changes, how updates are reviewed, and how conflicts are pr",
+  "articleBody": "Many schema generators focus on creating markup, but they rarely address governance: who owns schema changes, how updates are reviewed, and how conflicts are prevented when multiple plugins or teams can edit JSON-LD. The practical solution is to centralize schema ownership in one system of record and forbid overlapping generators from emitting the same entity types. If one plugin produces Organization data and another produces a different Organization graph, you can end up with contradictory phone numbers, addresses, or URLs. That is especially risky for per-page JSON-LD because the markup often depends on local page context, making conflicts hard to detect manually. Good governance means one team defines the schema templates, one source of truth feeds the data, and every release includes a structured-data check. Monthly audits are useful, but the bigger win is preventing duplicated graphs from shipping in the first place. This is an operational gap because most articles focus on schema syntax, not lifecycle control. In reality, schema quality usually fails because of ownership ambiguity, not because the markup standard is hard to write.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-how-do-i-prevent-multiple-tools-or-teams-from-generating-con"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most articles blame content quality, but not the **underlying source type** that drives AI citations",
+  "name": "Gap: most articles blame content quality, but not the **underlying source type** that drives AI citations",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A strong gap-filling answer is that **citation loss is often a source problem, not a content problem**. Many businesses assume competitors are winning because t",
+  "articleBody": "A strong gap-filling answer is that **citation loss is often a source problem, not a content problem**. Many businesses assume competitors are winning because their articles are longer or better written, but AI systems also rely heavily on the domains that surround the content. In practice, a competitor may be cited because the same claim appears on review sites, forums, news articles, YouTube, or other third-party pages that the model trusts. The fix is to map each prompt to the actual source domain being cited, then classify the gap as content, authority, or technical access. If the issue is authority, the fastest path is often not rewriting your own blog post but earning mentions on the same external domains that already surface for that query. If the issue is technical, your page may be blocked, poorly structured, or hard to extract. If the issue is content, the page may simply lack the specific answer the AI needs. Most competitors do not explain this distinction clearly, which leads teams to spend months on the wrong fix. The practical takeaway is to audit the source ecosystem first, then decide whether to publish, update, syndicate, or improve crawlability.",
+  "keywords": "AI citations generation, edge_case",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-why-do-competitors-get-cited-even-when-our-content-seems-str"
+}

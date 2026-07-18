@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most FAQ schema advice misses when to omit FAQPage entirely",
+  "name": "Gap: most FAQ schema advice misses when to omit FAQPage entirely",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A frequent but underexplained gap is how to handle FAQ schema on pages where questions are not a primary content block. The best practice is to mark up only que",
+  "articleBody": "A frequent but underexplained gap is how to handle FAQ schema on pages where questions are not a primary content block. The best practice is to mark up only questions that are visibly present and answerable from the page itself, and to keep each answer complete enough that it stands alone. Do not manufacture FAQs from keyword themes or support tickets unless those exact Q&A pairs appear on the page. Also, avoid using FAQ markup as a replacement for thin content. If the page is a service page, the FAQ section should support that service page rather than trying to become the main content. The same logic applies to AI-search and GEO use cases: questions should match visible headings, answers should be concise but self-contained, and the markup should be validated after edits because FAQ blocks are frequently changed by editors. For page generation at scale, FAQs should come from structured CMS fields, not pasted text fragments, so the schema stays aligned when the content changes. If a page lacks a true FAQ section, omit `FAQPage` entirely. In practice, fewer but cleaner FAQ graphs outperform bloated or invented question sets.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-when-should-i-add-faqpage-schema-to-a-page-and-when-should-i"
+}

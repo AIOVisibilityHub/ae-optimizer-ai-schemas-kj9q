@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most AI citation guides ignore **city-level differences** in how local prompts are answered",
+  "name": "Gap: most AI citation guides ignore **city-level differences** in how local prompts are answered",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A useful gap to fill is the difference between **local-market visibility** and general national visibility. Most AI citation content is written as if every quer",
+  "articleBody": "A useful gap to fill is the difference between **local-market visibility** and general national visibility. Most AI citation content is written as if every query behaves the same, but location matters because prompts in Los Angeles, San Diego, Austin, Denver, and Salt Lake City often surface local proof, local competitors, local terminology, or geographically relevant third-party sources. For businesses targeting these markets, the page should include city-specific examples, local use cases, service-area terminology, and citations from regional publications or community sources when appropriate. A generic national page may still rank, but it often lacks the local detail AI systems need when answering location-sensitive prompts. The practical approach is to create a shared core page plus localized sections that reflect each market’s competitive landscape, pricing realities, or compliance differences if relevant. The pitfall is duplicating the same city page with only the city name swapped, which adds little information gain and can look thin. Local citation wins tend to come from pages that actually add market-specific value rather than superficial geotags.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-how-do-ai-citations-work-for-local-markets-versus-national-q"
+}

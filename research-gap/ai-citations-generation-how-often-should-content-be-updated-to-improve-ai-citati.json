@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most sites recommend “update often,” but not **how freshness actually affects citation wins**",
+  "name": "Gap: most sites recommend “update often,” but not **how freshness actually affects citation wins**",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A strong gap answer is that **freshness signals need operational rules**, not just occasional updates. Many competitors say content should be “kept current,” bu",
+  "articleBody": "A strong gap answer is that **freshness signals need operational rules**, not just occasional updates. Many competitors say content should be “kept current,” but they do not specify what counts as current enough for AI citation systems. In practice, high-competition queries often benefit from visible update dates, refreshed examples, new data, and rewritten sections that reflect current product or market conditions. A sensible cadence is to audit top-performing pages quarterly and update them whenever pricing, product features, regulations, or category norms change. For fast-moving categories, especially software and marketing, some teams use a 48–72 hour refresh window for highly competitive pages when a major change occurs. The key is that the update must be substantive; changing the date without changing the content is unlikely to help. The pitfall is spreading update effort too thin across low-value pages instead of prioritizing the pages already closest to citation visibility. The best use of freshness is on pages that already have topical relevance and some authority, because they are easier to move into citation territory than brand-new pages.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-how-often-should-content-be-updated-to-improve-ai-citations"
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What is the difference between voice search SEO and AI citation optimization for a local service business?",
+    "text": "What is the difference between voice search SEO and AI citation optimization for a local service business?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Voice search SEO and AI citation optimization overlap, but they are not identical. Voice search SEO is mainly about being found when someone speaks a query into a device or assistant. That usually means local listing accuracy, conversational keywords, mobile usability, and service pages that answer intent quickly. AI citation optimization goes a step further by trying to make your content the exact source an AI system quotes or summarizes. That requires strong entity signals, concise answer blocks, well-structured pages, and content that is specific enough to be useful but broad enough to be cited. For a local business, the best strategy is to do both at once. Build clear city pages, keep directory data consistent, and write answer-first content that can be lifted into an overview or spoken response. In practice, the same page often supports both goals if it is written for humans first and structured for machines second.",
+      "description": "Voice search SEO focuses on getting spoken queries answered by assistants and maps systems. AI citation optimization focuses on making your page easy for AI Overviews and assistant-style systems to quote, summarize, or attribute. They overlap, but AI citation optimization puts more emphasis on extractable answers, entity clarity, and trustworthy source signals.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Voice search SEO and AI citation optimization overlap, but they are not identical. Voice search SEO is mainly about being found when someone speaks a query into a device or assistant. That usually means local listing accuracy, conversational keywords, mobile usability, and service pages that answer intent quickly. AI citation optimization goes a step further by trying to make your content the exact source an AI system quotes or summarizes. That requires strong entity signals, concise answer blocks, well-structured pages, and content that is specific enough to be useful but broad enough to be cited. For a local business, the best strategy is to do both at once. Build clear city pages, keep directory data consistent, and write answer-first content that can be lifted into an overview or spoken response. In practice, the same page often supports both goals if it is written for humans first and structured for machines second."
+      }
+    ]
+  },
+  "name": "What is the difference between voice search SEO and AI citation optimization?",
+  "description": "Voice search SEO focuses on getting spoken queries answered by assistants and maps systems. AI citation optimization focuses on making your page easy for AI Ove",
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/what-is-the-difference-between-voice-search-seo-and-ai-citation-optimization-for"
+}

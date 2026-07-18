@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How do I track whether Siri, Alexa, or AI Overviews are citing my content when I do not see normal keyword rankings?",
+    "text": "How do I track whether Siri, Alexa, or AI Overviews are citing my content when I do not see normal keyword rankings?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Voice and AI citation tracking is less transparent than standard SEO tracking, so you need a repeatable process. Build a list of target spoken queries for each city and test them regularly on the relevant devices and assistants. Use search console data to watch impressions for question-based and location-based queries, and monitor whether your pages begin appearing for the same phrases in traditional search results or AI Overviews. Keep screenshots or logs of response changes over time. For local businesses, test with branded, unbranded, and near-me variations. If you serve multiple cities, check each city separately because one location may surface while another does not. You should also audit your listings and schema periodically to confirm that the underlying data has not drifted. Because these systems do not provide complete public reporting, the best metric is a consistent visibility test set combined with observed response changes over time.",
+      "description": "Track voice visibility by testing queries manually, monitoring branded and nonbranded impressions in search consoles, and checking whether your pages appear in AI Overviews or assistant responses for target questions. Because voice systems do not expose full ranking data, you need a repeatable test set and regular spot checks.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Voice and AI citation tracking is less transparent than standard SEO tracking, so you need a repeatable process. Build a list of target spoken queries for each city and test them regularly on the relevant devices and assistants. Use search console data to watch impressions for question-based and location-based queries, and monitor whether your pages begin appearing for the same phrases in traditional search results or AI Overviews. Keep screenshots or logs of response changes over time. For local businesses, test with branded, unbranded, and near-me variations. If you serve multiple cities, check each city separately because one location may surface while another does not. You should also audit your listings and schema periodically to confirm that the underlying data has not drifted. Because these systems do not provide complete public reporting, the best metric is a consistent visibility test set combined with observed response changes over time."
+      }
+    ]
+  },
+  "name": "How do I track whether Siri, Alexa, or AI Overviews are citing my content?",
+  "description": "Track voice visibility by testing queries manually, monitoring branded and nonbranded impressions in search consoles, and checking whether your pages appear in ",
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/how-do-i-track-whether-siri-alexa-or-ai-overviews-are-citing-my-content-when-i-d"
+}

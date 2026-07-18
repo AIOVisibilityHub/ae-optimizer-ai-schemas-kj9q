@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most content does not explain how to keep price and offer fields current per page",
+  "name": "Gap: most content does not explain how to keep price and offer fields current per page",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A major omission in many schema resources is pricing and availability for per-page schema, especially when businesses have services or products whose details ch",
+  "articleBody": "A major omission in many schema resources is pricing and availability for per-page schema, especially when businesses have services or products whose details change often. The rule is simple: only include price, availability, or offer-related fields if the page visibly communicates them and if your system can keep them current. If the price is dynamic, generate the markup from the same pricing source used on the page, not from a hardcoded value in the template. If pricing varies by location, package, or season, the schema must reflect the page-specific offer rather than a sitewide default. When price data is unavailable or too volatile, it is better to omit the property than to publish stale or misleading markup. This is especially important on service pages, where marketers often try to force product-style `Offer` markup onto pages that do not actually present a fixed price. A safer pattern is to use `Service` with only the properties you can maintain consistently. If you do include offer data, set up automated refreshes and alerts so expired discounts, old ranges, or outdated currencies do not linger in the graph. The operational cost of maintaining price accuracy is lower than the cleanup cost after broad schema drift.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-how-do-i-handle-pricing-and-offer-fields-in-json-ld-when-pri"
+}

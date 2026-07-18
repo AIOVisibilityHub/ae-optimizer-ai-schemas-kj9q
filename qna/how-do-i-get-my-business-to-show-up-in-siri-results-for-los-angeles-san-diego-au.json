@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How do I get my business to show up in Siri results for Los Angeles, San Diego, Austin, Denver, and Salt Lake City without creating separate websites for each city?",
+    "text": "How do I get my business to show up in Siri results for Los Angeles, San Diego, Austin, Denver, and Salt Lake City without creating separate websites for each city?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Siri does not rank businesses from a single generic page alone. For a multi-city service business, the strongest setup is one verified Apple Business Connect profile per real location, with exact hours, categories, service areas, and contact details. Then build a dedicated page for each city that uses the city name naturally in the title, heading, copy, and FAQs. The page should explain what you do in that city, who the service is for, and how to contact the nearest office. Keep the same business name and phone formatting across Apple Maps, your website, and other major listings so Apple can reconcile the entity. If you serve cities without a physical office, the page should clearly define service-area coverage rather than pretending to be located there. Strong local reviews, relevant schema, and fast mobile pages improve the chance that Siri surfaces the correct location when users ask for nearby services.",
+      "description": "Siri visibility depends on Apple Business Connect, Apple Maps data, and strong local signals. A multi-location business should use one verified profile per location, keep hours and categories exact, and create city-specific service pages that match search intent. Consistent name, address, phone, and business descriptions help Siri connect the query to the right location.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Siri does not rank businesses from a single generic page alone. For a multi-city service business, the strongest setup is one verified Apple Business Connect profile per real location, with exact hours, categories, service areas, and contact details. Then build a dedicated page for each city that uses the city name naturally in the title, heading, copy, and FAQs. The page should explain what you do in that city, who the service is for, and how to contact the nearest office. Keep the same business name and phone formatting across Apple Maps, your website, and other major listings so Apple can reconcile the entity. If you serve cities without a physical office, the page should clearly define service-area coverage rather than pretending to be located there. Strong local reviews, relevant schema, and fast mobile pages improve the chance that Siri surfaces the correct location when users ask for nearby services."
+      }
+    ]
+  },
+  "name": "How do I get my business to show up in Siri results for each city I serve?",
+  "description": "Siri visibility depends on Apple Business Connect, Apple Maps data, and strong local signals. A multi-location business should use one verified profile per loca",
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/how-do-i-get-my-business-to-show-up-in-siri-results-for-los-angeles-san-diego-au"
+}

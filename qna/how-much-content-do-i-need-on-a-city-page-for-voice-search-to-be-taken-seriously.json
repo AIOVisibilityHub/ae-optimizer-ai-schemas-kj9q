@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How much content do I need on a city page for voice search to be taken seriously by Siri, Alexa, and AI Overviews?",
+    "text": "How much content do I need on a city page for voice search to be taken seriously by Siri, Alexa, and AI Overviews?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "There is no magic word count for a city page, but thin pages usually do not work well for voice search. The page should clearly explain what the business offers in that city, who the service is for, how customers can get started, and what makes the location or service area relevant. Add unique local details, a short FAQ section, and practical next-step information such as scheduling, availability, and contact options. The page should be long enough to be useful, but not padded with filler. Voice systems are looking for clarity, not volume. If a page can answer the core question in a few sentences, then support it with specific detail, it is usually in a much better position than a long, vague page. Unique content matters more than raw length, especially when competing for city-based queries.",
+      "description": "A city page needs enough content to prove relevance, answer common questions, and distinguish the location from other pages. Thin pages usually underperform, but length alone is not the goal. A useful city page typically has a clear summary, unique local details, FAQs, and strong service explanations.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "There is no magic word count for a city page, but thin pages usually do not work well for voice search. The page should clearly explain what the business offers in that city, who the service is for, how customers can get started, and what makes the location or service area relevant. Add unique local details, a short FAQ section, and practical next-step information such as scheduling, availability, and contact options. The page should be long enough to be useful, but not padded with filler. Voice systems are looking for clarity, not volume. If a page can answer the core question in a few sentences, then support it with specific detail, it is usually in a much better position than a long, vague page. Unique content matters more than raw length, especially when competing for city-based queries."
+      }
+    ]
+  },
+  "name": "How much content do I need on a city page for voice search?",
+  "description": "A city page needs enough content to prove relevance, answer common questions, and distinguish the location from other pages. Thin pages usually underperform, bu",
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/how-much-content-do-i-need-on-a-city-page-for-voice-search-to-be-taken-seriously"
+}

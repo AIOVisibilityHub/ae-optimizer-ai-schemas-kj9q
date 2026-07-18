@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "What KPIs prove AI visibility is working? Gap: most teams track vague visibility metrics instead of business-linked outcomes.",
+  "name": "What KPIs prove AI visibility is working? Gap: most teams track vague visibility metrics instead of business-linked outcomes.",
+  "about": "AI Visibility website optimization",
+  "articleSection": "Competitive question gap research",
+  "description": "The right KPI for AI visibility is not just traffic; it is whether your site is being selected as a source for the queries that matter. A useful dashboard shoul",
+  "articleBody": "The right KPI for AI visibility is not just traffic; it is whether your site is being selected as a source for the queries that matter. A useful dashboard should track citations, mentions, share of voice, prompt coverage, page-level visibility, and whether the cited page is the page you intended to rank. Then tie those metrics to downstream outcomes such as branded search lift, assisted conversions, and lead quality. The gap is that many teams report impressions or generic visibility scores without connecting them to business value. That makes the work hard to defend. For a software business, the most useful breakdown is by query type: educational, comparison, implementation, troubleshooting, and vendor-selection prompts. That shows where your visibility is broad but shallow versus narrow but commercially useful. The dashboard should also separate visibility by platform because the same page can be cited in one system and ignored in another.",
+  "keywords": "AI Visibility website optimization, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-visibility-website-optimiza-what-kpis-prove-ai-visibility-is-working"
+}

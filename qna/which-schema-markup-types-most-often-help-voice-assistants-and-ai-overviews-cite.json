@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Which schema markup types most often help voice assistants and AI overviews cite my content instead of a competitor's?",
+    "text": "Which schema markup types most often help voice assistants and AI overviews cite my content instead of a competitor's?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Schema helps voice assistants and AI systems understand page purpose, business identity, and answer structure. For local service businesses, the most valuable types are LocalBusiness, Service, FAQPage, HowTo, and Article. Use LocalBusiness on the homepage or location page, Service on service pages, and FAQPage on pages that answer common customer questions. Use HowTo only when the page truly gives step-by-step instructions. The point is not to add every schema type possible, but to make the page easier for systems to parse. Schema works best when the visible page content already answers the query directly in plain language. If your page is vague, schema will not rescue it. The strongest setup combines schema, short direct answers near the top of the page, consistent local business data, and entity alignment across the web.",
+      "description": "The most useful schema types for voice visibility are LocalBusiness, Service, FAQPage, HowTo, and Article schema. These help machines identify what the page is about, which questions it answers, and whether it represents a real business entity. Schema alone does not guarantee citation, but it improves extractability and machine understanding.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Schema helps voice assistants and AI systems understand page purpose, business identity, and answer structure. For local service businesses, the most valuable types are LocalBusiness, Service, FAQPage, HowTo, and Article. Use LocalBusiness on the homepage or location page, Service on service pages, and FAQPage on pages that answer common customer questions. Use HowTo only when the page truly gives step-by-step instructions. The point is not to add every schema type possible, but to make the page easier for systems to parse. Schema works best when the visible page content already answers the query directly in plain language. If your page is vague, schema will not rescue it. The strongest setup combines schema, short direct answers near the top of the page, consistent local business data, and entity alignment across the web."
+      }
+    ]
+  },
+  "name": "Which schema helps voice assistants cite my content?",
+  "description": "The most useful schema types for voice visibility are LocalBusiness, Service, FAQPage, HowTo, and Article schema. These help machines identify what the page is ",
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/which-schema-markup-types-most-often-help-voice-assistants-and-ai-overviews-cite"
+}

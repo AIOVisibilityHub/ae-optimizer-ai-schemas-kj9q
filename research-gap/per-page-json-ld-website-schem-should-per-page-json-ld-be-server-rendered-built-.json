@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most implementation guides do not explain SSR, SSG, and hydration edge cases",
+  "name": "Gap: most implementation guides do not explain SSR, SSG, and hydration edge cases",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "Many guides say to put JSON-LD in the head, but they rarely address how to inject it safely when pages are server-rendered, statically generated, or built progr",
+  "articleBody": "Many guides say to put JSON-LD in the head, but they rarely address how to inject it safely when pages are server-rendered, statically generated, or built programmatically. The core requirement is that the JSON-LD should be present in the initial HTML output whenever possible, because that gives crawlers a stable, fully formed payload without relying on client-side execution. For server-side rendered applications, render the schema from the same server data used for the page. For static sites, generate it during build. For content-heavy apps with frequent updates, you can still render dynamically, but the JSON-LD should be available in the first response rather than waiting on the browser. Avoid duplicating the same graph in both the head and body, and avoid injecting multiple competing scripts from plugins and custom code. The practical edge case is hydration: if the visible page is updated by JavaScript after load, the JSON-LD must stay synchronized with the final visible content, or you risk mismatches that invalidate the markup. In other words, the technical question is not just where to place the script, but how to ensure the markup reflects what a crawler sees on first render.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-should-per-page-json-ld-be-server-rendered-built-statically-"
+}

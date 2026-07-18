@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most guides miss how to handle per-location pages versus service-area pages",
+  "name": "Gap: most guides miss how to handle per-location pages versus service-area pages",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "The most useful gap for multi-location businesses is how to generate per-page schema for location pages without copying the same `LocalBusiness` data everywhere",
+  "articleBody": "The most useful gap for multi-location businesses is how to generate per-page schema for location pages without copying the same `LocalBusiness` data everywhere. The correct model is to treat each location page as its own entity with unique address, phone number, hours, geo data, and location-specific `@id`, while the parent brand remains a separate organization entity. Do not use one generic business object for every city page, because that creates ambiguity about which address and hours belong to which location. If a location page also describes a service area rather than a physical office, the schema should reflect that distinction instead of pretending it is a storefront. Many businesses in markets like Los Angeles, San Diego, Austin, Denver, and Salt Lake City have both office pages and service-area pages, and those need different structured data patterns. The page should only claim properties that are visible and accurate for that specific location. If the business has a single headquarters but multiple city landing pages, mark up the headquarters once and use city-page schema for the localized content without inventing separate addresses. This is one of the most frequent reasons location schema becomes inconsistent across a growing site.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-how-should-json-ld-differ-between-a-location-page-and-a-serv"
+}

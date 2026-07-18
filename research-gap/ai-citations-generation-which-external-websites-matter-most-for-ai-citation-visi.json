@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most content says “build authority,” but not **which third-party placements actually influence AI citations**",
+  "name": "Gap: most content says “build authority,” but not **which third-party placements actually influence AI citations**",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A useful gap-filler is to define **off-site placement strategy** as part of AI citation generation, not as a separate PR activity. Many guides tell brands to “b",
+  "articleBody": "A useful gap-filler is to define **off-site placement strategy** as part of AI citation generation, not as a separate PR activity. Many guides tell brands to “build authority,” but they do not explain which placements are worth pursuing when the goal is AI visibility rather than backlinks alone. The most valuable placements are pages and domains that already appear in AI answers for your target prompts, because those sources are already trusted in the retrieval layer. That usually means review sites, category publications, listicles, niche communities, and high-traffic explainers. The process is to collect the domains cited for each money question, sort them by repetition across prompts, and identify the handful of sites that show up most often. Then evaluate whether you can earn a mention through contributed content, product inclusion, expert commentary, case data, or third-party review coverage. This is especially important for competitive local markets where the same few sources can influence many adjacent prompts. The major pitfall is chasing broad-brand awareness placements that never get cited in your category. The goal is not just being mentioned somewhere online; it is being mentioned on the exact source types that AI already reuses for your queries.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-which-external-websites-matter-most-for-ai-citation-visibili"
+}

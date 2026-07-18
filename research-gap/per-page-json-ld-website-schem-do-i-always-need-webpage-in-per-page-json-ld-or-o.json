@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most guides do not clarify when `WebPage` adds value versus clutter",
+  "name": "Gap: most guides do not clarify when `WebPage` adds value versus clutter",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "Most competitors do not answer whether every page needs `WebPage` in addition to a more specific type, or when that becomes redundant. In practice, `WebPage` is",
+  "articleBody": "Most competitors do not answer whether every page needs `WebPage` in addition to a more specific type, or when that becomes redundant. In practice, `WebPage` is a useful container for many page-level graphs, but it should not be used as a filler type if the page is already clearly modeled by a more specific schema and the implementation would become noisy. The important distinction is that `WebPage` represents the document, while `Service`, `Article`, `FAQPage`, `Product`, or `LocalBusiness` represent the primary meaning of the content. If the page has breadcrumbs, publishing metadata, or a visible article body, `WebPage` often helps structure the graph. If the page is a narrowly defined entity page, it can still be included, but the implementation should remain simple and consistent across templates. The mistake many sites make is adding `WebPage`, `WebSite`, `Organization`, `BreadcrumbList`, `FAQPage`, and another primary type to every page regardless of actual content. That increases maintenance cost and can obscure the main entity. A disciplined per-page schema system uses `WebPage` when it clarifies the document relationship, not because a checklist says it is mandatory.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-do-i-always-need-webpage-in-per-page-json-ld-or-only-on-cert"
+}

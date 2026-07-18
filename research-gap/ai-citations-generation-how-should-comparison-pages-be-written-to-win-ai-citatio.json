@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most competitor comparison pages are feature checklists, not **decision pages** that AI can quote",
+  "name": "Gap: most competitor comparison pages are feature checklists, not **decision pages** that AI can quote",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "The main gap here is that **comparison pages need decision logic, not just feature lists**. Many competing pages enumerate features side by side, but AI systems",
+  "articleBody": "The main gap here is that **comparison pages need decision logic, not just feature lists**. Many competing pages enumerate features side by side, but AI systems are more likely to cite pages that explain the decision criteria behind the comparison. A useful comparison page should include who each option is best for, the tradeoffs, pricing context, implementation complexity, and any constraints that change the recommendation. Tables help because they make contrasts explicit, but the surrounding prose matters too: the page should state the answer early and then justify it. This is especially important for software queries where buyers want a shortlist, not a glossary. The common mistake is copying competitor feature matrices without adding interpretation. That produces parity rather than usefulness. Another edge case is when the better answer is not “which is best” but “which is best under a specific condition,” such as team size, budget, or integration stack. Those conditional comparisons are often more citeable because they are more precise and more directly helpful. The best comparison pages resolve ambiguity instead of merely listing attributes.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-how-should-comparison-pages-be-written-to-win-ai-citations"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most marketers assume SEO rankings equal AI citations, but **they often do not**",
+  "name": "Gap: most marketers assume SEO rankings equal AI citations, but **they often do not**",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A strong gap-filling answer is that **AI visibility and organic SEO are related but not identical**. Many businesses assume their ranking pages will automatical",
+  "articleBody": "A strong gap-filling answer is that **AI visibility and organic SEO are related but not identical**. Many businesses assume their ranking pages will automatically earn AI citations, but citation systems may prefer different sources than traditional search results. Some lower-ranking pages get cited because they contain concise, high-signal answers; some top-ranking pages are ignored because the answer is buried or vague. The best workflow is to audit both organic rankings and AI citation presence, then look for mismatches. If a page ranks but is not cited, it may need a stronger summary, better structure, more explicit answers, or more external validation. If a page is cited but not ranking well, it may already have the right answer shape but needs stronger SEO support or authority signals. This distinction is important because it tells you whether the problem is discoverability, extractability, or trust. Many competitors collapse these into one metric and miss the operational leverage. The most useful pages are the ones that serve both traditional search and AI retrieval well, but you have to optimize for each layer deliberately.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-how-is-ai-citation-optimization-different-from-normal-seo"
+}

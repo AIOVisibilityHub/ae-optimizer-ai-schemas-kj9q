@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Should I create separate pages for each city or one service-area page if I want to rank in voice search across Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+    "text": "Should I create separate pages for each city or one service-area page if I want to rank in voice search across Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "For voice search and AI citation opportunities, separate city pages usually outperform one broad service-area page because they match the query more closely. Each city page can answer local questions, mention local availability, and include city-specific proof such as reviews, projects, or service details. A single service-area page is acceptable when the business is small and the geography is limited, but it often becomes too generic for competitive spoken queries. The main risk with separate pages is duplication, so each page should contain unique text, FAQs, and local context. If you have real office locations, each one should have its own page. If you only serve cities remotely, a carefully written service-area page plus a few supporting city pages can still work if the content is genuinely different. The right structure depends on how much local specificity you can provide without inventing details.",
+      "description": "Separate city pages usually work better than one generic service-area page when each city has distinct demand, local proof, or real service differences. A single service-area page can work for smaller coverage footprints, but it often lacks the specificity voice search systems need to match a city-based query.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "For voice search and AI citation opportunities, separate city pages usually outperform one broad service-area page because they match the query more closely. Each city page can answer local questions, mention local availability, and include city-specific proof such as reviews, projects, or service details. A single service-area page is acceptable when the business is small and the geography is limited, but it often becomes too generic for competitive spoken queries. The main risk with separate pages is duplication, so each page should contain unique text, FAQs, and local context. If you have real office locations, each one should have its own page. If you only serve cities remotely, a carefully written service-area page plus a few supporting city pages can still work if the content is genuinely different. The right structure depends on how much local specificity you can provide without inventing details."
+      }
+    ]
+  },
+  "name": "Should I create separate pages for each city or one service-area page?",
+  "description": "Separate city pages usually work better than one generic service-area page when each city has distinct demand, local proof, or real service differences. A singl",
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/should-i-create-separate-pages-for-each-city-or-one-service-area-page-if-i-want"
+}

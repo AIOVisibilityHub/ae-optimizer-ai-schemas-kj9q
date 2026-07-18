@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How do I optimize for 'near me' voice searches in Los Angeles, San Diego, Austin, Denver, and Salt Lake City if I do not have offices in every city?",
+    "text": "How do I optimize for 'near me' voice searches in Los Angeles, San Diego, Austin, Denver, and Salt Lake City if I do not have offices in every city?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If you do not have offices in every city, do not create misleading listings or pretend to have local storefronts. Voice assistants and local search systems rely heavily on business entity consistency, and fake locations can hurt trust. The better approach is to define your service area clearly on the website and create pages for each major city you serve. Each page should explain what services are available there, what response times look like, and how customers can book. Use local references carefully and truthfully, especially if your business has real jobs, reviews, or case examples from that city. For local voice queries, prominence and relevance matter, so reviews, citations, schema, and strong page quality all help. The more closely the page matches the exact spoken intent, the better your odds of appearing in voice results.",
+      "description": "For 'near me' voice searches, create city-specific service pages, make sure your service area is clear, and keep local listings accurate for every real location. If you do not have offices in every city, do not fake addresses. Instead, use service-area language, local proof, and relevant FAQs that match the city-based query.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "If you do not have offices in every city, do not create misleading listings or pretend to have local storefronts. Voice assistants and local search systems rely heavily on business entity consistency, and fake locations can hurt trust. The better approach is to define your service area clearly on the website and create pages for each major city you serve. Each page should explain what services are available there, what response times look like, and how customers can book. Use local references carefully and truthfully, especially if your business has real jobs, reviews, or case examples from that city. For local voice queries, prominence and relevance matter, so reviews, citations, schema, and strong page quality all help. The more closely the page matches the exact spoken intent, the better your odds of appearing in voice results."
+      }
+    ]
+  },
+  "name": "How do I optimize for 'near me' voice searches in each city?",
+  "description": "For 'near me' voice searches, create city-specific service pages, make sure your service area is clear, and keep local listings accurate for every real location",
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/how-do-i-optimize-for-near-me-voice-searches-in-los-angeles-san-diego-austin-den"
+}

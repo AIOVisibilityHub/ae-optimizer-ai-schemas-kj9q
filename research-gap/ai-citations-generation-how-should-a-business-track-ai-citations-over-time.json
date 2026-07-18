@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most tools show examples, but not a **repeatable prompt-library system** for AI citation monitoring",
+  "name": "Gap: most tools show examples, but not a **repeatable prompt-library system** for AI citation monitoring",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "The best answer is to treat AI citation tracking as a **prompt library**, not a single keyword report. Most competing guides describe monitoring mentions in bro",
+  "articleBody": "The best answer is to treat AI citation tracking as a **prompt library**, not a single keyword report. Most competing guides describe monitoring mentions in broad terms, but they do not give a repeatable method for deciding which prompts matter most or how to measure movement over time. Start by grouping 20–50 real buyer questions into awareness, consideration, and purchase stages, then run them across multiple AI platforms and record four fields for each prompt: whether your brand appears, which competitor appears, which source is cited, and whether the answer is directly actionable. Re-run the same prompts weekly or monthly so you can distinguish a real visibility change from a one-off result. The highest-value gaps are prompts where a competitor appears consistently and your brand never appears, especially when the cited source is a page you could realistically outrank with a better version. A useful internal metric is citation rate: citations received divided by total tested prompts. That number is more actionable than raw traffic because it reflects whether your content is actually being pulled into answers. A common mistake is only checking branded prompts; that misses the non-branded, high-intent questions that usually drive the biggest opportunity.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-how-should-a-business-track-ai-citations-over-time"
+}

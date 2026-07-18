@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most competitors say “add detail,” but not **which specific details increase extractability**",
+  "name": "Gap: most competitors say “add detail,” but not **which specific details increase extractability**",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "The missing tactical guidance is on **what details AI systems actually pull from a page**. Competing guides often say to add more specificity, but they do not b",
+  "articleBody": "The missing tactical guidance is on **what details AI systems actually pull from a page**. Competing guides often say to add more specificity, but they do not break down the kinds of specifics that tend to work. In practice, citations improve when pages include exact numbers, timeframes, decision criteria, caveats, examples, and concise definitions that reduce ambiguity. For example, a comparison page should not just say one option is “better”; it should explain for whom, under what constraints, and with what tradeoffs. A process page should not only list steps; it should include how long each step takes, what commonly goes wrong, and what the edge cases are. This kind of detail helps the model answer follow-up questions without needing another source. The common mistake is adding fluff to look comprehensive while leaving the important operational details out. That creates a page that is long but not citation-ready. The strongest pages are information-dense, not verbose.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-what-kinds-of-content-details-help-ai-systems-cite-a-page"
+}

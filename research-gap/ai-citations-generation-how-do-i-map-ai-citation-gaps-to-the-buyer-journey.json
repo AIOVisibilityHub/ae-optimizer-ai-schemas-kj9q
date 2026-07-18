@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most competitors track mentions, but not **buyer-journey intent** behind citation gaps",
+  "name": "Gap: most competitors track mentions, but not **buyer-journey intent** behind citation gaps",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "The best answer here is to separate **citation gaps by intent stage**. Competitors often advise tracking mentions, but they rarely explain that the fix differs ",
+  "articleBody": "The best answer here is to separate **citation gaps by intent stage**. Competitors often advise tracking mentions, but they rarely explain that the fix differs depending on whether the prompt is informational, comparative, or ready-to-buy. Informational gaps are usually solved with educational explainers, definitions, and problem-solving content. Consideration gaps usually require comparisons, alternatives, feature breakdowns, and use-case pages. Purchase-stage gaps often need pricing context, implementation details, risk reduction, and trust signals such as case studies or methodology. A lot of teams incorrectly push product pages into informational prompts and wonder why citations do not improve. The more effective approach is to map each missing prompt to the buyer journey, then create or optimize the page type that matches user intent. This is especially useful in software categories where many queries are really “evaluate,” “compare,” or “shortlist” questions rather than pure research queries. One edge case is a prompt that looks informational but actually signals purchase intent through modifiers like “best,” “top,” “for teams,” or “near me.” Those deserve more commercial detail than a generic explainer. Intent alignment is often the difference between ranking and being cited.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-how-do-i-map-ai-citation-gaps-to-the-buyer-journey"
+}

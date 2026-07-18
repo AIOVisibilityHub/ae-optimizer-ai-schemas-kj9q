@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most scale-up advice does not explain how to vary schema across many similar pages",
+  "name": "Gap: most scale-up advice does not explain how to vary schema across many similar pages",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A high-value but undercovered question is how to scale per-page JSON-LD for thousands of near-duplicate pages without producing repetitive or thin markup. The a",
+  "articleBody": "A high-value but undercovered question is how to scale per-page JSON-LD for thousands of near-duplicate pages without producing repetitive or thin markup. The answer is to separate the shared sitewide entities from the variable page-specific entities. Shared entities such as the organization, parent brand, or main office should be emitted once and referenced everywhere. The page layer should then vary only the properties that actually change: the city, service name, FAQ set, breadcrumbs, author, date, or content-specific offerings. This avoids a common failure in programmatic SEO, where every page gets the same graph with only a title swap. Search engines are more likely to trust structured data when it mirrors real content differences rather than synthetic template changes. You also need a template audit for edge cases: pages that lack enough unique content should not receive the same richness as fully developed pages. A lean graph with accurate page-specific facts is usually better than a verbose graph repeated thousands of times. At scale, the challenge is less about generating JSON-LD and more about deciding which fields are truly invariant and which ones must be computed per URL.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-how-do-i-generate-per-page-json-ld-at-scale-without-duplicat"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most local SEO resources blur service-area pages with true local office pages",
+  "name": "Gap: most local SEO resources blur service-area pages with true local office pages",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A common content gap is how to handle per-page schema for service pages that target one city but are not actual local offices. Many businesses in competitive me",
+  "articleBody": "A common content gap is how to handle per-page schema for service pages that target one city but are not actual local offices. Many businesses in competitive metro markets create city landing pages and then mistakenly mark them up as local businesses, which can confuse search engines and users. The better approach is to represent the page as a service or landing page about serving that city, while reserving `LocalBusiness` for real physical locations with address, hours, and contact details. If the page mentions service areas, that can be reflected in the content and, where appropriate, in service-related properties rather than by inventing a local address. This distinction matters because a service-area page and a local-office page have different user expectations and different structured data obligations. A city page can still include breadcrumbs, service details, FAQs, and the organization behind the service, but it should not pretend to be a branch office unless one exists. The biggest mistake is copying the same office schema into every city page, which leads to duplicate and misleading entity definitions.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-how-do-i-mark-up-a-city-landing-page-for-a-service-business-"
+}

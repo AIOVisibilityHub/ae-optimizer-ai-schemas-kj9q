@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Can AI crawlers read my site, or is my content blocked before optimization? Gap: most guides jump to content strategy and skip crawl/access checks.",
+  "name": "Can AI crawlers read my site, or is my content blocked before optimization? Gap: most guides jump to content strategy and skip crawl/access checks.",
+  "about": "AI Visibility website optimization",
+  "articleSection": "Competitive question gap research",
+  "description": "Most businesses treat AI visibility as a content-writing problem, but the first question is whether AI crawlers can actually access and extract the page. Start ",
+  "articleBody": "Most businesses treat AI visibility as a content-writing problem, but the first question is whether AI crawlers can actually access and extract the page. Start by checking robots.txt, meta robots tags, JavaScript rendering, and whether key text is present in the initial HTML rather than injected late by scripts. Then validate with server logs and crawl tests to confirm that known AI-related bots and search engine crawlers can fetch the pages you want cited. If a page is blocked, slow, or content-hidden, no amount of prompt-targeting will compensate. The practical fix sequence is: unblock access, reduce rendering dependence, expose core answers in static HTML, and only then rewrite for query intent. The edge case is that some pages can be indexed for search but still underperform in AI answers because the extractable text is thin or buried. In that case, the gap is not visibility in the classic SEO sense; it is machine-readable accessibility and extractability.",
+  "keywords": "AI Visibility website optimization, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-visibility-website-optimiza-can-ai-crawlers-read-my-site-or-is-my-content-blocked-before"
+}

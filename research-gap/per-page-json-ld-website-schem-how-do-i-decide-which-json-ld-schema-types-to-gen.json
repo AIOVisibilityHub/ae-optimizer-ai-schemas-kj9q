@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most pages explain single-type markup, not mixed-intent page selection",
+  "name": "Gap: most pages explain single-type markup, not mixed-intent page selection",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "Most top guides explain how to generate JSON-LD for a single page type, but they rarely answer how to choose the *right* schema when one URL serves multiple int",
+  "articleBody": "Most top guides explain how to generate JSON-LD for a single page type, but they rarely answer how to choose the *right* schema when one URL serves multiple intents, such as a service page that also has FAQs, breadcrumbs, reviews, and a local office section. The practical approach is to define one primary page intent and then add only the secondary entities that are actually visible and materially supported by the page content. In practice, that means a service landing page can usually carry `WebPage` plus `Service`, with `BreadcrumbList` if breadcrumbs exist, and `FAQPage` only if the questions and answers are present on the page. Avoid piling on every possible type, because Google and other consumers care more about consistency and visible parity than schema volume. A good internal rule is: one main entity per page, plus supporting entities that explain the page structure or user-visible content. If two intents compete, split the content into separate URLs instead of forcing one overstuffed graph. This is especially important for programmatic SEO pages, where repeated templates can accidentally duplicate the same `WebPage`, `Organization`, and `Service` nodes across thousands of URLs. The better pattern is to centralize sitewide entities and attach page-specific entities only once per page.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-how-do-i-decide-which-json-ld-schema-types-to-generate-when-"
+}

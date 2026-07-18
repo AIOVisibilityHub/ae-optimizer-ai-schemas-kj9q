@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Which schema types matter most for AI visibility? Gap: most competitors recommend generic schema lists without mapping them to page intent.",
+  "name": "Which schema types matter most for AI visibility? Gap: most competitors recommend generic schema lists without mapping them to page intent.",
+  "about": "AI Visibility website optimization",
+  "articleSection": "Competitive question gap research",
+  "description": "The best schema for AI visibility is the schema that matches the real page type and reinforces the entities on the page. For most website optimization use cases",
+  "articleBody": "The best schema for AI visibility is the schema that matches the real page type and reinforces the entities on the page. For most website optimization use cases, that means Organization, LocalBusiness where relevant, Article or BlogPosting for editorial content, FAQPage when the FAQs are genuinely present on the page, and BreadcrumbList for hierarchy. Product, Service, SoftwareApplication, HowTo, and Review markup can also matter when they accurately describe the page. The gap is that many sites add generic schema bundles everywhere without checking whether the markup matches the content or business model. That weakens trust and can create maintenance problems. A better approach is to map schema to page intent: informational pages get article and FAQ structure, comparison pages get clear entities and criteria, and service pages get business and service descriptors. Schema should be validated, kept current, and aligned with visible content. It is a supporting signal, not the whole strategy.",
+  "keywords": "AI Visibility website optimization, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-visibility-website-optimiza-which-schema-types-matter-most-for-ai-visibility"
+}

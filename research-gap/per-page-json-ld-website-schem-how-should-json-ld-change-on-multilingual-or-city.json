@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most schema guides overlook multilingual and multi-market page variants",
+  "name": "Gap: most schema guides overlook multilingual and multi-market page variants",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "One important but often missing topic is how to handle multilingual or multi-market sites when generating per-page JSON-LD. The schema should usually follow the",
+  "articleBody": "One important but often missing topic is how to handle multilingual or multi-market sites when generating per-page JSON-LD. The schema should usually follow the language and regional content of the page itself, not a global default. That means titles, descriptions, addresses, phone numbers, and service terms should be localized if the page is localized, and the structured data should use the same visible language and regional conventions. If a site has separate pages for Los Angeles, San Diego, Austin, Denver, and Salt Lake City, each page should reflect its own city context rather than reusing a generic national schema. If you operate across languages, the `name` and `description` fields should be translated in sync with the page content, while stable identifiers remain consistent across versions. The technical edge case is that different regional pages may share the same entity but differ in presentation, so you need both a shared canonical entity graph and localized page nodes. This is particularly useful for businesses with city-level landing pages and region-specific offers, because it avoids mixed-language graphs and mismatched locale signals.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-how-should-json-ld-change-on-multilingual-or-city-specific-v"
+}

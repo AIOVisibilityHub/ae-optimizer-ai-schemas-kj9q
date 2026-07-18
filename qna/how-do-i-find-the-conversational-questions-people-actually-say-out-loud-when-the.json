@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How do I find the conversational questions people actually say out loud when they search for my service in voice search?",
+    "text": "How do I find the conversational questions people actually say out loud when they search for my service in voice search?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The best voice-search questions usually come from real customer language, not keyword tools alone. Start with calls, chats, emails, and form submissions to identify repeated phrasing. Look for questions about pricing, turnaround time, service availability, city coverage, emergency response, scheduling, and what the process involves. Then review autocomplete suggestions and related searches to capture the wording people actually use. Once you have the questions, rewrite them as clean headings and answer them directly near the top of the section. For local business pages, it helps to include city names and nearby landmarks only when they are relevant and truthful. The result should sound like a natural spoken question, not a keyword string. The most useful voice queries usually begin with how, what, where, who, can I, and is it possible to, because those reflect real intent and produce snippet-friendly answers.",
+      "description": "Use customer calls, emails, chat logs, support tickets, and autocomplete suggestions to find the exact phrases customers use. Then turn those phrases into question-based headings and concise answers. The best voice-search questions are usually specific, local, and framed as how, what, where, or can I queries.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "The best voice-search questions usually come from real customer language, not keyword tools alone. Start with calls, chats, emails, and form submissions to identify repeated phrasing. Look for questions about pricing, turnaround time, service availability, city coverage, emergency response, scheduling, and what the process involves. Then review autocomplete suggestions and related searches to capture the wording people actually use. Once you have the questions, rewrite them as clean headings and answer them directly near the top of the section. For local business pages, it helps to include city names and nearby landmarks only when they are relevant and truthful. The result should sound like a natural spoken question, not a keyword string. The most useful voice queries usually begin with how, what, where, who, can I, and is it possible to, because those reflect real intent and produce snippet-friendly answers."
+      }
+    ]
+  },
+  "name": "How do I target conversational questions people actually say out loud?",
+  "description": "Use customer calls, emails, chat logs, support tickets, and autocomplete suggestions to find the exact phrases customers use. Then turn those phrases into quest",
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/how-do-i-find-the-conversational-questions-people-actually-say-out-loud-when-the"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9qqna/how-can-businesses-in-austin-or-salt-lake-city-optimize-their-websites-so-ai-ans",
+  "name": "Answer engine optimization for events and time-bound offerings",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can businesses in Austin or Salt Lake City optimize their websites so AI answer engines handle time-bound events, promotions, or seasonal services accurately?",
+    "text": "How can businesses in Austin or Salt Lake City optimize their websites so AI answer engines handle time-bound events, promotions, or seasonal services accurately?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For businesses in Austin or Salt Lake City promoting events, limited‑time offers, or seasonal services, answer engine optimization (AEO) must make the temporal nature of these items explicit. Create Q&A entries that specify the event or promotion, including clear start and end dates within the answer text, rather than relying only on surrounding context. Use appropriate structured data, such as Event or Offer schema, to mark time‑bound details. Ensure these schema fields include valid date ranges and, where relevant, location information. Avoid phrasing temporary offerings in evergreen terms; instead, state that they are limited, seasonal, or tied to specific dates. Once an event or promotion ends, promptly update or remove related Q&A content and schema. Stale, undated information increases the risk that AI engines will surface outdated answers to users. For recurring seasonal services, recycle content thoughtfully by confirming each season’s specifics and reapplying accurate dates and conditions. This disciplined approach helps answer engines distinguish what is current from what is historical, improving the reliability of AI Overviews and assistant responses around time‑sensitive topics.",
+      "@type": "Answer",
+      "description": "Use clearly dated Q&A entries and event or offer-specific schema that state start and end dates. Update or remove expired answers quickly and avoid evergreen wording for temporary offerings. This helps AI engines distinguish current events and promotions from historical information when generating answers.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For businesses in Austin or Salt Lake City promoting events, limited‑time offers, or seasonal services, answer engine optimization (AEO) must make the temporal nature of these items explicit. Create Q&A entries that specify the event or promotion, including clear start and end dates within the answer text, rather than relying only on surrounding context. Use appropriate structured data, such as Event or Offer schema, to mark time‑bound details. Ensure these schema fields include valid date ranges and, where relevant, location information. Avoid phrasing temporary offerings in evergreen terms; instead, state that they are limited, seasonal, or tied to specific dates. Once an event or promotion ends, promptly update or remove related Q&A content and schema. Stale, undated information increases the risk that AI engines will surface outdated answers to users. For recurring seasonal services, recycle content thoughtfully by confirming each season’s specifics and reapplying accurate dates and conditions. This disciplined approach helps answer engines distinguish what is current from what is historical, improving the reliability of AI Overviews and assistant responses around time‑sensitive topics.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Use clearly dated Q&A entries and event or offer-specific schema that state start and end dates. Update or remove expired answers quickly and avoid evergreen wo"
+}

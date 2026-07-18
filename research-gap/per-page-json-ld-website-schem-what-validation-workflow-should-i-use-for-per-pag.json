@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most articles mention validation, not a scalable QA pipeline for many URLs",
+  "name": "Gap: most articles mention validation, not a scalable QA pipeline for many URLs",
+  "about": "Per-page JSON-LD website schema generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A common gap in schema guidance is that it tells you to validate JSON-LD, but not what to do when you are generating it across hundreds or thousands of pages. A",
+  "articleBody": "A common gap in schema guidance is that it tells you to validate JSON-LD, but not what to do when you are generating it across hundreds or thousands of pages. At scale, validation needs to happen in layers. First, lint the JSON itself so malformed output never reaches staging. Second, validate required properties against Schema.org expectations for that page type. Third, run a rich-results or structured-data check to see whether the markup is eligible for search features. Finally, crawl a sample of live URLs after deployment to confirm the rendered output matches the template. The important operational detail is that validation should fail the build when core fields are missing, but should only warn when optional enhancements are absent. This distinction prevents teams from blocking releases because an optional field like `sameAs` or `breadcrumb` is missing, while still catching fatal issues such as absent names, dates, or URLs. The strongest implementations also compare the rendered HTML to the JSON-LD payload so content drift can be detected automatically after edits. That workflow is more useful than occasional manual spot checks, because schema failures usually appear after template changes, not during initial implementation.",
+  "keywords": "Per-page JSON-LD website schema generation, procedural",
+  "url": "aeoptimizer.com/research-gap/per-page-json-ld-website-schem-what-validation-workflow-should-i-use-for-per-page-json-ld-a"
+}

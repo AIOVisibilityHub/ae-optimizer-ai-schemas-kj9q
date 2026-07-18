@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most competitor analyses only track direct rivals, not **content competitors that dominate AI answers**",
+  "name": "Gap: most competitor analyses only track direct rivals, not **content competitors that dominate AI answers**",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "The missing answer is that **not all competitors are product competitors**. Many teams only track direct rivals, but AI systems often cite content competitors, ",
+  "articleBody": "The missing answer is that **not all competitors are product competitors**. Many teams only track direct rivals, but AI systems often cite content competitors, community threads, media coverage, and review publishers instead. In citation analysis, those non-product sources may be the real gatekeepers for visibility because they answer the query in a way the model finds useful. The practical fix is to build a competitor set with three layers: direct competitors, content competitors, and aspiration benchmarks. Then compare which domains appear most often across prompts, not just which brands sell similar software. This usually reveals that one or two publications or community platforms dominate citation share across multiple questions. The fastest way to narrow the gap is to study those pages for structure, depth, and cited evidence, then decide whether you can publish a better resource or earn a mention on the same domain. The common mistake is trying to outrank a direct rival when the real competitor is a category guide or review site that controls the AI answer. That misdiagnosis can waste months of optimization work.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-who-should-be-included-in-an-ai-citation-competitor-analysis"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most advice mentions E-E-A-T, but not **how to make authorship and methodology machine-readable trust signals**",
+  "name": "Gap: most advice mentions E-E-A-T, but not **how to make authorship and methodology machine-readable trust signals**",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "The overlooked gap is **authority-signaling at the author and page level**. Many competing guides mention E-E-A-T in passing, but they do not explain how to ope",
+  "articleBody": "The overlooked gap is **authority-signaling at the author and page level**. Many competing guides mention E-E-A-T in passing, but they do not explain how to operationalize it for citation generation. AI systems tend to trust content more when the page clearly shows who wrote it, why that person is qualified, and how the information was produced. That means a real author bio with credentials, a link to a professional profile, explicit methodology notes, and, where relevant, original data or firsthand experience. If the page is opinion-heavy or advisory, the author’s expertise should be obvious within the first screenful of the page or within a tightly linked bio section. A common mistake is relying on a corporate “Team” byline, which is too vague to strengthen trust. Another mistake is overstating credentials without providing supporting evidence. The best practice is to make expertise verifiable and specific. This matters most for high-stakes or competitive prompts where AI systems may prefer sources that look demonstrably reliable over sources that are merely optimized for keywords.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-what-author-and-trust-signals-improve-ai-citation-chances"
+}

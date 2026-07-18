@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "What should an AI visibility audit actually measure? Gap: most audits report mentions, not extractability, entity coverage, and citation sources.",
+  "name": "What should an AI visibility audit actually measure? Gap: most audits report mentions, not extractability, entity coverage, and citation sources.",
+  "about": "AI Visibility website optimization",
+  "articleSection": "Competitive question gap research",
+  "description": "A useful AI visibility audit should compare your site against competitor pages at the level of answer structure, not just keywords. Build a prompt set from the ",
+  "articleBody": "A useful AI visibility audit should compare your site against competitor pages at the level of answer structure, not just keywords. Build a prompt set from the questions customers ask, then record whether your brand, your competitors, and specific source pages appear in ChatGPT, Perplexity, Gemini, or AI Overviews. For each query, note the cited sources, the page format, and whether the response uses definitions, lists, comparison tables, or step-by-step instructions. The hidden gap most businesses miss is entity coverage: competitors may be cited because they mention the right tools, standards, organizations, or related concepts even when their content is not longer. A practical audit should also score page extractability, freshness, and the presence of original data. That makes the audit actionable instead of vanity-driven. The deliverable should be a prioritized list of pages to fix, pages to create, and entities to add, with effort estimates and expected impact.",
+  "keywords": "AI Visibility website optimization, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-visibility-website-optimiza-what-should-an-ai-visibility-audit-actually-measure"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Gap: most sites add FAQ sections, but not **high-intent, prompt-derived FAQs** that AI can reuse",
+  "name": "Gap: most sites add FAQ sections, but not **high-intent, prompt-derived FAQs** that AI can reuse",
+  "about": "AI citations generation",
+  "articleSection": "Competitive question gap research",
+  "description": "A useful gap answer is that **FAQ content only helps when it is genuinely query-driven**. Many sites add generic FAQs as a checkbox, but those sections rarely i",
+  "articleBody": "A useful gap answer is that **FAQ content only helps when it is genuinely query-driven**. Many sites add generic FAQs as a checkbox, but those sections rarely improve AI citations if they repeat the main page without adding new information. The most effective FAQs come from real prompt data, support tickets, sales objections, and comparison questions that users actually ask. Each FAQ answer should be short, specific, and distinct from the main body so it adds new retrieval value. If the page already covers the topic thoroughly, the FAQ should handle edge cases, exceptions, or implementation details rather than restating basics. This matters because AI systems prefer pages that offer clean answer fragments, and well-designed FAQs create those fragments naturally. The pitfall is stuffing 10 broad questions at the bottom of a page just to signal completeness. That usually produces low-value repetition. The better approach is to use FAQs as a way to capture secondary prompts and edge cases that the main page cannot cover elegantly. That makes the page more useful for users and more citeable for models.",
+  "keywords": "AI citations generation, procedural",
+  "url": "aeoptimizer.com/research-gap/ai-citations-generation-do-faq-sections-actually-improve-ai-citations"
+}
