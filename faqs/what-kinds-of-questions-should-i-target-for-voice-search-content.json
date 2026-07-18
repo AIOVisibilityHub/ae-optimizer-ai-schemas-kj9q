@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kinds of questions should I target for voice search content?",
+  "description": "Target real questions about hours, pricing, directions, availability, and services. Focus on conversational phrases customers would speak out loud, not just sho",
+  "url": "aeoptimizer.com/faq/what-kinds-of-questions-should-i-target-for-voice-search-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kinds of questions should I target for voice search content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the exact wording customers use when they ask about hours, pricing, availability, directions, and services. Phrases like “open now,” “near me,” “best,” “how far,” and “do you offer” are often better starting points than short keyword fragments.",
+        "description": "Target real questions about hours, pricing, directions, availability, and services. Focus on conversational phrases customers would speak out loud, not just short keyword terms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

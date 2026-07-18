@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I realistically do GEO for AI voice systems myself, or is it too technical?",
+  "description": "You can handle basic GEO yourself by focusing on Q&A content and a few schema types, especially for a single service or city. As complexity grows—multiple locat",
+  "url": "aeoptimizer.com/faq/can-i-realistically-do-geo-for-ai-voice-systems-myself-or-is-it-too-technical",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I realistically do GEO for AI voice systems myself, or is it too technical?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DIY GEO for AI voice systems is feasible if you’re comfortable with content editing and basic structured data, but there’s a learning curve. You can get good early results by focusing on Q&A formats and a few key schema types.\n\nComplex, multi-location setups may eventually warrant professional support.\n\nKey factors:\n- Your team’s comfort with HTML, schema.org, and analytics\n- The number of services and cities you need to cover\n- Time available for ongoing AI testing and iteration\n- Appetite for experimenting and documenting results\n\nPractically, start with one pilot area you manage in-house: build a robust FAQ, add schema via plugins or generators, and track AI voice responses. Use that experience to decide whether to scale DIY or bring in help.\n\nA mixed approach—DIY basics plus expert oversight on strategy—often works best.",
+        "description": "You can handle basic GEO yourself by focusing on Q&A content and a few schema types, especially for a single service or city. As complexity grows—multiple locations, many services—it becomes harder, and you may benefit from expert help on strategy and structured data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

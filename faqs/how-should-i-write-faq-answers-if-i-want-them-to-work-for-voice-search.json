@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I write FAQ answers if I want them to work for voice search?",
+  "description": "Keep answers short, direct, and easy to read aloud. Use plain language and answer the question in the first sentence.",
+  "url": "aeoptimizer.com/faq/how-should-i-write-faq-answers-if-i-want-them-to-work-for-voice-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I write FAQ answers if I want them to work for voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Write the answer the way a helpful staff member would speak it aloud: direct, short, and specific. For voice search, one clear answer often works better than a long paragraph filled with jargon.",
+        "description": "Keep answers short, direct, and easy to read aloud. Use plain language and answer the question in the first sentence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

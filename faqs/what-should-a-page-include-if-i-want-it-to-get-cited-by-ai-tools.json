@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a page include if I want it to get cited by AI tools?",
+  "description": "Include a direct answer, clear headings, evidence, structured sections, and schema that helps AI systems understand the page.",
+  "url": "aeoptimizer.com/faq/what-should-a-page-include-if-i-want-it-to-get-cited-by-ai-tools",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a page include if I want it to get cited by AI tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful GEO page usually includes a direct answer near the top, descriptive headings, supporting facts, and structured sections such as FAQs or comparisons. It should also make the author, organization, and topic clearly identifiable. If the page is built for a service area like Austin or Los Angeles, the local relevance should be obvious within the content.",
+        "description": "Include a direct answer, clear headings, evidence, structured sections, and schema that helps AI systems understand the page."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

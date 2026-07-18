@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I turn Google Now voice assistant back on? Did Google remove it or am I missing a setting?",
+  "description": "You can’t turn classic Google Now back on—Google has replaced it with **Google Assistant** in the Google app. Instead, set up Assistant (Settings → Google Assis",
+  "url": "aeoptimizer.com/faq/how-do-i-turn-google-now-voice-assistant-back-on-did-google-remove-it-or-am-i-mi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I turn Google Now voice assistant back on? Did Google remove it or am I missing a setting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google Now as a standalone voice assistant has been discontinued and replaced by **Google Assistant**, so you can’t “turn on Google Now” anymore—but you can set up Google Assistant to do almost all the same things. On most Android phones, press and hold the Home button or say “Hey Google” to start setup.\n\nGoogle folded Google Now’s features (Now on Tap, cards, reminders) into Google Assistant and the Google app, so the experience is similar but under a new name. You’ll still get proactive cards, voice commands, and contextual suggestions once Assistant is configured.\n\nKey factors:\n- Modern Android versions use **Google Assistant**, not Google Now.\n- The old Google Now cards now live in the **Google app** and Assistant.\n- Your Google account and activity settings control what information Assistant can show.\n- Some very old features (like full Now on Tap) no longer exist.\n\nOpen the Google app, tap your profile photo, go to Settings → Google Assistant, and follow the prompts to enable “Hey Google,” Voice Match, and personal results. Once set up, use Assistant as your daily voice helper instead of trying to revive Google Now.\n\nThink of this as upgrading to a newer tool rather than losing the old one—most everyday tasks work the same or better with Assistant.",
+        "description": "You can’t turn classic Google Now back on—Google has replaced it with **Google Assistant** in the Google app. Instead, set up Assistant (Settings → Google Assistant → “Hey Google” & Voice Match) and use it for voice commands and proactive cards; it now does what Google Now used to do."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I figure out which questions my GEO strategy needs to cover first?",
+  "description": "Compile a question inventory from search data, customer conversations, support logs, and AI prompts, then group questions into topic clusters and prioritize by",
+  "url": "aeoptimizer.com/faq/how-do-i-figure-out-which-questions-my-geo-strategy-needs-to-cover-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I figure out which questions my GEO strategy needs to cover first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong GEO strategy starts with a question inventory: real questions from customers, support logs, search data, and AI prompts. You then group those questions into topic clusters and match or create content that answers each one clearly and directly.\n\nThe objective is to ensure that for every high‑value question, you have a page that generative engines can confidently quote. This requires both research and editorial discipline.\n\nKey factors:\n- Sources of questions (search tools, support tickets, forums)\n- Clustering by topic and intent (how‑to, comparison, definition)\n- Mapping questions to specific URLs\n- Identifying gaps where no good content exists yet\n\nPractically, build a spreadsheet of questions, tag them by importance and intent, and assign content owners and deadlines. In markets like Austin or Portland, include locally flavored queries, such as neighborhood‑specific or event‑driven questions.\n\nIf your team is scattered, make the question inventory a shared artifact that guides all GEO work for the next quarter.",
+        "description": "Compile a question inventory from search data, customer conversations, support logs, and AI prompts, then group questions into topic clusters and prioritize by business value. Map each important question to a specific page, and create or upgrade content where you find gaps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

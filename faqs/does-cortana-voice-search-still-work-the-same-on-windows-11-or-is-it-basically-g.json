@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Cortana voice search still work the same on Windows 11, or is it basically gone now?",
+  "description": "On Windows 11, Cortana is still available on many systems, but it’s less prominent and has reduced features. You may need to install or enable it, turn on micro",
+  "url": "aeoptimizer.com/faq/does-cortana-voice-search-still-work-the-same-on-windows-11-or-is-it-basically-g",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Cortana voice search still work the same on Windows 11, or is it basically gone now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On Windows 11, Cortana has been de‑emphasized, so voice search is more limited and sometimes needs manual enabling from the Apps and features settings.\n\nIf Cortana seems missing, it may be disabled, not installed, or replaced by other search options.\n\n**Key factors**\n- Check Apps → Apps & features to ensure Cortana is installed\n- Turn on microphone permissions for Cortana under its advanced options\n- Use the Windows + C shortcut or search for “Cortana” to launch it\n- Recognize that some builds lean more on standard search and Windows voice typing\n\nIn newer PCs in Austin or Denver, you might get better mileage using Windows voice typing or browser‑based assistants instead of forcing Cortana back into heavy use.\n\nTreat Cortana on Windows 11 as a legacy assistant with narrower support, not the centerpiece of voice interaction.",
+        "description": "On Windows 11, Cortana is still available on many systems, but it’s less prominent and has reduced features. You may need to install or enable it, turn on microphone permissions, and use shortcuts to access it—and consider Windows voice typing or other assistants for broader voice use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

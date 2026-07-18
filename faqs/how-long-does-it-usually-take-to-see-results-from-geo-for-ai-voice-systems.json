@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it usually take to see results from GEO for AI voice systems?",
+  "description": "Most businesses can build a GEO foundation in 4–8 weeks, then start seeing AI voice citations and brand mentions grow over the following 2–3 months. Results dep",
+  "url": "aeoptimizer.com/faq/how-long-does-it-usually-take-to-see-results-from-geo-for-ai-voice-systems",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it usually take to see results from GEO for AI voice systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a mid-sized business, a basic GEO foundation for AI voice systems can often be built in 4–8 weeks, with meaningful results emerging over the next 2–3 months. Full maturity takes longer as you expand coverage and refine based on testing.\n\nThe timeline depends heavily on how much existing content you can reshape versus needing to create from scratch.\n\nKey factors:\n- Current content quality and volume (thin sites take longer)\n- Speed of implementing schema and technical fixes\n- Frequency of AI index updates and citation refresh cycles\n- Number of cities or service lines you’re targeting\n\nPractically, set phased milestones: initial audit and strategy, pilot Q&A content for one service and city, then broader rollout once you see signals. Expect lag between publishing and appearing in AI answers, so be patient while still testing.\n\nTreat GEO as an ongoing program, not a one-time project, to keep your answers fresh in rapidly evolving AI ecosystems.",
+        "description": "Most businesses can build a GEO foundation in 4–8 weeks, then start seeing AI voice citations and brand mentions grow over the following 2–3 months. Results depend on content quality, schema implementation, and how quickly AI platforms refresh their indexes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

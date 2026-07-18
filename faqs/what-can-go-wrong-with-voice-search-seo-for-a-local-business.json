@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with voice search SEO for a local business?",
+  "description": "Bad data, weak FAQs, slow pages, and misleading schema are the most common problems. Voice search rewards accuracy and clarity, so sloppy setup can hurt rather",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-voice-search-seo-for-a-local-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with voice search SEO for a local business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risk is optimizing for search phrases that sound natural but do not match what customers need. Other common problems are inconsistent business data, thin FAQ content, slow mobile pages, and schema that does not match visible page content.",
+        "description": "Bad data, weak FAQs, slow pages, and misleading schema are the most common problems. Voice search rewards accuracy and clarity, so sloppy setup can hurt rather than help."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

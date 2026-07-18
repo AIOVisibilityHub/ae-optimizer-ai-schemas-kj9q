@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What questions should I target for AEO best practices?",
+  "description": "Target real user questions, especially natural-language searches and common follow-up questions. Use several phrasing variants so your page can match how people",
+  "url": "aeoptimizer.com/faq/what-questions-should-i-target-for-aeo-best-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What questions should I target for AEO best practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO works best when you use the language real people type or say, especially natural questions starting with what, how, why, where, and when. Variations matter because searchers phrase the same need in different ways, so strong pages usually include several natural rewrites of the same intent.",
+        "description": "Target real user questions, especially natural-language searches and common follow-up questions. Use several phrasing variants so your page can match how people actually ask the same thing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

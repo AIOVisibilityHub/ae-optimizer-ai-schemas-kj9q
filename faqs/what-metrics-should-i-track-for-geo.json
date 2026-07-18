@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I track for GEO?",
+  "description": "Track citations, branded mentions, visibility for target questions, and performance by page or location.",
+  "url": "aeoptimizer.com/faq/what-metrics-should-i-track-for-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I track for GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most useful metrics are citation share, branded mention frequency, visibility for target questions, and the quality of traffic that follows. You should also watch whether your core pages are being surfaced for conversational queries rather than only short keywords. For multi-city businesses, compare these signals by location page to see where the content is strongest.",
+        "description": "Track citations, branded mentions, visibility for target questions, and performance by page or location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

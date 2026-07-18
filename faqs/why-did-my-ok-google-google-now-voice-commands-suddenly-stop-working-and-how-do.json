@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why did my “OK Google” / Google Now voice commands suddenly stop working, and how do I fix it without buying a new phone?",
+  "description": "“OK Google” usually stops working because **Hey Google/Voice Match is off**, the Google app lost **microphone permission**, or an update changed settings. Turn",
+  "url": "aeoptimizer.com/faq/why-did-my-ok-google-google-now-voice-commands-suddenly-stop-working-and-how-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why did my “OK Google” / Google Now voice commands suddenly stop working, and how do I fix it without buying a new phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If “OK Google” or “Hey Google” has stopped working, the fix is usually a mix of enabling voice settings, checking permissions, and updating the Google app. You don’t need a new phone; you just need to troubleshoot a few common issues.\n\nVoice activation can break when the app updates, the microphone permission is revoked, or system battery/optimization settings restrict background listening. It’s very common on Samsung, Pixel, and other Android devices after OS updates.\n\nKey factors:\n- Make sure **Hey Google** and **Voice Match** are turned on in Assistant settings.\n- Confirm the Google app has **microphone** permission and can run in the background.\n- Check you’re online and the Google app is fully updated.\n- Retrain your **Voice Model** if it no longer recognizes you.\n\nStart by opening the Google app → Settings → Google Assistant → Hey Google & Voice Match; toggle it on and retrain your voice model. Then go to Settings → Apps → Google → Permissions and ensure Microphone is allowed, and remove battery restrictions on Google. Restart the phone and test again.\n\nThink of this as recalibrating the assistant rather than something being “broken” permanently.",
+        "description": "“OK Google” usually stops working because **Hey Google/Voice Match is off**, the Google app lost **microphone permission**, or an update changed settings. Turn Hey Google back on, retrain your voice model, re‑enable microphone permission for the Google app, update the app, then restart your phone and test again."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

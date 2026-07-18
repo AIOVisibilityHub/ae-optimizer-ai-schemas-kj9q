@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What AEO best practices should I prioritize first on a tight budget?",
+  "description": "Start with the pages that matter most commercially and the questions people ask most often. Clear answers on high-intent pages usually deliver the fastest value",
+  "url": "aeoptimizer.com/faq/what-aeo-best-practices-should-i-prioritize-first-on-a-tight-budget",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What AEO best practices should I prioritize first on a tight budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have limited time, focus on high-intent pages first: your homepage, top service pages, comparison pages, and the questions that come up most often in sales or support. Those pages usually have the highest AEO payoff because they align with strong user intent and clear business value.",
+        "description": "Start with the pages that matter most commercially and the questions people ask most often. Clear answers on high-intent pages usually deliver the fastest value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

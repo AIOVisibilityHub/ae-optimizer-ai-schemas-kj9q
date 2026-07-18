@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do online reviews actually affect whether my contracting business shows up in voice search results?",
+  "description": "Online reviews heavily influence voice search: assistants prefer contractors with strong, recent ratings and enough review volume to trust. Consistent, positive",
+  "url": "aeoptimizer.com/faq/how-much-do-online-reviews-actually-affect-whether-my-contracting-business-shows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do online reviews actually affect whether my contracting business shows up in voice search results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reviews matter a lot for voice search because assistants favor businesses that look both relevant and trustworthy. All else equal, the contractor with more recent, positive reviews is more likely to be read out as the recommended option.\n\nVoice results are a trust shortcut for the homeowner and for the algorithm.\n\nKey factors:\n- Volume and recency of reviews across Google, Apple, and major directories.\n- Star rating compared to competing local contractors.\n- Use of service‑related, natural language in review responses.\n- Consistency of reputation across platforms (no big gaps between sites).\n\nBuild a simple, repeatable process: ask for a review after each job, provide easy links, and respond to every review with clear, conversational language. Avoid generic replies.\n\nA disciplined review strategy boosts both voice visibility and overall local SEO performance.",
+        "description": "Online reviews heavily influence voice search: assistants prefer contractors with strong, recent ratings and enough review volume to trust. Consistent, positive reviews on Google and other platforms make it far more likely your business will be recommended in spoken “near me” results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

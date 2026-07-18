@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does generative engine optimization actually work?",
+  "description": "GEO works by making your content easy for AI systems to understand, extract, and trust, so it can be used in generated answers.",
+  "url": "aeoptimizer.com/faq/how-does-generative-engine-optimization-actually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does generative engine optimization actually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO works by helping AI systems identify what your page is about, what facts matter most, and whether your content is credible enough to cite. Engines tend to prefer content with clear headings, direct answers, supporting data, and strong signals of authority. The goal is to make extraction easy and trust signals obvious.",
+        "description": "GEO works by making your content easy for AI systems to understand, extract, and trust, so it can be used in generated answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

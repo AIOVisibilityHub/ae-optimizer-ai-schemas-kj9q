@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content performs best in AI answers?",
+  "description": "Clear, structured, evidence-based content with direct answers and strong schema usually performs best in AI-generated results.",
+  "url": "aeoptimizer.com/faq/what-kind-of-content-performs-best-in-ai-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content performs best in AI answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good GEO content usually starts with a direct answer, uses natural language, and is organized into scannable sections. It should also include concrete facts, expert references, and schema such as FAQPage or Article markup when relevant. Content that is vague, buried, or overly promotional tends to perform worse in AI answers.",
+        "description": "Clear, structured, evidence-based content with direct answers and strong schema usually performs best in AI-generated results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

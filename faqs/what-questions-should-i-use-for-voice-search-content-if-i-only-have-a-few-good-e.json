@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What questions should I use for voice search content if I only have a few good examples?",
+  "description": "Use the exact questions prospects already ask through calls, chats, and intake forms, then rewrite them into clear FAQ headings.",
+  "url": "aeoptimizer.com/faq/what-questions-should-i-use-for-voice-search-content-if-i-only-have-a-few-good-e",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What questions should I use for voice search content if I only have a few good examples?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The strongest evidence is what real prospects ask in calls, chats, and intake forms. Those questions show you the exact language people use, which is often better than guessing from generic keyword lists.",
+        "description": "Use the exact questions prospects already ask through calls, chats, and intake forms, then rewrite them into clear FAQ headings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I check first if I’ve done some answer engine optimization but I’m not seeing any noticeable results yet?",
+  "description": "Review whether you picked the right questions, added enough depth and expertise to your answers, and earned mentions or links from trusted sites. Answer engines",
+  "url": "aeoptimizer.com/faq/what-should-i-check-first-if-i-ve-done-some-answer-engine-optimization-but-i-m-n",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I check first if I’ve done some answer engine optimization but I’m not seeing any noticeable results yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If results are slow, the most likely issues are weak authority, misaligned questions, shallow content, or minimal promotion of your newly optimized pages.\n\nAnswer engines need both structure and trust before they rely on you for answers.\n\nKey factors:\n- Targeting questions with intense competition or little relevance to your core business.\n- Thin pages that give short answers but no supporting depth or expertise.\n- Lack of mentions or links from trusted sites and communities.\n- Schema that’s technically correct but applied to low‑value pages.\n\nReassess your question list, beef up your best pages with examples and original insights, and do targeted outreach to get cited or linked by influential publications or communities.\nKeep monitoring AI tools for partial improvements in how they describe you.\n\nAEO gains often follow once you pair strong structure with clear authority and relevance.",
+        "description": "Review whether you picked the right questions, added enough depth and expertise to your answers, and earned mentions or links from trusted sites. Answer engines need both structured, answer‑first content and clear authority, so weak topics or thin pages often explain slow results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does generative engine optimization cost?",
+  "description": "Costs range from a targeted audit to an ongoing program, depending on how much content, schema, and measurement work is needed.",
+  "url": "aeoptimizer.com/faq/how-much-does-generative-engine-optimization-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does generative engine optimization cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO costs vary widely depending on whether you need a one-time audit, content updates, technical implementation, or ongoing optimization. A simple page-level cleanup is much cheaper than a full site program with schema, content production, and measurement. The best value usually comes from starting with a focused set of high-intent pages rather than trying to optimize everything at once.",
+        "description": "Costs range from a targeted audit to an ongoing program, depending on how much content, schema, and measurement work is needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my GEO efforts are actually working for AI voice assistants?",
+  "description": "Test your core questions in Siri, Google Assistant, Alexa, and AI apps and track when they mention or recommend your brand. If you hear your name more often and",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-geo-efforts-are-actually-working-for-ai-voice-assistants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my GEO efforts are actually working for AI voice assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can tell if GEO is working for AI voice systems by checking whether your brand is cited, mentioned, or recommended when you ask target questions through multiple assistants and AI tools. Over time, you should hear your name more often for the queries that matter.\n\nBecause voice interfaces don’t show full result pages, you’ll rely on systematic testing and correlation with analytics.\n\nKey factors:\n- Run your priority questions in Siri, Google Assistant, Alexa, and leading AI apps\n- Track when the assistant explicitly names your brand, site, or location\n- Monitor organic and direct traffic for bumps after content changes\n- Watch for increased branded queries that match your GEO topics\n\nPractically, create a simple tracking sheet of 30–50 key questions and test them monthly, noting whether your business is mentioned or recommended. Pair this with analytics annotations when you publish or refresh GEO content.\n\nConsistent improvement in “share of voice” across AI assistants is the clearest signal your GEO efforts are working.",
+        "description": "Test your core questions in Siri, Google Assistant, Alexa, and AI apps and track when they mention or recommend your brand. If you hear your name more often and see matching traffic and branded search lifts, your GEO for AI voice systems is working."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

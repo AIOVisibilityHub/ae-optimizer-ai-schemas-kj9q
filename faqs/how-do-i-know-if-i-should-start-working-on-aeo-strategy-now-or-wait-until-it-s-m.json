@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if I should start working on AEO strategy now or wait until it’s more proven?",
+  "description": "You should start AEO when your key searches show AI Overviews, answer boxes, or voice‑style results and your organic traffic is flat despite impressions. If mor",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-i-should-start-working-on-aeo-strategy-now-or-wait-until-it-s-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if I should start working on AEO strategy now or wait until it’s more proven?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should focus on AEO strategy when you see more AI Overviews, answer boxes, and voice results in your key searches, or when your organic traffic is plateauing even though impressions are rising. For most businesses, that’s already happening, so waiting usually means losing ground.\n\nIf customers are asking complex, research‑heavy questions before buying, AEO becomes especially important because those are exactly the queries AI tools summarize.\n\nKey factors:\n- Your audience uses Google, voice assistants, and AI chat heavily\n- Search results for your industry already show AI Overviews\n- Organic rankings are decent, but clicks or conversions are stagnant\n- Competitors appear frequently in “People Also Ask” or featured snippets\n\nPractically, spot‑check 15–20 core queries and note how many are answered by AI panels or single‑answer boxes. If that’s more than a third, it’s time to invest in AEO.\n\nApproached early, AEO puts you ahead of slower competitors and turns emerging AI answer behavior into an advantage instead of a threat.",
+        "description": "You should start AEO when your key searches show AI Overviews, answer boxes, or voice‑style results and your organic traffic is flat despite impressions. If more than a third of your important queries are being summarized by AI panels, waiting usually means ceding visibility to competitors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

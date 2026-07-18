@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do reviews help with voice search rankings for local SEO?",
+  "description": "Yes. Reviews help build trust and reinforce that your business is active and credible, which matters for local voice answers.",
+  "url": "aeoptimizer.com/faq/do-reviews-help-with-voice-search-rankings-for-local-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do reviews help with voice search rankings for local SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reviews matter because they add trust signals and fresh local evidence that a business is active and credible. Frequent, genuine reviews with owner responses can help reinforce relevance, especially when people ask for the best option nearby.",
+        "description": "Yes. Reviews help build trust and reinforce that your business is active and credible, which matters for local voice answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

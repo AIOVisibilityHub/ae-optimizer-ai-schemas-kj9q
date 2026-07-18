@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if voice search is actually bringing me local leads?",
+  "description": "Track Search Console, Google Business Profile insights, calls, directions, and question-style queries. Voice search is often visible through local actions even",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-voice-search-is-actually-bringing-me-local-leads",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if voice search is actually bringing me local leads?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use evidence that can be checked: Google Search Console query data, Google Business Profile insights, review volume, call tracking, and local ranking changes. If voice traffic is hard to isolate, look for more branded calls, direction requests, and question-based search impressions.",
+        "description": "Track Search Console, Google Business Profile insights, calls, directions, and question-style queries. Voice search is often visible through local actions even when it is not labeled directly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

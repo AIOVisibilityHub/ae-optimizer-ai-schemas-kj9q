@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content makes AEO pages more likely to get cited?",
+  "description": "Use original data, case studies, expert quotes, and clearly supported claims. Pages that add information gain and prove their points are more likely to be cited",
+  "url": "aeoptimizer.com/faq/what-kind-of-content-makes-aeo-pages-more-likely-to-get-cited",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content makes AEO pages more likely to get cited?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best evidence is original, specific, and easy to verify. That includes first-party data, customer examples, expert quotes, case studies, product screenshots, and citations from trusted sources, because answer engines are more likely to trust pages that show authority and information gain.",
+        "description": "Use original data, case studies, expert quotes, and clearly supported claims. Pages that add information gain and prove their points are more likely to be cited by answer engines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

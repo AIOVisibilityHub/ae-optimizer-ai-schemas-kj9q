@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We barely have any content—can we still get cited by voice assistants, or do we need a huge site first?",
+  "description": "You don’t need a huge site, but you do need strong content. Start with a focused FAQ and a few deep, well‑structured guides that use question headings, short an",
+  "url": "aeoptimizer.com/faq/we-barely-have-any-content-can-we-still-get-cited-by-voice-assistants-or-do-we-n",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We barely have any content—can we still get cited by voice assistants, or do we need a huge site first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you don’t have much content yet, start by building a focused FAQ and a few in‑depth guides around your most important topics. Voice assistants need something substantial to quote; thin or placeholder pages almost never get cited.\n\nQuality beats quantity: a few well‑structured, authoritative pages can outperform a large but shallow site.\n\nKEY FACTORS\n- Identify 10–20 real questions customers ask and answer them clearly\n- Create 2–3 pillar pages with deep, well‑organized content\n- Use question‑style subheadings and short direct answers under each\n- Add FAQPage and relevant schema to make everything machine‑legible\n\nDon’t rush to publish dozens of weak pages; concentrate your effort into content that could plausibly earn snippets and AI citations. Expand only after those perform.\n\nThis builds a strong foundation that voice assistants can confidently pull from as your site grows.",
+        "description": "You don’t need a huge site, but you do need strong content. Start with a focused FAQ and a few deep, well‑structured guides that use question headings, short answers, and schema. A small set of high‑quality pages can absolutely earn voice citations if they clearly answer important queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

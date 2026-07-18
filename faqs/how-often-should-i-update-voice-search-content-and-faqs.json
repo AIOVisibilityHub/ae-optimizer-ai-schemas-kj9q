@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I update voice search content and FAQs?",
+  "description": "Review and update them regularly so the questions, answers, and business details stay current.",
+  "url": "aeoptimizer.com/faq/how-often-should-i-update-voice-search-content-and-faqs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I update voice search content and FAQs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The usual workflow is to identify spoken queries, create short Q&A content, add structured data, and then test how your pages appear in search and on mobile. Ongoing updates matter because questions and search behavior change over time.",
+        "description": "Review and update them regularly so the questions, answers, and business details stay current."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

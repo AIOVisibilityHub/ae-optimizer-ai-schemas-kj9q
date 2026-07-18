@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if we’ve done GEO updates but generative AI answers still don’t mention us, or only rarely?",
+  "description": "GEO impact can lag because AI engines need time to recrawl, retrain, and reassess trust. If mentions stay low, review whether you chose overly competitive topic",
+  "url": "aeoptimizer.com/faq/what-if-we-ve-done-geo-updates-but-generative-ai-answers-still-don-t-mention-us",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if we’ve done GEO updates but generative AI answers still don’t mention us, or only rarely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your results from AI tools feel slow or inconsistent, it usually means your content changes haven’t fully propagated, or your topics are highly competitive. GEO improvements rarely appear instantly; they’re tied to crawl cycles and model updates.\n\nYou need a cadence of review and adjustment rather than expecting one‑time fixes. Watching trends over months is more informative than checking daily.\n\nKey factors:\n- Recency of your content and schema updates\n- How frequently target engines refresh their data\n- Strength of competitors already dominating those prompts\n- Breadth vs. focus of your GEO efforts\n\nPractically, set quarterly checkpoints where you re‑run key prompts in tools like ChatGPT, Perplexity, and Gemini, compare mentions and accuracy, and adjust your content or authority work as needed. Teams in Austin or Seattle often treat GEO as an ongoing optimization program, not a campaign.\n\nIf you still see no change after several cycles, reconsider whether you’re targeting the right questions for your current authority level.",
+        "description": "GEO impact can lag because AI engines need time to recrawl, retrain, and reassess trust. If mentions stay low, review whether you chose overly competitive topics, updated enough content, or added sufficient authority signals, then refine your strategy over several quarterly cycles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

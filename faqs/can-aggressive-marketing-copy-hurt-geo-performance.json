@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can aggressive marketing copy hurt GEO performance?",
+  "description": "Yes. Hype without evidence usually performs worse than clear, useful, verifiable content.",
+  "url": "aeoptimizer.com/faq/can-aggressive-marketing-copy-hurt-geo-performance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can aggressive marketing copy hurt GEO performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strongly opinionated copy can work if it is backed by evidence and clearly answers a real question. What hurts GEO is unsupported claims, vague marketing language, or content that sounds persuasive but does not help the model verify anything. AI systems tend to favor clarity over hype.",
+        "description": "Yes. Hype without evidence usually performs worse than clear, useful, verifiable content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How different is Google Assistant from the old Google Now in day‑to‑day use, am I going to have to relearn everything?",
+  "description": "Day‑to‑day, you won’t have to **relearn much**. Common commands (“call…”, “navigate…”, “remind me…”) work similarly. The main change is that settings and cards",
+  "url": "aeoptimizer.com/faq/how-different-is-google-assistant-from-the-old-google-now-in-day-to-day-use-am-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How different is Google Assistant from the old Google Now in day‑to‑day use, am I going to have to relearn everything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Switching from the old Google Now habits to Assistant mainly means learning a few new menu paths; your actual voice commands barely change. You’ll still say things like “remind me,” “navigate,” or “call,” but the settings live under the Google app’s Assistant section.\n\nThe biggest differences are in branding, extra capabilities (smart home, continued conversation), and how proactive cards are presented.\n\nKey factors:\n- Voice syntax for common tasks is **almost identical**.\n- Cards and reminders now surface via **Google app + Assistant**.\n- Advanced options like routines and smart‑home control are new.\n- Some niche features (Now on Tap) no longer exist as before.\n\nStart by opening the Google app and exploring Assistant settings, then test your old favorite commands one by one and see how they behave. Add one or two new features (like routines) once you’re comfortable.\n\nThink of it as a gentle migration, not a full relearning—your muscle memory mostly still works.",
+        "description": "Day‑to‑day, you won’t have to **relearn much**. Common commands (“call…”, “navigate…”, “remind me…”) work similarly. The main change is that settings and cards now live under the Google app’s Assistant section, with some extra features like routines and smart‑home control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

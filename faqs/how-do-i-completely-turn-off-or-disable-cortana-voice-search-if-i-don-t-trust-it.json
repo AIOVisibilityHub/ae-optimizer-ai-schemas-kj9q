@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I completely turn off or disable Cortana voice search if I don’t trust it or find it annoying?",
+  "description": "Disable Cortana voice search by turning off voice activation, revoking its microphone permission, and limiting or terminating the Cortana app in Settings. On so",
+  "url": "aeoptimizer.com/faq/how-do-i-completely-turn-off-or-disable-cortana-voice-search-if-i-don-t-trust-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I completely turn off or disable Cortana voice search if I don’t trust it or find it annoying?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can disable Cortana voice search by turning off voice activation, revoking microphone permissions, and hiding or limiting Cortana in Windows settings.\n\nOn supported Windows builds, you can’t always remove Cortana completely, but you can effectively neutralize its voice features.\n\n**Key factors**\n- Turn off Cortana in Settings → Apps → Cortana → Terminate/Disable where allowed\n- Disable voice activation for Cortana under Privacy & security → Voice activation\n- Revoke microphone access for Cortana in App permissions\n- Optionally use PowerShell to re‑register or remove Cortana packages on some versions\n\nIf you’re worried about privacy at work in Los Angeles or San Diego, combine disabling Cortana with strict microphone and telemetry policies. Always back up and confirm company IT rules before using PowerShell removal scripts.\n\nTreat disabling Cortana as part of a broader privacy and productivity setup, not just a single toggle.",
+        "description": "Disable Cortana voice search by turning off voice activation, revoking its microphone permission, and limiting or terminating the Cortana app in Settings. On some Windows versions you can further remove or re‑register Cortana via PowerShell, effectively stopping it from listening or responding at all."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

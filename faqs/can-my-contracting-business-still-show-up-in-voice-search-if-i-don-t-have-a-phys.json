@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my contracting business still show up in voice search if I don’t have a physical storefront address?",
+  "description": "Yes. Set up your listings as a service‑area business, specify the cities or regions you cover, and keep your contact info and hours accurate. Voice assistants c",
+  "url": "aeoptimizer.com/faq/can-my-contracting-business-still-show-up-in-voice-search-if-i-don-t-have-a-phys",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my contracting business still show up in voice search if I don’t have a physical storefront address?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you don’t have a shop address, you can still succeed in voice search by setting up as a service‑area business in Google and Apple and clearly defining the regions you cover. Assistants support mobile contractors.\n\nThe key is being transparent about where you’ll go and how to reach you.\n\nKey factors:\n- Configure your profiles as service‑area businesses instead of listing a storefront.\n- Add clear radius or city lists in your descriptions and on your website.\n- Keep your phone number, hours, and availability accurate everywhere.\n- Use FAQs to clarify response times and areas served.\n\nMake it obvious that you come to the customer, and list specific cities or zip codes so assistants can match “near me” queries correctly.\n\nMany high‑performing contractors in voice search operate entirely without a physical office open to the public.",
+        "description": "Yes. Set up your listings as a service‑area business, specify the cities or regions you cover, and keep your contact info and hours accurate. Voice assistants can still recommend you for “near me” queries even without a public storefront."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need schema markup for voice search, or is that overkill?",
+  "description": "Schema is not mandatory, but it makes your business data easier for search engines to interpret. LocalBusiness and FAQ schema are especially useful for voice-fr",
+  "url": "aeoptimizer.com/faq/do-i-really-need-schema-markup-for-voice-search-or-is-that-overkill",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need schema markup for voice search, or is that overkill?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schema helps search engines identify your business details, FAQs, and service information more clearly. It does not replace good content, but it can make your answers easier for systems to extract and display.",
+        "description": "Schema is not mandatory, but it makes your business data easier for search engines to interpret. LocalBusiness and FAQ schema are especially useful for voice-friendly pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

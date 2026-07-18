@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I’m a contractor and totally new to voice search, what’s the very first thing I should do to start showing up?",
+  "description": "First, fully optimize your Google Business Profile—verify it and complete every field with accurate info. Next, add conversational FAQ sections to your main ser",
+  "url": "aeoptimizer.com/faq/if-i-m-a-contractor-and-totally-new-to-voice-search-what-s-the-very-first-thing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I’m a contractor and totally new to voice search, what’s the very first thing I should do to start showing up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best starting point is to fully optimize your Google Business Profile and then add conversational FAQ content to your main service pages. Those two steps alone can get many contractors showing up in local voice results.\n\nVoice assistants lean heavily on business listings and concise answers to common questions. If those are incomplete or missing, more advanced tactics won’t matter.\n\nKey factors:\n- Verify and complete Google Business Profile (name, address, phone, hours, services, photos).\n- Claim Apple Business Connect and Bing Places for broader coverage.\n- Add question-based FAQs to each key service page (e.g., “How much does a roof repair cost?”).\n- Use FAQ schema so assistants can easily extract answers.\n\nBlock off a couple of short sessions over two weeks to clean up listings and build a small FAQ section per service. Then test by asking your phone for your trade in your city and refine based on what shows up.\n\nThink of this as foundational marketing that benefits both voice search and regular local SEO at the same time.",
+        "description": "First, fully optimize your Google Business Profile—verify it and complete every field with accurate info. Next, add conversational FAQ sections to your main service pages and mark them up with FAQ schema so voice assistants can easily find and read your answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

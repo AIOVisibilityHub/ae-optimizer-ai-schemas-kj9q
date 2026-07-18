@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the biggest thing people get wrong when using Google’s voice assistant that makes it seem unreliable?",
+  "description": "Most people unintentionally **block key permissions**—microphone, contacts, location, or activity—and then blame the assistant. Re‑enable only the permissions n",
+  "url": "aeoptimizer.com/faq/what-s-the-biggest-thing-people-get-wrong-when-using-google-s-voice-assistant-th",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the biggest thing people get wrong when using Google’s voice assistant that makes it seem unreliable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common mistake people make with Google’s voice assistant is turning off or limiting the very permissions it needs, then assuming the assistant itself is unreliable. Almost every “it doesn’t work” case traces back to settings, not capability.\n\nIf you deny microphone, contacts, location, or activity access, features that depend on them will quietly fail or degrade.\n\nKey factors:\n- Over‑restricting **permissions** breaks voice, calling, and local info.\n- Not updating the Google app or Android causes subtle bugs.\n- Ignoring **Activity Controls** reduces smart suggestions.\n- Misconfigured language/region affects recognition quality.\n\nBefore deciding Assistant “isn’t for you,” review microphone, contacts, and location permissions, update the Google app and OS, and check your activity and language settings.\n\nUse a mindset of “enable what I need, disable what I don’t”—you’ll get reliable behavior without over‑sharing.",
+        "description": "Most people unintentionally **block key permissions**—microphone, contacts, location, or activity—and then blame the assistant. Re‑enable only the permissions needed for what you want (calls, local info, reminders), keep the app/OS updated, and responses usually become much more reliable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

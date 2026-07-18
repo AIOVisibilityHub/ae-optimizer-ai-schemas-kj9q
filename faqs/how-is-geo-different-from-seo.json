@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is GEO different from SEO?",
+  "description": "SEO helps you rank in search results, while GEO helps your content get cited or summarized in AI-generated answers.",
+  "url": "aeoptimizer.com/faq/how-is-geo-different-from-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is GEO different from SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEO and GEO overlap, but they are not the same. SEO focuses on ranking in traditional search results, while GEO focuses on being referenced inside AI-generated answers. In practice, strong SEO helps GEO, but GEO adds extra emphasis on structure, citations, and machine-readable clarity.",
+        "description": "SEO helps you rank in search results, while GEO helps your content get cited or summarized in AI-generated answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

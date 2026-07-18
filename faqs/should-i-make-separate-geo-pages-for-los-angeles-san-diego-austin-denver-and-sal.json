@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I make separate GEO pages for Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+  "description": "Only if each city needs its own useful, distinct page. Do not create duplicate location pages just to add city names.",
+  "url": "aeoptimizer.com/faq/should-i-make-separate-geo-pages-for-los-angeles-san-diego-austin-denver-and-sal",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I make separate GEO pages for Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only if the location is genuinely relevant to the query and the page content. If your audience in Denver or San Diego is looking for local implementation support, location pages can help. If the topic is purely educational, forcing a city into the page can make the content weaker.",
+        "description": "Only if each city needs its own useful, distinct page. Do not create duplicate location pages just to add city names."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

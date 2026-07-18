@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information or documentation do I need from my team or clients to use an AEO checklist properly?",
+  "description": "You mainly need real customer questions and existing content: support tickets, sales call notes, on-site search queries, FAQ pages, and analytics data. Add “que",
+  "url": "aeoptimizer.com/faq/what-information-or-documentation-do-i-need-from-my-team-or-clients-to-use-an-ae",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information or documentation do I need from my team or clients to use an AEO checklist properly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For answer engine optimization, you typically don’t need extra documents from clients, but you do need access to their real customer questions and existing content.\n\nYour checklist is most effective when it’s based on authentic language and scenarios, not just keyword tools. That often means tapping internal conversations.\n\nKey factors:\n- Support emails, chat logs, and sales call notes\n- On-site search queries and current FAQ pages\n- Product documentation or onboarding materials for complex topics\n- Access to analytics and search console for question-based queries\n\nRequest these inputs at the start of any project and bake them into your checklist under “question discovery.” When you anchor optimization in real user concerns, answer engines are more likely to view your content as helpful and relevant over time.",
+        "description": "You mainly need real customer questions and existing content: support tickets, sales call notes, on-site search queries, FAQ pages, and analytics data. Add “question discovery” to your AEO checklist so every optimization is grounded in authentic user language, not just keyword tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

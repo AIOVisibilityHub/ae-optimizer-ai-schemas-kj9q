@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the highest-priority voice search questions I should answer on my site first?",
+  "description": "Prioritize urgent questions about hours, pricing, availability, service area, and how to get started.",
+  "url": "aeoptimizer.com/faq/what-are-the-highest-priority-voice-search-questions-i-should-answer-on-my-site",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the highest-priority voice search questions I should answer on my site first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the questions that reflect urgent intent, such as hours, pricing, availability, and service area. Those are the kinds of spoken searches most likely to lead to immediate contact.",
+        "description": "Prioritize urgent questions about hours, pricing, availability, service area, and how to get started."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

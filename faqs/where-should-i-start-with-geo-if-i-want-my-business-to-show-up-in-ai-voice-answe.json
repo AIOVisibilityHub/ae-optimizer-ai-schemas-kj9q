@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Where should I start with GEO if I want my business to show up in AI voice answers?",
+  "description": "Start GEO by auditing your existing high-value pages, rewriting headings as real questions, adding concise Q&A sections, and implementing FAQPage and LocalBusin",
+  "url": "aeoptimizer.com/faq/where-should-i-start-with-geo-if-i-want-my-business-to-show-up-in-ai-voice-answe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where should I start with GEO if I want my business to show up in AI voice answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you want your business to be the answer voice assistants read out, GEO should start with a structured audit of your existing content and local presence. Focus first on the pages and questions that drive the most revenue or inquiries.\n\nMost companies already have useful content; GEO is about reshaping it for conversational, AI-driven discovery rather than starting from scratch. Prioritization keeps the work manageable.\n\nKey factors:\n- Identify top pages (services, locations, FAQs, guides) that users already visit\n- Map real customer questions to those pages and rewrite headings as questions\n- Add FAQ sections and schema (FAQPage, LocalBusiness, Organization)\n- Ensure NAP (name, address, phone) and business details are consistent everywhere\n\nPractically, begin with one core service area and one geography, build Q&A content around the main questions, and track whether AI tools start citing you. Expand to more services and locations once you see patterns.\n\nStarting focused helps GEO efforts pay off quickly instead of turning into a sprawling content project.",
+        "description": "Start GEO by auditing your existing high-value pages, rewriting headings as real questions, adding concise Q&A sections, and implementing FAQPage and LocalBusiness schema. Focus on one core service and geography first, then expand as AI voice systems begin citing your content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

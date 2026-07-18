@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will JavaScript hurt AEO best practices?",
+  "description": "It can, if key content is hidden or difficult to crawl. Keep essential answers in accessible HTML so answer engines can find them reliably.",
+  "url": "aeoptimizer.com/faq/will-javascript-hurt-aeo-best-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will JavaScript hurt AEO best practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer engines prefer content that is easy to parse and trust, so pages should stay crawlable in HTML and not hide key content behind heavy scripts or images. If your core answer is only visible after complex interaction, it may be harder for engines to use.",
+        "description": "It can, if key content is hidden or difficult to crawl. Keep essential answers in accessible HTML so answer engines can find them reliably."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

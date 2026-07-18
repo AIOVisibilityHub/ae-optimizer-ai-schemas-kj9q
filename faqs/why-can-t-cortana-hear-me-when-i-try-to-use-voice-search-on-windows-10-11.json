@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why can’t Cortana hear me when I try to use voice search on Windows 10/11?",
+  "description": "Cortana usually can’t hear you because the microphone isn’t set up correctly, input permissions are off, or speech language and voice activation settings don’t",
+  "url": "aeoptimizer.com/faq/why-can-t-cortana-hear-me-when-i-try-to-use-voice-search-on-windows-10-11",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why can’t Cortana hear me when I try to use voice search on Windows 10/11?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "First check that your microphone works in other apps, then verify Cortana has permission to use it and that speech settings match your language.\n\nMost “Cortana can’t hear me” issues come from mic permissions, input device problems, or voice activation settings being disabled.\n\n**Key factors**\n- Confirm mic input in Settings → System → Sound → Input\n- Turn on microphone access for Cortana under Apps → Cortana → App permissions\n- Check speech language in Settings → Time & Language → Speech\n- Ensure voice activation is enabled for Cortana in Privacy & security → Voice activation\n\nIn Los Angeles, San Diego, Austin, Denver, or Salt Lake City, test on a quiet network and avoid VPNs that might block Microsoft services. If problems persist, re‑register or reset Cortana, then update Windows before trying more drastic troubleshooting.\n\nTreat Cortana microphone issues like any other input problem: start with hardware and permissions, then move to app and OS repair steps.",
+        "description": "Cortana usually can’t hear you because the microphone isn’t set up correctly, input permissions are off, or speech language and voice activation settings don’t match your setup. Check mic input, enable Cortana’s microphone permission, and verify speech and voice activation settings before assuming it’s a deeper issue."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

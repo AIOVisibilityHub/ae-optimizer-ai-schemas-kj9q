@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if voice assistants always mention my competitor instead of me for the queries I care about?",
+  "description": "Reverse‑engineer why your competitor is being cited: study their FAQs, answer length, schema, local listings, and authority signals. Then build clearer, better‑",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-voice-assistants-always-mention-my-competitor-instead-of-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if voice assistants always mention my competitor instead of me for the queries I care about?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If voice assistants keep citing a competitor, you need to study exactly what they’re doing: how their answers are structured, what snippets they own, and which authority signals they have that you don’t. Then you deliberately build stronger, clearer alternatives.\n\nTreat their current citation as a blueprint for the kind of content machines like—then improve on it.\n\nKEY FACTORS\n- Analyze their FAQ pages, headings, and answer length\n- Check their schema markup and local listings for completeness\n- Evaluate their backlinks, reviews, and brand mentions\n- Identify gaps or outdated info you can surpass\n\nCreate pages that directly target the same questions, but with better clarity, fresher data, and stronger evidence. Test those queries weekly to see when assistants start switching citations.\n\nThis turns frustration into a strategic plan to become the new “default answer” over time.",
+        "description": "Reverse‑engineer why your competitor is being cited: study their FAQs, answer length, schema, local listings, and authority signals. Then build clearer, better‑evidenced answers to those same questions, add strong markup, and test weekly until assistants start shifting citations toward your content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

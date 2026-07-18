@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take for voice search changes to start showing results?",
+  "description": "Small gains can appear in weeks, but stronger voice-search visibility usually takes longer because search engines need time to recrawl and reassess your site.",
+  "url": "aeoptimizer.com/faq/how-long-does-it-take-for-voice-search-changes-to-start-showing-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take for voice search changes to start showing results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Basic improvements can happen quickly, but meaningful results usually take time because search engines need to recrawl and reevaluate your pages. If your site already has strong local signals, improvements may show sooner than on a newer or weaker site.",
+        "description": "Small gains can appear in weeks, but stronger voice-search visibility usually takes longer because search engines need time to recrawl and reassess your site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

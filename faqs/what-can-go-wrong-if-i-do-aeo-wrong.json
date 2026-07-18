@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if I do AEO wrong?",
+  "description": "Common AEO mistakes include vague answers, hidden key information, unsupported claims, and incorrect schema. These reduce trust and make it harder for answer en",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-if-i-do-aeo-wrong",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if I do AEO wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest mistake is writing content that sounds polished but does not answer a real question quickly. Other common issues are hiding key information too far down the page, using generic claims without proof, and applying schema that does not match the visible content.",
+        "description": "Common AEO mistakes include vague answers, hidden key information, unsupported claims, and incorrect schema. These reduce trust and make it harder for answer engines to extract your content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

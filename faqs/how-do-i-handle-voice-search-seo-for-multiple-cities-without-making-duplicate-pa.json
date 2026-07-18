@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I handle voice search SEO for multiple cities without making duplicate pages?",
+  "description": "Create unique location pages with real differences in services, hours, and local references. Avoid copying the same text across every city page.",
+  "url": "aeoptimizer.com/faq/how-do-i-handle-voice-search-seo-for-multiple-cities-without-making-duplicate-pa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I handle voice search SEO for multiple cities without making duplicate pages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you serve multiple markets, each major location should have its own page or section with unique hours, service details, and local references. For businesses serving Los Angeles, San Diego, Austin, Denver, or Salt Lake City, that structure helps search engines connect the right answer to the right place.",
+        "description": "Create unique location pages with real differences in services, hours, and local references. Avoid copying the same text across every city page."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

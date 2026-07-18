@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is investing in AEO strategy really worth it, or is it just another SEO buzzword that won’t pay off?",
+  "description": "AEO can be worth it because it turns your content into the trusted answers that AI Overviews and voice assistants quote, sending you higher‑intent visitors. Cos",
+  "url": "aeoptimizer.com/faq/is-investing-in-aeo-strategy-really-worth-it-or-is-it-just-another-seo-buzzword",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is investing in AEO strategy really worth it, or is it just another SEO buzzword that won’t pay off?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong AEO strategy typically involves modest upfront investment and ongoing effort, but the value comes from capturing high‑intent visitors who arrive through trusted AI answers. Costs depend on how much content and schema you need, and whether you handle it in‑house or with outside help.\n\nFor many mid‑size businesses, AEO is more about reallocating existing SEO and content budgets than adding a huge new line item.\n\nKey cost drivers:\n- Scope: number of priority questions and pages\n- Current site health: technical, content, and authority gaps\n- In‑house vs. external support for schema and content\n- Ongoing monitoring and refresh cadence\n\nPractically, start with a pilot on 20–30 questions and treat it as an experiment; track leads and sales influenced by AEO‑structured content.\n\nViewed this way, AEO is less a fixed cost and more a way to improve the yield of the content and SEO investments you’re already making.",
+        "description": "AEO can be worth it because it turns your content into the trusted answers that AI Overviews and voice assistants quote, sending you higher‑intent visitors. Costs vary by scope, but many companies simply refocus existing SEO and content budgets. Start with a 20–30 question pilot and measure lead quality and conversions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

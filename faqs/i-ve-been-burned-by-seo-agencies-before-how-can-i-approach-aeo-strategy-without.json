@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve been burned by SEO agencies before—how can I approach AEO strategy without repeating that mistake?",
+  "description": "To avoid repeating a bad agency experience, treat AEO as a transparent, testable project. Demand a clear list of target questions, mapped URLs, visible content",
+  "url": "aeoptimizer.com/faq/i-ve-been-burned-by-seo-agencies-before-how-can-i-approach-aeo-strategy-without",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve been burned by SEO agencies before—how can I approach AEO strategy without repeating that mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with an SEO vendor, approach AEO strategy with more transparency and smaller, testable scopes. Insist on clear question lists, visible content changes, and agreed‑upon metrics like answer placements and conversion lift rather than vague promises.\n\nAEO work is measurable when framed around discrete question‑answer pairs and schema implementations.\n\nKey safeguards:\n- Require a documented inventory of target questions and mapped URLs\n- Review and approve content structures before they go live\n- Set expectation of quarterly reports focused on citations and conversions\n- Keep ownership of your schema templates and documentation\n\nPractically, start with a limited AEO pilot on 10–20 questions and evaluate the partner on clarity, response speed, and results.\n\nThis lets you regain confidence while avoiding the open‑ended engagements that often caused issues before.",
+        "description": "To avoid repeating a bad agency experience, treat AEO as a transparent, testable project. Demand a clear list of target questions, mapped URLs, visible content changes, and metrics focused on answer placements and conversions. Start with a 10–20 question pilot and keep ownership of schema templates and documentation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

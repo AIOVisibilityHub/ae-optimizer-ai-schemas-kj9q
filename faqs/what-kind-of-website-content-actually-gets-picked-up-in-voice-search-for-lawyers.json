@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of website content actually gets picked up in voice search for lawyers?",
+  "description": "Question-style pages with direct answers, clear contact details, and local business information are the most voice-search friendly.",
+  "url": "aeoptimizer.com/faq/what-kind-of-website-content-actually-gets-picked-up-in-voice-search-for-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of website content actually gets picked up in voice search for lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need pages that match spoken, question-based searches, plus clear local business details. Voice assistants rely heavily on concise answers, business hours, contact info, and structured page sections that are easy to parse.",
+        "description": "Question-style pages with direct answers, clear contact details, and local business information are the most voice-search friendly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

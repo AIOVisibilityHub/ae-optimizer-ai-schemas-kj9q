@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does voice search optimization for local SEO usually cost?",
+  "description": "Pricing depends on whether you need basic fixes or a full strategy. Most of the value comes from accurate local data, conversational content, and schema, not ex",
+  "url": "aeoptimizer.com/faq/how-much-does-voice-search-optimization-for-local-seo-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does voice search optimization for local SEO usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary widely because you may only need content updates, or you may need a full technical and local SEO cleanup. The best value usually comes from fixing the basics first: business listings, FAQs, page speed, and structured data.",
+        "description": "Pricing depends on whether you need basic fixes or a full strategy. Most of the value comes from accurate local data, conversational content, and schema, not expensive extras."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

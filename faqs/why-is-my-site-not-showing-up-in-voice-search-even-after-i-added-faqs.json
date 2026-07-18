@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is my site not showing up in voice search even after I added FAQs?",
+  "description": "FAQs alone are not enough if your local details, mobile performance, or page structure are weak.",
+  "url": "aeoptimizer.com/faq/why-is-my-site-not-showing-up-in-voice-search-even-after-i-added-faqs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is my site not showing up in voice search even after I added FAQs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common problems include inconsistent address and phone details, weak mobile usability, and pages that bury the answer too far down. If those basics are off, even good content may not perform well.",
+        "description": "FAQs alone are not enough if your local details, mobile performance, or page structure are weak."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

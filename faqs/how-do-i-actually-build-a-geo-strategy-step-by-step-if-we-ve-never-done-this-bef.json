@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually build a GEO strategy step by step if we’ve never done this before?",
+  "description": "Start by choosing key topics and compiling the real questions people ask, then audit how AI currently answers those queries. Optimize your existing pages with d",
+  "url": "aeoptimizer.com/faq/how-do-i-actually-build-a-geo-strategy-step-by-step-if-we-ve-never-done-this-bef",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually build a GEO strategy step by step if we’ve never done this before?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To build a GEO strategy from scratch, start by defining priority topics, auditing how AI currently answers those topics, and then reshaping your content into answer‑first, structured formats. You don’t need new tech; you need clearer, question‑aligned content and a measurement plan.\n\nMost of the work is editorial and strategic, not purely technical. You’re mapping user questions to content and ensuring AI engines can quickly recognize and trust your answers.\n\nKey factors:\n- Topic and prompt selection (what queries matter most)\n- Content audit for AI readability and direct answers\n- Structured elements (FAQ blocks, how‑to sections, schema)\n- Baseline metrics: AI mentions, sentiment, traffic\n\nPractically, run a small pilot: pick 10–20 critical questions, optimize the relevant pages, add Q&A sections, and track how often tools like ChatGPT, Perplexity, and Gemini begin citing you. In markets like Austin or Seattle, include local signals (places, events, neighborhoods) where relevant.\n\nIf this feels abstract, treat GEO as a question inventory project first—then layer in optimization as you see gaps.",
+        "description": "Start by choosing key topics and compiling the real questions people ask, then audit how AI currently answers those queries. Optimize your existing pages with direct, structured Q&A content, add schema where helpful, and track AI mentions and traffic before scaling the approach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

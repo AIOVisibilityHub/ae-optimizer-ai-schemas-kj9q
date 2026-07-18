@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is generative engine optimization, in plain English?",
+  "description": "GEO is the practice of optimizing content so AI answer engines can understand it, trust it, and cite it in generated responses instead of only ranking it in sea",
+  "url": "aeoptimizer.com/faq/what-is-generative-engine-optimization-in-plain-english",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is generative engine optimization, in plain English?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative engine optimization, or GEO, is the practice of making your content easier for AI answer engines to understand, trust, and cite. It focuses on being referenced in generated answers, not just ranked as a blue link in traditional search. In practice, GEO uses clear structure, authoritative evidence, and schema markup so AI systems can extract the right facts.",
+        "description": "GEO is the practice of optimizing content so AI answer engines can understand it, trust it, and cite it in generated responses instead of only ranking it in search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

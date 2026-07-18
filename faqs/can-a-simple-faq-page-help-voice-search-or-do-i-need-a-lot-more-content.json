@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a simple FAQ page help voice search, or do I need a lot more content?",
+  "description": "A well-written FAQ page can help a lot if it uses real questions, short answers, and clear page structure.",
+  "url": "aeoptimizer.com/faq/can-a-simple-faq-page-help-voice-search-or-do-i-need-a-lot-more-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a simple FAQ page help voice search, or do I need a lot more content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only if the page includes enough context for a search engine to understand the answer. A question heading followed by a concise response usually works better than a long block of text.",
+        "description": "A well-written FAQ page can help a lot if it uses real questions, short answers, and clear page structure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

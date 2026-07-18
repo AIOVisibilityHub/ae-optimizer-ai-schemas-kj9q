@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I control what Siri or Google Assistant says about my contracting business when people ask for help?",
+  "description": "You can’t script Siri or Google Assistant, but you can strongly influence what they say by keeping your business listings complete and consistent, adding LocalB",
+  "url": "aeoptimizer.com/faq/can-i-control-what-siri-or-google-assistant-says-about-my-contracting-business-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I control what Siri or Google Assistant says about my contracting business when people ask for help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can’t directly tell Siri or Google Assistant to “feature” your business, but you can control the data and content they rely on. Think of assistants as reading from your listings, schema, and FAQs, then deciding if you’re the best match.\n\nYour job is to make that decision easy in your favor.\n\nKey factors:\n- Complete and verify your business on Google, Apple, and Bing.\n- Add LocalBusiness, Service, and FAQ schema to your website.\n- Write short, direct answers (40–60 words) to common homeowner questions.\n- Keep hours, contact info, and service areas up to date everywhere.\n\nFocus on clarity: whenever someone asks “Who is the best [trade] near me?”, you want assistants to see clean data and strong signals pointing to you. Test, refine, and repeat.\n\nOptimizing inputs is the most reliable way to influence voice outputs.",
+        "description": "You can’t script Siri or Google Assistant, but you can strongly influence what they say by keeping your business listings complete and consistent, adding LocalBusiness/FAQ schema to your site, and providing short, clear answers to common homeowner questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do good answer engine optimization examples have to be short, and how do I balance brevity with depth?",
+  "description": "Strong AEO examples deliver a full answer in 40–60 words at the top, then expand with supporting detail, bullets, and visuals. They’re short where it matters—up",
+  "url": "aeoptimizer.com/faq/do-good-answer-engine-optimization-examples-have-to-be-short-and-how-do-i-balanc",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do good answer engine optimization examples have to be short, and how do I balance brevity with depth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good answer engine optimization examples are usually short and fast to read, but that doesn’t mean shallow. The trick is giving a complete answer in 40–60 words, then expanding below for nuance, examples, and exceptions.\n\nAnswer engines prefer top-loaded content where users can get the gist immediately and dig deeper only if needed.\n\nKey factors:\n- Lead with the direct answer, not a story or definition.\n- Keep the top answer factual, specific, and jargon-free.\n- Use bullets, subheads, and visuals to organize supporting information.\n- Avoid burying crucial details halfway down the page.\n\nPick 10 key pages and rewrite their introductions as short, self-contained answers to the main question of the page. Move context and background into sections that follow.\n\nIf your content feels long-winded, this AEO pattern can improve both user satisfaction and AI citation rates.",
+        "description": "Strong AEO examples deliver a full answer in 40–60 words at the top, then expand with supporting detail, bullets, and visuals. They’re short where it matters—up front—without being shallow overall. This structure makes your content easy for both users and answer engines to understand and reuse."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should GEO focus on blog posts, product pages, or FAQs?",
+  "description": "Use all three if possible. Blogs explain, product pages convert, and FAQs often match the question format AI tools prefer.",
+  "url": "aeoptimizer.com/faq/should-geo-focus-on-blog-posts-product-pages-or-faqs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should GEO focus on blog posts, product pages, or FAQs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can, but the quality matters more than the format. A product page helps when users are evaluating solutions, while a guide or FAQ helps when they are asking how something works. The best GEO programs usually combine both so AI tools can find explanation content and commercial content.",
+        "description": "Use all three if possible. Blogs explain, product pages convert, and FAQs often match the question format AI tools prefer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

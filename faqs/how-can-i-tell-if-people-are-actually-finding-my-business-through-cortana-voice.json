@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if people are actually finding my business through Cortana voice search, not just regular typing?",
+  "description": "You can’t see Cortana‑only stats, but you can infer impact by tracking Bing rankings, featured snippets, and local pack visibility, then pairing that with call",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-people-are-actually-finding-my-business-through-cortana-voice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if people are actually finding my business through Cortana voice search, not just regular typing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For website owners, the main evidence that Cortana voice search is working for you is increased impressions and clicks from Bing, plus higher visibility in featured snippets and local packs.\n\nCortana itself doesn’t provide detailed per‑assistant analytics.\n\n**Key factors**\n- Monitor Bing Webmaster Tools for keyword rankings and impressions\n- Track featured snippet wins for common question phrases\n- Watch local pack visibility and click‑throughs in Bing Places\n- Use call tracking or tagged URLs to connect voice‑driven visits to conversions\n\nIn competitive markets like Los Angeles and Austin, pair analytics with periodic manual tests by asking common voice questions from different devices and locations to spot gaps.\n\nTreat “Cortana performance” as part of your broader Bing and voice‑search measurement strategy.",
+        "description": "You can’t see Cortana‑only stats, but you can infer impact by tracking Bing rankings, featured snippets, and local pack visibility, then pairing that with call tracking or tagged URLs. If you gain more Bing impressions and calls from voice‑style queries, Cortana is likely contributing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

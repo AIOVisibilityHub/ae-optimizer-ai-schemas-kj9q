@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between AEO and SEO?",
+  "description": "SEO is about ranking pages; AEO is about being chosen as the direct answer. Strong AEO usually builds on good SEO, but the content structure and proof requireme",
+  "url": "aeoptimizer.com/faq/what-is-the-difference-between-aeo-and-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between AEO and SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO and SEO overlap, but they are not identical. SEO focuses more on rankings and traffic, while AEO focuses on making content easy to quote, extract, and present as a direct answer in search and AI systems.",
+        "description": "SEO is about ranking pages; AEO is about being chosen as the direct answer. Strong AEO usually builds on good SEO, but the content structure and proof requirements are more specific."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

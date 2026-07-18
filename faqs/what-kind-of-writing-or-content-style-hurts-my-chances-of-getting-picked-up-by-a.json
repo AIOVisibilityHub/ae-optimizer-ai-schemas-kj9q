@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of writing or content style hurts my chances of getting picked up by answer engines?",
+  "description": "Overly vague, promotional, or hedged writing hurts AEO. Replace buzzwords and filler with clear, specific statements, use consistent terminology, and give direc",
+  "url": "aeoptimizer.com/faq/what-kind-of-writing-or-content-style-hurts-my-chances-of-getting-picked-up-by-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of writing or content style hurts my chances of getting picked up by answer engines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When rewriting content for answer engines, avoid vague marketing language, over‑stuffed keywords, and hedged answers that never say anything definitive.\n\nAI systems look for crisp, factual statements they can trust, not slogans or filler.\n\nKey factors:\n- Replace fluff (“world‑class,” “cutting‑edge”) with specific claims and examples.\n- Use consistent terms for the same concepts instead of many synonyms.\n- State answers clearly, including ranges, caveats, and conditions as needed.\n- Keep keyword usage natural; focus on clarity over repetition.\n\nReview your top pages line by line, cutting filler and rewriting sentences to be concrete and precise, especially near the top of the page.\nAim for “safe to quote” wording that doesn’t require extra interpretation.\n\nCleaner language makes it much easier for answer engines to understand and trust you.",
+        "description": "Overly vague, promotional, or hedged writing hurts AEO. Replace buzzwords and filler with clear, specific statements, use consistent terminology, and give direct answers with any needed caveats. The more concrete and “safe to quote” your wording is, the better answer engines can use it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

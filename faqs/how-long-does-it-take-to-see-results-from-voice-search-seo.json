@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from voice search SEO?",
+  "description": "Simple fixes can help within weeks, but stronger results usually take a few months. The timeline depends on competition, profile quality, and how much content a",
+  "url": "aeoptimizer.com/faq/how-long-does-it-take-to-see-results-from-voice-search-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from voice search SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most improvements can take a few weeks to a few months, depending on how much needs to be fixed and how competitive your area is. Faster wins usually come from better Google Business Profile data, while stronger ranking changes take longer content and citation work.",
+        "description": "Simple fixes can help within weeks, but stronger results usually take a few months. The timeline depends on competition, profile quality, and how much content and schema work is needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

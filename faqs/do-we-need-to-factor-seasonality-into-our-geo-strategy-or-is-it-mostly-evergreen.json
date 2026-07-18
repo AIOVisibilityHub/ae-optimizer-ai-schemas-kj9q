@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do we need to factor seasonality into our GEO strategy, or is it mostly evergreen?",
+  "description": "Seasonality matters: prioritize GEO updates for questions and pages tied to your peak demand periods, and refresh time‑sensitive content before those seasons. G",
+  "url": "aeoptimizer.com/faq/do-we-need-to-factor-seasonality-into-our-geo-strategy-or-is-it-mostly-evergreen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do we need to factor seasonality into our GEO strategy, or is it mostly evergreen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seasonality should shape your GEO priorities: focus early on questions and pages tied to peak demand periods, then maintain evergreen content the rest of the year. AI engines pay attention to freshness for time‑sensitive topics.\n\nIgnoring seasonality can mean your brand is absent from AI answers just when potential customers are most active.\n\nKey factors:\n- Seasonal spikes in search and demand for your services\n- Pages that include dates, events, or time‑bound offers\n- Update cadence before and during peak seasons\n- Monitoring of AI answers for seasonal prompts\n\nPractically, if Denver sees a winter surge for certain services and Austin peaks in summer, schedule GEO updates 4–8 weeks before those windows: refresh “best/top” lists, event guides, and FAQs, then watch how AI tools respond during the season.\n\nIf your content has “2023” or older in titles or text, make seasonal GEO updates a priority.",
+        "description": "Seasonality matters: prioritize GEO updates for questions and pages tied to your peak demand periods, and refresh time‑sensitive content before those seasons. Generative engines value freshness for “best/top” and event‑related queries, so timing your updates can improve seasonal visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

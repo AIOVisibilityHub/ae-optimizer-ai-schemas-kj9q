@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to create new articles for answer engines or update my old content, and how often should I refresh it?",
+  "description": "Start by refreshing your existing high‑authority pages: add question‑based headings, direct answers, current data, and dateModified metadata. Updating old conte",
+  "url": "aeoptimizer.com/faq/is-it-better-to-create-new-articles-for-answer-engines-or-update-my-old-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to create new articles for answer engines or update my old content, and how often should I refresh it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Updating old content for answer engines usually converts better than publishing new articles, because you’re improving pages that already have authority and history.\n\nAnswer engines prefer refreshed, structurally improved versions of content they know and trust.\n\nKey factors:\n- Identify high‑traffic or high‑authority pages that lack answer‑first structure.\n- Add clear questions, direct answers, and supporting detail sections.\n- Update stats, examples, and explanations to be current and precise.\n- Mark changes with dateModified metadata and structured data.\n\nPlan recurring AEO refresh cycles where you improve a batch of existing pages each month, then expand to new content as needed.\nTrack changes in snippets, AI summaries, and engagement after each round.\n\nTreat your existing library as the backbone of your answer‑engine strategy, not just new posts.",
+        "description": "Start by refreshing your existing high‑authority pages: add question‑based headings, direct answers, current data, and dateModified metadata. Updating old content often yields faster AEO gains than new posts, so schedule recurring refresh cycles and expand to new topics once key pages are optimized."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

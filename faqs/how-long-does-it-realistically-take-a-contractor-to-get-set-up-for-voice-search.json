@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it realistically take a contractor to get set up for voice search?",
+  "description": "Basic voice search setup for a contractor usually takes a few focused hours over a couple of weeks: clean up your listings, add schema, and write FAQ content. A",
+  "url": "aeoptimizer.com/faq/how-long-does-it-realistically-take-a-contractor-to-get-set-up-for-voice-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it realistically take a contractor to get set up for voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most contractors should expect to spend a few focused hours to get basic voice search visibility in place, spread over a couple of weeks. Ongoing improvements then happen in short, recurring sprints.\n\nThis isn’t a multi‑month project unless you’re overhauling your entire site; it’s more like repeated 30–60 minute blocks.\n\nKey factors:\n- Initial listing cleanup (Google, Apple, Bing, Yelp, etc.): 1–2 hours total.\n- Adding basic LocalBusiness and FAQ schema: 30–60 minutes once set up.\n- Writing 3–5 solid FAQ answers per service: 1–2 hours.\n- Periodic testing and review management: 15–30 minutes monthly.\n\nIf you’re on a tight schedule, tackle one piece per week—Google Business Profile first, then FAQs, then schema. Even small, consistent steps can move you into voice results.\n\nVoice search optimization is more about disciplined maintenance than a huge one‑time effort.",
+        "description": "Basic voice search setup for a contractor usually takes a few focused hours over a couple of weeks: clean up your listings, add schema, and write FAQ content. After that, small monthly check‑ins keep you visible and improving in voice results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

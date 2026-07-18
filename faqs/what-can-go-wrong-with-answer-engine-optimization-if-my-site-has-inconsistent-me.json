@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with answer engine optimization if my site has inconsistent messaging and outdated pages?",
+  "description": "Inconsistent wording and outdated claims can cause answer engines to merge, misinterpret, or ignore your signals, leading to confusing or wrong AI descriptions",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-answer-engine-optimization-if-my-site-has-inconsistent-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with answer engine optimization if my site has inconsistent messaging and outdated pages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer engines tend to penalize ambiguity and contradiction more than minor formatting issues, so inconsistent wording and claims across pages are a serious risk.\n\nIf your brand is described in different ways, AI systems may merge or misinterpret those signals and misrepresent you.\n\nKey factors:\n- Conflicting product descriptions, pricing, or feature lists.\n- Different ways of naming your company, product tiers, or locations.\n- Outdated pages that contradict newer authoritative content.\n- Overly vague language that forces systems to guess intent.\n\nRun an identity and claims audit: list key facts (what you do, who you serve, pricing ranges, locations) and make sure they’re expressed consistently on all top pages.\nRetire or update content that contradicts your current reality.\n\nAEO heavily rewards brands that make it impossible for answer engines to get confused.",
+        "description": "Inconsistent wording and outdated claims can cause answer engines to merge, misinterpret, or ignore your signals, leading to confusing or wrong AI descriptions of your brand. Auditing and standardizing key facts across top pages is critical before you push hard on answer‑engine optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

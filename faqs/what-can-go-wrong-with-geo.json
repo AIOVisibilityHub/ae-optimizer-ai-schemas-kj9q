@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with GEO?",
+  "description": "Common risks include thin content, misleading schema, and pages that are optimized for machines but not useful to real people.",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are over-optimizing for machines, publishing low-value filler, or adding structured data that does not match the page content. Another common mistake is chasing generic terms instead of answering the specific questions your audience asks. In cities like San Diego or Denver, the risk also includes mixing local intent into pages that should stay broad and topical.",
+        "description": "Common risks include thin content, misleading schema, and pages that are optimized for machines but not useful to real people."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

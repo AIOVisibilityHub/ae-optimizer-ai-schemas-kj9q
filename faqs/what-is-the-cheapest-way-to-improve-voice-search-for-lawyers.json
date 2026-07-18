@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cheapest way to improve voice search for lawyers?",
+  "description": "Focus first on your homepage, contact page, Google Business Profile, and one strong FAQ section.",
+  "url": "aeoptimizer.com/faq/what-is-the-cheapest-way-to-improve-voice-search-for-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cheapest way to improve voice search for lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A budget-friendly approach is to start with your homepage, contact page, Google Business Profile, and one high-intent FAQ section. Those pages usually give the fastest return because they combine local intent with clear action steps.",
+        "description": "Focus first on your homepage, contact page, Google Business Profile, and one strong FAQ section."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

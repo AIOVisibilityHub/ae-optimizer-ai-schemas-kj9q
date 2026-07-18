@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How reliable is Google Assistant compared to the old Google Now, and what usually causes it to fail?",
+  "description": "Assistant is generally **more capable and stable** than old Google Now, but issues still occur, usually from permissions, network, or microphone problems. Befor",
+  "url": "aeoptimizer.com/faq/how-reliable-is-google-assistant-compared-to-the-old-google-now-and-what-usually",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How reliable is Google Assistant compared to the old Google Now, and what usually causes it to fail?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On Android, Google Assistant is deeply integrated and generally more stable than third‑party assistants, but failures do still happen. The good news is that most issues—no response, mishearing, random pop‑ups—are fixable without expert help.\n\nGoogle’s voice stack is tied into the system’s search, notifications, and apps. Bugs usually show up after OS or app updates, permission changes, or hardware damage.\n\nKey factors:\n- It’s **very reliable** for basic tasks on supported Android versions.\n- Common failures involve **permissions, network, or microphone** problems.\n- Factory reset is a last resort; most fixes are in settings.\n- You can always fall back to manual Google search and apps.\n\nIf failures are frequent, systematically check microphone access, Hey Google & Voice Match, network stability, and Google app updates, then test again. Only consider a factory reset once you’ve ruled out these simpler causes.\n\nTreat Assistant as robust but not infallible—regular checkups keep it predictable and useful.",
+        "description": "Assistant is generally **more capable and stable** than old Google Now, but issues still occur, usually from permissions, network, or microphone problems. Before drastic steps, recheck microphone access, Hey Google settings, and app updates—most failures are fixable in minutes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

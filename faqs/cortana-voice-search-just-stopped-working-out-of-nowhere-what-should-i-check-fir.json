@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Cortana voice search just stopped working out of nowhere—what should I check first to get it back?",
+  "description": "Start by checking your internet connection, installing any pending Windows updates, confirming Cortana has microphone and voice‑activation permissions, and rest",
+  "url": "aeoptimizer.com/faq/cortana-voice-search-just-stopped-working-out-of-nowhere-what-should-i-check-fir",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cortana voice search just stopped working out of nowhere—what should I check first to get it back?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Cortana voice search suddenly stopped working, start with basic checks: internet connectivity, Windows updates, mic permissions, and Cortana’s app status.\n\nAbrupt failures are usually caused by updates, changed privacy settings, or corrupted Cortana components.\n\n**Key factors**\n- Confirm a stable internet connection and test other online services\n- Check Windows Update and install pending patches\n- Verify microphone access and voice activation for Cortana\n- Restart or re‑register Cortana via Task Manager and PowerShell\n\nIn remote workers’ setups around Austin or Denver, VPNs or security software can block Cortana’s connection to Microsoft services. Temporarily disable or reconfigure them when troubleshooting.\n\nTreat Cortana outage like any app failure: network, updates, permissions, then component repair.",
+        "description": "Start by checking your internet connection, installing any pending Windows updates, confirming Cortana has microphone and voice‑activation permissions, and restarting or re‑registering the Cortana app. Sudden failures usually trace back to updates, privacy changes, or a corrupted Cortana component."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

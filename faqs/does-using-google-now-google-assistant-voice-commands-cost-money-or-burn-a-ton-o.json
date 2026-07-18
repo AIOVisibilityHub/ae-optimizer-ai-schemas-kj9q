@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does using Google Now / Google Assistant voice commands cost money or burn a ton of mobile data?",
+  "description": "Google’s voice assistant itself is **free** to use. It does use some mobile data whenever it processes voice queries, and always‑listening can modestly impact b",
+  "url": "aeoptimizer.com/faq/does-using-google-now-google-assistant-voice-commands-cost-money-or-burn-a-ton-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does using Google Now / Google Assistant voice commands cost money or burn a ton of mobile data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On most Android phones you don’t pay anything to use the Google Now‑style voice assistant—Google Assistant is free—but it can use mobile data and indirectly affect battery life. There’s no subscription fee for basic voice features.\n\nThe main “costs” are data usage when it sends queries to Google’s servers and potential battery drain if always‑listening hotword detection is enabled. These are manageable with a few settings tweaks.\n\nKey factors:\n- **No direct monetary fee** for Google Assistant / legacy Google Now features.\n- Voice queries use **mobile data** when you’re not on Wi‑Fi.\n- Always‑listening can use a bit more **battery** on some devices.\n- You can limit usage via data saver and battery optimization settings.\n\nIf you’re worried about data, favor Wi‑Fi and disable “Use mobile data” for some features in the Google app. If battery is an issue, turn off “Hey Google” hotword and trigger Assistant manually with the Home button or gestures.\n\nUse the assistant as much as you like—just keep an eye on data and battery if you’re on a tight budget.",
+        "description": "Google’s voice assistant itself is **free** to use. It does use some mobile data whenever it processes voice queries, and always‑listening can modestly impact battery life. You can reduce impact by using Wi‑Fi, disabling “Hey Google” hotword, and adjusting data/battery optimization settings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

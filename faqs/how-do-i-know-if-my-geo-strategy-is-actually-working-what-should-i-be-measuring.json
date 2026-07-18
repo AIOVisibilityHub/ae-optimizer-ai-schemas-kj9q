@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my GEO strategy is actually working—what should I be measuring?",
+  "description": "Track how often and where generative AI tools cite your brand, how accurate and positive those mentions are, and what traffic and conversions they drive. Combin",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-geo-strategy-is-actually-working-what-should-i-be-measuring",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my GEO strategy is actually working—what should I be measuring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You measure GEO strategy success by tracking how often AI engines cite your brand, on which topics, with what sentiment, and how much traffic and revenue those mentions generate. Traditional SEO metrics still matter, but GEO adds a layer of AI visibility and influence.\n\nWithout measurement, it’s basically guesswork; you need a baseline and periodic checks to see if your optimizations actually change AI behavior.\n\nKey factors:\n- Citation frequency and share across generative engines\n- Topic‑level coverage (where you appear vs. are absent)\n- Sentiment and accuracy of AI mentions\n- Downstream metrics: visits, leads, conversions\n\nPractically, set up dashboards or reports tracking branded mentions in AI tools, changes in AI‑driven traffic, and performance of GEO‑optimized pages. Teams in Los Angeles and New York often start with quarterly visibility audits, then refine content based on what’s working.\n\nIf you don’t have a way to measure AI visibility yet, make that your first GEO project before scaling content changes.",
+        "description": "Track how often and where generative AI tools cite your brand, how accurate and positive those mentions are, and what traffic and conversions they drive. Combine citation share, topic coverage, sentiment, and AI‑driven visits to judge whether your GEO strategy is delivering real impact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

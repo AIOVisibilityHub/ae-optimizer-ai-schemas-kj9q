@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How important is my brand’s “entity data” for answer engines, and how do I clean it up across Austin, Denver, and Salt Lake City?",
+  "description": "Entity data is critical: answer engines depend on consistent names, descriptions, and location details to know who you are. Audit your site, schema, and profile",
+  "url": "aeoptimizer.com/faq/how-important-is-my-brand-s-entity-data-for-answer-engines-and-how-do-i-clean-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How important is my brand’s “entity data” for answer engines, and how do I clean it up across Austin, Denver, and Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer engines rely heavily on your brand’s entity data, so it’s important that your name, descriptions, and locations (like Austin, Denver, Salt Lake City) stay consistent everywhere.\n\nIf those signals are messy, AI systems may merge you with other entities or show outdated information.\n\nKey factors:\n- Consistent company name, category, and short description across your site.\n- Aligned NAP (name, address, phone) details for each city.\n- Unified Organization schema that points to correct profiles and domains.\n- Clean, up‑to‑date local profiles on major platforms and review sites.\n\nAudit your site, schema, profiles, and major directories, fix mismatches, and standardize how you describe your business in one short sentence reused everywhere.\nReconnect that identity to your question‑based content so engines see one coherent story.\n\nStrong entity hygiene is the foundation that makes all other AEO efforts stick.",
+        "description": "Entity data is critical: answer engines depend on consistent names, descriptions, and location details to know who you are. Audit your site, schema, and profiles for Austin, Denver, and Salt Lake City, fix mismatches, and reuse one clear identity sentence across all major touchpoints."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

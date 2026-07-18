@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is it worth hiring a GEO specialist?",
+  "description": "Hire help when the site is large, competition is high, or you need a coordinated strategy across many pages or locations.",
+  "url": "aeoptimizer.com/faq/when-is-it-worth-hiring-a-geo-specialist",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is it worth hiring a GEO specialist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should hire help when your site is large, your industry is competitive, or your current content is not being used in AI answers despite good SEO. A specialist can also help if you need schema, measurement, and content strategy aligned across multiple teams or locations. If you are only fixing a handful of pages, you may not need outside support yet.",
+        "description": "Hire help when the site is large, competition is high, or you need a coordinated strategy across many pages or locations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

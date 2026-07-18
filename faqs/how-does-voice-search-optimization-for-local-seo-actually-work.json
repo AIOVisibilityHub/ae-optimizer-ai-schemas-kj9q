@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does voice search optimization for local SEO actually work?",
+  "description": "It starts with conversational keyword research, then updates to FAQs, schema, and local profiles. The main goal is to make your business easy for voice assistan",
+  "url": "aeoptimizer.com/faq/how-does-voice-search-optimization-for-local-seo-actually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does voice search optimization for local SEO actually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with keyword and question research, then moves to page updates, FAQ creation, schema markup, and profile cleanup. The goal is to match how people speak, not how they type, especially for “near me” and service questions.",
+        "description": "It starts with conversational keyword research, then updates to FAQs, schema, and local profiles. The main goal is to make your business easy for voice assistants to understand and quote."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does Cortana voice search keep saying I’m offline when my internet works fine?",
+  "description": "Cortana can show “offline” even when Wi‑Fi works if firewalls, VPNs, or network policies block its connection to Microsoft services, or if the app is corrupted.",
+  "url": "aeoptimizer.com/faq/why-does-cortana-voice-search-keep-saying-i-m-offline-when-my-internet-works-fin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does Cortana voice search keep saying I’m offline when my internet works fine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Cortana keeps saying it needs an internet connection even when you’re online, it’s likely a firewall, VPN, or corrupted app issue.\n\nCortana depends on reaching Microsoft services, not just having raw internet access.\n\n**Key factors**\n- Test general browsing to confirm internet works\n- Temporarily disable VPNs or strict firewalls that may block Microsoft endpoints\n- Sign into your Microsoft account again and check account syncing\n- Repair or re‑register Cortana and run Windows troubleshooters\n\nThis is common on locked‑down corporate networks in Los Angeles or Denver where outbound connections are restricted. Engage IT if policies block Cortana by design; you might not be allowed to fix it yourself.\n\nTreat Cortana’s “offline” behavior as a connectivity‑to‑Microsoft problem, not just a Wi‑Fi issue.",
+        "description": "Cortana can show “offline” even when Wi‑Fi works if firewalls, VPNs, or network policies block its connection to Microsoft services, or if the app is corrupted. Check security software, sign‑in status, and then repair or re‑register Cortana rather than assuming your internet is down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

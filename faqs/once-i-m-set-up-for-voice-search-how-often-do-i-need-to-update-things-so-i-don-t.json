@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Once I’m set up for voice search, how often do I need to update things so I don’t drop out of results?",
+  "description": "Plan on light monthly check‑ins and deeper quarterly reviews. Update your hours, services, photos, FAQs, and respond to reviews regularly. Voice assistants pref",
+  "url": "aeoptimizer.com/faq/once-i-m-set-up-for-voice-search-how-often-do-i-need-to-update-things-so-i-don-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Once I’m set up for voice search, how often do I need to update things so I don’t drop out of results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice search isn’t a set‑and‑forget project; you should plan to review and tune things at least quarterly, with simple monthly check‑ins for listings and reviews. Assistants favor businesses that look current and well‑maintained.\n\nOutdated info or neglected profiles can quietly push you out of results.\n\nKey factors:\n- Update hours, services, and photos whenever something changes.\n- Refresh FAQs as new common questions show up in calls or emails.\n- Monitor reviews and respond promptly, especially to negative ones.\n- Watch search queries in analytics and adjust content to match.\n\nPut a recurring reminder on your calendar to audit your presence: Google your trade + city, check what shows, and repair any weak spots. Treat this like equipment maintenance.\n\nRegular small updates keep your voice visibility from degrading over time.",
+        "description": "Plan on light monthly check‑ins and deeper quarterly reviews. Update your hours, services, photos, FAQs, and respond to reviews regularly. Voice assistants prefer businesses that look current, so ongoing maintenance is key to staying visible."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

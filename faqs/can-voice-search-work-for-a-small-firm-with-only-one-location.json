@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can voice search work for a small firm with only one location?",
+  "description": "Yes. A single-location business can do very well if its local details, content, and mobile experience are accurate and clear.",
+  "url": "aeoptimizer.com/faq/can-voice-search-work-for-a-small-firm-with-only-one-location",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can voice search work for a small firm with only one location?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, as long as the information is specific, accurate, and updated regularly. Voice assistants rely on trust signals, so stale or inconsistent details can hurt more than having no local content at all.",
+        "description": "Yes. A single-location business can do very well if its local details, content, and mobile experience are accurate and clear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

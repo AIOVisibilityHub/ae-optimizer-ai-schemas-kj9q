@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my site barely has any content—can I still do GEO for AI voice systems?",
+  "description": "Yes. Start GEO by creating a focused set of Q&A pages around your core services and locations, using FAQPage, Organization, and LocalBusiness schema from day on",
+  "url": "aeoptimizer.com/faq/what-if-my-site-barely-has-any-content-can-i-still-do-geo-for-ai-voice-systems",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my site barely has any content—can I still do GEO for AI voice systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you don’t have much existing content, GEO for AI voice systems is still possible but it starts with building a small library of high-quality Q&A pages around your core services and locations. You’re essentially laying both your SEO and GEO foundations at once.\n\nThe advantage is that you can design everything for AI and voice from day one.\n\nKey factors:\n- Identify 20–40 core questions prospects ask before buying\n- Create dedicated pages or sections answering each in depth\n- Use FAQPage, Organization, and LocalBusiness schema from the start\n- Make your first content highly practical, not generic blog filler\n\nPractically, begin with one comprehensive FAQ hub and a few service/location pages structured around questions. Optimize snippets for voice (clear 1–2 sentence openings), then expand once these pages are indexed and tested.\n\nStarting from “zero content” can be an opportunity to build clean, GEO-ready information architecture without legacy clutter.",
+        "description": "Yes. Start GEO by creating a focused set of Q&A pages around your core services and locations, using FAQPage, Organization, and LocalBusiness schema from day one. With clean, question-based content, AI voice systems can quickly learn to recognize and quote your answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

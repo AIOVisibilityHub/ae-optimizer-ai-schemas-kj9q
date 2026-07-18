@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should GEO be structured for a multi-city business across LA, San Diego, Austin, Denver, and Salt Lake City?",
+  "description": "Use a hub-and-spoke GEO approach: consistent brand-level Organization schema plus dedicated LocalBusiness pages and FAQs for each city. Tailor Q&A content to lo",
+  "url": "aeoptimizer.com/faq/how-should-geo-be-structured-for-a-multi-city-business-across-la-san-diego-austi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should GEO be structured for a multi-city business across LA, San Diego, Austin, Denver, and Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For businesses spread across Los Angeles, San Diego, Austin, Denver, and Salt Lake City, GEO requires a structured approach to local Q&A content and consistent entity data. Each city should have its own question set and pages, but all should roll up under a coherent brand identity.\n\nAI voice systems need to understand both the parent organization and its local branches.\n\nKey factors:\n- Create city-specific landing pages with local questions and answers\n- Use Organization plus LocalBusiness schema for each location\n- Keep core brand facts consistent while tailoring local details\n- Track AI citations per city to identify uneven coverage\n\nPractically, start with a shared template: standard brand description plus city-specific FAQs (parking, neighborhoods served, local conditions). Apply schema uniformly and test local voice queries in each market.\n\nCoordinated GEO lets AI assistants give accurate, location-aware recommendations without confusing your multi-city footprint.",
+        "description": "Use a hub-and-spoke GEO approach: consistent brand-level Organization schema plus dedicated LocalBusiness pages and FAQs for each city. Tailor Q&A content to local questions, apply schema uniformly, and test AI voice responses per market to ensure accurate, location-aware recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

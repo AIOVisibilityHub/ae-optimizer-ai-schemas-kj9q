@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I do GEO for a local business with multiple cities?",
+  "description": "Create genuinely distinct location pages with local details, clear service information, and unique answers for each city.",
+  "url": "aeoptimizer.com/faq/how-do-i-do-geo-for-a-local-business-with-multiple-cities",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I do GEO for a local business with multiple cities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For local GEO, build pages that answer location-specific questions clearly and uniquely. A page for Los Angeles should reflect different services, examples, or service-area details than a page for Salt Lake City. Keep the location signal real and useful, not just added to the title.",
+        "description": "Create genuinely distinct location pages with local details, clear service information, and unique answers for each city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

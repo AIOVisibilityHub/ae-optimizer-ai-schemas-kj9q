@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I restructure my website so it’s organized around real user questions instead of our org chart?",
+  "description": "Audit every question customers ask, cluster them into themes, and map each one to a specific page or section. Then update navigation and internal links so visit",
+  "url": "aeoptimizer.com/faq/how-do-i-restructure-my-website-so-it-s-organized-around-real-user-questions-ins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I restructure my website so it’s organized around real user questions instead of our org chart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a content audit centered on questions: list what customers ask in support, sales, social, and forums, then map each to existing or needed pages.\n\nThe goal is to build a question‑driven architecture that answer engines can navigate easily.\n\nKey factors:\n- Group questions into themes (pricing, setup, troubleshooting, comparisons, use cases).\n- Identify gaps where high‑value questions don’t have clear, dedicated answers.\n- Restructure navigation and internal links to reflect these themes.\n- Host help content in subdirectories and cross‑link related answers.\n\nPractically, create a simple spreadsheet that maps each question to a URL, status (exists/needs content), and priority, then tackle themes in batches.\nUpdate menus and hubs to point directly at these question hubs.\n\nA question‑first architecture makes your entire site feel like a structured knowledge base to answer engines.",
+        "description": "Audit every question customers ask, cluster them into themes, and map each one to a specific page or section. Then update navigation and internal links so visitors—and answer engines—can move through question hubs instead of department‑based pages, turning your site into a structured knowledge base."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

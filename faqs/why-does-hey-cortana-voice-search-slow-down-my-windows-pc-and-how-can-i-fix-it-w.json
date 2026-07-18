@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does “Hey Cortana” voice search slow down my Windows PC, and how can I fix it without breaking search?",
+  "description": "“Hey Cortana” can slow some PCs because its background listening service and related components consume resources. You can fix this by re‑registering Cortana, u",
+  "url": "aeoptimizer.com/faq/why-does-hey-cortana-voice-search-slow-down-my-windows-pc-and-how-can-i-fix-it-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does “Hey Cortana” voice search slow down my Windows PC, and how can I fix it without breaking search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If “Hey Cortana” is slowing down your PC, re‑register Cortana, check background processes, and consider switching off always‑listening voice activation.\n\nPerformance issues usually come from Cortana components misbehaving or competing with other resource‑heavy apps.\n\n**Key factors**\n- Use Task Manager to see Cortana’s CPU and memory usage\n- Re‑register Cortana’s appx package using PowerShell if it’s corrupted\n- Disable background voice activation so Cortana only listens on demand\n- Ensure Windows and audio drivers are up to date\n\nIn older machines common in home offices in Denver or Salt Lake City, always‑on voice listening can be noticeable. Turning Cortana into a manual, click‑to‑talk assistant often restores responsiveness without losing functionality.\n\nTreat Cortana like any other background service: if it impacts performance, scale back its always‑running components.",
+        "description": "“Hey Cortana” can slow some PCs because its background listening service and related components consume resources. You can fix this by re‑registering Cortana, updating Windows and drivers, and turning off always‑listening voice activation so Cortana only runs when you manually trigger it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

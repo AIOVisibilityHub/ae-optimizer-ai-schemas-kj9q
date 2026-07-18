@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the real downside if my contracting business just ignores voice search completely?",
+  "description": "If you ignore voice search, you’ll miss a growing stream of high‑intent “near me” and emergency jobs that go straight to the contractors assistants recommend. C",
+  "url": "aeoptimizer.com/faq/what-s-the-real-downside-if-my-contracting-business-just-ignores-voice-search-co",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the real downside if my contracting business just ignores voice search completely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risk of ignoring voice search is missing out on a growing share of urgent, local “near me” jobs that go straight to whichever contractor assistants recommend. You won’t be considered in those moments.\n\nOver time, competitors who invest in voice can steadily capture more of this demand.\n\nKey factors:\n- Rising use of hands‑free search in cars, kitchens, and on job sites.\n- Strong overlap between voice and high‑intent queries (emergencies, same‑day needs).\n- Assistants often favor a few highly trusted businesses, not long lists.\n- Voice optimization also boosts standard local SEO, which you’d miss.\n\nIf you’re already investing in local SEO, folding in voice‑specific basics doesn’t add much cost but significantly reduces this blind spot.\n\nTreat voice as insurance that you’re visible wherever and however people search.",
+        "description": "If you ignore voice search, you’ll miss a growing stream of high‑intent “near me” and emergency jobs that go straight to the contractors assistants recommend. Competitors who optimize for voice will quietly capture more of this demand over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

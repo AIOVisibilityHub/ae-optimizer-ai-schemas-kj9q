@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the current way to use Google Now voice assistant on Android to do hands‑free commands?",
+  "description": "Google Now has been folded into **Google Assistant**, so you now use Assistant for hands‑free commands. Enable “Hey Google” and Voice Match in the Google app’s",
+  "url": "aeoptimizer.com/faq/what-s-the-current-way-to-use-google-now-voice-assistant-on-android-to-do-hands",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the current way to use Google Now voice assistant on Android to do hands‑free commands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On a modern Android phone you use **Google Assistant** instead of the old Google Now, and you can still do hands‑free voice commands by turning on “Hey Google” and Voice Match. Once that’s enabled, you can say “Hey Google” to call, text, navigate, set reminders, and more.\n\nGoogle Now’s core idea—quick actions and information by voice—still exists, but under the Assistant brand. Everything is managed from the Google app and system settings rather than a separate “Google Now” toggle.\n\nKey factors:\n- Enable **Hey Google & Voice Match** for hands‑free use.\n- Grant microphone, contacts, location, and notification permissions.\n- Use the Google app and Assistant settings to customize what it can access.\n- Some legacy Google Now features (Now on Tap) were removed or changed.\n\nOpen the Google app, tap your profile icon → Settings → Google Assistant → Hey Google & Voice Match, and follow the prompts to train your voice. Then start trying common commands like “Hey Google, text Mom,” “remind me at 9am,” or “navigate home” to rebuild your voice workflow.\n\nTreat Assistant as the next‑generation Google Now—learning a few key commands will get you back to the same productivity.",
+        "description": "Google Now has been folded into **Google Assistant**, so you now use Assistant for hands‑free commands. Enable “Hey Google” and Voice Match in the Google app’s Assistant settings, grant microphone and other permissions, then use “Hey Google” to call, text, navigate, set reminders, and more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How important is website speed for voice search and local SEO?",
+  "description": "Very important. Fast, mobile-friendly pages are easier for voice search systems to use and better for users trying to contact you quickly.",
+  "url": "aeoptimizer.com/faq/how-important-is-website-speed-for-voice-search-and-local-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How important is website speed for voice search and local SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Speed matters because many voice searches happen on mobile devices, where slow pages create drop-off. A fast, mobile-friendly page gives search engines a better chance to use your content and gives users a better experience.",
+        "description": "Very important. Fast, mobile-friendly pages are easier for voice search systems to use and better for users trying to contact you quickly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

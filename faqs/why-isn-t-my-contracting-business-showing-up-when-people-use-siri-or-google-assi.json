@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why isn’t my contracting business showing up when people use Siri or Google Assistant to find a contractor near them?",
+  "description": "Contractors usually miss voice search because their Google/Apple listings are incomplete, their name–address–phone details conflict across sites, and they lack",
+  "url": "aeoptimizer.com/faq/why-isn-t-my-contracting-business-showing-up-when-people-use-siri-or-google-assi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why isn’t my contracting business showing up when people use Siri or Google Assistant to find a contractor near them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest reason contractors don’t show up in voice search is incomplete or inconsistent business information across Google, Apple, Bing, and major directories. Voice assistants avoid businesses they’re not confident about.\n\nContent that doesn’t answer direct questions is another common blocker.\n\nKey factors:\n- Unverified or half‑filled Google Business Profile and Apple Business Connect.\n- Mismatched name, address, or phone (NAP) between your website and listings.\n- No FAQ‑style content that answers “who, what, where, when, how” for your services.\n- Weak review volume or poor ratings compared to local competitors.\n\nRun a quick audit: Google your business name and trade, check every listing, and fix anything inconsistent. Then add 3–5 clear FAQs per service page.\n\nRemoving these friction points often unlocks voice visibility without advanced tactics.",
+        "description": "Contractors usually miss voice search because their Google/Apple listings are incomplete, their name–address–phone details conflict across sites, and they lack clear FAQ content. Fix your listings, align NAP everywhere, and add question‑based answers to your site to start appearing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

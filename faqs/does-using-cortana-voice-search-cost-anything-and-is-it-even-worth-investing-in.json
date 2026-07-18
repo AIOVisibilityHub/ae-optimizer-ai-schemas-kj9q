@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does using Cortana voice search cost anything, and is it even worth investing in for my business?",
+  "description": "Cortana itself is free on Windows, and there’s no separate paid voice‑search tier. The real cost is the time and SEO work to make your content voice‑friendly. G",
+  "url": "aeoptimizer.com/faq/does-using-cortana-voice-search-cost-anything-and-is-it-even-worth-investing-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does using Cortana voice search cost anything, and is it even worth investing in for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On modern Windows, Cortana is mostly free to use, but it is limited, and there’s no separate paid “pro” version for voice search.\n\nCosts come indirectly through time spent optimizing content or managing Windows and Microsoft accounts.\n\n**Key factors**\n- Cortana is bundled with Windows at no extra license fee\n- Some business integrations (Power BI, Microsoft 365) require paid subscriptions\n- Voice search visibility for your site depends on broader SEO and content investment\n- Cortana’s role has been reduced in newer Windows versions, so long‑term value may be modest\n\nIf you’re in Austin or Los Angeles optimizing for Cortana, think of costs as part of your overall voice SEO budget rather than a Cortana‑specific spend. Invest where changes help Siri, Google Assistant, Alexa, and Bing/Cortana together.\n\nTreat Cortana as one channel in a multi‑assistant voice strategy, not a standalone platform demanding unique paid tools.",
+        "description": "Cortana itself is free on Windows, and there’s no separate paid voice‑search tier. The real cost is the time and SEO work to make your content voice‑friendly. Given Cortana’s shrinking role, treat it as a secondary benefit of broader voice SEO, not the primary reason for investment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

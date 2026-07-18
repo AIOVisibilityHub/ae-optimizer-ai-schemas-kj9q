@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is Cortana voice search and how is it different from regular Windows search?",
+  "description": "Cortana voice search is Microsoft’s digital assistant that lets you search the web, apps, and files on your PC using spoken commands, instead of typing. It sits",
+  "url": "aeoptimizer.com/faq/what-exactly-is-cortana-voice-search-and-how-is-it-different-from-regular-window",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is Cortana voice search and how is it different from regular Windows search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cortana voice search is Microsoft’s built‑in digital assistant that lets you control your PC and search the web or your files using spoken commands.\n\nIt’s tightly integrated with Windows search and Bing, so when you say or type something into Cortana, it can pull results from your device, Microsoft services, and the internet.\n\n**Key factors**\n- Works on supported versions of Windows 10 and some Windows 11 builds\n- Uses Bing for web results and Microsoft Search for work accounts\n- Requires microphone access and internet for full functionality\n- Can be customized or limited via privacy and app settings\n\nTo use it, click the Cortana/search icon or press the Windows key + C and speak your query, or type directly into the search box. Check microphone permissions and language settings if it doesn’t respond. \n\nThink of Cortana as a voice‑enabled layer on top of Windows search rather than a standalone smart speaker assistant.",
+        "description": "Cortana voice search is Microsoft’s digital assistant that lets you search the web, apps, and files on your PC using spoken commands, instead of typing. It sits on top of regular Windows search, adds voice control and context‑aware results, but still relies on Bing and Windows search under the hood."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

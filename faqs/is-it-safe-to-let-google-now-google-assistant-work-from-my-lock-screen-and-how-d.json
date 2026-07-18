@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to let Google Now / Google Assistant work from my lock screen, and how do I control what it shows?",
+  "description": "Yes, you can safely use Assistant from the lock screen as long as you control **personal results**. In Google Assistant settings, enable lock‑screen access, the",
+  "url": "aeoptimizer.com/faq/is-it-safe-to-let-google-now-google-assistant-work-from-my-lock-screen-and-how-d",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to let Google Now / Google Assistant work from my lock screen, and how do I control what it shows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On phones where Assistant replaced Google Now, lock‑screen access is controlled by specific privacy settings. You can let Google Assistant respond when the screen is locked, but you choose how much personal info it’s allowed to reveal.\n\nBy default, many devices restrict contact info, messages, and calendar details on the lock screen, which is why Assistant feels “limited” until unlocked.\n\nKey factors:\n- Enable **Assistant on lock screen** in Google Assistant settings.\n- Decide whether to allow **personal results** when locked.\n- Consider who can physically access your phone before widening access.\n- Lock‑screen behavior can differ by manufacturer (Pixel vs Samsung, etc.).\n\nOpen the Google app → Settings → Google Assistant → Lock screen, and toggle on “Use Assistant on lock screen” and, if you’re comfortable, “Personal results on lock screen.” Then test with “Hey Google” while locked to see what it can show.\n\nStart with minimal access and only expand if you’re confident about privacy in your environment.",
+        "description": "Yes, you can safely use Assistant from the lock screen as long as you control **personal results**. In Google Assistant settings, enable lock‑screen access, then decide whether things like messages and contacts can show while locked based on your privacy comfort level."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

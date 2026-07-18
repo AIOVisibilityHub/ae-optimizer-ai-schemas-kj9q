@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use Google Now style voice features in Austin or Seattle without handing Google all my data?",
+  "description": "Yes. In the Google app and Assistant settings, you can **turn off or limit Activity Controls and personal results**, especially location history and message/cal",
+  "url": "aeoptimizer.com/faq/can-i-use-google-now-style-voice-features-in-austin-or-seattle-without-handing-g",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use Google Now style voice features in Austin or Seattle without handing Google all my data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re privacy‑conscious in a city like Austin or Seattle, you can still use voice assistance without giving Google blanket access to everything. The trick is to selectively enable only the data you’re comfortable sharing.\n\nAssistant works best with location history, contacts, and activity data, but you can turn off parts of this and accept slightly reduced personalization. You’re not locked into an all‑or‑nothing choice.\n\nKey factors:\n- Review **Activity Controls** (Web & App, Location History, YouTube History).\n- Limit **personal results** (messages, calendar) if they feel too invasive.\n- Regularly clear voice and search history from your Google account.\n- Understand that disabling some data reduces personalization quality.\n\nIn the Google app, open your profile → Your data in Search and toggle off any activity streams you don’t want, then in Assistant settings limit personal results, especially on the lock screen. Periodically delete old voice queries from your account.\n\nYou can treat Google’s voice tools as opt‑in for each data type, shaping a balance between convenience and privacy that fits you.",
+        "description": "Yes. In the Google app and Assistant settings, you can **turn off or limit Activity Controls and personal results**, especially location history and message/calendar access. You’ll lose some personalization, but you can still use core voice commands without sharing everything."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of proof or “evidence” do AI engines look for when deciding whether to trust and cite our content?",
+  "description": "AI engines favor content that shows expertise and real‑world validation: clear authorship, data and examples, case studies, reviews, and third‑party mentions. S",
+  "url": "aeoptimizer.com/faq/what-kind-of-proof-or-evidence-do-ai-engines-look-for-when-deciding-whether-to-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of proof or “evidence” do AI engines look for when deciding whether to trust and cite our content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The evidence you need for GEO is twofold: proof that your content is authoritative (expertise, data, examples) and proof that users trust you (reviews, case studies, third‑party mentions). AI engines use both to judge whether to cite you.\n\nThin content without real‑world signals often loses out to competitors who show lived experience and external validation.\n\nKey factors:\n- Clear authorship and expertise for key topics\n- Specific data points, methodologies, and examples\n- User reviews and testimonials on and off your site\n- References or citations on reputable external domains\n\nPractically, enrich your key pages with concrete evidence—numbers, processes, charts—and link to or highlight external recognition where appropriate. In cities like Boston or Denver, locally relevant case stories can also strengthen perceived authority.\n\nIf your pages feel generic, make “add evidence” a checklist item for every GEO‑targeted update.",
+        "description": "AI engines favor content that shows expertise and real‑world validation: clear authorship, data and examples, case studies, reviews, and third‑party mentions. Strengthen your GEO pages with specific facts and credible external signals instead of relying on generic, unsubstantiated claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

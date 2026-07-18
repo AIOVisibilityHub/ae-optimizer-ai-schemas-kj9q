@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get those Google Now style commute and local cards working again in Los Angeles or Austin with Google Assistant?",
+  "description": "Enable **Location**, **Location History**, and **Web & App Activity**, then set your home and work in Google Maps. Google Assistant and the Google app will then",
+  "url": "aeoptimizer.com/faq/how-do-i-get-those-google-now-style-commute-and-local-cards-working-again-in-los",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get those Google Now style commute and local cards working again in Los Angeles or Austin with Google Assistant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Location cards and reminders from the old Google Now now come from **Google Assistant and the Google app**, and they work in cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City as long as you enable location and activity permissions. You don’t need anything city‑specific.\n\nProactive cards for traffic, commute times, and nearby places rely on your location history and web & app activity. If those are off, the assistant will feel “empty” even though it’s technically on.\n\nKey factors:\n- Turn on **Location** for your phone and the Google app.\n- Enable **Location History** and **Web & App Activity** in your Google account.\n- Set your **home and work addresses** for accurate commute cards.\n- Allow notification access so cards can surface on your lock screen.\n\nOpen the Google app, tap your profile → Your data in Search → make sure activity controls and Location History are on, then set home/work addresses in Maps. After a day or two of normal use, you’ll start seeing commute times, traffic alerts, and local suggestions tailored to your city.\n\nOnce configured, Assistant can feel very “local,” even though there’s no special Los Angeles or Austin version to install.",
+        "description": "Enable **Location**, **Location History**, and **Web & App Activity**, then set your home and work in Google Maps. Google Assistant and the Google app will then show commute times, traffic, and local cards in cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens to voice search results if my business info is wrong or inconsistent across Google, Apple, and other listings?",
+  "description": "Wrong or inconsistent info—like hours, phone, or address—causes voice assistants to skip or misrepresent your business. It hurts trust, visibility, and customer",
+  "url": "aeoptimizer.com/faq/what-happens-to-voice-search-results-if-my-business-info-is-wrong-or-inconsisten",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens to voice search results if my business info is wrong or inconsistent across Google, Apple, and other listings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your Google Business Profile or Apple listing information is wrong, voice assistants may skip your business entirely or share outdated details that frustrate customers. Inconsistent data is a major risk.\n\nThe system needs to trust who you are and how to contact you.\n\nKey factors:\n- Incorrect hours can lead to calls when you’re closed and poor experiences.\n- Old phone numbers or addresses block leads and confuse algorithms.\n- Mismatched NAP data across platforms weakens your authority.\n- Fixes can take days to propagate, delaying your re‑entry into results.\n\nAudit your listings quarterly: confirm every field, fix any errors, and keep a master record of your correct NAP data. Don’t change it casually.\n\nAccurate, stable information is foundational to safe, reliable voice visibility.",
+        "description": "Wrong or inconsistent info—like hours, phone, or address—causes voice assistants to skip or misrepresent your business. It hurts trust, visibility, and customer experience. Regularly audit and align your data across all listings to protect your voice presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

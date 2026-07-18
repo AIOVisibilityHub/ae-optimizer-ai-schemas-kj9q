@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the simplest GEO setup for a small website?",
+  "description": "Start with direct answer blocks, clear headings, FAQ sections, and basic schema on your most important pages.",
+  "url": "aeoptimizer.com/faq/what-is-the-simplest-geo-setup-for-a-small-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the simplest GEO setup for a small website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A practical baseline is a direct answer block, clear H2 and H3 structure, FAQ sections where relevant, and schema for the page type. You should also keep paragraphs short, use specific terminology consistently, and make sure important facts are visible in the HTML. For a software brand, that often means refining product pages, use cases, and comparison pages first.",
+        "description": "Start with direct answer blocks, clear headings, FAQ sections, and basic schema on your most important pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

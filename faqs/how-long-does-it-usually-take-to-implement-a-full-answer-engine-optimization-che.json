@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it usually take to implement a full answer engine optimization checklist on a site?",
+  "description": "Most teams can apply a solid AEO checklist to priority pages in a few weeks, spending 2–4 hours per key page and then 30–60 minutes per month on maintenance. Th",
+  "url": "aeoptimizer.com/faq/how-long-does-it-usually-take-to-implement-a-full-answer-engine-optimization-che",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it usually take to implement a full answer engine optimization checklist on a site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good answer engine optimization checklist typically includes 20–40 items, but you don’t need to complete every item for every page.\n\nPlan for 2–4 hours per core page to research questions, restructure content, and implement schema, then ongoing 30–60 minute reviews monthly. The bigger time investment is usually upfront.\n\nKey factors:\n- Number of priority pages you’re optimizing\n- Current state of your technical SEO and content quality\n- How familiar your team is with schema and rich results testing\n- Whether you’re doing one-time cleanup or building a recurring workflow\n\nFor a mid-size site, expect a few weeks of focused implementation followed by lighter maintenance. In fast-moving markets like Los Angeles or New York tech, schedule quarterly checklist reviews to keep up with changing SERP layouts and answer engine behavior. Treat time spent as infrastructure, not ad-hoc fixes.",
+        "description": "Most teams can apply a solid AEO checklist to priority pages in a few weeks, spending 2–4 hours per key page and then 30–60 minutes per month on maintenance. The heaviest lift is initial restructuring and schema implementation; ongoing reviews are comparatively light."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

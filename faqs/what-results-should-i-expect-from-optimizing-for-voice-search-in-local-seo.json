@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What results should I expect from optimizing for voice search in local SEO?",
+  "description": "Expect better visibility for local questions, more calls, and more map actions. Voice search usually helps most when people are ready to visit or contact a busi",
+  "url": "aeoptimizer.com/faq/what-results-should-i-expect-from-optimizing-for-voice-search-in-local-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What results should I expect from optimizing for voice search in local SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main outcome is better visibility for conversational local queries like hours, services, directions, and “best near me” searches. For many businesses, the practical win is more calls, more map actions, and more qualified visits from people ready to buy.",
+        "description": "Expect better visibility for local questions, more calls, and more map actions. Voice search usually helps most when people are ready to visit or contact a business quickly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

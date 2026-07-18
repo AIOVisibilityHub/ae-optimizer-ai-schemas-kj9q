@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does voice search optimization for lawyers usually cost?",
+  "description": "Cost depends on scope; small updates are cheaper, while full content, schema, and technical optimization cost more.",
+  "url": "aeoptimizer.com/faq/how-much-does-voice-search-optimization-for-lawyers-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does voice search optimization for lawyers usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary based on how much content and technical work is needed. A simple FAQ and profile cleanup is much cheaper than a full content rebuild, technical schema implementation, and ongoing optimization.",
+        "description": "Cost depends on scope; small updates are cheaper, while full content, schema, and technical optimization cost more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

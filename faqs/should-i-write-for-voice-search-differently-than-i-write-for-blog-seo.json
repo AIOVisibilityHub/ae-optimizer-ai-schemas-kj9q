@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I write for voice search differently than I write for blog SEO?",
+  "description": "Yes. Voice-friendly content should lead with the answer and use more natural, spoken language than a typical blog post.",
+  "url": "aeoptimizer.com/faq/should-i-write-for-voice-search-differently-than-i-write-for-blog-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I write for voice search differently than I write for blog SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use voice-friendly phrasing in the heading, answer the question in the first sentence, and keep the rest of the section for detail. That format is easier for assistants and also easier for people skimming on mobile.",
+        "description": "Yes. Voice-friendly content should lead with the answer and use more natural, spoken language than a typical blog post."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

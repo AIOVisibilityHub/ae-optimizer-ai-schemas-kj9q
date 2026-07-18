@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with answer engine optimization examples, and what mistakes should I avoid?",
+  "description": "AEO examples can backfire if questions are artificial, answers are vague, or schema misrepresents content. Avoid keyword-stuffed Q&As, incomplete responses on c",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-answer-engine-optimization-examples-and-what-mistakes-sho",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with answer engine optimization examples, and what mistakes should I avoid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common mistakes in answer engine optimization examples include vague questions, incomplete answers, and over-optimized content that feels unnatural. These can hurt both user trust and your chances of being cited by AI tools.\n\nAnswer engines are good at spotting fluff and contradiction, so low-quality Q&A content may be ignored or even avoided.\n\nKey factors:\n- Questions that no real person would ask, written only for keywords.\n- Answers that dodge specifics on cost, timing, or limitations.\n- Clickbait-style headings with weak or off-topic answers.\n- Schema markup that misrepresents what the page contains.\n\nReview your existing FAQs and Q&A sections, flag anything that feels like marketing copy instead of genuine guidance, and rewrite for clarity and honesty. Remove misleading schema and keep your claims consistent.\n\nIf you address these risks early, your future AEO examples will be more reliable and durable as answer engines evolve.",
+        "description": "AEO examples can backfire if questions are artificial, answers are vague, or schema misrepresents content. Avoid keyword-stuffed Q&As, incomplete responses on cost or timing, clickbait headings, and dishonest markup. Focus on clear, honest answers to real questions users actually ask."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

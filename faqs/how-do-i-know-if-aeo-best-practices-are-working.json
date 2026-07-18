@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if AEO best practices are working?",
+  "description": "Look for visibility in snippets, answer boxes, PAA, and AI-generated results, plus improvements in clicks and impressions. AEO success is measured by being cite",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-aeo-best-practices-are-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if AEO best practices are working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Track whether your pages appear in featured snippets, answer boxes, People Also Ask results, and AI-generated answers for the topics you care about. You should also watch organic clicks, impressions, and whether your content is being surfaced for the right questions rather than just ranking for broad keywords.",
+        "description": "Look for visibility in snippets, answer boxes, PAA, and AI-generated results, plus improvements in clicks and impressions. AEO success is measured by being cited for the right questions, not just by rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

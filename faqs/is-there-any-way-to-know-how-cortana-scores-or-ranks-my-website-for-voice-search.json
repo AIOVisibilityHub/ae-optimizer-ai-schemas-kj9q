@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there any way to know how Cortana “scores” or ranks my website for voice search answers?",
+  "description": "Cortana doesn’t expose a separate ranking score; it mostly follows Bing’s search signals. If your site is fast, secure, well‑structured, and clearly answers com",
+  "url": "aeoptimizer.com/faq/is-there-any-way-to-know-how-cortana-scores-or-ranks-my-website-for-voice-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there any way to know how Cortana “scores” or ranks my website for voice search answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cortana doesn’t give each business an official “ranking score,” but Bing’s usual SEO signals—content quality, technical health, and local data accuracy—strongly influence whether you’re chosen as the spoken answer.\n\nThink of Cortana as a voice front‑end on Bing’s ranking systems.\n\n**Key factors**\n- Relevance to the spoken query and clear, answer‑style content\n- Domain authority, HTTPS, and fast load times\n- Accurate, consistent business listings and schema\n- User engagement metrics (clicks, dwell time) on Bing\n\nFor businesses in Denver or Salt Lake City, focusing on fundamentals that help Bing and other assistants (Siri, Alexa, Google) will indirectly improve Cortana outcomes as well.\n\nTreat Cortana selection as an outcome of strong overall search optimization, not a separate scoring model you can directly see.",
+        "description": "Cortana doesn’t expose a separate ranking score; it mostly follows Bing’s search signals. If your site is fast, secure, well‑structured, and clearly answers common questions—and you rank well in Bing—it’s more likely Cortana will read your pages out loud for voice queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

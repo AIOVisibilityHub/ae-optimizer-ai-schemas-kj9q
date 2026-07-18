@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if different AI voice systems give conflicting info about my business?",
+  "description": "Conflicting AI voice answers usually mean your data is inconsistent. Fix GEO by aligning your site, Google Business Profile, and directories, updating old conte",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-different-ai-voice-systems-give-conflicting-info-about-my-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if different AI voice systems give conflicting info about my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When multiple AI platforms and voice assistants give inconsistent answers about your business, you need to treat GEO as a data-quality problem first. The aim is to make your core facts so clear and consistent that every system converges on the same information.\n\nDiscrepancies usually stem from mismatched listings, outdated content, or conflicting third-party data.\n\nKey factors:\n- Align NAP data and hours across your site, Google Business Profile, and directories\n- Update old blog posts or landing pages that mention past prices or policies\n- Use schema to highlight canonical facts (location, services, pricing ranges)\n- Monitor knowledge panels and local results for outdated or conflicting info\n\nPractically, make a single, authoritative “facts” page and reference it across your site, then refresh key profiles and test questions again in multiple assistants. Document changes so you can trace improvements.\n\nGEO works best when all AI voice systems see one coherent, up-to-date picture of your business.",
+        "description": "Conflicting AI voice answers usually mean your data is inconsistent. Fix GEO by aligning your site, Google Business Profile, and directories, updating old content, and using schema to highlight canonical facts. Then retest key questions across assistants until responses match your current information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

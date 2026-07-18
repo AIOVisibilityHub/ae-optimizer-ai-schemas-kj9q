@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my answer engine optimization is actually working, beyond just watching traffic?",
+  "description": "Check how AI tools describe and cite you, watch growth in featured snippets and rich results, and track impressions and engagement on question‑style queries. AE",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-answer-engine-optimization-is-actually-working-beyond-just-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my answer engine optimization is actually working, beyond just watching traffic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure answer‑engine optimization, track how often your brand is cited, how AI tools summarize you, and whether you’re gaining more featured snippets and rich results over time.\n\nYou’re measuring visibility and representation, not just organic clicks.\n\nKey factors:\n- Periodic checks of major AI tools to see which pages they cite and how they describe you.\n- Counts of featured snippets, People Also Ask appearances, and FAQ/HowTo rich results.\n- Changes in branded and non‑branded impressions for question‑style queries.\n- On‑page engagement and conversion metrics for optimized sections.\n\nSet up a simple monitoring routine—monthly or quarterly—to capture these signals and align them with your AEO changes.\nUse what you learn to refine question targeting and content patterns.\n\nMeasuring both how often and how accurately you’re surfaced is key to managing AEO as an ongoing practice.",
+        "description": "Check how AI tools describe and cite you, watch growth in featured snippets and rich results, and track impressions and engagement on question‑style queries. AEO success shows up as more frequent, more accurate appearances in answers and summaries, not just higher raw traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is GEO just a buzzword, or does it require real work?",
+  "description": "GEO is not just a buzzword; it usually requires real content, technical, and measurement work to be effective.",
+  "url": "aeoptimizer.com/faq/is-geo-just-a-buzzword-or-does-it-require-real-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is GEO just a buzzword, or does it require real work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest objection is that GEO sounds new, but the underlying work is familiar: clearer content, better structure, stronger evidence, and cleaner technical implementation. The difference is that the content is now written for AI systems as well as people. If done well, GEO improves the usefulness of the page for both.",
+        "description": "GEO is not just a buzzword; it usually requires real content, technical, and measurement work to be effective."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

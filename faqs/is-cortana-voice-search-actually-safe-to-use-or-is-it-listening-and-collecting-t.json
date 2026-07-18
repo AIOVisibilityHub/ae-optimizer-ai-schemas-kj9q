@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is Cortana voice search actually safe to use, or is it listening and collecting too much data?",
+  "description": "Cortana isn’t uniquely invasive, but like any assistant it does process your voice and activity. You can control its microphone access, voice activation, diagno",
+  "url": "aeoptimizer.com/faq/is-cortana-voice-search-actually-safe-to-use-or-is-it-listening-and-collecting-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Cortana voice search actually safe to use, or is it listening and collecting too much data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cortana’s security and privacy depend on how you configure Windows permissions, diagnostics, and your Microsoft account settings—it’s not inherently more invasive than other major assistants.\n\nConcerns usually come from misunderstanding how voice data and queries are processed.\n\n**Key factors**\n- You can control mic access, voice activation, and what Cortana can see\n- Diagnostic data levels can be reduced in Windows settings\n- Microsoft account privacy controls let you manage stored activity\n- Enterprise policies can further limit or disable Cortana features\n\nIn privacy‑sensitive offices in Los Angeles or San Diego, standard practice is to either tightly limit Cortana or turn off wake‑word listening entirely, leaving only manual voice use when needed.\n\nTreat Cortana as safe enough when configured correctly, but still subject to the same data‑sharing trade‑offs as other assistants.",
+        "description": "Cortana isn’t uniquely invasive, but like any assistant it does process your voice and activity. You can control its microphone access, voice activation, diagnostics, and account data. Many businesses simply disable always‑listening features and restrict permissions to keep privacy risks low."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

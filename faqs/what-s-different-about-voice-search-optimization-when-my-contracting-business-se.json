@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s different about voice search optimization when my contracting business serves multiple cities like Denver and Salt Lake City?",
+  "description": "For multi‑city coverage, build location‑specific content and service‑area settings for each city, then align schema and NAP data across them. Voice assistants n",
+  "url": "aeoptimizer.com/faq/what-s-different-about-voice-search-optimization-when-my-contracting-business-se",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s different about voice search optimization when my contracting business serves multiple cities like Denver and Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you serve multiple cities like Denver, Salt Lake City, and Boulder, structure your voice search strategy around dedicated pages or sections for each location, plus tightly configured service areas in your listings. Assistants need to know where each service is relevant.\n\nGeneric “we serve everywhere” content rarely wins.\n\nKey factors:\n- Create location‑specific content detailing services, neighborhoods, and common issues.\n- Configure separate service areas or profiles where platforms allow.\n- Use schema to clarify which services apply to which locations.\n- Ensure NAP data and branding are consistent across all cities.\n\nStart with your top two cities, build strong location pages and listings, then replicate the pattern. Test voice queries in each city to confirm you’re visible.\n\nA clear multi‑city structure helps voice assistants route the right local leads to the right branch of your business.",
+        "description": "For multi‑city coverage, build location‑specific content and service‑area settings for each city, then align schema and NAP data across them. Voice assistants need clear signals about where you operate so they can recommend the right office for each local query."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

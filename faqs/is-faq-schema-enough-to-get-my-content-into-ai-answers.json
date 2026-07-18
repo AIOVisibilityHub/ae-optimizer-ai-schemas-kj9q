@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is FAQ schema enough to get my content into AI answers?",
+  "description": "No. FAQ schema helps, but it is not enough by itself. Your page still needs clear, visible, trustworthy answers and supporting context.",
+  "url": "aeoptimizer.com/faq/is-faq-schema-enough-to-get-my-content-into-ai-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is FAQ schema enough to get my content into AI answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only if the content is genuinely visible and useful to users. Answer engines tend to favor pages where the question and answer are easy to read on-page, the markup is accurate, and the page adds real value instead of repeating generic marketing copy.",
+        "description": "No. FAQ schema helps, but it is not enough by itself. Your page still needs clear, visible, trustworthy answers and supporting context."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "After the last Android update in Los Angeles my Google Now / Google Assistant stopped responding. Is this normal and how do I fix it?",
+  "description": "Yes, it’s common after big Android updates for Assistant to break because **permissions and settings get reset**. Re‑enable microphone access, turn Hey Google &",
+  "url": "aeoptimizer.com/faq/after-the-last-android-update-in-los-angeles-my-google-now-google-assistant-stop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "After the last Android update in Los Angeles my Google Now / Google Assistant stopped responding. Is this normal and how do I fix it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your Google Assistant (formerly Google Now) stopped responding in Los Angeles or San Diego after a big Android update, you almost always can fix it by checking permissions, voice settings, and app updates—not by waiting for Google.\n\nMajor OS upgrades sometimes reset microphone, battery, or accessibility permissions and break “Hey Google”. The assistant app itself may also need to be updated to match the new system.\n\nKey factors:\n- Re‑enable **microphone permission** for the Google app.\n- Turn **Hey Google & Voice Match** back on and retrain your voice.\n- Remove battery restrictions or background limits on Google.\n- Update the Google app through the Play Store.\n\nOn your phone, go to Settings → Apps → Google → Permissions and ensure Microphone is allowed. Then open the Google app → Settings → Google Assistant → Hey Google & Voice Match to retrain and re‑enable voice activation. Finally, update the Google app via the Play Store and restart.\n\nTreat post‑update issues as settings glitches; in most Los Angeles and San Diego cases, they’re fixable in minutes.",
+        "description": "Yes, it’s common after big Android updates for Assistant to break because **permissions and settings get reset**. Re‑enable microphone access, turn Hey Google & Voice Match back on and retrain your voice, remove battery restrictions on Google, update the app, then restart your phone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

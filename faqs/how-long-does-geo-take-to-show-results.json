@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does GEO take to show results?",
+  "description": "Small GEO changes can show up in weeks, but broader improvements often take longer because authority and citations build over time.",
+  "url": "aeoptimizer.com/faq/how-long-does-geo-take-to-show-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does GEO take to show results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no fixed timeline, but small improvements can sometimes be visible in a few weeks after a crawl and reindexing cycle. Broader visibility gains usually take longer because GEO also depends on authority signals across your site and the wider web. If your pages are already strong, the turnaround can be faster.",
+        "description": "Small GEO changes can show up in weeks, but broader improvements often take longer because authority and citations build over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

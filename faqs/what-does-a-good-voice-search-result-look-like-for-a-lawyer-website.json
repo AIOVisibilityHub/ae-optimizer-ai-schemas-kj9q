@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a good voice search result look like for a lawyer website?",
+  "description": "A good result gives a direct answer, clear contact details, and an easy next step like calling or submitting a form.",
+  "url": "aeoptimizer.com/faq/what-does-a-good-voice-search-result-look-like-for-a-lawyer-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a good voice search result look like for a lawyer website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A successful outcome is fewer steps between a spoken question and a direct contact action. In practice, that means more people finding the right page quickly and calling, texting, or requesting more information sooner.",
+        "description": "A good result gives a direct answer, clear contact details, and an easy next step like calling or submitting a form."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I optimize my website so Cortana voice search will read my business as the answer?",
+  "description": "Focus on voice‑first SEO: create clear, concise answers that can be read aloud, use schema markup, keep your site fast and secure, and fully optimize your local",
+  "url": "aeoptimizer.com/faq/how-do-i-optimize-my-website-so-cortana-voice-search-will-read-my-business-as-th",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I optimize my website so Cortana voice search will read my business as the answer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can optimize for Cortana voice search by making your site fast, secure, and written in natural language that directly answers common spoken questions.\n\nCortana relies heavily on Bing, featured snippets, and structured local data to pick a single spoken answer.\n\n**Key factors**\n- Target answer‑box style content: clear, concise answers near the top of pages\n- Use schema markup (FAQ, LocalBusiness, etc.) to clarify entities\n- Ensure HTTPS, fast load times, and mobile‑friendly design\n- Write at an easy‑to‑read level using natural conversational phrases\n\nIn cities like Los Angeles or Denver, keep NAP (name, address, phone) consistent and fully populate Bing Places and other local listings so Cortana can trust your business data. Build pages that literally answer the way a person would ask a question out loud.\n\nTreat Cortana optimization as voice‑first SEO: design content to be the one best spoken answer, not just another blue link.",
+        "description": "Focus on voice‑first SEO: create clear, concise answers that can be read aloud, use schema markup, keep your site fast and secure, and fully optimize your local listings (like Bing Places). Cortana pulls from Bing and featured snippets, so aim to be the one best, most understandable spoken answer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

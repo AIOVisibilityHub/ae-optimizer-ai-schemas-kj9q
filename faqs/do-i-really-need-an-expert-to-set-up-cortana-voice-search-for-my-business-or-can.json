@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need an expert to set up Cortana voice search for my business, or can I just DIY it?",
+  "description": "You can easily DIY basic Cortana setup for home use, but once you’re integrating it with business data or multi‑location voice SEO, expert help from IT and sear",
+  "url": "aeoptimizer.com/faq/do-i-really-need-an-expert-to-set-up-cortana-voice-search-for-my-business-or-can",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need an expert to set up Cortana voice search for my business, or can I just DIY it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need a professional just to turn Cortana on, but if you’re tying it into business data, policies, or multi‑location SEO, expert help can save time and mistakes.\n\nHome users can manage most Cortana settings themselves; organizations face more complexity.\n\n**Key factors**\n- Basic setup: mic, voice activation, privacy settings (DIY friendly)\n- Business integrations: Microsoft 365, Power BI, and account governance\n- Multi‑city voice SEO (Los Angeles, San Diego, Austin, Denver, Salt Lake City) adds data consistency challenges\n- IT and marketing coordination reduces security and branding risks\n\nIf Cortana plays a role in staff workflows or customer acquisition across cities, engage IT and a search/voice specialist to design and document the setup instead of improvising.\n\nTreat expert help as useful once Cortana touches shared data, compliance, or marketing budgets—not for simple home usage.",
+        "description": "You can easily DIY basic Cortana setup for home use, but once you’re integrating it with business data or multi‑location voice SEO, expert help from IT and search specialists is wise. It prevents misconfigurations, security issues, and inconsistent listings across cities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

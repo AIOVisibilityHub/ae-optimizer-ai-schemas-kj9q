@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I do GEO myself, or do I need an expert?",
+  "description": "You can handle basic GEO internally if you can edit content and schema, but experts help when the site is large or highly competitive.",
+  "url": "aeoptimizer.com/faq/can-i-do-geo-myself-or-do-i-need-an-expert",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I do GEO myself, or do I need an expert?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can do basic GEO yourself if you already control the website and can edit content, headings, and schema. A specialist becomes more useful when you need to scale across many pages, fix technical issues, or compete in a crowded category. For a small site, a disciplined internal process is often enough to start.",
+        "description": "You can handle basic GEO internally if you can edit content and schema, but experts help when the site is large or highly competitive."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

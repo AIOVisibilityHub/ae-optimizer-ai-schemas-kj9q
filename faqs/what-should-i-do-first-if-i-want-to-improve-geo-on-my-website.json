@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to improve GEO on my website?",
+  "description": "Begin with a content and schema audit of your most important pages, then add concise answer blocks, better headings, and structured data.",
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-want-to-improve-geo-on-my-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to improve GEO on my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by identifying the pages that already explain your core topics, then audit them for clarity, structure, and schema. Add direct answer blocks near the top, rewrite vague headings into question-based headings, and make sure your pages include evidence, dates, and clear entity details. If you have multiple locations like Los Angeles or Austin, keep location-specific pages distinct and specific.",
+        "description": "Begin with a content and schema audit of your most important pages, then add concise answer blocks, better headings, and structured data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

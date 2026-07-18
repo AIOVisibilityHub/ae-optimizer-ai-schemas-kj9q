@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I set up voice search if my contracting work is mostly urgent or emergency jobs?",
+  "description": "For emergency‑focused contracting, clearly label your urgent services and hours in your listings, use FAQs about response times, and include “emergency” wording",
+  "url": "aeoptimizer.com/faq/how-should-i-set-up-voice-search-if-my-contracting-work-is-mostly-urgent-or-emer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I set up voice search if my contracting work is mostly urgent or emergency jobs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To handle urgent or emergency jobs, make sure your voice search setup clearly shows your availability, response times, and emergency services so assistants recommend you when people are under pressure. Clarity wins in those moments.\n\nHomeowners often ask for “emergency” help explicitly in voice queries.\n\nKey factors:\n- Add “emergency” or “24/7” services as separate entries in your listings.\n- Use FAQs that answer response‑time questions (“How fast can you get here?”).\n- Keep your hours accurate; don’t claim 24/7 if you can’t support it.\n- Highlight emergency capabilities in your business description and schema.\n\nTest queries like “emergency plumber near me” or “same‑day electrician” and see whether you appear. Adjust your categories and text to align with those phrases.\n\nWell‑labeled emergency services make you the natural voice recommendation when every minute counts.",
+        "description": "For emergency‑focused contracting, clearly label your urgent services and hours in your listings, use FAQs about response times, and include “emergency” wording in your descriptions and schema. That helps assistants choose you for time‑critical voice queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

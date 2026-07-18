@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should my content change to match the way people actually talk to AI voice assistants?",
+  "description": "Adapt content to natural, spoken language: use full-sentence question headings that mirror how customers talk, include variants and scenarios, and answer each c",
+  "url": "aeoptimizer.com/faq/how-should-my-content-change-to-match-the-way-people-actually-talk-to-ai-voice-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should my content change to match the way people actually talk to AI voice assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice queries are typically longer and more conversational than typed searches, so GEO for AI voice systems must account for natural language patterns and follow-up questions. Users talk to assistants like people, not search boxes.\n\nYou’re optimizing for prompts such as “What’s the best option for X near me right now?” rather than short keywords.\n\nKey factors:\n- Capture real spoken phrasing from customers and support interactions\n- Use full-sentence question headings that mirror everyday speech\n- Include variants, synonyms, and scenario-based questions in your FAQs\n- Design content so follow-up questions can be answered on the same page\n\nPractically, listen to calls and chats, transcribe common questions, and turn those into headings verbatim. Mark them up with FAQPage schema and keep answers concise at the top.\n\nAligning with voice-style language makes your content much more likely to match the prompts AI systems receive.",
+        "description": "Adapt content to natural, spoken language: use full-sentence question headings that mirror how customers talk, include variants and scenarios, and answer each clearly in the first 1–2 sentences. Voice-style GEO focuses on conversational prompts, not just short keyword phrases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

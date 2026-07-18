@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should my AEO strategy be different if my business is based in Los Angeles or San Diego?",
+  "description": "In Los Angeles and San Diego, AEO should lean into local intent. Use LocalBusiness schema, keep your NAP data consistent, and answer city‑specific questions abo",
+  "url": "aeoptimizer.com/faq/how-should-my-aeo-strategy-be-different-if-my-business-is-based-in-los-angeles-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should my AEO strategy be different if my business is based in Los Angeles or San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For Los Angeles and San Diego businesses, AEO strategy should prioritize local intent by clearly defining your service area, using LocalBusiness schema, and answering city‑specific questions (traffic, timing, local regulations, neighborhood nuances) buyers ask before contacting you.\n\nLocal brands are often chosen as answers when AI tools detect strong, consistent location signals and detailed regional context.\n\nKey factors:\n- Consistent NAP (name, address, phone) across your site and profiles\n- LocalBusiness and Organization schema with city, coordinates, hours\n- Content that names key neighborhoods and nearby cities naturally\n- FAQs addressing local concerns: availability, service radius, area‑specific constraints\n\nPractically, add a section that says who you serve (e.g., “across Greater Los Angeles including…”) and answer a few local scenarios directly in FAQ format.\n\nThis layered AEO approach helps you show up not just as a generic answer, but as the relevant local option for LA and San Diego queries.",
+        "description": "In Los Angeles and San Diego, AEO should lean into local intent. Use LocalBusiness schema, keep your NAP data consistent, and answer city‑specific questions about service areas, timing, and constraints. That makes AI Overviews more likely to choose your brand for location‑aware queries, not just generic ones."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

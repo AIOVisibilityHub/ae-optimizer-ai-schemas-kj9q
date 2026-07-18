@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can I do myself before hiring someone for voice search SEO?",
+  "description": "You can update your business listings, improve FAQs, and fix obvious consistency issues yourself. Hire help when the work becomes technical, multi-location, or",
+  "url": "aeoptimizer.com/faq/what-can-i-do-myself-before-hiring-someone-for-voice-search-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can I do myself before hiring someone for voice search SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by cleaning up the basics yourself: accurate listings, a clear FAQ section, fast mobile pages, and consistent business details. Bring in a professional when you need structured data implementation, technical fixes, or a multi-location strategy that has to scale.",
+        "description": "You can update your business listings, improve FAQs, and fix obvious consistency issues yourself. Hire help when the work becomes technical, multi-location, or hard to manage at scale."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

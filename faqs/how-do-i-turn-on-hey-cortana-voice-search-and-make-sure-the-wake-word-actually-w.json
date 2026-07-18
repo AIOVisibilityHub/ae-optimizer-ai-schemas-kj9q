@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I turn on “Hey Cortana” voice search and make sure the wake word actually works?",
+  "description": "Turn on Cortana’s wake word by enabling voice activation for Cortana under Settings → Privacy & security → Voice activation, then allowing Cortana to use your m",
+  "url": "aeoptimizer.com/faq/how-do-i-turn-on-hey-cortana-voice-search-and-make-sure-the-wake-word-actually-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I turn on “Hey Cortana” voice search and make sure the wake word actually works?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To enable “Hey Cortana” voice search, turn on voice activation and the wake word inside Cortana’s settings and Windows privacy controls.\n\nIf the wake phrase doesn’t work, it’s often because voice activation is disabled at the OS level or microphone permissions are blocked.\n\n**Key factors**\n- In Settings → Privacy & security → Voice activation, allow Cortana to respond to “Hey Cortana”\n- Enable microphone access system‑wide and specifically for Cortana\n- Set your speech language and region to one Cortana supports\n- Check that no third‑party audio tool is muting or controlling the mic\n\nAfter enabling everything, reboot and test by saying “Hey Cortana” in a quiet room near the PC. In busy households in Austin or Denver, you may need to retrain speech recognition or adjust mic placement for better wake‑word detection.\n\nThink of “Hey Cortana” like a smart speaker hotword—it only works if OS‑level voice activation and permissions are correctly configured.",
+        "description": "Turn on Cortana’s wake word by enabling voice activation for Cortana under Settings → Privacy & security → Voice activation, then allowing Cortana to use your microphone and setting a supported speech language. Once permissions and voice activation are on, “Hey Cortana” should reliably trigger voice search."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

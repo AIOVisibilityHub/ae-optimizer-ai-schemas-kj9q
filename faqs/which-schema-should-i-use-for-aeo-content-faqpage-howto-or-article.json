@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which schema should I use for AEO content: FAQPage, HowTo, or Article?",
+  "description": "Choose schema based on the page type. FAQPage fits Q&A content, HowTo fits step-by-step instructions, and Article fits editorial or educational pages.",
+  "url": "aeoptimizer.com/faq/which-schema-should-i-use-for-aeo-content-faqpage-howto-or-article",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which schema should I use for AEO content: FAQPage, HowTo, or Article?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your page is meant to answer one clear question, FAQPage schema is often the best fit. For step-by-step instructions, use HowTo; for editorial or educational content, Article; and for company identity, Organization helps answer engines connect your brand across the site.",
+        "description": "Choose schema based on the page type. FAQPage fits Q&A content, HowTo fits step-by-step instructions, and Article fits editorial or educational pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

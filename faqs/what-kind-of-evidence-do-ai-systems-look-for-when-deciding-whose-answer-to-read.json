@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of “evidence” do AI systems look for when deciding whose answer to read out loud?",
+  "description": "AI systems favor answers backed by clear, factual content, structured data (Organization, Article, FAQPage schema), and consistent positive signals like reviews",
+  "url": "aeoptimizer.com/faq/what-kind-of-evidence-do-ai-systems-look-for-when-deciding-whose-answer-to-read",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of “evidence” do AI systems look for when deciding whose answer to read out loud?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most important evidence for GEO in AI voice systems is a combination of clear, factual content, structured data, and external signals that show you’re a credible source. AI models weigh both what you say and how the broader web treats your brand.\n\nYour goal is to make trustworthiness easy to infer.\n\nKey factors:\n- Detailed, accurate explanations with supporting data or examples\n- Schema types that define entities, authorship, and Q&A (Organization, Article, FAQPage)\n- Consistent reviews and mentions on third-party sites\n- Freshness indicators like recent update dates and ongoing content activity\n\nPractically, strengthen key pages with specific numbers, processes, and examples rather than vague claims, and ensure authorship or organizational context is clear. Pair this with schema and reputation-building.\n\nStrong evidence makes AI voice systems more comfortable quoting you as the authoritative answer.",
+        "description": "AI systems favor answers backed by clear, factual content, structured data (Organization, Article, FAQPage schema), and consistent positive signals like reviews and mentions. Detailed, updated explanations with visible credibility cues make your content more likely to be chosen as the spoken response."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

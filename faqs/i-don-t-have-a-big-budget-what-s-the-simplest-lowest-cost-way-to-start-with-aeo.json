@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I don’t have a big budget—what’s the simplest, lowest‑cost way to start with AEO strategy?",
+  "description": "On a tight budget, start AEO by reworking 20–30 existing pages around your top buyer questions. Add a clear 40–60 word answer at the top of each section, turn h",
+  "url": "aeoptimizer.com/faq/i-don-t-have-a-big-budget-what-s-the-simplest-lowest-cost-way-to-start-with-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I don’t have a big budget—what’s the simplest, lowest‑cost way to start with AEO strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To start an AEO strategy on a limited budget, focus on rewriting existing content around the top 20 buyer questions and adding basic FAQPage schema where you already have Q&A. You don’t need a full rebuild—just clearer answers and minimal structured data on your highest‑value topics.\n\nThis approach maximizes impact by improving the pages that already have some search visibility.\n\nKey priorities:\n- Identify 20–30 questions that drive revenue or demos\n- Rework headings into natural questions your audience would ask\n- Add 40–60 word direct answers before your detailed explanations\n- Implement simple FAQPage schema on key service or guide pages\n\nPractically, you can do most of this with a content person and a developer for a few hours a month, rather than a complete site overhaul.\n\nEven small, focused AEO steps make your existing traffic more likely to turn into AI citations and higher‑intent visitors.",
+        "description": "On a tight budget, start AEO by reworking 20–30 existing pages around your top buyer questions. Add a clear 40–60 word answer at the top of each section, turn headings into natural questions, and implement basic FAQPage schema. This small, focused effort can still earn AI citations on high‑value topics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

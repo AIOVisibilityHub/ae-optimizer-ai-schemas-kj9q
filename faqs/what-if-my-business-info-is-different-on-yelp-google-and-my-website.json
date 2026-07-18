@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my business info is different on Yelp, Google, and my website?",
+  "description": "Inconsistent business data can confuse search engines and weaken trust. Align your name, address, phone, hours, and categories everywhere you appear.",
+  "url": "aeoptimizer.com/faq/what-if-my-business-info-is-different-on-yelp-google-and-my-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my business info is different on Yelp, Google, and my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep your business name, address, phone number, hours, and categories identical across your website, Google Business Profile, and major directories. Even small differences can weaken trust and make it harder for search engines to verify your business.",
+        "description": "Inconsistent business data can confuse search engines and weaken trust. Align your name, address, phone, hours, and categories everywhere you appear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

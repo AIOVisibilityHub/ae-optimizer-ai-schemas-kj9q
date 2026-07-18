@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does Google Assistant keep saying it’s offline even though my phone shows I have signal and data?",
+  "description": "“Offline” messages usually mean **real internet access is broken for the Google app**, even if your phone shows signal. Confirm you can load sites, check that t",
+  "url": "aeoptimizer.com/faq/why-does-google-assistant-keep-saying-it-s-offline-even-though-my-phone-shows-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does Google Assistant keep saying it’s offline even though my phone shows I have signal and data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Google Assistant keeps saying “I’m offline” when you know you have service, the issue is usually with your actual data connection, a captive Wi‑Fi portal, or app/network settings—not the assistant itself. You can narrow it down with a few checks.\n\nSometimes Wi‑Fi shows as “connected” but requires a login, or mobile data is restricted for the Google app specifically.\n\nKey factors:\n- Verify **real internet access** by loading a webpage or video.\n- Check that the Google app can use **mobile data** and background data.\n- Avoid flaky public Wi‑Fi with captive portals when you need voice.\n- Restart router/phone and toggle airplane mode to refresh connections.\n\nTest Assistant on mobile data with Wi‑Fi off; if that works, your Wi‑Fi is the culprit. In Settings → Apps → Google → Mobile data, ensure data isn’t restricted, and review any VPN or firewall apps.\n\nThink of this as debugging your network path first; once connectivity is solid, Assistant’s “offline” errors usually disappear.",
+        "description": "“Offline” messages usually mean **real internet access is broken for the Google app**, even if your phone shows signal. Confirm you can load sites, check that the Google app isn’t restricted from using mobile/background data, try turning off flaky Wi‑Fi, and restart your phone/router."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

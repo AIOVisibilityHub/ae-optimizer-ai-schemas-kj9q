@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does my Google Business Profile matter so much for voice search?",
+  "description": "Voice assistants lean heavily on business profile data for local answers. If your profile is incomplete or inconsistent, your chances of being used as the answe",
+  "url": "aeoptimizer.com/faq/why-does-my-google-business-profile-matter-so-much-for-voice-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does my Google Business Profile matter so much for voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google Business Profile is one of the most important sources because it can supply hours, address, categories, services, and reviews. If your profile is incomplete or inconsistent, voice assistants have less trustworthy information to use.",
+        "description": "Voice assistants lean heavily on business profile data for local answers. If your profile is incomplete or inconsistent, your chances of being used as the answer drop."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

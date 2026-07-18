@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I structure an AEO page so AI can understand it?",
+  "description": "Lead with the answer, then add context and proof. Clear headings, short paragraphs, and visible question-answer structure make pages easier for AI to parse.",
+  "url": "aeoptimizer.com/faq/how-should-i-structure-an-aeo-page-so-ai-can-understand-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I structure an AEO page so AI can understand it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A direct, concise answer at the top usually performs better than a long introduction. Answer engines tend to extract text that clearly resolves the question early, so lead with the conclusion, then add details, examples, and exceptions underneath.",
+        "description": "Lead with the answer, then add context and proof. Clear headings, short paragraphs, and visible question-answer structure make pages easier for AI to parse."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

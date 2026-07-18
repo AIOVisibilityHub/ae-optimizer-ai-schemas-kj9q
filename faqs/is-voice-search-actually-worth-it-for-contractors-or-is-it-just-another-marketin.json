@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is voice search actually worth it for contractors, or is it just another marketing buzzword?",
+  "description": "Voice search is worth it for contractors because it captures high‑intent “near me” and emergency queries when homeowners ask Siri or Google for help. With compl",
+  "url": "aeoptimizer.com/faq/is-voice-search-actually-worth-it-for-contractors-or-is-it-just-another-marketin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is voice search actually worth it for contractors, or is it just another marketing buzzword?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, voice search can drive very real leads for contractors, especially for urgent and “near me” jobs like HVAC, plumbing, and electrical. Homeowners increasingly ask their phones for help instead of typing.\n\nThe value comes from being the recommended option at the exact moment someone has a problem.\n\nKey factors:\n- Voice results often favor well‑rated local businesses with complete profiles.\n- Many queries are high intent (e.g., “emergency plumber near me”).\n- You can influence visibility through reviews, schema, and FAQs.\n- Voice search improvements also boost regular local SEO performance.\n\nTreat voice search as an extension of your existing lead channels, not a replacement. Track calls and form fills that originate from maps and assistant-driven traffic.\n\nDone correctly, it becomes one of the more efficient ways to capture ready‑to‑book customers.",
+        "description": "Voice search is worth it for contractors because it captures high‑intent “near me” and emergency queries when homeowners ask Siri or Google for help. With complete listings, strong reviews, and FAQ content, it can become a steady source of real local leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is voice search optimization worth it if most of my customers still type on their phones?",
+  "description": "Yes, because the same fixes help both typed and spoken local searches. Clear answers, local accuracy, and fast mobile pages improve overall search performance.",
+  "url": "aeoptimizer.com/faq/is-voice-search-optimization-worth-it-if-most-of-my-customers-still-type-on-thei",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is voice search optimization worth it if most of my customers still type on their phones?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A common objection is that voice search sounds trendy, but the real reason to do it is simple: it improves how search engines understand your local business. The same work that helps voice assistants also helps map visibility and question-based searches.",
+        "description": "Yes, because the same fixes help both typed and spoken local searches. Clear answers, local accuracy, and fast mobile pages improve overall search performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

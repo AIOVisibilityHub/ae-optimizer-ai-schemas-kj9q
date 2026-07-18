@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does “voice search for contractors” actually mean and why should I care about it?",
+  "description": "Voice search for contractors is about setting up your online presence so Siri, Alexa, and Google can find and recommend your business when people ask for a cont",
+  "url": "aeoptimizer.com/faq/what-does-voice-search-for-contractors-actually-mean-and-why-should-i-care-about",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does “voice search for contractors” actually mean and why should I care about it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice search for contractors means optimizing your online presence so when someone says “Hey Google, find a roofing contractor near me,” voice assistants can actually pick your business and read your details out loud. It’s mostly about local SEO, accurate listings, and FAQ-style content.\n\nHomeowners now ask Siri, Alexa, and Google for contractors instead of typing, and assistants pull answers from Google Business Profiles, maps listings, and well-structured website content. If those aren’t set up correctly, you’ll rarely be mentioned.\n\nKey factors:\n- A complete, verified Google Business Profile and Apple Business Connect.\n- Consistent name, address, phone across your website and major directories.\n- FAQ-style content that matches conversational, question-based queries.\n- LocalBusiness, Service, and FAQ schema to help assistants read your info.\n\nStart by cleaning up your business listings, then add question-based FAQs to each service page and mark them up with schema. Test by literally asking your phone for your trade “near me” and see who appears.\n\nDone right, voice search becomes another reliable channel for qualified local leads, not a tech gimmick.",
+        "description": "Voice search for contractors is about setting up your online presence so Siri, Alexa, and Google can find and recommend your business when people ask for a contractor out loud. It relies on strong local SEO, complete business listings, and FAQ-style content that matches natural spoken questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

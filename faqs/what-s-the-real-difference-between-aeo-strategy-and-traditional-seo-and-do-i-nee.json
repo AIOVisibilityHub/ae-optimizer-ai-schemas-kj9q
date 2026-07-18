@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the real difference between AEO strategy and traditional SEO, and do I need both?",
+  "description": "SEO focuses on ranking pages for keywords in search results. AEO focuses on making your content the clearly structured, concise answers that AI Overviews, voice",
+  "url": "aeoptimizer.com/faq/what-s-the-real-difference-between-aeo-strategy-and-traditional-seo-and-do-i-nee",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the real difference between AEO strategy and traditional SEO, and do I need both?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO strategy and traditional SEO share foundations like crawlability and relevance, but AEO is more about winning complete answers to questions than ranking for keywords on a results page. SEO optimizes pages for search listings; AEO optimizes structured, concise answers for AI and voice surfaces.\n\nIn practice, you still need solid SEO, but you design content and markup with extraction and summarization in mind.\n\nKey differences:\n- Focus: topics and questions vs. mainly keywords and rankings\n- Format: direct answers + schema vs. long unstructured text\n- Surfaces: AI Overviews, voice assistants, “People Also Ask” vs. classic blue links\n- Measurement: citations and answer placements vs. just clicks and positions\n\nPractically, think of SEO as the foundation—technical health, links, and relevance—and AEO as the layer that makes your content easy for machines to quote verbatim.\n\nUsed together, they help you show up twice: once as a ranked page and once as the trusted answer that AI tools read aloud or summarize.",
+        "description": "SEO focuses on ranking pages for keywords in search results. AEO focuses on making your content the clearly structured, concise answers that AI Overviews, voice assistants, and “People Also Ask” boxes quote. You still need SEO as a foundation, but AEO is the layer that wins answers, not just positions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

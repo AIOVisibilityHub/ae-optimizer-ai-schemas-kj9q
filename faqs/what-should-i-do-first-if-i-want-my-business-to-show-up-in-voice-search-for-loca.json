@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want my business to show up in voice search for local SEO?",
+  "description": "Begin with real customer questions, then tighten your Google Business Profile, NAP consistency, and FAQ-style answers. Voice search favors clear, conversational",
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-want-my-business-to-show-up-in-voice-search-for-loca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want my business to show up in voice search for local SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the questions customers actually ask out loud, then make sure your Google Business Profile, hours, services, and location details are complete and consistent. Voice assistants often pull from concise FAQ-style answers, so your site should answer each question in one or two clear sentences.",
+        "description": "Begin with real customer questions, then tighten your Google Business Profile, NAP consistency, and FAQ-style answers. Voice search favors clear, conversational responses tied to accurate local business data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

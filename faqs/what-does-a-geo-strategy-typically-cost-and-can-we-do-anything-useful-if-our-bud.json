@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a GEO strategy typically cost, and can we do anything useful if our budget is small?",
+  "description": "GEO strategy costs vary with scope, but you can do meaningful work on a small budget by focusing on a limited set of high‑value questions and optimizing existin",
+  "url": "aeoptimizer.com/faq/what-does-a-geo-strategy-typically-cost-and-can-we-do-anything-useful-if-our-bud",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a GEO strategy typically cost, and can we do anything useful if our budget is small?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can begin GEO work with almost any budget by starting small and leveraging existing content and tools. The cost scales based on how many topics you tackle, how much content needs rewriting, and whether you bring in external specialists or software.\n\nGEO strategy is more about prioritization than expensive technology. Even a lean team can run meaningful pilots if they focus on high‑value questions and avoid trying to “optimize everything” at once.\n\nKey factors:\n- Internal content and SEO capacity\n- Number of pages requiring substantial rewrites\n- Need for specialized GEO software or external help\n- Ongoing monitoring and refresh cadence\n\nOn a tight budget in Salt Lake City or Boulder, focus on 10–20 key queries, build strong FAQ/Q&A pages, and monitor AI visibility with free or low‑cost tools. Larger budgets can add deeper analytics, structured data at scale, and authority‑building campaigns.\n\nIf money is limited, think of GEO as targeted content surgery rather than a full‑body transplant.",
+        "description": "GEO strategy costs vary with scope, but you can do meaningful work on a small budget by focusing on a limited set of high‑value questions and optimizing existing pages. Expenses mainly come from content rewrites, monitoring, and any GEO tools or specialists you choose to add."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

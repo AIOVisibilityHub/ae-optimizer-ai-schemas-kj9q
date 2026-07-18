@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need separate city pages for voice search in places like Denver or Salt Lake City?",
+  "description": "If local demand is important, city-specific pages can help because voice searches often carry proximity intent.",
+  "url": "aeoptimizer.com/faq/do-i-need-separate-city-pages-for-voice-search-in-places-like-denver-or-salt-lak",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need separate city pages for voice search in places like Denver or Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Location signals matter because many spoken queries include proximity or city intent, even when the user does not name the neighborhood. If you operate in Denver, San Diego, or Salt Lake City, local wording and accurate profile details help search engines match you to nearby searches.",
+        "description": "If local demand is important, city-specific pages can help because voice searches often carry proximity intent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

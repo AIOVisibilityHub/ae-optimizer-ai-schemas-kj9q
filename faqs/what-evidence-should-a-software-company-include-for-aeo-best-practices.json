@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence should a software company include for AEO best practices?",
+  "description": "Use demos, use cases, outcomes, comparisons, and clear product definitions. B2B AEO works better when the page shows both capability and credibility.",
+  "url": "aeoptimizer.com/faq/what-evidence-should-a-software-company-include-for-aeo-best-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence should a software company include for AEO best practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a B2B software company, the best proof usually includes product demos, implementation examples, customer outcomes, comparison pages, and clear definitions of what the product does and does not do. Answer engines need enough context to understand the category, the use case, and why your explanation is credible.",
+        "description": "Use demos, use cases, outcomes, comparisons, and clear product definitions. B2B AEO works better when the page shows both capability and credibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

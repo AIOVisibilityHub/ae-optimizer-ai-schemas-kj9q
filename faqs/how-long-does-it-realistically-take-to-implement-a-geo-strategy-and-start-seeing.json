@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it realistically take to implement a GEO strategy and start seeing results?",
+  "description": "A focused GEO strategy pilot typically takes 4–12 weeks to implement and another 4–12 weeks to show noticeable changes in AI citations. Timelines depend on how",
+  "url": "aeoptimizer.com/faq/how-long-does-it-realistically-take-to-implement-a-geo-strategy-and-start-seeing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it realistically take to implement a GEO strategy and start seeing results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most brands, implementing a focused GEO strategy pilot takes 4–12 weeks, depending on content volume and decision speed. Seeing meaningful changes in AI citations usually takes another 4–12 weeks as engines recrawl and retrain.\n\nThe timeline is less about setup complexity and more about how quickly you can publish high‑quality, answer‑first content and secure authority signals. AI ecosystems also update at different cadences.\n\nKey factors:\n- Size and quality of existing content\n- Number of priority topics in the pilot\n- Publishing and review bottlenecks\n- Crawl and update cycles of target AI engines\n\nIn practical terms, a mid‑size team in Denver might scope a 90‑day GEO pilot: first month for audits and content updates, second for publication and schema, third for measuring shifts in mentions and traffic. Complex sites or regulated industries may take longer.\n\nIf you need faster insight, start with a narrow topic cluster instead of a full‑site rollout.",
+        "description": "A focused GEO strategy pilot typically takes 4–12 weeks to implement and another 4–12 weeks to show noticeable changes in AI citations. Timelines depend on how quickly you can audit content, publish answer‑first updates, and let AI engines recrawl and incorporate your changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

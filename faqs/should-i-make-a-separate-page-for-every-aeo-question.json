@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I make a separate page for every AEO question?",
+  "description": "Not usually. Group related questions by intent when possible, and use one strong page that answers the core question plus key follow-ups.",
+  "url": "aeoptimizer.com/faq/should-i-make-a-separate-page-for-every-aeo-question",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I make a separate page for every AEO question?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, AEO should not be treated as a content dump of every question you can find. The strongest approach is to cluster related questions by intent, answer the core one first, then add supporting details, edge cases, and next-step guidance so the page stays focused.",
+        "description": "Not usually. Group related questions by intent when possible, and use one strong page that answers the core question plus key follow-ups."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

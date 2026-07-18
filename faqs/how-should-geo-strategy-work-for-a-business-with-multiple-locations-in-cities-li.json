@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should GEO strategy work for a business with multiple locations in cities like Los Angeles, Denver, and Austin?",
+  "description": "Use a hybrid approach: define core brand topics that stay consistent, then create city‑specific content blocks with local services, examples, reviews, and FAQs.",
+  "url": "aeoptimizer.com/faq/how-should-geo-strategy-work-for-a-business-with-multiple-locations-in-cities-li",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should GEO strategy work for a business with multiple locations in cities like Los Angeles, Denver, and Austin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For multi‑location businesses across cities like Los Angeles, Denver, Austin, and New York, GEO strategy should blend shared brand narratives with city‑specific content blocks. AI engines need both a coherent overall story and localized evidence of relevance.\n\nDuplicated, lightly edited pages for each location rarely work; you need real differences that matter to customers in each area.\n\nKey factors:\n- Central brand topics and FAQs that apply everywhere\n- Local variations in services, examples, and regulations\n- Distinct reviews and case stories per city\n- Consistent structure so AI can recognize patterns\n\nPractically, create a core template for service pages and then enrich each city’s version with local details, stats, testimonials, and questions. Monitor how AI tools describe your brand for “in Los Angeles” prompts and refine where descriptions feel generic.\n\nIf your multi‑location content is thin, prioritize your top markets first instead of spreading GEO work too thinly.",
+        "description": "Use a hybrid approach: define core brand topics that stay consistent, then create city‑specific content blocks with local services, examples, reviews, and FAQs. Each location needs enough unique, relevant detail for AI engines to confidently cite it for that city’s queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I put “near me” keywords on my site for voice search?",
+  "description": "Use “near me” phrases only when they sound natural and match real customer behavior. The bigger win is clear local relevance, not repeating the phrase everywher",
+  "url": "aeoptimizer.com/faq/should-i-put-near-me-keywords-on-my-site-for-voice-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I put “near me” keywords on my site for voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if people genuinely ask those questions, because voice search favors natural language and local intent. The key is to use them sparingly and naturally, not stuff them into every sentence.",
+        "description": "Use “near me” phrases only when they sound natural and match real customer behavior. The bigger win is clear local relevance, not repeating the phrase everywhere."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

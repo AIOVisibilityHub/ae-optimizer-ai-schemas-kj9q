@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do answer engines actually use for AEO, and where does that data come from?",
+  "description": "Answer engines rely on your on‑page content, schema markup (like FAQPage, HowTo, Organization, LocalBusiness), external profiles, reviews, and user behavior. Th",
+  "url": "aeoptimizer.com/faq/what-information-do-answer-engines-actually-use-for-aeo-and-where-does-that-data",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do answer engines actually use for AEO, and where does that data come from?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The information answer engines need for AEO comes from a mix of your website content, schema markup, external profiles, and user behavior. They look for consistent, structured signals about what you do, where you operate, and how credible your answers are.\n\nAnything unclear or contradictory across these sources can weaken your chances of being selected as the answer.\n\nKey data sources:\n- On‑page content and headings shaped around real questions\n- Schema types: FAQPage, HowTo, Article, Organization, LocalBusiness, Product\n- Business profiles, reviews, and social accounts for reputation and consistency\n- Engagement signals from users interacting with your content\n\nPractically, make sure each core topic has a well‑structured page that matches its schema and that your brand data is consistent everywhere.\n\nThink of AEO as aligning all these signals so answer engines see one coherent, trustworthy version of your business.",
+        "description": "Answer engines rely on your on‑page content, schema markup (like FAQPage, HowTo, Organization, LocalBusiness), external profiles, reviews, and user behavior. They favor sites with clear question‑based structure, consistent business data across the web, and strong credibility signals when choosing which answers to surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

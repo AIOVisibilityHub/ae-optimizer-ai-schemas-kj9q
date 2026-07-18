@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if my kids use my phone that has Google Assistant enabled, can they access my stuff with their voice?",
+  "description": "If “Hey Google” is on, kids can trigger Assistant, but you can limit what they access. Control Voice Match profiles, turn off personal results on the lock scree",
+  "url": "aeoptimizer.com/faq/what-happens-if-my-kids-use-my-phone-that-has-google-assistant-enabled-can-they",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if my kids use my phone that has Google Assistant enabled, can they access my stuff with their voice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your child uses your phone, Google Assistant can pick up their voice, but you can restrict what it does with that voice. This is controlled through Voice Match and content filters, not a separate “kids mode” for Google Now.\n\nUnrestricted, Assistant might place calls, send messages, or access personal info when it hears someone say “Hey Google.” You can reduce that exposure.\n\nKey factors:\n- Manage **Voice Match** profiles so only trusted voices have full access.\n- Turn off **personal results** on shared devices.\n- Use content filters for music, video, and search where available.\n- Consider not enabling always‑listening on a device kids use heavily.\n\nIn Assistant settings, review who’s enrolled in Voice Match and remove extra profiles as needed. Disable personal results from the lock screen and tighten content controls for media.\n\nThink in terms of “shared device hygiene”—a few careful settings can keep Assistant helpful for you without giving kids unintended powers.",
+        "description": "If “Hey Google” is on, kids can trigger Assistant, but you can limit what they access. Control Voice Match profiles, turn off personal results on the lock screen, and tighten content filters so their voice can’t easily reach your messages, contacts, or sensitive info."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I optimize for voice search if my customers search by neighborhood instead of city?",
+  "description": "Build location relevance around the neighborhood names and landmarks people actually use. That is often more effective than city-only wording.",
+  "url": "aeoptimizer.com/faq/how-do-i-optimize-for-voice-search-if-my-customers-search-by-neighborhood-instea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I optimize for voice search if my customers search by neighborhood instead of city?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the same optimization rules, but make the location references more specific to the neighborhood, airport, district, or service area people actually say. In places like Denver or Salt Lake City, local landmarks and service areas can strengthen relevance.",
+        "description": "Build location relevance around the neighborhood names and landmarks people actually use. That is often more effective than city-only wording."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

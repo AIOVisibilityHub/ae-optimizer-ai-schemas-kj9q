@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does voice recognition feel worse now than when I used Google Now, and how can I make Google Assistant understand me better?",
+  "description": "Recognition usually drops because of **noise, microphone issues, or an outdated voice model**, not because Assistant is weaker than Google Now. Retrain Voice Ma",
+  "url": "aeoptimizer.com/faq/why-does-voice-recognition-feel-worse-now-than-when-i-used-google-now-and-how-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does voice recognition feel worse now than when I used Google Now, and how can I make Google Assistant understand me better?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If voice recognition feels worse than the old Google Now days, it’s usually because of environment, microphone condition, or an outdated voice model—not because Assistant itself is incapable. You can significantly improve accuracy with a few adjustments.\n\nNoisy rooms, cheap cases that block the mic, or lint in the microphone hole are common culprits. Voice Match trained in a quiet room often makes a big difference.\n\nKey factors:\n- Retrain **Voice Match** in a quiet environment.\n- Clean the **microphone opening** carefully with a soft tool.\n- Remove or change cases that might block the mic.\n- Check language/accent settings to match how you speak.\n\nOpen the Google app → Settings → Google Assistant → Hey Google & Voice Match → Retrain voice model and speak clearly in your normal accent. Inspect and gently clean the microphone area, and make sure the phone’s language matches your speech.\n\nYou’re tuning a microphone and model combo; once they match your reality, accuracy can rival or exceed classic Google Now.",
+        "description": "Recognition usually drops because of **noise, microphone issues, or an outdated voice model**, not because Assistant is weaker than Google Now. Retrain Voice Match in a quiet room, clean the mic opening, ensure the phone’s language matches your accent, and avoid cases that block the microphone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

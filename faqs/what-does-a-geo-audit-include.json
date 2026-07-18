@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a GEO audit include?",
+  "description": "A GEO audit reviews content structure, schema, evidence, internal links, and whether your pages are easy for AI to extract and cite.",
+  "url": "aeoptimizer.com/faq/what-does-a-geo-audit-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a GEO audit include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful GEO audit checks page structure, content quality, schema coverage, internal linking, entity clarity, and whether your pages answer real user questions. It also looks for missing evidence, weak headings, thin sections, and pages that are hard for AI to extract. The most important question is whether a generated engine could confidently quote your page without confusion.",
+        "description": "A GEO audit reviews content structure, schema, evidence, internal links, and whether your pages are easy for AI to extract and cite."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

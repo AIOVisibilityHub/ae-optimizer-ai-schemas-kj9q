@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if answer engines cite my competitors’ pages but ignore mine, even after using a checklist?",
+  "description": "Compare competitor-cited pages against your own and update your checklist to match their winning patterns: clearer question-focused structure, concise answers,",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-answer-engines-cite-my-competitors-pages-but-ignore-mine-eve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if answer engines cite my competitors’ pages but ignore mine, even after using a checklist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If answer engines keep citing competitors instead of you, your checklist likely isn’t addressing the right questions, formats, or trust signals.\n\nFirst, analyze the pages that are being cited and compare them to your own: structure, depth, schema, and author credibility. Then, adjust your checklist to close these gaps.\n\nKey factors:\n- Whether competitors use clearer question headings and concise answers\n- Presence and correctness of their schema versus yours\n- Strength of their reviews, expertise bios, and external mentions\n- How comprehensively they cover related sub-questions and comparisons\n\nUse your AEO checklist to create or update content that directly matches the high-performing patterns you see, but with stronger clarity and usefulness. Over time, this structured catch-up work can shift citations in your favor, especially if you’re in competitive tech hubs like San Francisco or New York.",
+        "description": "Compare competitor-cited pages against your own and update your checklist to match their winning patterns: clearer question-focused structure, concise answers, robust schema, and stronger trust signals. Then create or revise content accordingly so answer engines have a better option to cite—yours."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

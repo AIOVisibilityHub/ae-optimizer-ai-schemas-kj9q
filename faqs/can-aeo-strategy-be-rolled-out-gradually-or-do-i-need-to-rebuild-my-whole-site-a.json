@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO strategy be rolled out gradually, or do I need to rebuild my whole site at once?",
+  "description": "You can roll out AEO gradually. Start by restructuring 10–20 top pages around clear Q&A and adding FAQPage or HowTo schema, then expand to more topics as you se",
+  "url": "aeoptimizer.com/faq/can-aeo-strategy-be-rolled-out-gradually-or-do-i-need-to-rebuild-my-whole-site-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO strategy be rolled out gradually, or do I need to rebuild my whole site at once?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO strategy can absolutely be implemented in phases so it doesn’t disrupt existing marketing work. Start with your highest‑value topics, test formats and schema, and then scale to other areas as you learn what earns citations and conversions.\n\nTrying to overhaul everything at once often leads to inconsistent quality and burnout.\n\nKey phased steps:\n- Phase 1: Audit and restructure 10–20 top pages around clear Q&A\n- Phase 2: Implement and refine FAQPage, HowTo, and Article schema\n- Phase 3: Expand to comparisons, edge cases, and support content\n- Phase 4: Establish a maintenance routine for updates and new questions\n\nPractically, integrate AEO tasks into your existing content calendar so each new asset follows the answer‑first pattern.\n\nThis incremental approach lets your team adapt culturally and operationally while still moving toward comprehensive AEO coverage.",
+        "description": "You can roll out AEO gradually. Start by restructuring 10–20 top pages around clear Q&A and adding FAQPage or HowTo schema, then expand to more topics as you see what works. Integrating AEO into your regular content calendar avoids a risky full rebuild while still moving toward broad coverage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

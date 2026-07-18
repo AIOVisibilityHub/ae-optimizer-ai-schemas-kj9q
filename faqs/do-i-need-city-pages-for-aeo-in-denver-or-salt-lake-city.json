@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need city pages for AEO in Denver or Salt Lake City?",
+  "description": "Only if location actually changes the search intent. Use city pages when local proof, service area, or office presence matters to the decision.",
+  "url": "aeoptimizer.com/faq/do-i-need-city-pages-for-aeo-in-denver-or-salt-lake-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need city pages for AEO in Denver or Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, especially if people are asking about a product, pricing, or a specific feature. For local teams in Denver or Salt Lake City, the best practice is not the city name itself, but having clear, location-relevant proof such as local customers, regional service language, or nearby office details when those facts matter.",
+        "description": "Only if location actually changes the search intent. Use city pages when local proof, service area, or office presence matters to the decision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’ve been burned by SEO/AI vendors before—how should that change the way we approach GEO strategy now?",
+  "description": "Let past issues push you toward a smaller‑scope, highly measurable GEO approach with clear baselines, transparent data, and frequent check‑ins. Start with pilot",
+  "url": "aeoptimizer.com/faq/we-ve-been-burned-by-seo-ai-vendors-before-how-should-that-change-the-way-we-app",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’ve been burned by SEO/AI vendors before—how should that change the way we approach GEO strategy now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prior bad experiences—like content “penalties,” failed SEO projects, or wasted spend—should push you toward a more transparent, experiment‑driven GEO approach. You want smaller pilots, clearer metrics, and regular check‑ins, not big, vague promises.\n\nGEO is new enough that overconfidence is risky; your strategy should admit uncertainty and learn from early results.\n\nKey factors:\n- Scope and expectations (start modest, define success up front)\n- Data transparency (shared dashboards, clear baselines)\n- Governance (who approves content and monitors risks)\n- Communication cadence with any partners or stakeholders\n\nPractically, in markets like Chicago or Boston, many teams run GEO pilots on non‑critical topics first, build trust in the process, then expand to more important areas once they see real improvements. Document assumptions and outcomes at each step.\n\nIf a proposal feels like a black box, insist on a test‑and‑learn framework before committing.",
+        "description": "Let past issues push you toward a smaller‑scope, highly measurable GEO approach with clear baselines, transparent data, and frequent check‑ins. Start with pilots, document assumptions and results, and avoid any GEO proposal that can’t explain how success will be tracked and learned from."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

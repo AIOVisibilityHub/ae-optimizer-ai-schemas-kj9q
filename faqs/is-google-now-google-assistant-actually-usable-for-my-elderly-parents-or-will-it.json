@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is Google Now / Google Assistant actually usable for my elderly parents, or will it just confuse them more?",
+  "description": "Google Assistant can be very usable for seniors if you **keep it simple**. Enable “Hey Google,” train their voice, and focus on a handful of easy commands like",
+  "url": "aeoptimizer.com/faq/is-google-now-google-assistant-actually-usable-for-my-elderly-parents-or-will-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Google Now / Google Assistant actually usable for my elderly parents, or will it just confuse them more?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For seniors or non‑technical family members, Google Assistant can be a simpler voice tool than classic Google Now because it’s more guided and supports natural language. The key is to limit complexity and set up a few reliable commands.\n\nInstead of exposing every feature, focus on calling, texting, reminders, and basic questions. Clear voice cues and lock‑screen settings can reduce confusion.\n\nKey factors:\n- Set up **Hey Google** so they don’t need to press buttons.\n- Create a short list of easy commands (“call Sarah,” “what’s the weather”).\n- Enable **lock‑screen access** for calling if needed.\n- Turn off experimental or confusing features that they won’t use.\n\nDuring setup, train their voice with Voice Match and test simple phrases with them. Write a small cheat‑sheet of 5–10 commands and keep the phone’s home screen uncluttered so they can always reach the Google app.\n\nThink of Assistant as a voice‑first interface; used simply, it can make smartphones more accessible rather than more complicated.",
+        "description": "Google Assistant can be very usable for seniors if you **keep it simple**. Enable “Hey Google,” train their voice, and focus on a handful of easy commands like calling, texting, and weather. Turn off extra features that add confusion so it becomes a straightforward voice helper."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I watch after optimizing for voice search?",
+  "description": "Watch question queries, local impressions, calls, direction requests, and map actions. Those signals are usually more useful than trying to isolate every voice",
+  "url": "aeoptimizer.com/faq/what-metrics-should-i-watch-after-optimizing-for-voice-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I watch after optimizing for voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Track question-based queries, impressions for local terms, click-to-call actions, direction requests, and pages that earn map-related visits. Search Console and Google Business Profile are usually the most practical starting points.",
+        "description": "Watch question queries, local impressions, calls, direction requests, and map actions. Those signals are usually more useful than trying to isolate every voice search directly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m a small contractor with a limited marketing budget—what’s the most cost-effective way to get voice search working for me?",
+  "description": "On a tight budget, concentrate on free essentials: fully optimized Google/Apple listings, a fast mobile site, and a few strong FAQ answers per service. Those st",
+  "url": "aeoptimizer.com/faq/i-m-a-small-contractor-with-a-limited-marketing-budget-what-s-the-most-cost-effe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m a small contractor with a limited marketing budget—what’s the most cost-effective way to get voice search working for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On a tight budget, focus only on the essentials: complete business listings, a fast mobile site, and a handful of strong FAQ answers per core service. Those give you the biggest voice search impact for the lowest spend.\n\nMost of this can be done with free tools and a bit of disciplined effort.\n\nKey factors:\n- Use free platforms: Google Business Profile, Apple Business Connect, Bing Places.\n- Keep your website lean, fast, and mobile‑friendly; avoid heavy, slow themes.\n- Write 3–5 FAQs that mirror real customer questions, with clear short answers.\n- Skip advanced tools until you’re actually seeing consistent leads.\n\nStart with one service line—say, HVAC or roofing—and perfect its voice footprint before expanding. Measure call volume and form leads to justify any future spend.\n\nBudget‑conscious voice optimization is about doing fewer things very well, not skipping it altogether.",
+        "description": "On a tight budget, concentrate on free essentials: fully optimized Google/Apple listings, a fast mobile site, and a few strong FAQ answers per service. Those steps alone can get you into voice results without major spend."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is Google Now / Google Assistant only showing text and not speaking responses out loud anymore?",
+  "description": "This usually isn’t Google Assistant breaking—your **speech output and media volume** are likely disabled or misconfigured. Turn media volume up, enable full spe",
+  "url": "aeoptimizer.com/faq/why-is-google-now-google-assistant-only-showing-text-and-not-speaking-responses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is Google Now / Google Assistant only showing text and not speaking responses out loud anymore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your phone only types your commands and doesn’t speak back, it usually means voice output or text‑to‑speech is disabled, muted, or misconfigured—not that Google Now/Assistant is broken. You can bring spoken responses back by checking a few audio and Assistant settings.\n\nSome devices switch to silent or “brief” modes, or have text‑to‑speech engines disabled during updates. Accessibility settings can also change how responses are delivered.\n\nKey factors:\n- Make sure **media volume** is up and not muted.\n- In Assistant settings, turn on **Speech output** or “Full” responses.\n- Confirm a text‑to‑speech engine is installed and enabled in system settings.\n- Battery saver or Do Not Disturb can suppress voice output on some phones.\n\nGo to Settings → Sound and raise media volume, then open the Google app → Settings → Google Assistant → Assistant voice & sounds and select full speech output. Also check Settings → Accessibility or Text‑to‑speech to ensure a voice engine is active.\n\nTreat this like an audio configuration issue; once the right toggles are on, spoken answers usually come back immediately.",
+        "description": "This usually isn’t Google Assistant breaking—your **speech output and media volume** are likely disabled or misconfigured. Turn media volume up, enable full speech output in Assistant settings, and check that a text‑to‑speech engine is active in system settings so the assistant can speak responses again."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the biggest risks or downsides of doing GEO for AI voice systems wrong?",
+  "description": "If you do GEO poorly, AI voice assistants may repeat outdated, unclear, or overly promotional information about your business. The main risks are stale data, th",
+  "url": "aeoptimizer.com/faq/what-are-the-biggest-risks-or-downsides-of-doing-geo-for-ai-voice-systems-wrong",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the biggest risks or downsides of doing GEO for AI voice systems wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest GEO risk for AI voice systems is giving assistants unclear or outdated answers that get repeated at scale, harming trust and user experience. Another risk is over-optimizing with spammy tactics that make your content less credible to AI models.\n\nBecause AI often summarizes from multiple sources, any ambiguity can be amplified in the spoken response.\n\nKey factors:\n- Stale information (old pricing, hours, policies) being quoted as current\n- Overly promotional language that sounds like an ad instead of an answer\n- Thin content or poor evidence, lowering perceived authority\n- Ignoring accessibility and technical basics, preventing proper crawling\n\nPractically, treat GEO pages as “living docs” with review cycles, and keep tone neutral, factual, and user-first. Avoid keyword stuffing and instead focus on clarity, citations, and complete explanations.\n\nThoughtful GEO reduces risk and positions your brand as a trustworthy answer source for AI voice systems.",
+        "description": "If you do GEO poorly, AI voice assistants may repeat outdated, unclear, or overly promotional information about your business. The main risks are stale data, thin or spammy content, and technical issues that hurt credibility. Keep answers factual, current, and user-focused to avoid problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I avoid when writing AEO content?",
+  "description": "Avoid generic, copied, or overly promotional content. AEO favors original, clearly structured answers with a consistent message and real proof.",
+  "url": "aeoptimizer.com/faq/what-should-i-avoid-when-writing-aeo-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I avoid when writing AEO content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not copy competitor phrasing too closely, because that can make your content look interchangeable. A better approach is to use your own wording, add original information, and create a consistent description of who you are and what you do across your site and external mentions.",
+        "description": "Avoid generic, copied, or overly promotional content. AEO favors original, clearly structured answers with a consistent message and real proof."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

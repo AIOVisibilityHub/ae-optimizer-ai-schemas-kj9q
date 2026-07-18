@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I hook Cortana voice search into Power BI or business data so staff can ask questions out loud?",
+  "description": "Yes—Cortana can query Power BI data by voice, but only after you connect your work account, enable Cortana search on chosen datasets, and design Cortana‑specifi",
+  "url": "aeoptimizer.com/faq/can-i-hook-cortana-voice-search-into-power-bi-or-business-data-so-staff-can-ask",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I hook Cortana voice search into Power BI or business data so staff can ask questions out loud?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To integrate Cortana voice search with business tools like Power BI, you must connect your work account and explicitly enable Cortana queries on your datasets.\n\nCortana can surface business intelligence answers via voice, but only if the backend is configured for it.\n\n**Key factors**\n- Sign into Windows and Cortana with your work or school account\n- Enable Cortana search on specific Power BI datasets\n- Create Cortana‑optimized pages with question phrases that match user queries\n- Confirm tenant and security settings allow this integration\n\nIn distributed teams in Denver or Salt Lake City, coordinate with IT and BI teams so data exposure via Cortana aligns with governance policies. Don’t enable voice access to sensitive datasets without a review.\n\nTreat Cortana BI integration as a specialized feature that needs deliberate setup, not something that works automatically.",
+        "description": "Yes—Cortana can query Power BI data by voice, but only after you connect your work account, enable Cortana search on chosen datasets, and design Cortana‑specific pages with question phrases. It’s a deliberate setup that should be coordinated with IT and data governance teams."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

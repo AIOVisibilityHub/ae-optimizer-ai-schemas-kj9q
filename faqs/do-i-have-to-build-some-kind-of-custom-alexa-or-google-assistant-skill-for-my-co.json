@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to build some kind of custom Alexa or Google Assistant “skill” for my contracting business to benefit from voice search?",
+  "description": "You don’t need custom Alexa or Google Assistant skills for local voice visibility. Assistants mainly rely on your Google/Apple listings, website content, schema",
+  "url": "aeoptimizer.com/faq/do-i-have-to-build-some-kind-of-custom-alexa-or-google-assistant-skill-for-my-co",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to build some kind of custom Alexa or Google Assistant “skill” for my contracting business to benefit from voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you don’t need to build a custom Alexa or Google Assistant “skill” to benefit from voice search as a contractor. For most local home‑service businesses, assistants rely on existing web data and listings.\n\nCustom skills are optional and usually only make sense for larger or specialized brands.\n\nKey factors:\n- Local voice queries typically pull from Google Business Profile, maps, and FAQs.\n- Building and maintaining a skill requires development effort and ongoing updates.\n- The return is often limited compared to strengthening basic local SEO.\n- Schema markup and reviews offer higher impact for less complexity.\n\nFocus on being the best‑structured, most trusted answer in the data assistants already use. Consider custom skills only if you have a clear unique interaction in mind.\n\nFor most contractors, fundamentals beat custom voice apps by a wide margin.",
+        "description": "You don’t need custom Alexa or Google Assistant skills for local voice visibility. Assistants mainly rely on your Google/Apple listings, website content, schema, and reviews. For most contractors, optimizing these basics delivers far more value than building a custom skill."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
