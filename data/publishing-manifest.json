@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-18T22:42:08.706Z",
+  "generatedAt": "2026-07-18T22:42:49.301Z",
   "client": {
     "name": "AE Optimizer",
     "canonicalUrl": "aeoptimizer.com",
@@ -129,7 +129,7 @@
   },
   "package": {
     "totalFiles": 3804,
-    "totalBytes": 26505075,
+    "totalBytes": 26510357,
     "stats": {
       "faqs": 2020,
       "helpArticles": 0,
@@ -19155,7 +19155,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3360,
+        "bytes": 4012,
         "purpose": "LLM hint"
       },
       {
@@ -19175,32 +19175,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 929,
+        "bytes": 1580,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1841594,
+        "bytes": 1842965,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 568756,
+        "bytes": 569408,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 568756,
+        "bytes": 569408,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3241,
+        "bytes": 3893,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 619512,
+        "bytes": 620164,
         "purpose": "Repository README"
       },
       {
@@ -19215,5 +19215,11 @@
       }
     ]
   },
-  "destinations": {}
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/",
+      "repo": "AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q"
+    }
+  }
 }

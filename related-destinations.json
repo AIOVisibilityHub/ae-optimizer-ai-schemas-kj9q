@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-18T22:42:08.664Z",
+  "generatedAt": "2026-07-18T22:42:49.258Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -24,7 +24,25 @@
       "role": "ai-data-hub",
       "label": "AE Optimizer — AI Data Hub",
       "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html"
     }
   ],
-  "destinations": {}
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/",
+      "repo": "AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q"
+    }
+  }
 }
