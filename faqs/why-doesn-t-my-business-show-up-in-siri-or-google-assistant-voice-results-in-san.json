@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why doesn’t my business show up in Siri or Google Assistant voice results in San Diego, even though I’m on Google Maps?",
+  "description": "You’re usually missing accurate, complete data in key places. Check Google Business Profile and Apple Maps for inconsistent name, address, phone, categories, or",
+  "url": "aeoptimizer.com/faq/why-doesn-t-my-business-show-up-in-siri-or-google-assistant-voice-results-in-san",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why doesn’t my business show up in Siri or Google Assistant voice results in San Diego, even though I’m on Google Maps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your business isn’t appearing in Siri or Google Assistant results in San Diego, start by checking your Apple Maps and Google Business Profile listings for accuracy, duplication, or missing data. Voice assistants often skip incomplete or conflicting records.\n\nYou also need enough reviews and clear categories so they can understand what you actually do.\n\nKEY FACTORS\n- Look for mismatched names, addresses, or phone numbers across directories.\n- Confirm you chose the right primary and secondary categories.\n- Check that your hours, photos, and website link are present and correct.\n\nOnce listings are clean, build a small FAQ section targeting common San Diego queries and ask recent customers to mention the city in their honest reviews when natural. That strengthens local relevance.\n\nTreat no-show issues as a data quality problem first; fixing that often unlocks visibility faster than chasing new keywords.",
+        "description": "You’re usually missing accurate, complete data in key places. Check Google Business Profile and Apple Maps for inconsistent name, address, phone, categories, or hours, and make sure you have solid reviews. Voice assistants rely on clean, trusted listings, not just basic map presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

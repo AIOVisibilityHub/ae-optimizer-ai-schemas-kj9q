@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually find conversational keywords my audience is using, not just guess them?",
+  "description": "Start with real data: pull recurring questions from support tickets, chat logs, sales calls, Reddit/Quora threads, then cross-check those phrases in Google auto",
+  "url": "aeoptimizer.com/faq/how-do-i-actually-find-conversational-keywords-my-audience-is-using-not-just-gue",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually find conversational keywords my audience is using, not just guess them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best way to find conversational keywords is to mine real questions from your audience, then validate and expand them with search tools. Start with the language people already use instead of staring at a blank keyword tool.\n\nYou’re looking for repeated, specific questions that keep coming up across different channels. These are usually gold for content and SEO.\n\nKey factors:\n- Review support tickets, chat logs, sales call notes, and internal FAQs\n- Browse Reddit, Quora, and niche forums for recurring question patterns\n- Use Google autocomplete and People Also Ask to see live variants\n- Check Search Console or analytics for long-tail queries already triggering impressions\n\nPractically, block out 2–3 hours to copy-paste questions into a spreadsheet, tag them by topic and intent, then prioritize the ones that show up in both conversations *and* search suggestions. Repeat this every month so your keyword set keeps pace with how people’s questions evolve.\n\nIf this feels messy, that’s normal—conversational keyword research is more like anthropology than math, and that’s where its power comes from.",
+        "description": "Start with real data: pull recurring questions from support tickets, chat logs, sales calls, Reddit/Quora threads, then cross-check those phrases in Google autocomplete, People Also Ask, and Search Console. Save exact wordings in a spreadsheet, tag by topic/intent, and prioritize questions that show up in both conversations and search."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

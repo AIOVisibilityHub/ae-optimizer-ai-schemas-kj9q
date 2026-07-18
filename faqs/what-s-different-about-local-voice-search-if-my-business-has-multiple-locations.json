@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s different about local voice search if my business has multiple locations in different cities?",
+  "description": "Each location must be treated as its own local entity. Give every branch a separate, fully optimized listing and page, with city-specific details, neighborhoods",
+  "url": "aeoptimizer.com/faq/what-s-different-about-local-voice-search-if-my-business-has-multiple-locations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s different about local voice search if my business has multiple locations in different cities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you run a multi-location business across cities like Los Angeles, Denver, and Salt Lake City, each location needs its own well-optimized profile and tailored content. Voice assistants treat them as separate entities tied to specific areas.\n\nOne generic “locations” page usually isn’t enough for strong local visibility.\n\nKEY FACTORS\n- Create dedicated pages and listings for each branch with unique details.\n- Reflect local neighborhoods, landmarks, and customer language for each city.\n- Ensure consistent brand data while keeping local specifics accurate.\n\nStart by standardizing core info (name, phone pattern, categories) and then customize FAQs, photos, and descriptions per location. That balance keeps things manageable and effective.\n\nThink “locally complete, centrally consistent” as your operating principle.",
+        "description": "Each location must be treated as its own local entity. Give every branch a separate, fully optimized listing and page, with city-specific details, neighborhoods, and FAQs. Shared brand info is fine, but voice assistants need clear, location-level data to recommend you correctly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

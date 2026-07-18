@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In plain English, what exactly is speakable schema and what problem is it supposed to solve?",
+  "description": "Speakable schema is structured data that marks 2–3 specific sentences on a page as ideal for text‑to‑speech, usually the headline and a short summary or answer.",
+  "url": "aeoptimizer.com/faq/in-plain-english-what-exactly-is-speakable-schema-and-what-problem-is-it-suppose",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In plain English, what exactly is speakable schema and what problem is it supposed to solve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Speakable schema is a bit of structured data (JSON-LD) that flags 2–3 short sections of a page as best suited for text‑to‑speech, typically the headline and a concise summary or answer near the top of the content. It helps voice assistants and other audio systems pick the clearest, most quotable sentences when responding to voice queries.\n\nContext:\nSpeakable is a Schema.org property used inside `Article` or `WebPage` markup to point at specific HTML elements, usually via CSS selectors or xPaths. It’s still labeled beta, and most impact today is around news and voice devices, but the same patterns are increasingly useful for AI and audio delivery.\n\nKey factors:\n- Works best on **news, articles, and clear Q&A content**.\n- You mark **short, standalone sentences**, not whole pages.\n- Implemented via **SpeakableSpecification** with `cssSelector` or `xPath`.\n- Validated with standard schema testing tools to avoid errors.\n\nPractical guidance:\nStart by identifying the 2–3 sentences on each article that give a plain‑English summary or direct answer. Add IDs or stable classes to those elements, reference them in a SpeakableSpecification block inside your existing JSON‑LD, then validate and request reindexing.\n\nSoft positioning:\nIf this feels technical, an SEO or structured‑data specialist used to JSON‑LD can usually wire up speakable schema quickly and safely.",
+        "description": "Speakable schema is structured data that marks 2–3 specific sentences on a page as ideal for text‑to‑speech, usually the headline and a short summary or answer. It exists to tell voice assistants and audio systems exactly which lines to read aloud, so users hear the clearest, most helpful part of your content first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

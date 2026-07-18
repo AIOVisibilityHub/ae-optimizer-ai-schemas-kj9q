@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do differently for \"near me\" voice search if my customers are mainly in San Diego neighborhoods?",
+  "description": "For San Diego, emphasize specific neighborhoods (Gaslamp, La Jolla, North Park, etc.), coastal vs. inland convenience, and tourist‑friendly details in your prof",
+  "url": "aeoptimizer.com/faq/what-should-i-do-differently-for-near-me-voice-search-if-my-customers-are-mainly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do differently for \"near me\" voice search if my customers are mainly in San Diego neighborhoods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego, a lot of “near me” voice activity clusters around tourism, neighborhoods, and coastal vs. inland convenience, so local context matters more than generic city mentions.\n\nYou want assistants to understand both your exact location and how you fit into the local lifestyle (beach, military, downtown, suburban).\n\nKey factors:\n- Use neighborhood names like Gaslamp, North Park, La Jolla, Pacific Beach, and Chula Vista where accurate.\n- Call out tourist‑friendly details (parking, hours, family‑friendly, group options) if relevant.\n- Make sure maps correctly pin your location; coastal vs. inland distances matter.\n- Encourage reviews and photos that show context (near the pier, by the base, etc.).\n\nUpdate your profiles and content so they clearly signal the parts of San Diego you really serve. That helps assistants return you for the right “near me” voice queries and avoids mismatched visitors.",
+        "description": "For San Diego, emphasize specific neighborhoods (Gaslamp, La Jolla, North Park, etc.), coastal vs. inland convenience, and tourist‑friendly details in your profiles and content. This helps voice assistants recommend you for the right “near me” searches instead of treating the whole city as one blob."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

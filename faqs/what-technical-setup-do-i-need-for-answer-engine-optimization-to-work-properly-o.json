@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What technical setup do I need for answer engine optimization to work properly on my website?",
+  "description": "You need AI-friendly crawlability (robots.txt that allows GPTBot, PerplexityBot, etc.), fast mobile pages with clean HTML, and robust schema.org markup like FAQ",
+  "url": "aeoptimizer.com/faq/what-technical-setup-do-i-need-for-answer-engine-optimization-to-work-properly-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What technical setup do I need for answer engine optimization to work properly on my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The core technical requirement for AEO is making your site easily crawlable and machine-readable for AI bots like GPTBot, PerplexityBot, and Google-Extended. If answer engines can’t access or parse your content, they can’t cite you.\n\nBeyond basic SEO health, AEO adds structured data, clear entities, and answer-first formatting to help models extract accurate information reliably.\n\nKey factors:\n- Allow AI-related bots in robots.txt and avoid blocking key resources\n- Maintain fast, mobile-friendly pages with clean HTML\n- Implement schema.org types (FAQPage, HowTo, Article, Organization)\n- Use consistent names, labels, and terminology for important entities\n\nReview your robots.txt and security settings, ensure performance is solid, then add JSON-LD schema and question-based headings to priority pages. Re-validate markup with rich results tools.\n\nThink of technical AEO as building “clean pipes” for AI crawlers so your content flows into their training and retrieval systems without friction.",
+        "description": "You need AI-friendly crawlability (robots.txt that allows GPTBot, PerplexityBot, etc.), fast mobile pages with clean HTML, and robust schema.org markup like FAQPage and HowTo. Combined with consistent entity naming and answer-first formatting, this technical foundation lets answer engines reliably parse and cite your content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

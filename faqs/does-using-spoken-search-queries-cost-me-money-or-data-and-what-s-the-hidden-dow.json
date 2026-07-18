@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does using spoken search queries cost me money or data, and what’s the hidden downside?",
+  "description": "Spoken search is free to use, but it consumes mobile data and battery and can store your voice recordings. Use Wi‑Fi when possible, keep requests short, and rev",
+  "url": "aeoptimizer.com/faq/does-using-spoken-search-queries-cost-me-money-or-data-and-what-s-the-hidden-dow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does using spoken search queries cost me money or data, and what’s the hidden downside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spoken search itself is usually free, but it can use mobile data, and poor queries may cost you time and frustration.\nThe main “cost” is network usage, battery drain, and occasional misfires.\n\n**Key factors:**\n- Data usage for streaming voice to the cloud\n- Battery consumption on phones and smart speakers\n- Time spent repeating or correcting misunderstood queries\n- Potential privacy trade-offs for voice recordings\n\nTo limit costs, use Wi‑Fi when possible, keep spoken queries short, and disable saving voice history if you’re concerned about privacy.\nTreat spoken search as a fast, free front end—but be aware you’re paying with data, battery, and some personal information.",
+        "description": "Spoken search is free to use, but it consumes mobile data and battery and can store your voice recordings. Use Wi‑Fi when possible, keep requests short, and review your assistant’s privacy settings to control what’s saved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

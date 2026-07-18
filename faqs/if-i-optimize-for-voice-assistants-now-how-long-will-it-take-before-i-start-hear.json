@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I optimize for voice assistants now, how long will it take before I start hearing my site mentioned in answers?",
+  "description": "If you implement strong Q&A content, schema, and local/technical fixes, you’ll typically see first voice citations in about 4–12 weeks. The exact timing depends",
+  "url": "aeoptimizer.com/faq/if-i-optimize-for-voice-assistants-now-how-long-will-it-take-before-i-start-hear",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I optimize for voice assistants now, how long will it take before I start hearing my site mentioned in answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most businesses start seeing the first voice citations within 4–12 weeks after restructuring content and improving local and technical signals, though competitive markets can take longer. The timeline depends on crawl frequency, competition, and how aggressively you optimize.\n\nSearch engines have to discover, index, and test your new Q&A structure before assistants start using it in responses. Voice features also tend to lag visible search changes by a bit.\n\nKEY FACTORS\n- How often your site is crawled and updated\n- Strength of your domain vs. competitors already cited\n- Quality and clarity of your Q&A and schema markup\n- Local listing verification speed and accuracy\n\nPlan for a 3‑month window before judging results, with weekly voice tests and snippet checks to track movement. Keep iterating on the pages that show partial traction rather than constantly starting new ones.\n\nFraming this as a medium‑term optimization project avoids the frustration of expecting overnight voice visibility.",
+        "description": "If you implement strong Q&A content, schema, and local/technical fixes, you’ll typically see first voice citations in about 4–12 weeks. The exact timing depends on crawl rates, competition, and how clearly your answers match real spoken queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

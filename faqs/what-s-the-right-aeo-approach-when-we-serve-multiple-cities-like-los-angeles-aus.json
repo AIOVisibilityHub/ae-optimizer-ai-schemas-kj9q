@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the right AEO approach when we serve multiple cities like Los Angeles, Austin, and Denver?",
+  "description": "Use a hybrid approach: maintain a central AEO content hub, then create distinct city pages for Los Angeles, Austin, Denver, etc., each with local Q&A and LocalB",
+  "url": "aeoptimizer.com/faq/what-s-the-right-aeo-approach-when-we-serve-multiple-cities-like-los-angeles-aus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the right AEO approach when we serve multiple cities like Los Angeles, Austin, and Denver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In multi-city operations like Los Angeles, Austin, and Denver, AEO should combine shared topical authority with localized Q&A and schema per market. You want one coherent brand story that branches into city-specific detail.\n\nThis avoids thin duplicate pages while still signaling localized expertise to answer engines.\n\nKey factors:\n- A strong central knowledge hub with general answers\n- Distinct location pages with city-tailored questions\n- LocalBusiness and Organization schema per location\n- Region-specific proof points (reviews, examples, imagery)\n\nBuild a main AEO content core, then layer on city pages that answer localized “how does this work here?” questions and mark them with FAQPage schema. Keep all NAP data consistent and aligned.\n\nHandled this way, multi-city AEO strengthens both your national authority and your local relevance in AI-generated responses.",
+        "description": "Use a hybrid approach: maintain a central AEO content hub, then create distinct city pages for Los Angeles, Austin, Denver, etc., each with local Q&A and LocalBusiness schema. This lets answer engines see you as both a national authority and locally relevant in each market you serve."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

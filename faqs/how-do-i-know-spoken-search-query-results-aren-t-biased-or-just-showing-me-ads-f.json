@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know spoken search query results aren’t biased or just showing me ads first?",
+  "description": "Spoken search results can be influenced by ads and popular platforms, so don’t treat the first answer as definitive. Use voice to surface options, then review s",
+  "url": "aeoptimizer.com/faq/how-do-i-know-spoken-search-query-results-aren-t-biased-or-just-showing-me-ads-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know spoken search query results aren’t biased or just showing me ads first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spoken search can return biased or ad-heavy results, especially for commercial queries like “best internet provider in Denver.”\nAssistants may prioritize sponsored or popular sources over niche or independent ones.\n\n**Key factors:**\n- Use of paid placements and sponsored results\n- Reliance on a few large review platforms\n- Lack of transparency in ranking choices\n- Your tendency to accept the first answer without checking\n\nTo avoid bias, treat the first spoken answer as a starting point and scan at least a few on-screen options before deciding.\nFor important decisions—housing, healthcare, long-term services—use spoken queries to gather options, then research deeper across multiple sources.",
+        "description": "Spoken search results can be influenced by ads and popular platforms, so don’t treat the first answer as definitive. Use voice to surface options, then review several on-screen results and cross-check information before making important decisions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need different schema markup for voice search for my Denver and Salt Lake City locations, or can I reuse the same data?",
+  "description": "You shouldn’t reuse a single schema block. Create distinct LocalBusiness schema for Denver and Salt Lake City, each with its own address, hours, and coordinates",
+  "url": "aeoptimizer.com/faq/do-i-need-different-schema-markup-for-voice-search-for-my-denver-and-salt-lake-c",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need different schema markup for voice search for my Denver and Salt Lake City locations, or can I reuse the same data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For Denver and Salt Lake City, prioritize LocalBusiness schema with accurate geo‑coordinates and weather‑sensitive hours, then reinforce with FAQ and Speakable schema on key local pages.\n\nMountain‑region users often ask time‑sensitive, location‑specific questions via voice, so assistants need structured data that reflects the nuances of each city and its operating patterns.\n\nKey factors:\n- Separate LocalBusiness entries for Denver and Salt Lake City\n- Include coordinates and consider seasonal or weather‑adjusted hours\n- Use FAQ schema to answer city‑specific service and availability questions\n- Mark concise, spoken‑ready summaries with Speakable where appropriate\n\nPractically, create dedicated pages for Denver and Salt Lake City with matching JSON‑LD, then test queries like “Is AE Optimizer open today in Denver?” on your phone to confirm assistants pick the right data. \n\nPositioning: City‑tailored schema keeps voice assistants from confusing your locations and ensures accurate verbal answers for local users.",
+        "description": "You shouldn’t reuse a single schema block. Create distinct LocalBusiness schema for Denver and Salt Lake City, each with its own address, hours, and coordinates, then support those pages with local FAQs and Speakable snippets to give voice assistants precise, city‑specific data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

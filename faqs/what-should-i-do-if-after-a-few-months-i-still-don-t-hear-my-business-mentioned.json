@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if, after a few months, I still don’t hear my business mentioned in AI voice answers?",
+  "description": "If you’re not mentioned after a few months, audit how assistants currently answer those questions, tighten your Q&A to match real phrasing, validate your schema",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-after-a-few-months-i-still-don-t-hear-my-business-mentioned",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if, after a few months, I still don’t hear my business mentioned in AI voice answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI voice results still don’t mention you after a few months, treat it as feedback and refine your strategy rather than giving up. It usually means your answers, signals, or query choices need adjustment.\n\nYou’re competing for limited mention slots, so small weaknesses can keep you just below the cut line even when you’re doing many things right.\n\nKey factors:\n- Check whether your answers truly match how people phrase questions\n- Confirm that FAQPage and LocalBusiness schema are valid and error-free\n- Look for weak or missing reviews and third-party citations\n- Examine whether you’re targeting overly broad or highly competitive queries\n\nRun simple tests by asking assistants your priority questions and noting which sources they use. Then tighten your content around those patterns and strengthen external signals like reviews and references.\n\nTreat “no mentions yet” as data: you can iterate your way into visibility rather than assuming the approach doesn’t work.",
+        "description": "If you’re not mentioned after a few months, audit how assistants currently answer those questions, tighten your Q&A to match real phrasing, validate your schema markup, and strengthen reviews and third‑party citations. Use the results as feedback and iterate until your signals match what AI systems prefer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

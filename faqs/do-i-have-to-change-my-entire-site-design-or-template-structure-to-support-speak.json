@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to change my entire site design or template structure to support speakable schema correctly?",
+  "description": "You don’t need a redesign to use speakable schema; you just need stable IDs or classes on the headline and summary paragraphs so JSON‑LD can point to them. Most",
+  "url": "aeoptimizer.com/faq/do-i-have-to-change-my-entire-site-design-or-template-structure-to-support-speak",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to change my entire site design or template structure to support speakable schema correctly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, speakable schema doesn’t require you to redesign your site; it works with your existing HTML as long as key text sections have stable selectors. You’ll just add IDs or classes where needed and update your JSON‑LD templates.\n\nContext:\nThe property points at specific paragraphs or headings via `cssSelector` or `xPath`. If your front‑end code is very inconsistent or auto‑generated, you may need minor cleanup to ensure those selectors are reliable.\n\nKey factors:\n- Needs **consistent IDs/classes** on target elements.\n- Works best with **structured article layouts**.\n- No impact on visual design; it’s **invisible to users**.\n- Poorly structured HTML can make selectors **fragile**.\n\nPractical guidance:\nHave a developer review your article or page templates and add simple IDs to the headline and summary paragraph (e.g., `id=\"page-summary\"`). Base your SpeakableSpecification on those IDs so later design tweaks don’t break the markup.\n\nSoft positioning:\nIf your templates are messy, speakable implementation can be a good excuse to slightly improve HTML structure without touching the site’s look and feel.",
+        "description": "You don’t need a redesign to use speakable schema; you just need stable IDs or classes on the headline and summary paragraphs so JSON‑LD can point to them. Most work is in cleaning up selectors and templates, not changing how the site looks or behaves for users."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My pages rank well in Google but not on Google Assistant. What does that usually mean and how do I fix it?",
+  "description": "If you rank in regular search but not Google Assistant, Google likely doesn’t see clear, concise answers it can read aloud. Restructure key sections into Q&A bl",
+  "url": "aeoptimizer.com/faq/my-pages-rank-well-in-google-but-not-on-google-assistant-what-does-that-usually",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My pages rank well in Google but not on Google Assistant. What does that usually mean and how do I fix it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your site already ranks well in text search but rarely appears in voice results, the gap is usually answer structure and schema rather than authority. Google can see you, but it doesn’t see clear, extractable responses.\n\nYou need to repackage parts of your content into question-and-answer units and mark them up so Google Assistant can easily use them.\n\nKey factors:\n- Lack of direct, concise answer paragraphs for key questions.\n- Missing FAQ/HowTo schema on existing guides and FAQs.\n- Weak or generic local signals for “near me” queries.\n- Outdated content that doesn’t match current user wording.\n\nPractically, audit your top-ranking pages and identify where you already satisfy questions but bury the answer in long paragraphs. Pull those answers into short, explicit blocks and add schema.\n\nThis kind of “answer refactoring” often unlocks voice visibility without needing major new content or links.",
+        "description": "If you rank in regular search but not Google Assistant, Google likely doesn’t see clear, concise answers it can read aloud. Restructure key sections into Q&A blocks with 40–60 word direct answers, add FAQ/HowTo schema, strengthen local signals, and ensure content matches current spoken phrasing to unlock voice results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

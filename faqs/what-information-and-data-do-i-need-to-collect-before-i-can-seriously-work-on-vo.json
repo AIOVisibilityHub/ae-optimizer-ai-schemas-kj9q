@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information and data do I need to collect before I can seriously work on voice search for my local business?",
+  "description": "Collect the real questions customers ask (from calls, emails, DMs), plus clean data on your services, pricing ranges, address, hours, and service area. Add proo",
+  "url": "aeoptimizer.com/faq/what-information-and-data-do-i-need-to-collect-before-i-can-seriously-work-on-vo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information and data do I need to collect before I can seriously work on voice search for my local business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need whatever your customers actually say and need: **real question phrases, service descriptions, locations, hours, pricing ranges, and proof you’re legitimate.** Assistants use that data to decide if you’re a smart suggestion.\n\nThe best inputs come from your existing customer touchpoints—calls, emails, DMs, front-desk conversations—not from guessing. Turn those into clear answers in your profiles and FAQs.\n\nKey factors:\n- Common spoken questions (“Do you,” “Can you,” “How much,” “Are you open”) \n- Service and product details, including limitations\n- Accurate address, hours, service area and contact options\n- Reviews, photos, and testimonials that reduce perceived risk\n\nPractically, audit a week or month of customer interactions and list the top 20 real questions. Make sure each has a specific, short, spoken-friendly answer somewhere visible to assistants.\n\nVoice search works best when it reflects what your customers already ask you every day.",
+        "description": "Collect the real questions customers ask (from calls, emails, DMs), plus clean data on your services, pricing ranges, address, hours, and service area. Add proof like reviews and photos. Then turn those into concise, spoken-friendly answers on your profiles and FAQ pages so voice assistants have useful, trustworthy information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which listings and directories matter most for \"near me\" voice search—there are so many I’m overwhelmed?",
+  "description": "Focus first on the big four platforms that feed most “near me” voice answers: Google Business Profile, Apple Business Connect, Yelp, and Bing Places. Claim and",
+  "url": "aeoptimizer.com/faq/which-listings-and-directories-matter-most-for-near-me-voice-search-there-are-so",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which listings and directories matter most for \"near me\" voice search—there are so many I’m overwhelmed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the big four: Google Business Profile, Apple Business Connect, Yelp, and Bing Places, then expand to any high‑authority directories in your industry.\n\nThese are the primary sources many voice assistants and mapping apps pull from when answering “near me” queries.\n\nKey factors:\n- Claim, verify, and fully complete each profile with identical NAP and hours.\n- Choose the most accurate primary category and relevant secondary categories.\n- Upload real photos and write a clear, conversational business description.\n- Regularly review and respond to reviews, questions, and suggested edits.\n\nOnce those are solid, you can layer on niche directories and citation management tools if needed. But without the core four done right, your “near me” voice efforts will always be capped.",
+        "description": "Focus first on the big four platforms that feed most “near me” voice answers: Google Business Profile, Apple Business Connect, Yelp, and Bing Places. Claim and complete those with identical NAP, categories, hours, photos, and descriptions before worrying about smaller directories."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

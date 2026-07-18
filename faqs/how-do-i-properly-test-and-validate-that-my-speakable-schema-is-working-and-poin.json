@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I properly test and validate that my speakable schema is working and pointing to the right content?",
+  "description": "Validate speakable schema by running pages through a structured‑data tester, confirming each selector targets a real element, and manually reviewing the marked",
+  "url": "aeoptimizer.com/faq/how-do-i-properly-test-and-validate-that-my-speakable-schema-is-working-and-poin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I properly test and validate that my speakable schema is working and pointing to the right content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To validate speakable schema, you should run your pages through a structured‑data testing tool and manually confirm that every selector you’ve defined corresponds to visible text on the page. Look for both syntax errors and logical issues, like pointing at the wrong element.\n\nContext:\nTools catch formatting problems but can’t fully judge whether your chosen sentences make sense when spoken. A quick human review for audio clarity is just as important as technical validation.\n\nKey factors:\n- Use a **schema validator** to confirm JSON‑LD correctness.\n- Ensure each `cssSelector`/`xPath` hits a **real DOM element**.\n- Check that the text is **current and self‑contained**.\n- Listen to it read aloud using a **TTS tool or browser feature**.\n\nPractical guidance:\nCreate a small checklist: validator clean, selectors working, text updated, and audio check passed. Apply it every time you add or significantly change speakable sections, and document which templates or IDs are used so QA is repeatable.\n\nSoft positioning:\nTreat validation as part of your publishing workflow, not a one‑off chore, so speakable markup stays trustworthy over time.",
+        "description": "Validate speakable schema by running pages through a structured‑data tester, confirming each selector targets a real element, and manually reviewing the marked sentences for clarity. Ideally, listen to the text via text‑to‑speech to ensure it sounds good when read aloud."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

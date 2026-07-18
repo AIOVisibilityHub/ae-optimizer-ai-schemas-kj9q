@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can spoken search queries really find the best local spots near me in cities like LA or Austin?",
+  "description": "Spoken searches can reliably find nearby restaurants, shops, and services if your location services are on and you add some context, like neighborhood or landma",
+  "url": "aeoptimizer.com/faq/can-spoken-search-queries-really-find-the-best-local-spots-near-me-in-cities-lik",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can spoken search queries really find the best local spots near me in cities like LA or Austin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can use spoken search to find hyper-local information like “open coffee shops within walking distance” in downtown Los Angeles or “best taco trucks near Salt Lake City library.”\nLocation services translate “near me” into coordinates.\n\n**Key factors:**\n- Whether location access is enabled on your device\n- Precision of GPS or Wi‑Fi positioning\n- How you describe nearby landmarks or neighborhoods\n- Assistant’s local data sources and freshness\n\nFor crowded markets like LA and Austin, add neighborhood or cross streets (“near Echo Park Lake,” “in South Congress”) to narrow results.\nIf “near me” answers seem off, check location permissions and try more explicit spoken queries with city and area names.",
+        "description": "Spoken searches can reliably find nearby restaurants, shops, and services if your location services are on and you add some context, like neighborhood or landmark names. Phrases like “best brunch near Capitol Hill in Denver” work far better than just “near me.”"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

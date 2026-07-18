@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to have any documents or accounts set up before spoken search can answer personal questions like my balance or orders?",
+  "description": "For general information, spoken search needs no documents at all, but for personal data like balances or orders you must first link your accounts and enable sec",
+  "url": "aeoptimizer.com/faq/do-i-need-to-have-any-documents-or-accounts-set-up-before-spoken-search-can-answ",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to have any documents or accounts set up before spoken search can answer personal questions like my balance or orders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No documentation is needed to use spoken search itself, but if you’re asking about your accounts—like “What’s my balance?”—the assistant may need prior setup and account linking.\nWithout that, it falls back to generic web results.\n\n**Key factors:**\n- Whether you’ve linked bank, utility, or loyalty accounts\n- Authentication method (PIN, biometrics, passcode)\n- Assistant’s support for specific services\n- Security limits on sensitive spoken actions\n\nBefore expecting account-specific answers, walk through the assistant’s setup flow and verify what data it can access.\nFor sensitive services in cities like Austin or Boston, consider restricting spoken access to informational queries only.",
+        "description": "For general information, spoken search needs no documents at all, but for personal data like balances or orders you must first link your accounts and enable secure access. Without that setup, voice queries will return only generic web results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually get my local business to show up when people use voice search like “Hey Google, find this near me”?",
+  "description": "You show up in voice search by fully optimizing and aligning your Google Business Profile, Apple Maps, Yelp and your website, then using conversational, questio",
+  "url": "aeoptimizer.com/faq/how-do-i-actually-get-my-local-business-to-show-up-when-people-use-voice-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually get my local business to show up when people use voice search like “Hey Google, find this near me”?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You show up in local voice search by keeping your business data complete, consistent, and conversational across your website and key profiles like Google Business, Apple Maps, Yelp and Bing Places. Voice assistants pull answers from these sources plus fast, mobile-friendly pages and strong reviews.\n\nVoice tools like Siri, Google Assistant and Alexa mainly want one thing: a trustworthy, clear answer they can read out loud. If your profiles are thin, outdated or written like corporate brochures, they’ll usually pick someone else.\n\nKey factors:\n- Accurate name, address, phone and hours everywhere (NAP consistency)\n- A fully completed Google Business Profile with photos, services and Q&A\n- Natural, question-based wording (\"Who\", \"Where\", \"How much\", \"When\")\n- Good review volume, recent ratings, and responses\n\nPractically, start by cleaning up your Business Profiles, then rewrite service descriptions and FAQs in natural speech, and ask happy customers for reviews on a steady basis. Test results by actually saying “Hey Google, find [your service] near me” and see who appears.\n\nDone well, voice search becomes a practical way to win more nearby customers, not a buzzword project.",
+        "description": "You show up in voice search by fully optimizing and aligning your Google Business Profile, Apple Maps, Yelp and your website, then using conversational, question-based content and keeping reviews and basic info (name, address, phone, hours) accurate and consistent everywhere. Test it regularly by doing real “near me” voice searches yourself."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

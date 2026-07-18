@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell which long-tail voice search keywords my site already shows up for?",
+  "description": "Open Google Search Console, go to Performance → Queries, and look for longer, question-style phrases with words like who, what, where, when, why, how, can, and",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-which-long-tail-voice-search-keywords-my-site-already-shows-up-fo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell which long-tail voice search keywords my site already shows up for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look in Google Search Console’s Performance → Queries report and filter for longer, question-style phrases with words like who, what, where, when, why, how, can, should, and “near me.” Those are your existing long-tail voice-style keywords.\n\nMany sites already rank for conversational queries without realizing it; your job is to find them and build better answers around them.\n\nKEY FACTORS\n- Focus on queries with 4+ words and question modifiers\n- Sort by impressions and clicks to find promising terms\n- Note which pages already match these queries\n- Identify gaps where you could create dedicated answers\n\nExport the query list, highlight the conversational ones, and group them by topic or intent. For each cluster, create or update content with clear question headings and short answers tailored to that phrasing. \n\nThis data-first approach lets you amplify what’s already working instead of guessing at new keywords.",
+        "description": "Open Google Search Console, go to Performance → Queries, and look for longer, question-style phrases with words like who, what, where, when, why, how, can, and “near me.” Those are your existing long-tail voice keywords. Use impressions and clicks to prioritize which ones deserve better targeted content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

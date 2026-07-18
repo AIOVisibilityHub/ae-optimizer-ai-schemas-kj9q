@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a slow website keep me from ranking in voice search even if my SEO is good?",
+  "description": "Yes. Slow pages are a major negative ranking factor for voice search because assistants aim to deliver instant answers. Even with good SEO, poor mobile performa",
+  "url": "aeoptimizer.com/faq/can-a-slow-website-keep-me-from-ranking-in-voice-search-even-if-my-seo-is-good",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a slow website keep me from ranking in voice search even if my SEO is good?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, **page speed** can absolutely prevent you from ranking in voice search, even if your content is great. Voice users expect instant answers, so assistants avoid slow pages.\n\nIf your mobile performance is weak, search engines see a poor user experience and favor faster competitors for voice responses.\n\nKey factors:\n- Time to first byte (TTFB) and overall load time.\n- Image compression and reduced script bloat.\n- Caching and content delivery networks (CDNs) for global performance.\n- Passing Core Web Vitals on mobile.\n\nRun a page speed test for your key landing pages and address the worst issues first: oversized images, unused scripts, or slow hosting. Improving performance often yields gains in both regular and voice search visibility.\n\nIf you have limited budget, start by compressing images and cleaning up unnecessary plugins—that’s a low-cost way to unlock better voice rankings.",
+        "description": "Yes. Slow pages are a major negative ranking factor for voice search because assistants aim to deliver instant answers. Even with good SEO, poor mobile performance and long load times can cause search engines to skip your content in favor of faster sites for voice results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

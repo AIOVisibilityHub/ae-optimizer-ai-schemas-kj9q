@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long should my answers be if I want Google Assistant to read them out loud?",
+  "description": "Target a core answer of 40–60 words: two to three clear sentences that fully address the question. Put that short answer at the start of the section, then add m",
+  "url": "aeoptimizer.com/faq/how-long-should-my-answers-be-if-i-want-google-assistant-to-read-them-out-loud",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long should my answers be if I want Google Assistant to read them out loud?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google Assistant rarely reads long explanations; it prefers short, self-contained answers that fit in a few sentences. Aim for a core answer of about 40–60 words, followed by optional detail for users who click through.\n\nThis length is usually enough to fully answer a focused question without overwhelming someone listening on a phone or smart speaker.\n\nKey factors:\n- 40–60 words for the primary answer paragraph.\n- One idea per sentence, and limited jargon.\n- Clear definition, steps, or recommendation in that short block.\n- Supporting detail after the core answer for deeper readers.\n\nPractically, write your full explanation, then distill it into a 2–3 sentence summary at the top of the section. Read that summary out loud; if it feels too long or clunky, tighten it.\n\nConsistently following this answer length guideline helps your content fit neatly into the format Google Assistant prefers.",
+        "description": "Target a core answer of 40–60 words: two to three clear sentences that fully address the question. Put that short answer at the start of the section, then add more detail below. This length fits well with how Google Assistant reads responses aloud without overwhelming listeners."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

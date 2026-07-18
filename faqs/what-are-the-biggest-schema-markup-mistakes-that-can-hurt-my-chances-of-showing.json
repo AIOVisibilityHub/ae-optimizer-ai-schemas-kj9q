@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the biggest schema markup mistakes that can hurt my chances of showing up in voice search?",
+  "description": "Major issues include using FAQ or HowTo schema on content that doesn’t really answer questions, letting schema fields differ from visible text, shipping invalid",
+  "url": "aeoptimizer.com/faq/what-are-the-biggest-schema-markup-mistakes-that-can-hurt-my-chances-of-showing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the biggest schema markup mistakes that can hurt my chances of showing up in voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common schema mistakes that hurt voice search include using the wrong schema type, mismatched text vs. markup, invalid JSON‑LD, and trying to mark up content that isn’t genuinely Q&A or instructional.\n\nVoice assistants need accurate, trustworthy, and unambiguous data. When markup conflicts with the visible page or contains errors, systems often ignore it—or worse, become cautious about your site altogether.\n\nKey factors:\n- Don’t label marketing copy as FAQ or HowTo if it doesn’t answer a question\n- Ensure questions and answers in schema match your on‑page content verbatim\n- Validate JSON‑LD after every major change\n- Avoid overstuffing with unnecessary fields or multiple overlapping schemas\n\nPractically, audit a sample of pages, comparing what users see with what bots see in schema, and fix inconsistencies first. Then address technical validation issues flagged by testing tools. \n\nPositioning: A smaller set of clean, honest schema beats a large footprint full of errors and over‑optimization every time.",
+        "description": "Major issues include using FAQ or HowTo schema on content that doesn’t really answer questions, letting schema fields differ from visible text, shipping invalid JSON‑LD, and overstuffing multiple conflicting types. These mistakes cause voice assistants to ignore or distrust your structured data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

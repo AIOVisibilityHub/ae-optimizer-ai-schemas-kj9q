@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the best way to structure \"how to\" content so Google Assistant chooses my guide for voice answers?",
+  "description": "Structure “how to” content with a 40–60 word overview at the top, followed by a numbered list of simple, clear steps. Mark it up with valid HowTo schema that ma",
+  "url": "aeoptimizer.com/faq/what-s-the-best-way-to-structure-how-to-content-so-google-assistant-chooses-my-g",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the best way to structure \"how to\" content so Google Assistant chooses my guide for voice answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To win “how to” queries on Google Assistant, you need clear step-by-step content with a concise summary at the top, ideally marked up with HowTo schema. Assistant often pulls either the overview or the key steps.\n\nPeople using voice for “how to” want quick guidance, not a full textbook, so clarity and scannability are more important than depth.\n\nKey factors:\n- Start with a short summary stating what the user will achieve.\n- Break steps into a numbered list with simple, imperative language.\n- Use HowTo schema that matches the visible steps.\n- Include common pitfalls or safety notes where relevant.\n\nPractically, take your existing how-to guides and reformat them: add a 40–60 word overview, then clean, numbered steps. Validate your schema and make sure it describes the same sequence.\n\nThis makes your content a strong candidate when Google Assistant needs to quickly walk someone through a task.",
+        "description": "Structure “how to” content with a 40–60 word overview at the top, followed by a numbered list of simple, clear steps. Mark it up with valid HowTo schema that matches the visible instructions. This format helps Google Assistant quickly extract and read your guide as a spoken walkthrough."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

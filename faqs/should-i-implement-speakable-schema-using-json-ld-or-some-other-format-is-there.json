@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I implement speakable schema using JSON‑LD or some other format—is there a best practice?",
+  "description": "Best practice is to use JSON‑LD for speakable schema. It lets you define a SpeakableSpecification with clean `cssSelector` or `xPath` targets inside a script ta",
+  "url": "aeoptimizer.com/faq/should-i-implement-speakable-schema-using-json-ld-or-some-other-format-is-there",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I implement speakable schema using JSON‑LD or some other format—is there a best practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "JSON‑LD is strongly recommended for speakable schema because it keeps your structured data separate from the visible HTML and is easier to manage across templates. Inline microdata or RDFa make it harder to target specific sentences cleanly.\n\nContext:\nSpeakable needs to reference precise elements via `cssSelector` or `xPath`, which fits naturally with JSON‑LD blocks embedded in `<script>` tags. That approach also aligns with modern SEO and schema practices.\n\nKey factors:\n- JSON‑LD is **more maintainable** across site changes.\n- It cleanly supports **SpeakableSpecification** and selectors.\n- Most tools and validators **expect JSON‑LD**.\n- Inline approaches can tangle schema with **presentation code**.\n\nPractical guidance:\nIf you already use JSON‑LD for other properties (e.g., Article, Organization, Breadcrumb), extend those blocks with a SpeakableSpecification section rather than mixing formats. Keep all structured data centralized in your templates for easier updates.\n\nSoft positioning:\nChoosing JSON‑LD for speakable sets you up for smoother integration with other advanced schema types down the line.",
+        "description": "Best practice is to use JSON‑LD for speakable schema. It lets you define a SpeakableSpecification with clean `cssSelector` or `xPath` targets inside a script tag, keeps schema separate from HTML presentation, and plays nicely with modern validators and other structured‑data types."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

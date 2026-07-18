@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if spoken search query results seem wrong, outdated, or just not helpful?",
+  "description": "If spoken results are off, clarify your query with more specifics, check your language and region settings, and adjust filters like safe search. You can also tr",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-spoken-search-query-results-seem-wrong-outdated-or-just-not",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if spoken search query results seem wrong, outdated, or just not helpful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If spoken search results feel off—irrelevant, outdated, or missing options—you can improve them by refining your query and adjusting assistant settings.\nOften the problem is vague phrasing or misaligned preferences.\n\n**Key factors:**\n- Search language and region settings\n- Safe search and personalization controls\n- Use of clear, updated terminology\n- Adding constraints like date, location, and price\n\nRe-run the query with specifics (“this week,” “under $100,” “near Boulder downtown”) and check that your region matches where you actually are.\nWhen results remain poor, try the same spoken question on a different assistant or device to see which better fits your needs.",
+        "description": "If spoken results are off, clarify your query with more specifics, check your language and region settings, and adjust filters like safe search. You can also try a different assistant or device to compare answers and pick the most relevant one."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does my website’s speed and mobile performance really affect whether AI voice assistants will mention me?",
+  "description": "Yes. Slow or poorly optimized mobile pages can reduce your chances of being cited and mentioned in AI voice answers. Improve page speed, clean up HTML, and stab",
+  "url": "aeoptimizer.com/faq/does-my-website-s-speed-and-mobile-performance-really-affect-whether-ai-voice-as",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does my website’s speed and mobile performance really affect whether AI voice assistants will mention me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI voice assistants do consider how fast and mobile-friendly your site is when deciding which sources to use. Slow, clunky pages are harder to parse and more likely to frustrate users if they tap through after hearing your name.\n\nPerformance issues can quietly lower your odds of being cited, especially for competitive queries.\n\nKey factors:\n- Page speed and core web vitals on mobile devices\n- Clean HTML structure that’s easy for crawlers to interpret\n- Stable layout without intrusive pop-ups covering content\n- Reliable uptime so assistants aren’t pointing to broken pages\n\nRun basic performance tests, then prioritize optimizing your most important answer pages. Combine speed improvements with Q&A structure and schema to give assistants both readable and reliable content.\n\nThink of technical health as table stakes: you’ll rarely get mentioned if your site is hard to load or navigate.",
+        "description": "Yes. Slow or poorly optimized mobile pages can reduce your chances of being cited and mentioned in AI voice answers. Improve page speed, clean up HTML, and stabilize layouts on key Q&A pages, then add schema so assistants have content that’s both easy to read and reliable to send users to."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

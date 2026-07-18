@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are long-tail keywords for voice search different from the ones people type, and why does that matter?",
+  "description": "Voice long-tail keywords are longer, more conversational, and often framed as full questions or commands that include intent, timing, and location (e.g., “best",
+  "url": "aeoptimizer.com/faq/how-are-long-tail-keywords-for-voice-search-different-from-the-ones-people-type",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are long-tail keywords for voice search different from the ones people type, and why does that matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice search queries usually include more words, natural speech patterns, and context (location, time, intent) than typical typed searches. Long-tail voice keywords should reflect that—longer, more conversational, and often framed as questions or commands.\n\nTyped queries might be “Denver plumber”; spoken queries sound more like “who’s the best emergency plumber near me in Denver open tonight.”\n\nKEY FACTORS\n- Voice queries are longer and more question-focused\n- Users often add time (“tonight,” “open now”) and intent (“book,” “find”) modifiers\n- Location references are common—even when assistants infer them\n- Voice responses favor concise, direct answers from pages\n\nWhen crafting keywords and content, read them out loud. If they sound like something you’d say to your phone, they’re voice-ready; if not, adjust for natural speech. \n\nThis simple “spoken test” prevents over-optimized, unnatural phrasing that assistants are less likely to surface.",
+        "description": "Voice long-tail keywords are longer, more conversational, and often framed as full questions or commands that include intent, timing, and location (e.g., “best emergency plumber near me in Denver open tonight”). Typed queries tend to be shorter and more fragmented. Matching spoken patterns helps assistants choose your content for answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

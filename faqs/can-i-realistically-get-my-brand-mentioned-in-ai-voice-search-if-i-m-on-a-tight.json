@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I realistically get my brand mentioned in AI voice search if I’m on a tight budget and can’t buy a bunch of tools?",
+  "description": "Yes. On a tight budget, focus on rewriting your pages into conversational Q&A, adding FAQPage and LocalBusiness schema, and fixing your Google Business Profile",
+  "url": "aeoptimizer.com/faq/can-i-realistically-get-my-brand-mentioned-in-ai-voice-search-if-i-m-on-a-tight",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I realistically get my brand mentioned in AI voice search if I’m on a tight budget and can’t buy a bunch of tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can absolutely improve your chances of AI voice mentions on a limited budget by focusing on content structure and core schema first. Those are high-impact changes you can implement without expensive tools.\n\nThe biggest gains come from rewriting existing pages into clear Q&A formats and wrapping them in FAQPage JSON-LD, which is largely a time investment. Then you can layer in speakable sections and local data as you go.\n\nKey factors:\n- Use your current site: add question-based headings and 40–60 word answers\n- Implement free schema markup templates (FAQPage, LocalBusiness, HowTo)\n- Fix Google Business Profile and major listing consistency before paid tools\n- Reserve budget for lightweight tracking, not flashy new platforms\n\nStart with one or two priority pages and your main business profile, then expand. As you see which queries drive mentions, you can selectively invest more in content and tracking.\n\nThink of it as building an AI-ready foundation with sweat equity first, then adding tools only when they clearly pay for themselves.",
+        "description": "Yes. On a tight budget, focus on rewriting your pages into conversational Q&A, adding FAQPage and LocalBusiness schema, and fixing your Google Business Profile and major listings. These free or low-cost changes dramatically improve your chances of being mentioned in AI voice answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

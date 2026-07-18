@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does my Google Business Profile affect my voice search rankings?",
+  "description": "Google Business Profile is a key voice search ranking factor, especially for local and “near me” queries. A verified, complete profile with accurate NAP, up-to-",
+  "url": "aeoptimizer.com/faq/how-much-does-my-google-business-profile-affect-my-voice-search-rankings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does my Google Business Profile affect my voice search rankings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your **Google Business Profile** is a major voice search ranking factor because assistants rely on it for hours, location, and ratings. An incomplete or outdated profile can knock you out of local voice results.\n\nFor “near me” and “is it open now” queries, platforms lean heavily on structured business data rather than your website alone.\n\nKey factors:\n- Verified profile with accurate NAP, hours, categories, and services.\n- Detailed descriptions, photos, and Q&A content.\n- Steady stream of recent reviews and owner responses.\n- Matching information across other listings (Yelp, Apple, Bing, etc.).\n\nLog into Google Business Profile regularly to update hours, add new photos, answer Q&A, and request reviews from happy customers. Make sure your website and other directories match this data exactly.\n\nIf you’ve ignored this profile so far, treating it as a “second homepage” can quickly improve your voice presence.",
+        "description": "Google Business Profile is a key voice search ranking factor, especially for local and “near me” queries. A verified, complete profile with accurate NAP, up-to-date hours, good reviews, and consistent data across directories greatly increases your chances of being chosen as a spoken answer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is speakable schema still supported by Google in 2026, or has it quietly been killed or deprecated?",
+  "description": "Speakable schema is still a valid Schema.org property and remains in Google’s beta program, primarily for U.S. news and article content. It has not been depreca",
+  "url": "aeoptimizer.com/faq/is-speakable-schema-still-supported-by-google-in-2026-or-has-it-quietly-been-kil",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is speakable schema still supported by Google in 2026, or has it quietly been killed or deprecated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google officially labels speakable structured data as beta and currently focuses on U.S. news publishers and article‑style content, especially for Google Assistant. It remains a valid Schema.org property and has not been deprecated.\n\nContext:\nEven though the feature is narrow, the same markup pattern is increasingly useful for other systems that care about quotable, audio‑friendly snippets. You should think of it as future‑proofing your content for voice and AI, not as a deprecated experiment.\n\nKey factors:\n- Status: **beta**, but **still supported and valid**.\n- Scope: primarily **U.S. news and article content**.\n- Not a guarantee of exposure; **eligibility is limited**.\n- Still safe to implement as part of **standard schema**.\n\nPractical guidance:\nBefore investing, confirm your content aligns with Google’s documented use cases—articles, news, and clear summaries. Implement on a subset of eligible pages first, then expand if you see signs of use through Assistant or related surfaces.\n\nSoft positioning:\nTreat speakable schema as a forward‑looking enhancement: modest today, but likely more important as audio and AI interfaces mature.",
+        "description": "Speakable schema is still a valid Schema.org property and remains in Google’s beta program, primarily for U.S. news and article content. It has not been deprecated, but its official scope is narrow, so you should see it as a focused, future‑oriented enhancement rather than a mainstream SEO feature."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

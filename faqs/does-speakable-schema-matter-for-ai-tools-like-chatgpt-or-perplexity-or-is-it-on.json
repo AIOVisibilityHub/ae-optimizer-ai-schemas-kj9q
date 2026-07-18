@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does speakable schema matter for AI tools like ChatGPT or Perplexity, or is it only about Google Assistant?",
+  "description": "Today, AI tools like ChatGPT and Perplexity don’t read speakable markup; they use your visible HTML. Still, the same concise, standalone summaries you’d mark as",
+  "url": "aeoptimizer.com/faq/does-speakable-schema-matter-for-ai-tools-like-chatgpt-or-perplexity-or-is-it-on",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does speakable schema matter for AI tools like ChatGPT or Perplexity, or is it only about Google Assistant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Speakable schema doesn’t directly power systems like ChatGPT, Perplexity, or Claude today, because those tools read your visible HTML rather than your JSON‑LD. However, the discipline of crafting clear, quotable summaries for speakable also makes your content more useful to AI.\n\nContext:\nAI systems look for concise, well‑structured answers in the body of a page. The same 2–3 sentence blocks you’d mark as speakable tend to be exactly what these tools extract, even if they ignore the schema itself.\n\nKey factors:\n- Current AI tools **don’t consume speakable markup** directly.\n- They do favor **clear, standalone answer paragraphs**.\n- Speakable work improves your **answer formatting** overall.\n- Future integrations could make **schema more influential**.\n\nPractical guidance:\nWrite and maintain high‑quality summary paragraphs whether or not you implement speakable, then place them prominently near the top of the page. Consider speakable as an optional extra layer that labels what you’ve already optimized for both search and AI.\n\nSoft positioning:\nThinking in terms of “speakable sections” is a practical way to make your content more extractable and quotable for the current and next generation of AI tools.",
+        "description": "Today, AI tools like ChatGPT and Perplexity don’t read speakable markup; they use your visible HTML. Still, the same concise, standalone summaries you’d mark as speakable are exactly the kind of text these systems like to quote, so the content work is valuable even beyond Google Assistant."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

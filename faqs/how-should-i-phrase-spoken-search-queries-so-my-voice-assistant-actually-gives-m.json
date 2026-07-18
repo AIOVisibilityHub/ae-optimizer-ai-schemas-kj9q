@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I phrase spoken search queries so my voice assistant actually gives me the right answer?",
+  "description": "Phrase spoken searches as one clear, specific question: state your intent, add key constraints (price, hours, rating, location), and speak in full sentences. Fo",
+  "url": "aeoptimizer.com/faq/how-should-i-phrase-spoken-search-queries-so-my-voice-assistant-actually-gives-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I phrase spoken search queries so my voice assistant actually gives me the right answer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get the best results with spoken search, phrase your query as a clear, specific question with one main goal, like “Find affordable sushi near downtown Austin open after 10 pm.”\nAvoid half-queries, mumbling, and stacking multiple questions into one breath.\n\n**Key factors:**\n- Include intent (find, compare, learn, call, directions)\n- Add constraints (price, hours, rating, distance)\n- Mention location when relevant\n- Use natural, full sentences rather than keyword lists\n\nBefore speaking, mentally decide what you actually want the system to do—answer a question, open a site, or perform an action.\nIf the first answer is off, refine out loud (“Only four-star restaurants within 3 miles”) instead of starting over from scratch.",
+        "description": "Phrase spoken searches as one clear, specific question: state your intent, add key constraints (price, hours, rating, location), and speak in full sentences. For example, “Show me kid-friendly hikes within 30 minutes of Denver with parking.”"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

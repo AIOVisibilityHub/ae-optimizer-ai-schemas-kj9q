@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I already “did voice SEO” last year and saw nothing—why should I believe it’ll work now?",
+  "description": "Past voice SEO efforts often fail because they were shallow or one-off—maybe a few keyword tweaks without fixing profiles, content, reviews and speed, or no ong",
+  "url": "aeoptimizer.com/faq/i-already-did-voice-seo-last-year-and-saw-nothing-why-should-i-believe-it-ll-wor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I already “did voice SEO” last year and saw nothing—why should I believe it’ll work now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you tried voice SEO before and saw little impact, it’s usually because **the work was too shallow or not maintained**, not because voice search “doesn’t work.” One-time tweaks rarely stand up to ongoing competitor improvements.\n\nQuick fixes like adding “near me” to a few pages or updating categories without improving content and reviews won’t change which business assistants trust most. Voice results favor steady, consistent signals.\n\nKey factors:\n- Whether changes were comprehensive (profiles, content, reviews, speed)\n- Ongoing updates to hours, photos, posts and Q&A\n- Review growth versus competitors over time\n- Monitoring and responding to new customer questions\n\nPractically, revisit voice search with a more holistic, long-term approach: align all your listings, build robust FAQ content, improve mobile speed, and create a simple review pipeline. Review progress quarterly, not weekly.\n\nTreat previous failure as a sign the strategy was incomplete, not that the channel is useless.",
+        "description": "Past voice SEO efforts often fail because they were shallow or one-off—maybe a few keyword tweaks without fixing profiles, content, reviews and speed, or no ongoing updates. A more complete, maintained approach that aligns all your listings and builds real authority is far more likely to produce results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

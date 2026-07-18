@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes a “good” long-tail keyword for voice search worth targeting versus one that’s too obscure?",
+  "description": "A good long-tail voice keyword is a natural-sounding, 4–8 word phrase with clear intent, modest but real search volume, and low to medium difficulty that direct",
+  "url": "aeoptimizer.com/faq/what-makes-a-good-long-tail-keyword-for-voice-search-worth-targeting-versus-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes a “good” long-tail keyword for voice search worth targeting versus one that’s too obscure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aim for long-tail keywords that balance reasonable search volume (often 20–200 searches a month) with low to medium difficulty and clear commercial or local intent. In voice search, specificity and intent matter more than raw volume.\n\nHighly relevant, lower-volume phrases frequently convert better because they align closely with what people want in the moment.\n\nKEY FACTORS\n- Favor 4–8 word phrases with clear intent (buy, book, visit, find)\n- Check monthly search volume and keyword difficulty scores\n- Prioritize queries that match your actual offerings and locations\n- Consider seasonality and time-based modifiers (“tonight,” “this weekend”)\n\nUse keyword tools to filter for longer phrases with lower difficulty, then sanity-check each keyword against what you really provide. If you would happily answer that exact question for a customer, it’s usually worth targeting. \n\nVoice-friendly long tails work best when they’re specific enough to be useful but broad enough to recur.",
+        "description": "A good long-tail voice keyword is a natural-sounding, 4–8 word phrase with clear intent, modest but real search volume, and low to medium difficulty that directly matches what you offer. Overly obscure phrases have minimal volume or vague intent and won’t justify dedicated content or optimization effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

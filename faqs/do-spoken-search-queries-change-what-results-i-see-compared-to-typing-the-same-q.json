@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do spoken search queries change what results I see compared to typing the same question?",
+  "description": "Yes. Spoken searches often return a single, concise answer or a small set of options suitable for voice playback, rather than long lists of links. For more nuan",
+  "url": "aeoptimizer.com/faq/do-spoken-search-queries-change-what-results-i-see-compared-to-typing-the-same-q",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do spoken search queries change what results I see compared to typing the same question?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spoken search queries change how results are chosen, often prioritizing one “best” answer or a small set of options that can be read aloud.\nYou typically get fewer visible choices than with typed results.\n\n**Key factors:**\n- Assistants favor concise, direct answers\n- Featured snippets and local packs become more important\n- Results optimized for conversational queries rank higher\n- Voice responses may skip deeper, long-form pages\n\nWhen you care about nuance or multiple viewpoints, start with spoken search, then swipe or click into full results to compare options.\nUse speech to quickly get oriented, but rely on the screen when you need to dig into details or conflicting information.",
+        "description": "Yes. Spoken searches often return a single, concise answer or a small set of options suitable for voice playback, rather than long lists of links. For more nuance or comparison, use the spoken result as a starting point and then review the full on-screen results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

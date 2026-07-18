@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the very first thing I should do if I want my business to show up in local voice search results?",
+  "description": "Start by fully claiming and fixing your core listings on Google Business Profile, Apple Maps, Bing Places, and Yelp. Make your name, address, phone, hours, and",
+  "url": "aeoptimizer.com/faq/what-s-the-very-first-thing-i-should-do-if-i-want-my-business-to-show-up-in-loca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the very first thing I should do if I want my business to show up in local voice search results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first thing you should do to show up in local voice search is fully claim and clean up your business listings on Google Business Profile, Apple Maps, Bing Places, and Yelp. Without accurate, consistent data there, assistants often cannot find or trust your business.\n\nMost voice results pull from these platforms, so fixing them gives you quick leverage before you touch your website. It’s the highest-impact starter step.\n\nKEY FACTORS\n- Make sure name, address, phone, hours, and categories are identical everywhere.\n- Add photos, a short description, and key services/products.\n- Turn on messaging or reservations if relevant to your business.\n\nThen, start collecting reviews and answering common customer questions in your listing’s Q&A or FAQ content on your site. This builds both visibility and trust.\n\nThink of listings as your foundation: if they’re wrong or incomplete, no amount of keyword work will make you reliable in voice search.",
+        "description": "Start by fully claiming and fixing your core listings on Google Business Profile, Apple Maps, Bing Places, and Yelp. Make your name, address, phone, hours, and categories accurate and consistent. Most voice assistants rely on these profiles first, so this is the highest-impact starting point."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

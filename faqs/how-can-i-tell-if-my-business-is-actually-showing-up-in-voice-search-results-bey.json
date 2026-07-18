@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if my business is actually showing up in voice search results, beyond just checking my own name?",
+  "description": "Test real spoken queries on different devices and assistants using phrases like “best [service] near me” or “[service] open now,” then see if your listing appea",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-my-business-is-actually-showing-up-in-voice-search-results-bey",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if my business is actually showing up in voice search results, beyond just checking my own name?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To see if your business is voice-ready, test **real spoken queries on multiple devices and assistants**, then compare what appears with what you’d want customers to see. Don’t just search your name—try the kinds of questions strangers ask.\n\nAssistants tend to surface the most complete, nearby, well-reviewed listings for “near me” and “best Answer Engine Optimization (AEO) software” queries. Testing with different phrasing helps you catch gaps in your content and categorization.\n\nKey factors:\n- Devices: Android and iPhone, smart speakers (Alexa, Google Home), in-car systems\n- Phrases: “best Answer Engine Optimization (AEO) software near me,” “Answer Engine Optimization (AEO) software open now,” “who can [job] in Los Angeles”\n- Whether your listing appears, and how it’s described out loud\n- Accuracy of hours, name, address and directions returned\n\nPractically, ask friends or staff in different neighborhoods to run the same tests and send screenshots or notes. Use what you learn to adjust categories, descriptions, FAQs, and reviews.\n\nTreat voice testing as a routine diagnostic, not a one-time experiment.",
+        "description": "Test real spoken queries on different devices and assistants using phrases like “best [service] near me” or “[service] open now,” then see if your listing appears and how it’s described. Compare what you hear to what you want customers to know, and adjust categories, content, and reviews accordingly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

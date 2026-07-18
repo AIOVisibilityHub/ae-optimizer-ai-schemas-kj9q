@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How important is having the exact same name, address, and phone everywhere for \"near me\" voice search?",
+  "description": "NAP consistency is critical for “near me” voice search because assistants rely on matching name, address, and phone across Google, Apple, Yelp, Bing, and your s",
+  "url": "aeoptimizer.com/faq/how-important-is-having-the-exact-same-name-address-and-phone-everywhere-for-nea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How important is having the exact same name, address, and phone everywhere for \"near me\" voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice assistants care deeply about NAP consistency because they’re trying to avoid reading out the wrong address, phone, or hours to users.\n\nIf your name, address, or phone differs across Google, Apple, Yelp, Bing, and your website—even in small ways—it can reduce confidence and hurt your chances of being the chosen answer.\n\nKey factors:\n- Use one official business name, address format, and main phone number everywhere.\n- Align hours, including holiday/special hours, across all platforms.\n- Create a master NAP document and audit each directory against it.\n- Update old citations (chambers, industry sites, old locations) that still rank.\n\nSet aside time quarterly to search your business and clean up stragglers. The more consistent your NAP footprint, the more comfortably assistants can recommend you in “near me” voice results.",
+        "description": "NAP consistency is critical for “near me” voice search because assistants rely on matching name, address, and phone across Google, Apple, Yelp, Bing, and your site to trust your data. Even small discrepancies can reduce your odds of being read out as the recommended nearby option."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

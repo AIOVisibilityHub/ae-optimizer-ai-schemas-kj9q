@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can my San Diego business show up more often when people ask AI voice assistants for local options nearby?",
+  "description": "For San Diego, write FAQs around real local scenarios and neighborhoods (La Jolla, Gaslamp, North Park), implement LocalBusiness and FAQ schema, and keep your G",
+  "url": "aeoptimizer.com/faq/how-can-my-san-diego-business-show-up-more-often-when-people-ask-ai-voice-assist",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can my San Diego business show up more often when people ask AI voice assistants for local options nearby?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego, AI voice mentions are heavily influenced by how clearly you signal local relevance across beach, downtown, and suburban areas. Assistants favor businesses that match both the query and the specific local intent.\n\nIf your content and data treat San Diego as a vague region, you’ll miss opportunities to be named for neighborhood-level voice searches.\n\nKey factors:\n- Create Q&A content that references places like Gaslamp, La Jolla, North Park\n- Keep Google Business Profile details and categories accurate and detailed\n- Use LocalBusiness schema with geo data and mention nearby landmarks\n- Maintain consistent NAP across regional directories and popular review sites\n\nWrite FAQs around how you serve San Diego residents and visitors in specific areas, then implement schema so assistants can match those answers to location-aware queries.\n\nIn a city split between tourist and local traffic, dialing in clear local signals is often what gets your brand spoken aloud.",
+        "description": "For San Diego, write FAQs around real local scenarios and neighborhoods (La Jolla, Gaslamp, North Park), implement LocalBusiness and FAQ schema, and keep your Google Business Profile and NAP data precise. Strong local signals help AI assistants pick and mention you for “near me” voice queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Once I add speakable schema, how long does it usually take before Google or voice assistants start using it?",
+  "description": "Timing depends on crawl and indexing. After you add valid speakable schema and request indexing, it typically takes days to weeks for Google to process it and f",
+  "url": "aeoptimizer.com/faq/once-i-add-speakable-schema-how-long-does-it-usually-take-before-google-or-voice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Once I add speakable schema, how long does it usually take before Google or voice assistants start using it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can usually start seeing whether speakable schema is recognized within a few days of Google re‑crawling and re‑indexing your updated pages, though visible effects on Assistant experiences may take longer. There is no fixed guarantee or public report for timing.\n\nContext:\nSchema changes follow normal indexing cycles: once Google processes your JSON‑LD and confirms it’s valid, the data becomes available to products that use it. Assistant surfaces, however, are selective and may not expose every change immediately.\n\nKey factors:\n- Dependent on **crawl and indexing frequency**.\n- Requires **error‑free speakable markup**.\n- Assistant usage is **not fully transparent** in standard reports.\n- Expect **days to weeks**, not minutes.\n\nPractical guidance:\nAfter implementation, use schema testing tools to confirm validity, then request indexing in Search Console for key pages. Monitor voice results manually and track any changes in impressions or engagement over several weeks before judging impact.\n\nSoft positioning:\nTreat speakable schema like any other structured‑data change: validate, request indexing, and then give it time to propagate rather than expecting instant visible results.",
+        "description": "Timing depends on crawl and indexing. After you add valid speakable schema and request indexing, it typically takes days to weeks for Google to process it and for any Assistant experiences to update, with no guarantee that every change will be visible or reported."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

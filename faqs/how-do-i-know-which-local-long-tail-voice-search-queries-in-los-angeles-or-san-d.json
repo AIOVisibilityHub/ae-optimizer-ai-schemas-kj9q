@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know which local long-tail voice search queries in Los Angeles or San Diego are actually worth optimizing for?",
+  "description": "Prioritize local long-tail queries that mention your city or neighborhood, clearly relate to your services, and include timing or intent modifiers (e.g., “today",
+  "url": "aeoptimizer.com/faq/how-do-i-know-which-local-long-tail-voice-search-queries-in-los-angeles-or-san-d",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know which local long-tail voice search queries in Los Angeles or San Diego are actually worth optimizing for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for longer, question-style queries that mention your city or neighborhood and are clearly tied to your services, then ensure each has a matching, well-optimized page. In Los Angeles or San Diego, that often means phrases like “best Answer Engine Optimization (AEO) software near [neighborhood] open now” or “where can I find Answer Engine Optimization (AEO) software in [area].”\n\nNot every long-tail local query is worth targeting; focus on those aligned with your revenue and capacity.\n\nKEY FACTORS\n- Queries that include city, neighborhood, or landmarks\n- Clear service intent and timing (“today,” “this weekend”) \n- Reasonable search volume and low to medium difficulty\n- Ability to create a page that genuinely fulfills the request\n\nUse keyword and SERP tools to surface local questions, then sanity-check each: would a page answering this be truly useful and likely to convert? If yes, prioritize it; if not, skip. \n\nGood local voice keywords feel both common and commercially meaningful, not oddly specific one-offs.",
+        "description": "Prioritize local long-tail queries that mention your city or neighborhood, clearly relate to your services, and include timing or intent modifiers (e.g., “today,” “open now,” “best”). Check that they have some search volume and that you can create a page that genuinely answers the request and could lead to a conversion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can bad past SEO work hurt my voice search ranking factors, and how do I fix that?",
+  "description": "Yes. Old SEO tactics like keyword stuffing, thin content, and technical clutter can weaken voice search ranking factors. Fix this by rewriting content in natura",
+  "url": "aeoptimizer.com/faq/can-bad-past-seo-work-hurt-my-voice-search-ranking-factors-and-how-do-i-fix-that",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can bad past SEO work hurt my voice search ranking factors, and how do I fix that?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prior bad SEO work can hurt voice search rankings if it created **thin content, keyword stuffing, or technical debt**, but these issues can be fixed. Assistants mainly care about current quality and performance.\n\nOld tactics often conflict with today’s emphasis on natural language and user experience.\n\nKey factors to repair:\n- Over-optimized, unnatural keyword usage; rewrite in conversational tone.\n- Thin pages with little real information; expand and deepen content.\n- Slow, cluttered sites from too many plugins or scripts.\n- Confusing site architecture that harms crawlability.\n\nAudit your top pages for outdated practices and prioritize rewriting them with clear questions, short answers, and better structure. Clean up technical clutter that slows or confuses search engines.\n\nIf you’re worried, tackle a few high-traffic pages first—you can improve voice rankings even if your past SEO wasn’t ideal.",
+        "description": "Yes. Old SEO tactics like keyword stuffing, thin content, and technical clutter can weaken voice search ranking factors. Fix this by rewriting content in natural, question-based language, expanding useful information, improving site speed, and simplifying architecture so search engines can confidently use your pages for voice answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

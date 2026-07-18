@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it realistically cost to get my brand cited by voice assistants, and is it worth it?",
+  "description": "You don’t pay the assistants directly; you invest in content, schema, and SEO. That can be as low as a few internal hours for DIY FAQs or several thousand dolla",
+  "url": "aeoptimizer.com/faq/how-much-does-it-realistically-cost-to-get-my-brand-cited-by-voice-assistants-an",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it realistically cost to get my brand cited by voice assistants, and is it worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t pay Siri, Alexa, or Google Assistant directly; the investment is in content, technical work, and possibly tools or consultants. Costs range from a few internal hours for DIY changes to several thousand dollars if you hire specialists for full answer‑engine optimization.\n\nBecause voice citations ride on search performance, spending follows typical SEO patterns rather than ad pricing. There’s no “voice ad” that buys you organic citations.\n\nKEY FACTORS\n- Scope: a handful of FAQ pages vs. a full‑site restructuring\n- Internal capabilities: content, dev, analytics\n- Optional spend on tools, schema plugins, and tracking platforms\n- Ongoing testing and iteration vs. one‑off project\n\nOn a limited budget, prioritize a small set of high‑value pages and local listing cleanup instead of trying to optimize everything. Measure impact via changes in featured snippets, AI citations, and voice test audits.\n\nPosition your spend as building a durable search and AI asset, not just chasing a shiny “voice” feature.",
+        "description": "You don’t pay the assistants directly; you invest in content, schema, and SEO. That can be as low as a few internal hours for DIY FAQs or several thousand dollars for full expert optimization. It’s usually worth it if voice queries matter in your market and you reuse the gains across search and AI."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

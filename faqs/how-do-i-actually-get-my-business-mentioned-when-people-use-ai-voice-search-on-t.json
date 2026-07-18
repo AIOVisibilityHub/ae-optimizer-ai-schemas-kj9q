@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually get my business mentioned when people use AI voice search on their phones or smart speakers?",
+  "description": "To get mentioned in AI voice search, write conversational Q&A content that directly answers common spoken questions, add FAQ and Speakable schema to those answe",
+  "url": "aeoptimizer.com/faq/how-do-i-actually-get-my-business-mentioned-when-people-use-ai-voice-search-on-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually get my business mentioned when people use AI voice search on their phones or smart speakers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You get mentioned in AI voice search by creating content that directly answers spoken questions, marking those answers up with FAQ and Speakable schema, and keeping your business data clean and consistent. AI assistants choose sources that are easy to understand, clearly structured, and widely trusted.\n\nVoice systems now pull from web pages, local listings, reviews, and reference sites rather than a single \"voice SEO\" trick. To be chosen, you need both strong content and solid technical signals. Think of it as making your answers quotable and your business details machine-readable.\n\nKey factors:\n- Conversational, question-based content that mirrors how people actually speak\n- Short, direct answers (20–60 words) placed immediately after headings\n- Structured data (FAQPage, Speakable, LocalBusiness) implemented correctly\n- Consistent name, address, phone, and hours across all major listings\n\nStart by building a voice-optimized FAQ section, then add schema markup and fix your local listings. Review how AI tools answer your core queries and adjust content until your brand is cited. This foundation works whether you’re a solo business or a growing multi-city operation.\n\nThink of AI voice search as an evidence game: the more clear, consistent signals you give the systems, the more often they’ll say your name out loud.",
+        "description": "To get mentioned in AI voice search, write conversational Q&A content that directly answers common spoken questions, add FAQ and Speakable schema to those answers, and keep your business listings (name, address, phone, hours) perfectly consistent. The combination of clear content and clean structured data is what gets you chosen and spoken aloud."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are my spoken search queries private, or is my voice being recorded and stored somewhere?",
+  "description": "Spoken search queries are often recorded and stored with your account to improve services and personalization. You can usually review and delete these recording",
+  "url": "aeoptimizer.com/faq/are-my-spoken-search-queries-private-or-is-my-voice-being-recorded-and-stored-so",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are my spoken search queries private, or is my voice being recorded and stored somewhere?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, spoken search queries are not fully private; many assistants store audio snippets and transcripts to improve services or personalize results.\nThese recordings can often be reviewed or deleted in your settings.\n\n**Key factors:**\n- Whether audio is stored or just processed\n- How long voice data is retained\n- If recordings are tied to your account identity\n- Availability of privacy controls and deletion tools\n\nReview your assistant’s privacy dashboard, disable “voice history” if offered, and regularly delete past recordings.\nFor sensitive topics, consider typing instead of speaking, especially in shared spaces like offices or co-working locations in Denver and Austin.",
+        "description": "Spoken search queries are often recorded and stored with your account to improve services and personalization. You can usually review and delete these recordings and adjust privacy settings, and for sensitive topics you may prefer typing instead."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

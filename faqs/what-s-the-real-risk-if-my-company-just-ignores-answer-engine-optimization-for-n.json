@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the real risk if my company just ignores answer engine optimization for now?",
+  "description": "If you ignore AEO, AI systems will mostly cite other sources, even if your SEO is solid. Over time you lose visibility in AI answers, voice queries, and AI Over",
+  "url": "aeoptimizer.com/faq/what-s-the-real-risk-if-my-company-just-ignores-answer-engine-optimization-for-n",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the real risk if my company just ignores answer engine optimization for now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not doing AEO means your brand is far less likely to be cited in AI-generated answers, even if your SEO is strong. Over time, that can shift discovery and trust away from you toward competitors who are optimizing.\n\nThe risk isn’t immediate “penalties” but gradual invisibility in AI-centric search experiences, including voice assistants and AI Overviews.\n\nKey factors:\n- Reduced mention share in AI tools your buyers use daily\n- Fewer zero-click and conversational discovery opportunities\n- Competitors shaping the narrative in your space\n- Limited training exposure for future AI models\n\nAssess how often AI tools currently surface your brand for key questions; if you’re rarely cited, ignorance of AEO may already be a liability. Prioritize at least a baseline implementation.\n\nIgnoring AEO won’t collapse your business overnight, but it can quietly erode your authority where future buyers increasingly look for answers.",
+        "description": "If you ignore AEO, AI systems will mostly cite other sources, even if your SEO is solid. Over time you lose visibility in AI answers, voice queries, and AI Overviews, allowing competitors to shape buyer perceptions while your brand slowly fades from where people increasingly ask questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

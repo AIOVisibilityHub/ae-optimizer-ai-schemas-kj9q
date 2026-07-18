@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does page speed really affect whether Google Assistant uses my content for voice answers?",
+  "description": "Yes. Google Assistant strongly favors fast, mobile‑friendly pages. Poor Core Web Vitals, heavy scripts, and slow load times reduce your chances of being selecte",
+  "url": "aeoptimizer.com/faq/does-page-speed-really-affect-whether-google-assistant-uses-my-content-for-voice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does page speed really affect whether Google Assistant uses my content for voice answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, page speed and mobile performance matter a lot for Google Assistant, because most voice searches happen on mobile devices and assistants prefer pages that load very quickly. Slow sites are less likely to be chosen as answers.\n\nEven if your content is great, poor performance can hold back your visibility in voice results.\n\nKey factors:\n- Core Web Vitals scores, especially on mobile.\n- Overall time to first byte and full content load.\n- Use of lightweight layouts and compressed media.\n- Avoidance of intrusive pop-ups and layout shifts.\n\nPractically, run performance audits, prioritize fixes that improve mobile speed, and simplify heavy scripts or plugins. Pair these technical improvements with your content and schema work.\n\nFast, stable pages not only help Assistant preference you but also improve user experience for those who click through after hearing your answer.",
+        "description": "Yes. Google Assistant strongly favors fast, mobile‑friendly pages. Poor Core Web Vitals, heavy scripts, and slow load times reduce your chances of being selected as a spoken answer, even with good content. Improving mobile speed and stability is a key part of effective voice search optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

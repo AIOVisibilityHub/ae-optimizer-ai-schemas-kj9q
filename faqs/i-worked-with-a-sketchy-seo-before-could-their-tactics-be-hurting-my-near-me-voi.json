@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I worked with a sketchy SEO before—could their tactics be hurting my \"near me\" voice visibility now?",
+  "description": "Yes, spammy tactics like fake listings, keyword‑stuffed content, or misleading schema can still hurt your “near me” voice visibility. Audit and remove low‑quali",
+  "url": "aeoptimizer.com/faq/i-worked-with-a-sketchy-seo-before-could-their-tactics-be-hurting-my-near-me-voi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I worked with a sketchy SEO before—could their tactics be hurting my \"near me\" voice visibility now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you previously hired someone who spammed “near me” keywords or created low‑quality listings, you’ll want to clean that up before intensifying your voice optimization.\n\nOld, manipulative tactics can drag down your local trust and, in some cases, risk suspensions.\n\nKey factors:\n- Identify and remove duplicate or fake listings, especially with mismatched NAP.\n- Rewrite over‑stuffed content into natural, human‑sounding language.\n- Implement proper schema instead of hidden or misleading markup.\n- Rebuild trust with consistent data and a steady flow of real reviews.\n\nApproach this as a “reset and rebuild” project: fix the footprint, then focus on sustainable voice strategies. It’s better to be slightly slower but clean than to chase quick wins that could backfire later.",
+        "description": "Yes, spammy tactics like fake listings, keyword‑stuffed content, or misleading schema can still hurt your “near me” voice visibility. Audit and remove low‑quality listings, rewrite content naturally, and rebuild a clean, consistent local footprint with real reviews and proper markup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

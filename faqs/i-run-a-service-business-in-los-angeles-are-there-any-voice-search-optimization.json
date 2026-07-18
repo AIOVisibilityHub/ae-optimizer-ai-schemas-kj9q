@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I run a service business in Los Angeles—are there any voice search optimization tactics that matter more here than in smaller cities?",
+  "description": "In Los Angeles, it’s vital to define clear service areas and neighborhoods in your Google and Apple profiles and on your site, use local place names and landmar",
+  "url": "aeoptimizer.com/faq/i-run-a-service-business-in-los-angeles-are-there-any-voice-search-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I run a service business in Los Angeles—are there any voice search optimization tactics that matter more here than in smaller cities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In **Los Angeles**, competition and sprawl make it critical to define **service areas, neighborhoods, and realistic travel radius** in your profiles and content. Voice assistants weigh proximity heavily, especially with traffic and density.\n\nIf you list yourself as serving “all of LA” but your address is far from the searcher, you may lose to closer competitors for “near me” queries. Local, neighborhood-level language helps assistants match you to the right searchers.\n\nKey factors:\n- Clear service-area descriptions (e.g., “Westside,” “San Fernando Valley”) on profiles\n- City and neighborhood names in your location pages and FAQs\n- Accurate pins and addresses in Google and Apple maps\n- Honest “open now” hours that reflect real availability\n\nPractically, tune your profiles and content around the pockets of LA where you truly want customers, not the entire metro. Include landmarks and well-known streets when helpful, so spoken directions make sense.\n\nFor LA businesses, precise location language can be as important as your core service description for voice searches.",
+        "description": "In Los Angeles, it’s vital to define clear service areas and neighborhoods in your Google and Apple profiles and on your site, use local place names and landmarks, and keep your map pin and hours extremely accurate. Proximity and realistic service radius matter a lot for “near me” voice queries in such a large, dense city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

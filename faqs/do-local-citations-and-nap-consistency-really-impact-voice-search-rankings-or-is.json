@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do local citations and NAP consistency really impact voice search rankings, or is that outdated?",
+  "description": "Local citations and NAP consistency are still important voice search ranking factors. Assistants rely on clean, matching business data across Google, Apple Maps",
+  "url": "aeoptimizer.com/faq/do-local-citations-and-nap-consistency-really-impact-voice-search-rankings-or-is",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do local citations and NAP consistency really impact voice search rankings, or is that outdated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local citations and NAP consistency are key ranking factors because voice assistants need **confident, conflict-free business data**. If your name, address, or phone differ across sites, algorithms may avoid recommending you.\n\nConflicting information creates risk for platforms that don’t want to send users to the wrong place or a closed business.\n\nKey factors:\n- Identical NAP across Google, Apple Maps, Yelp, Bing, and directories.\n- Clean, consolidated listings (no duplicates or outdated profiles).\n- Correct categories and descriptions everywhere.\n- Matching NAP on your website contact and footer.\n\nAudit your top listings, fix inconsistent data, and remove duplicate or old entries. Use your website’s contact page as the “source of truth” and make sure every external site matches it.\n\nIf you’ve changed locations or phone numbers recently, cleaning up NAP issues is one of the fastest ways to stabilize local voice rankings.",
+        "description": "Local citations and NAP consistency are still important voice search ranking factors. Assistants rely on clean, matching business data across Google, Apple Maps, Yelp, and your website. Inconsistent names, addresses, or phone numbers can reduce trust and hurt your chances of being recommended in voice results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

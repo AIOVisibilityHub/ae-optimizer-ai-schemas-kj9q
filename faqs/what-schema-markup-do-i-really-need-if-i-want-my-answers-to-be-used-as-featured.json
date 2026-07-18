@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What schema markup do I really need if I want my answers to be used as featured snippets in voice search?",
+  "description": "Focus on FAQPage or QAPage for question–answer content, HowTo for step-by-step guides, Speakable to flag specific paragraphs as audio-friendly, and LocalBusines",
+  "url": "aeoptimizer.com/faq/what-schema-markup-do-i-really-need-if-i-want-my-answers-to-be-used-as-featured",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What schema markup do I really need if I want my answers to be used as featured snippets in voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There isn’t a single “voice search schema,” but certain types greatly increase your chances of being chosen as the spoken answer.\n\nYou’re essentially highlighting which parts of your content are questions and which are short, voice-friendly answers.\n\n**Key factors:**\n- FAQPage / QAPage schema for question-and-answer sections\n- HowTo schema for step-by-step instructions\n- Speakable schema to mark specific paragraphs as suitable for audio\n- LocalBusiness schema for “near me” and city-based queries\n\nIn practice, decide which sections you’d want a voice assistant to read out, then mark those with FAQ or Speakable schema while keeping the visible content natural and conversational. Always validate your JSON-LD with Google’s Rich Results Test.\n\nUsing schema as “signposts” helps search engines understand and trust your answers for voice snippets.",
+        "description": "Focus on FAQPage or QAPage for question–answer content, HowTo for step-by-step guides, Speakable to flag specific paragraphs as audio-friendly, and LocalBusiness for local queries. These schemas help search engines understand and surface your concise answers as featured snippets in voice results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

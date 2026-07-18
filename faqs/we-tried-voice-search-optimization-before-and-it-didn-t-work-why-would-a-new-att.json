@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We tried voice search optimization before and it didn’t work—why would a new attempt get different results?",
+  "description": "Past attempts usually lacked structured Q&A content, clear 40–60 word answers, and valid FAQ/LocalBusiness schema—so assistants had nothing reliable to cite. A",
+  "url": "aeoptimizer.com/faq/we-tried-voice-search-optimization-before-and-it-didn-t-work-why-would-a-new-att",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We tried voice search optimization before and it didn’t work—why would a new attempt get different results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you tried “voice SEO” before and saw nothing, it’s usually because content wasn’t structured as direct answers, schema was missing or misused, or you didn’t track featured snippets and AI citations. The fix is to focus on answer engine optimization rather than vague voice tactics.\n\nAssistants respond to clear patterns; if those weren’t present, your earlier attempts were invisible to them.\n\nKEY FACTORS\n- Lack of 40–60 word direct answers under question headings\n- Thin or generic content with no topical depth\n- No FAQPage or LocalBusiness schema, or broken markup\n- No systematic testing of target queries across assistants\n\nRe‑approach this as a disciplined experiment: pick 10 queries, build structured answers, add validated schema, and log weekly voice results. Use search data to guide iterations.\n\nThis reframes past failure as missing steps rather than proof that voice optimization doesn’t work.",
+        "description": "Past attempts usually lacked structured Q&A content, clear 40–60 word answers, and valid FAQ/LocalBusiness schema—so assistants had nothing reliable to cite. A new, disciplined approach that targets specific queries, adds proper markup, and tests results weekly is far more likely to produce real voice citations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

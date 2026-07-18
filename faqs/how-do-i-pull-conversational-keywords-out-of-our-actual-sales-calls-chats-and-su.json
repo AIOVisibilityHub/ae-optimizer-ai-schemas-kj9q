@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I pull conversational keywords out of our actual sales calls, chats, and support tickets?",
+  "description": "Review recordings and logs from sales calls, chats, and support tickets, highlight questions that repeat across different customers, and copy the exact wording",
+  "url": "aeoptimizer.com/faq/how-do-i-pull-conversational-keywords-out-of-our-actual-sales-calls-chats-and-su",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I pull conversational keywords out of our actual sales calls, chats, and support tickets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can uncover conversational keywords directly from customer conversations by systematically reviewing transcripts and notes, then extracting repeated phrases and questions. It’s more manual than tool-based research but often yields the most accurate language.\n\nThe goal is to capture how people describe problems before they know your solutions or jargon.\n\nKey factors:\n- Collect sales call recordings, chat logs, support emails, and demo Q&A\n- Highlight questions that appear across multiple conversations\n- Note the exact wording, not just the topic\n- Tag each phrase with context (stage, product, pain point)\n\nSet aside time weekly or monthly to review a batch of conversations, copy phrases into a spreadsheet, and group them into topic clusters. Over a few cycles, you’ll have a robust, reality-based conversational keyword bank.\n\nIf you feel like your content sounds nothing like your customers, this process is the fastest way to close that gap.",
+        "description": "Review recordings and logs from sales calls, chats, and support tickets, highlight questions that repeat across different customers, and copy the exact wording into a spreadsheet. Tag each phrase by topic and intent, then use those real sentences as your conversational keywords instead of inventing them from scratch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

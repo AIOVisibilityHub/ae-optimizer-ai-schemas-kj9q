@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if my \"near me\" voice search optimization is actually working?",
+  "description": "You gauge “near me” voice success by watching local map rankings, impressions for question‑style queries, calls and directions from listings, and by regularly t",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-my-near-me-voice-search-optimization-is-actually-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if my \"near me\" voice search optimization is actually working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To track “near me” voice performance, you have to combine indirect metrics with hands‑on testing, because assistants don’t fully separate voice and text data yet.\n\nThink in terms of map visibility, local impressions, and practical voice checks rather than a single perfect report.\n\nKey factors:\n- Monitor local pack and map rankings for queries that commonly include “near me.”\n- Watch impressions and clicks for question‑style and local phrases in search tools.\n- Track calls, direction requests, and website visits from your profiles.\n- Regularly ask Siri, Google Assistant, and Alexa relevant “near me” queries from nearby devices.\n\nCreate a simple tracking sheet to log rankings, assistant answers, and key actions monthly. Over time, you’ll see whether your optimization is moving you closer to being the default spoken recommendation.",
+        "description": "You gauge “near me” voice success by watching local map rankings, impressions for question‑style queries, calls and directions from listings, and by regularly testing real voice queries on Siri, Google Assistant, and Alexa. There’s no single metric, so use a small dashboard of indicators."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

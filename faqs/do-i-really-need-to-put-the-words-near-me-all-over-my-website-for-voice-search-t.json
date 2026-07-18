@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need to put the words \"near me\" all over my website for voice search to work?",
+  "description": "No, you don’t need to stuff “near me” into your content. Focus instead on clear local signals—city and neighborhood names, accurate listings, LocalBusiness sche",
+  "url": "aeoptimizer.com/faq/do-i-really-need-to-put-the-words-near-me-all-over-my-website-for-voice-search-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need to put the words \"near me\" all over my website for voice search to work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need to literally repeat the words “near me” in your content; assistants infer “near me” from location data plus context.\n\nWhat matters is that your pages clearly state what you do, where you do it, and answer the kinds of questions someone nearby would ask out loud.\n\nKey factors:\n- Use natural language that includes your city, neighborhoods, and service area.\n- Answer full questions like “Where can I get same‑day tire repair in Denver?”\n- Implement LocalBusiness schema so search engines know exactly where you are.\n- Keep your mapping and listing profiles precise and up to date.\n\nWrite for humans first and let location and schema carry the “near me” signal. Overusing the literal phrase can sound spammy and isn’t necessary for ranking in voice results.",
+        "description": "No, you don’t need to stuff “near me” into your content. Focus instead on clear local signals—city and neighborhood names, accurate listings, LocalBusiness schema, and natural question‑based content—and assistants will infer “near me” from the user’s location plus your data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

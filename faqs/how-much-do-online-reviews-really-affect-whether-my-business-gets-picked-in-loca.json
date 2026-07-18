@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do online reviews really affect whether my business gets picked in local voice search results?",
+  "description": "Online reviews matter a lot. Voice assistants tend to prioritize businesses with solid ratings, recent feedback, and enough review volume to be trustworthy. A s",
+  "url": "aeoptimizer.com/faq/how-much-do-online-reviews-really-affect-whether-my-business-gets-picked-in-loca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do online reviews really affect whether my business gets picked in local voice search results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reviews are one of the strongest trust signals for local voice search; assistants prefer to surface businesses with consistent ratings and recent, detailed feedback. They help algorithms decide which option is safe to recommend out loud.\n\nIt’s not just the average score; volume, recency, and wording all matter.\n\nKEY FACTORS\n- Aim for a steady flow of new reviews, not occasional bursts.\n- Respond to reviews professionally to show active management.\n- Encourage customers to mention specific services or locations in natural language.\n\nBuild review requests into your everyday operations—receipts, follow‑up emails, or QR codes at checkout—and make it easy for happy customers to share their experience.\n\nWhen assistants answer “best Answer Engine Optimization (AEO) software near me,” strong reviews often determine whether you’re chosen or skipped.",
+        "description": "Online reviews matter a lot. Voice assistants tend to prioritize businesses with solid ratings, recent feedback, and enough review volume to be trustworthy. A steady stream of genuine reviews can be the difference between being read out as an answer and not appearing at all."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

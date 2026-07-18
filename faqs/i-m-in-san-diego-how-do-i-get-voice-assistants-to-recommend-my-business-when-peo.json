@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m in San Diego—how do I get voice assistants to recommend my business when people ask for things “near me” on vacation?",
+  "description": "In San Diego, focus on strong local listings plus tourist‑oriented FAQs. Verify and fully complete your Google and Bing profiles, keep hours and photos current,",
+  "url": "aeoptimizer.com/faq/i-m-in-san-diego-how-do-i-get-voice-assistants-to-recommend-my-business-when-peo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m in San Diego—how do I get voice assistants to recommend my business when people ask for things “near me” on vacation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego, voice assistants often prioritize proximity, tourism‑heavy queries, and businesses with strong reviews and detailed profiles. To be cited, you need both beach‑town practical info (parking, seasonal hours) and rock‑solid local SEO.\n\nSearch systems feed assistants, so inaccurate or sparse local data directly hurts your chances of being recommended aloud.\n\nKEY FACTORS\n- Verified Google Business Profile and Bing Places with San Diego specifics\n- Accurate categories (e.g., “family surf lessons” vs. generic “sports instruction”)\n- High‑quality photos, current hours, and review responses\n- FAQs answering tourist‑style questions: busy times, family‑friendliness, nearby landmarks\n\nAudit how you appear on Maps and directories, then build a small FAQ section on your site targeting the questions visitors actually ask when they’re in town. Test with voice from popular areas like Pacific Beach or Gaslamp.\n\nThis helps assistants see you as the safest, most helpful local choice to speak out loud.",
+        "description": "In San Diego, focus on strong local listings plus tourist‑oriented FAQs. Verify and fully complete your Google and Bing profiles, keep hours and photos current, use precise categories, and add Q&A content about parking, busy times, and nearby landmarks so voice assistants feel confident recommending you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

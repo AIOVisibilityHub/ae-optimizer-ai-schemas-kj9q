@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do online reviews and ratings really affect whether AI voice assistants mention my business as a recommended option?",
+  "description": "Yes. Reviews and ratings are a major signal for AI voice assistants when recommending businesses. Strong, recent, consistent reviews across Google, Apple, Yelp,",
+  "url": "aeoptimizer.com/faq/do-online-reviews-and-ratings-really-affect-whether-ai-voice-assistants-mention",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do online reviews and ratings really affect whether AI voice assistants mention my business as a recommended option?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI voice systems absolutely care about reviews and ratings when deciding who to mention for commercial queries. Poor or sparse reviews can push your brand below better-rated competitors even if your content is strong.\n\nAssistants want to avoid recommending options that will disappoint users, so they treat social proof as a key risk filter.\n\nKey factors:\n- Overall rating level compared to nearby competitors\n- Volume of recent, detailed reviews rather than just old, generic ones\n- Consistency across Google, Apple, Yelp, and industry platforms\n- Your responses to reviews, which signal active care and reliability\n\nAlongside content and schema work, build a routine for requesting reviews from happy customers and replying thoughtfully. This strengthens both mention odds and trust if users look you up afterward.\n\nThink of reviews as part of your “AI evidence stack”: assistants notice when real people vouch for you.",
+        "description": "Yes. Reviews and ratings are a major signal for AI voice assistants when recommending businesses. Strong, recent, consistent reviews across Google, Apple, Yelp, and niche sites can boost your odds of being mentioned, while weak or sparse reviews can keep you out of spoken recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

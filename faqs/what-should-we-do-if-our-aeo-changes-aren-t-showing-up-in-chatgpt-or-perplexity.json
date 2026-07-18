@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should we do if our AEO changes aren’t showing up in ChatGPT or Perplexity answers yet?",
+  "description": "If AEO changes aren’t reflected yet, give crawlers time, keep strengthening your content and schema, and monitor AI bot activity. Answer engines update on slowe",
+  "url": "aeoptimizer.com/faq/what-should-we-do-if-our-aeo-changes-aren-t-showing-up-in-chatgpt-or-perplexity",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should we do if our AEO changes aren’t showing up in ChatGPT or Perplexity answers yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If answer engines are slow to pick up your new AEO changes, it often means crawlers haven’t revisited yet or your signals are still too weak compared to incumbents. Patience plus incremental strengthening helps.\n\nAI ecosystems don’t update instantly; retraining and indexing cycles can take weeks or months.\n\nKey factors:\n- Crawl frequency from bots like GPTBot and PerplexityBot\n- Strength of your domain vs. existing cited sources\n- Completeness of your schema and Q&A coverage\n- Consistency of signals across your broader web footprint\n\nMonitor AI bot activity, continue improving content and schema, and maintain cross-channel consistency. Re-check targeted prompts monthly rather than daily.\n\nConsider AEO a medium-term play; steady improvements and broadened coverage typically matter more than chasing overnight changes.",
+        "description": "If AEO changes aren’t reflected yet, give crawlers time, keep strengthening your content and schema, and monitor AI bot activity. Answer engines update on slower cycles, so check key prompts monthly, refine weak pages, and ensure your broader web footprint consistently supports your new signals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

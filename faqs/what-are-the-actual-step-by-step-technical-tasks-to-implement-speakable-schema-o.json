@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the actual step‑by‑step technical tasks to implement speakable schema on my site?",
+  "description": "Implementation boils down to four steps: pick 2–3 key sentences, give those HTML elements stable IDs or classes, reference them in a `SpeakableSpecification` bl",
+  "url": "aeoptimizer.com/faq/what-are-the-actual-step-by-step-technical-tasks-to-implement-speakable-schema-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the actual step‑by‑step technical tasks to implement speakable schema on my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To add speakable schema, you identify the specific sentences you want read aloud, give their HTML elements stable IDs or classes, and then reference those selectors in a `SpeakableSpecification` block inside your Article or WebPage JSON‑LD. Finally, you validate the markup and request indexing.\n\nContext:\nThe implementation is relatively small, but it must be precise: if your selectors don’t match real elements, the speakable property points to nothing. You can use either `cssSelector` (common) or `xPath` (more technical) depending on your templates.\n\nKey factors:\n- Add or confirm **IDs/classes** on key paragraphs.\n- Create `SpeakableSpecification` with **`cssSelector` or `xPath`**.\n- Embed it under your main **Article/WebPage schema**.\n- Validate using standard **schema testing tools**.\n\nPractical guidance:\nWork with a developer to update one template (e.g., your article layout) so every new piece automatically marks its lede as speakable. Once tested, scale it across existing content via batch edits or CMS‑level changes instead of hand‑coding each page.\n\nSoft positioning:\nIf JSON‑LD and selectors are new to you, a technical SEO partner can help build a reusable, low‑maintenance speakable implementation.",
+        "description": "Implementation boils down to four steps: pick 2–3 key sentences, give those HTML elements stable IDs or classes, reference them in a `SpeakableSpecification` block using `cssSelector` or `xPath` inside your Article/WebPage JSON‑LD, then validate and request reindexing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

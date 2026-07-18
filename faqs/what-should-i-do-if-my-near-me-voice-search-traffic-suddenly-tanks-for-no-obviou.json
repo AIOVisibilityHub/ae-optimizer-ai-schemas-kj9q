@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if my \"near me\" voice search traffic suddenly tanks for no obvious reason?",
+  "description": "When “near me” voice traffic suddenly drops, check for listing suspensions or edits, NAP or hour changes, review swings, and recent site or schema changes befor",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-my-near-me-voice-search-traffic-suddenly-tanks-for-no-obviou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my \"near me\" voice search traffic suddenly tanks for no obvious reason?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your “near me” voice traffic suddenly drops, first rule out data and profile issues before assuming a broad algorithm change.\n\nMost sharp declines trace back to suspensions, edits, NAP changes, or big shifts in hours or reviews.\n\nKey factors:\n- Check each main listing for suspensions, category changes, or address edits.\n- Confirm that hours and phone numbers are still correct across platforms.\n- Look for a wave of negative reviews or rating changes.\n- Review recent website changes that might affect speed, mobile usability, or schema.\n\nDocument any changes you find, reverse or fix the obvious ones, and then monitor for 2–4 weeks. If everything looks clean and the drop persists, consider consulting a specialist to review deeper competitive and algorithm factors.",
+        "description": "When “near me” voice traffic suddenly drops, check for listing suspensions or edits, NAP or hour changes, review swings, and recent site or schema changes before blaming algorithms. Fix any issues, monitor for a few weeks, and only then escalate to deeper competitive or technical analysis."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

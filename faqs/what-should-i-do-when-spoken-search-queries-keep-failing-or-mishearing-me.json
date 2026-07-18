@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when spoken search queries keep failing or mishearing me?",
+  "description": "When spoken search keeps failing, test your mic with a simple question, reduce background noise, and break complex requests into shorter queries. Also check app",
+  "url": "aeoptimizer.com/faq/what-should-i-do-when-spoken-search-queries-keep-failing-or-mishearing-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when spoken search queries keep failing or mishearing me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your spoken search queries keep failing, start by checking your microphone, background noise, and how you’re phrasing the question.\nOften the issue is environmental or wording, not the assistant itself.\n\n**Key factors:**\n- Microphone blocked, muted, or damaged\n- Loud TV, traffic, or echoing rooms\n- Long, multi-part questions confusing the system\n- Outdated app or device software\n\nTry a simple test phrase (“What time is it?”); if that fails, inspect mic settings, reboot the device, and update the assistant app.\nIf only complex queries misfire, break them into two or three shorter spoken questions instead of cramming everything into one.",
+        "description": "When spoken search keeps failing, test your mic with a simple question, reduce background noise, and break complex requests into shorter queries. Also check app permissions and updates, since outdated or blocked assistants misinterpret speech more often."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

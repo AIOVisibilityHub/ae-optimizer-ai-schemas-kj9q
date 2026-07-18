@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why doesn’t my business show up when I ask my phone for something \"near me\" even though I’m clearly nearby?",
+  "description": "Most businesses fail to appear in “near me” voice searches because their local listings are incomplete or inconsistent, they lack strong recent reviews, or thei",
+  "url": "aeoptimizer.com/faq/why-doesn-t-my-business-show-up-when-i-ask-my-phone-for-something-near-me-even-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why doesn’t my business show up when I ask my phone for something \"near me\" even though I’m clearly nearby?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re not showing up for “near me” voice searches, it usually comes down to missing or messy local data, weak reviews, or content that doesn’t match spoken questions.\n\nAssistants default to businesses they trust from mapping and listing platforms, so any gaps or inconsistencies there can quietly push you out of contention.\n\nKey factors:\n- Unclaimed or incomplete Google Business Profile or Apple/Yelp/Bing listings.\n- NAP inconsistencies (different addresses, phone formats, or hours across directories).\n- Few reviews, poor ratings, or stale review history.\n- Website issues: slow mobile load, no clear location info, no FAQ or question‑style content.\n\nStart with a quick audit: search your business name on Google and maps and note every mismatch in name, address, phone, and hours. Then add at least 10–15 voice‑style FAQs to your site and request fresh reviews from happy customers over the next 30–60 days.",
+        "description": "Most businesses fail to appear in “near me” voice searches because their local listings are incomplete or inconsistent, they lack strong recent reviews, or their site doesn’t clearly support spoken, location‑based questions. Fixing profiles, NAP data, reviews, and FAQ content usually solves it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My business is just me and maybe a part-time helper. Is it even realistic to get mentioned in AI voice search without a big marketing team?",
+  "description": "Yes. Even solo businesses can earn AI voice mentions by focusing on a handful of key customer questions, writing clear 40–60 word answers under question-style h",
+  "url": "aeoptimizer.com/faq/my-business-is-just-me-and-maybe-a-part-time-helper-is-it-even-realistic-to-get",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My business is just me and maybe a part-time helper. Is it even realistic to get mentioned in AI voice search without a big marketing team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI voice mentions don’t require a huge marketing team; a solo founder can make real progress by being systematic. The work is more about consistency than scale.\n\nIf you can dedicate a few focused hours per week, you can transform your most important pages into voice-ready assets and slowly expand from there. Assistants care about answer quality, not the size of your company.\n\nKey factors:\n- Prioritize 5–10 core questions your customers actually ask\n- Turn each into a question heading with a tight, direct answer underneath\n- Add simple FAQPage JSON-LD and keep local profiles current\n- Use plain language at an 8th–9th grade reading level for maximum clarity\n\nStart with one FAQ or guide page that targets your highest-intent queries, then listen to how customers phrase questions and mirror that language online. Revisit and refine answers monthly.\n\nThink of voice optimization as a habit you build into your content, not a one-time project only big teams can afford.",
+        "description": "Yes. Even solo businesses can earn AI voice mentions by focusing on a handful of key customer questions, writing clear 40–60 word answers under question-style headings, adding FAQ schema, and keeping local listings clean. Consistency matters more than having a big marketing team."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

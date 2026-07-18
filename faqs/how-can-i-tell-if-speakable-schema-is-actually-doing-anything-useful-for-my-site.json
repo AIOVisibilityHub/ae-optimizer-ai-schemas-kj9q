@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if speakable schema is actually doing anything useful for my site and not just adding more code?",
+  "description": "You measure speakable’s impact by comparing performance of pages with and without it, monitoring impressions and engagement, and manually testing relevant voice",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-speakable-schema-is-actually-doing-anything-useful-for-my-site",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if speakable schema is actually doing anything useful for my site and not just adding more code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure the impact of speakable schema, you’ll need to combine indirect signals—changes in assistant exposure, voice‑related traffic patterns, and engagement metrics—with manual testing of voice queries. There’s no single built‑in report that says “speakable did this.”\n\nContext:\nAssistant surfaces and voice behavior are only partially visible in standard analytics tools. You’re mostly looking for whether pages with speakable markup seem to perform better in relevant voice contexts than similar pages without it.\n\nKey factors:\n- Track **impressions and clicks** on tagged pages vs. controls.\n- Monitor **time on page and bounce rate** after implementation.\n- Manually test **voice queries** on smart devices.\n- Document changes in **Assistant behavior** where noticed.\n\nPractical guidance:\nSet up a small experiment: add speakable to a group of similar pages and leave another group untouched, then watch their performance and voice behavior over a few months. Use this to decide whether scaling speakable is worth further investment.\n\nSoft positioning:\nBecause speakable’s impact is subtle, treating it like an A/B testable optimization will give you clearer insight than relying on assumptions or vendor promises.",
+        "description": "You measure speakable’s impact by comparing performance of pages with and without it, monitoring impressions and engagement, and manually testing relevant voice queries on devices. There’s no single “speakable report,” so treat it as an optimization you evaluate through experiments and observation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

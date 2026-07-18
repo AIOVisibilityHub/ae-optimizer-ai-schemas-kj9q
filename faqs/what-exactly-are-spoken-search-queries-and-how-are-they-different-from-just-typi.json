@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly are spoken search queries and how are they different from just typing into Google?",
+  "description": "Spoken search queries are questions you ask aloud to a search engine or assistant, which converts your speech to text and then runs a normal search. They differ",
+  "url": "aeoptimizer.com/faq/what-exactly-are-spoken-search-queries-and-how-are-they-different-from-just-typi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly are spoken search queries and how are they different from just typing into Google?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spoken search queries are voice-based questions you ask a search engine or assistant instead of typing, like “Hey Google, what’s the best sushi near me?”\nThey use automatic speech recognition to turn your words into text, then run that through the search engine’s ranking algorithm.\n\n**Key factors:**\n- Quality of the microphone and background noise\n- How clearly and naturally you speak\n- How well the system is trained for your accent and language\n- How specific your query is\n\nFor best results, speak at a normal pace, add context (“near Santa Monica” instead of “near me”), and ask one clear question at a time.\nAs these systems improve, treating them like a conversation—rather than keyword barking—will give you the most accurate answers.",
+        "description": "Spoken search queries are questions you ask aloud to a search engine or assistant, which converts your speech to text and then runs a normal search. They differ from typed queries mainly in input method, noise/error handling, and the more conversational way people phrase them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

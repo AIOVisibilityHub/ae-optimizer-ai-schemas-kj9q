@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which parts of my page should I mark as speakable so voice assistants read something useful instead of fluff?",
+  "description": "Mark your clearest summary or main answer: typically the headline plus a short, plain‑English paragraph near the top that explains the core point in 2–3 sentenc",
+  "url": "aeoptimizer.com/faq/which-parts-of-my-page-should-i-mark-as-speakable-so-voice-assistants-read-somet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which parts of my page should I mark as speakable so voice assistants read something useful instead of fluff?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most sites, the best content to mark as speakable is your page’s main answer or summary: the headline plus 1–2 short paragraphs that explain the key point in plain language. Avoid long blocks, lists of links, or jargon‑heavy text.\n\nContext:\nSpeakable works best with compact, self‑contained statements that make sense when heard without surrounding context. Think of what you would want a smart speaker to read if a user asked, “What is X?” or “How does Y work?”\n\nKey factors:\n- Use **plain English**, not internal abbreviations.\n- Keep it to **2–3 short sentences**.\n- Place the text **near the top** of the page.\n- Make sure it **answers a real user query**.\n\nPractical guidance:\nReview your top articles and highlight the lede or FAQ‑style answer paragraph. Rewrite it for audio clarity if needed—shorter sentences, fewer parentheticals—then tag that section as speakable instead of trying to mark the whole page.\n\nSoft positioning:\nThinking “audio‑first” when drafting summaries will naturally give you better candidates for speakable schema and for other voice surfaces.",
+        "description": "Mark your clearest summary or main answer: typically the headline plus a short, plain‑English paragraph near the top that explains the core point in 2–3 sentences. Anything you’d be happy to have a smart speaker read verbatim is usually a good speakable candidate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

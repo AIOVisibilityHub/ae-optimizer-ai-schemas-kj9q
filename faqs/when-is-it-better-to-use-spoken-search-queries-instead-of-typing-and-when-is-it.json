@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is it better to use spoken search queries instead of typing, and when is it worse?",
+  "description": "Spoken search is best for hands-free, quick tasks—directions, local lookups, simple facts—especially while driving or cooking. It’s worse for complex research,",
+  "url": "aeoptimizer.com/faq/when-is-it-better-to-use-spoken-search-queries-instead-of-typing-and-when-is-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is it better to use spoken search queries instead of typing, and when is it worse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spoken search queries are great when your hands are busy—driving, cooking, or working out—because they let you get information without stopping what you’re doing.\nThey’re less ideal for tasks requiring careful reading or editing.\n\n**Key factors:**\n- Hands-free convenience vs. need for precision\n- Noise level in your environment\n- Complexity of the task (simple lookup vs. research)\n- Safety considerations while driving or moving\n\nUse spoken search for quick answers, directions, timers, and local lookups; switch to typing when you need to compare many options or read long articles.\nThink of voice as your fast “front door” to information, not the entire journey.",
+        "description": "Spoken search is best for hands-free, quick tasks—directions, local lookups, simple facts—especially while driving or cooking. It’s worse for complex research, detailed reading, or anything requiring precision, where typed queries and on-screen results work better."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

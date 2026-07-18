@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the difference between conversational keywords and long-tail keywords?",
+  "description": "Long-tail keywords are simply longer, more specific phrases. Conversational keywords are a subset: they’re usually full, natural-language questions or statement",
+  "url": "aeoptimizer.com/faq/what-s-the-difference-between-conversational-keywords-and-long-tail-keywords",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the difference between conversational keywords and long-tail keywords?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Conversational keywords are question-focused phrases that start with words like “how,” “what,” “where,” or “why,” while long-tail keywords can be any longer, specific phrase—even if it’s not a full question. Many conversational keywords are long-tail, but not all long-tail phrases are conversational.\n\nThink of conversational keywords as a more intent-rich, human-sounding subset of long-tail terms.\n\nKey factors:\n- Conversational: usually complete sentences, often spoken-style\n- Long-tail: about length and specificity, regardless of format\n- Conversational keywords emphasize intent clarity and natural phrasing\n- Long-tail keywords can still be list-style or product-spec queries\n\nPractically, when you review keyword lists, mark which phrases are actual questions or human-like statements, then prioritize those for answer-first content. Use other long-tail phrases more for supporting sections, filters, or product attributes.\n\nIf you’ve been doing long-tail SEO for years, conversational keywords are a refinement that focuses on language and intent rather than just phrase length.",
+        "description": "Long-tail keywords are simply longer, more specific phrases. Conversational keywords are a subset: they’re usually full, natural-language questions or statements that sound like how people talk, such as “how do I fix…”. All conversational keywords are long-tail, but not all long-tail keywords are truly conversational."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

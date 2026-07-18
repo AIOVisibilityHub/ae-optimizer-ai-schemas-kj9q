@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get my business to show up when people do a “near me” voice search?",
+  "description": "To show up in “near me” voice searches, first fully optimize and sync your Google Business Profile, Apple, Bing, and Yelp listings, then add conversational FAQ",
+  "url": "aeoptimizer.com/faq/how-do-i-get-my-business-to-show-up-when-people-do-a-near-me-voice-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get my business to show up when people do a “near me” voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can intentionally optimize so your business is the one voice assistants read out for “near me” searches, but it takes structured work on your profiles, website, and reviews.\n\nVoice assistants usually pull “near me” answers from mapping platforms and local listings rather than your website alone, so fixing those is step one. From there, you layer in conversational content, schema, and testing.\n\nKey factors:\n- Complete and verify Google Business Profile, Apple Business Connect, Bing Places, and Yelp with identical name, address, phone, hours, and categories.\n- Use natural spoken questions and answers on your site (FAQs, service pages) that match how people talk.\n- Implement LocalBusiness and FAQ schema so assistants can parse your data.\n- Build a steady stream of recent, high‑star reviews and respond to them.\n\nStart by auditing your main listings for accuracy, then add a 10–20 question FAQ section in conversational language and test queries on Siri, Google Assistant, and Alexa from a nearby phone. Treat voice visibility as an ongoing local SEO habit, not a one‑time project.\n\nIf you keep your data clean and content conversational, you can steadily earn more of those “near me” voice mentions over time.",
+        "description": "To show up in “near me” voice searches, first fully optimize and sync your Google Business Profile, Apple, Bing, and Yelp listings, then add conversational FAQ content and schema on your site and build consistent reviews. Voice assistants rely on accurate, structured local data plus natural‑language answers, so clean profiles and spoken‑style content are critical."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

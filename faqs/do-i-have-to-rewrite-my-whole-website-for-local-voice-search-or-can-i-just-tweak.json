@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to rewrite my whole website for local voice search, or can I just tweak older content?",
+  "description": "You usually don’t need a full rewrite. Focus on updating high‑value pages with clear, question-based headings, current info (hours, services, pricing), and conc",
+  "url": "aeoptimizer.com/faq/do-i-have-to-rewrite-my-whole-website-for-local-voice-search-or-can-i-just-tweak",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to rewrite my whole website for local voice search, or can I just tweak older content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Older content can still show up in voice search if your listings are accurate, but outdated pages often miss the conversational and question-based patterns assistants prefer. They may also lack current hours, pricing, or services, which makes them less trustworthy to surface.\n\nYou don’t need to rebuild everything, but you do need updates.\n\nKEY FACTORS\n- Refresh key pages with FAQ sections that match real questions.\n- Update any references to hours, locations, or discontinued services.\n- Improve readability: shorter paragraphs, clear headings, and plain language.\n\nStart with your most-visited local pages and update them to answer one primary question each in under 30 seconds of reading. Add structured data when possible.\n\nTreat older content as raw material—polishing it for voice use is usually more efficient than starting from scratch.",
+        "description": "You usually don’t need a full rewrite. Focus on updating high‑value pages with clear, question-based headings, current info (hours, services, pricing), and concise answers. Adding FAQs and structured data to existing content is often enough to make it more voice-search friendly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

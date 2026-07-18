@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know which “near me” voice questions my customers are actually asking so I’m not just guessing?",
+  "description": "Mine real conversations—calls, chats, emails, in‑person questions—and combine them with Google’s “People also ask” to find the exact phrases people use. Turn th",
+  "url": "aeoptimizer.com/faq/how-do-i-know-which-near-me-voice-questions-my-customers-are-actually-asking-so",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know which “near me” voice questions my customers are actually asking so I’m not just guessing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by listening to the exact phrases customers already say, then turn those into natural questions that could follow “near me.”\n\nVoice search queries sound more like full sentences than keywords, so you’re trying to capture how someone would really ask for you out loud.\n\nKey factors:\n- Review call logs, chat transcripts, emails, and in‑person questions for patterns.\n- Check Google “People also ask” and related searches around your core service.\n- Include modifiers like “open now,” “cheap,” “family‑friendly,” and neighborhood names.\n- Avoid stuffing “near me” everywhere; focus on intent and location context instead.\n\nDraft 30–50 real questions, then pick the top 10–20 and answer each in 2–4 clear, spoken‑style sentences on your FAQ pages. If your answers sound natural when you read them aloud, you’re on the right track for voice.",
+        "description": "Mine real conversations—calls, chats, emails, in‑person questions—and combine them with Google’s “People also ask” to find the exact phrases people use. Turn those into natural, full‑sentence questions and answer them in clear, spoken‑style language on your FAQ and service pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

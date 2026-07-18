@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with speakable schema—are there real risks or is it just a matter of it not working?",
+  "description": "Most speakable schema problems are about it not working or sounding bad, not penalties. Invalid JSON‑LD, broken selectors, or confusing summaries mean assistant",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-speakable-schema-are-there-real-risks-or-is-it-just-a-mat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with speakable schema—are there real risks or is it just a matter of it not working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks with speakable schema are misconfiguration and wasted effort, not penalties. If you point at the wrong elements, use invalid JSON‑LD, or mark low‑quality text, assistants will likely ignore the markup or deliver unhelpful spoken answers.\n\nContext:\nBecause speakable is optional and relatively narrow, search engines treat it like a hint; incorrect use typically leads to errors and non‑use rather than punishments. The real risk is degrading the user experience by choosing confusing or outdated sentences.\n\nKey factors:\n- **Invalid JSON‑LD** can trigger schema errors.\n- Broken selectors make speakable **non‑functional**.\n- Poor text choices lead to **awkward audio answers**.\n- Overuse can add **maintenance overhead** with little gain.\n\nPractical guidance:\nLimit speakable to pages where you can maintain high‑quality summaries. Audit those sections regularly for clarity and freshness, and keep your implementation simple so it’s easy to monitor and fix.\n\nSoft positioning:\nUsed judiciously, speakable schema is a low‑risk enhancement; the danger comes from over‑engineering it without paying equal attention to the underlying content.",
+        "description": "Most speakable schema problems are about it not working or sounding bad, not penalties. Invalid JSON‑LD, broken selectors, or confusing summaries mean assistants ignore the markup or read awkward answers. Keep implementation simple and audit the tagged text for clarity and accuracy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

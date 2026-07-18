@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it even worth doing \"near me\" voice search optimization if I’m on a really tight budget?",
+  "description": "Yes, “near me” voice optimization can be very worthwhile on a small budget because many of the biggest wins—fixing listings, adding conversational FAQs, and imp",
+  "url": "aeoptimizer.com/faq/is-it-even-worth-doing-near-me-voice-search-optimization-if-i-m-on-a-really-tigh",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it even worth doing \"near me\" voice search optimization if I’m on a really tight budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need a huge budget to improve “near me” voice visibility, but you do need focused time on the few things assistants care about most.\n\nMany of the highest‑impact tasks—fixing listings, writing FAQs, speeding up mobile pages—can be done in‑house if you’re willing to follow a checklist and iterate.\n\nKey factors:\n- Free but critical: complete/verify Google, Apple, Bing, Yelp; standardize NAP and hours.\n- Low‑cost: basic technical cleanup (mobile speed, image compression, simple schema plugin).\n- High‑ROI time: writing conversational FAQs based on real customer questions.\n- Optional spend: tools for listing management, review requests, or analytics.\n\nIf your budget is tight, prioritize cleanup of core profiles and a strong FAQ page before paying for advanced tools or agencies. A disciplined DIY approach on the fundamentals can get you most of the way there.",
+        "description": "Yes, “near me” voice optimization can be very worthwhile on a small budget because many of the biggest wins—fixing listings, adding conversational FAQs, and improving mobile speed—cost more time than money and directly affect which businesses assistants recommend."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

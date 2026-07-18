@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I think if I’ve done all the “right” things for featured snippets, but I still don’t see voice-search results changing after a month or two?",
+  "description": "If you’ve optimized but don’t see new voice-search snippets after a month or two, it’s usually a mix of crawl timing, competition, and possible schema or conten",
+  "url": "aeoptimizer.com/faq/what-should-i-think-if-i-ve-done-all-the-right-things-for-featured-snippets-but",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I think if I’ve done all the “right” things for featured snippets, but I still don’t see voice-search results changing after a month or two?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delayed results usually mean your changes haven’t been fully crawled, re-indexed, or tested against competitors yet—and that’s normal.\n\nFeatured snippets are re-evaluated over time, not instantly.\n\n**Key factors:**\n- Crawl frequency: less-active sites may be revisited slower\n- Volume of changes: large updates can take longer to settle in rankings\n- Competition: incumbents may still have better snippet structures\n- Technical issues: schema errors or slow pages can hold you back\n\nCheck for indexing status, fix any structured data warnings, and confirm that your answer blocks are genuinely clearer than current snippets. Keep refining and adding Q&A rather than undoing changes too quickly.\n\nSeeing delays as part of the feedback loop helps you stay patient while the data catches up.",
+        "description": "If you’ve optimized but don’t see new voice-search snippets after a month or two, it’s usually a mix of crawl timing, competition, and possible schema or content-clarity issues. Verify indexing, fix structured data errors, and keep refining concise answer blocks rather than reversing your changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

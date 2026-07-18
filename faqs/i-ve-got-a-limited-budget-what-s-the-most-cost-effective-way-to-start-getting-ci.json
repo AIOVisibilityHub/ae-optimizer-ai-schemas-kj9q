@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve got a limited budget—what’s the most cost‑effective way to start getting cited by voice assistants?",
+  "description": "With a tight budget, do three things: perfect your free local listings, build one strong FAQ page with clear 40–60 word answers, and use simple plugins to add F",
+  "url": "aeoptimizer.com/faq/i-ve-got-a-limited-budget-what-s-the-most-cost-effective-way-to-start-getting-ci",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve got a limited budget—what’s the most cost‑effective way to start getting cited by voice assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On a tight budget, focus on the highest‑impact basics: clean local listings, a single well‑structured FAQ page, and simple schema via plugins or generators. You don’t need custom tools; you need clear, answer‑friendly content.\n\nVoice assistants care more about quality and structure than about how fancy your implementation stack is.\n\nKEY FACTORS\n- Free optimizations: Google Business, Apple Business, Bing Places\n- DIY FAQ page with 20–30 real questions and 40–60 word answers\n- Low‑cost schema plugins for FAQ and LocalBusiness\n- Regular manual testing using your phone’s assistants\n\nTreat this as a focused sprint: one afternoon for local listings, a few evenings for FAQ content, and a short session to add schema. Then iterate only on pages that show early traction.\n\nThis keeps you competitive in voice without turning optimization into an expensive science project.",
+        "description": "With a tight budget, do three things: perfect your free local listings, build one strong FAQ page with clear 40–60 word answers, and use simple plugins to add FAQ/LocalBusiness schema. Then manually test voice queries and refine only the pages that start getting traction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

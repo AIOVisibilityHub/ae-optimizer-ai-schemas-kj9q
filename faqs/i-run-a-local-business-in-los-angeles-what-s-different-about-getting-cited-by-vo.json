@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I run a local business in Los Angeles—what’s different about getting cited by voice assistants here versus general SEO?",
+  "description": "In Los Angeles, voice assistants lean hard on local data: perfect Google and Apple listings, consistent NAP, LocalBusiness schema, and FAQs that answer “near me",
+  "url": "aeoptimizer.com/faq/i-run-a-local-business-in-los-angeles-what-s-different-about-getting-cited-by-vo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I run a local business in Los Angeles—what’s different about getting cited by voice assistants here versus general SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a local business in Los Angeles, being cited by voice assistants usually comes down to three things: flawless local listings, LocalBusiness schema, and content that directly answers “near me” style questions. Assistants lean heavily on structured local data in dense markets.\n\nIf you’re weak on any of those, you’ll lose citations to competitors even if your services are better.\n\nKEY FACTORS\n- Verified, complete Google Business Profile and Apple Business Connect\n- Consistent NAP across Yelp, Maps, and major directories\n- LocalBusiness schema on contact and service pages\n- Location‑specific FAQs: parking, neighborhoods, hours, pricing\n\nStart by tightening all your Los Angeles listings and then add Q&A content about common local concerns (traffic, timing, availability by neighborhood). Test with “near me” voice queries from different parts of the city.\n\nPosition your brand as the most clearly documented local option, not just another pin on the map.",
+        "description": "In Los Angeles, voice assistants lean hard on local data: perfect Google and Apple listings, consistent NAP, LocalBusiness schema, and FAQs that answer “near me” questions. Clean, structured local information plus concise Q&A content gives you a much better shot at being the spoken recommendation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

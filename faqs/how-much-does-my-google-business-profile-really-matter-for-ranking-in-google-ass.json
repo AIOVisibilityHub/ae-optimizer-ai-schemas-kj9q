@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does my Google Business Profile really matter for ranking in Google Assistant compared to my website?",
+  "description": "Your Google Business Profile is critical for local Google Assistant queries like “call,” “hours,” and “near me,” but your website still matters for deeper infor",
+  "url": "aeoptimizer.com/faq/how-much-does-my-google-business-profile-really-matter-for-ranking-in-google-ass",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does my Google Business Profile really matter for ranking in Google Assistant compared to my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google Business Profile (GBP) is crucial for Google Assistant, especially for local questions, but it’s only part of the picture. Assistant also looks at your website, schema, reviews, and overall authority.\n\nFor queries like “call,” “hours,” or “directions,” GBP dominates. For informational questions, your site’s Q&A content matters more.\n\nKey factors:\n- GBP completeness (categories, description, photos, attributes).\n- Review volume, recency, and rating stability.\n- Matching NAP data across GBP, website, and directories.\n- Website content that answers common “who/what/where/how much” queries.\n\nPractically, treat GBP as your local hub: keep it updated weekly, respond to reviews, and align descriptions with the language on your site. Then build FAQ sections on your site that handle deeper questions.\n\nBalancing both gives Google Assistant reliable data for quick local actions and richer spoken answers.",
+        "description": "Your Google Business Profile is critical for local Google Assistant queries like “call,” “hours,” and “near me,” but your website still matters for deeper informational questions. Fully optimize GBP and reviews, keep NAP consistent, and pair that with strong Q&A content and schema on your site for the best voice visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I start optimizing now, how long will it take before AI voice assistants start mentioning my business by name?",
+  "description": "Most businesses see the first signs of AI voice mentions within 4–12 weeks, assuming they add voice-friendly FAQs, implement FAQ and Speakable schema, and fix l",
+  "url": "aeoptimizer.com/faq/if-i-start-optimizing-now-how-long-will-it-take-before-ai-voice-assistants-start",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I start optimizing now, how long will it take before AI voice assistants start mentioning my business by name?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Getting mentioned in AI voice search is usually a 4–12 week process, depending on how much content and technical cleanup you need. Some quick wins can appear in 2–3 weeks once crawlers re-index your FAQ and schema changes.\n\nVoice and AI systems rely on recrawling and model updates, not instant switches. You’re working with their refresh cycles, so patience and consistent iteration matter more than one-time tweaks.\n\nKey factors:\n- How many pages need conversational Q&A rewrites\n- How fast search engines re-crawl your site after changes\n- Whether your local listings and schema markup were broken before\n- Competition level for your target queries and locations\n\nPlan on a three-week sprint to add FAQPage and Speakable schema, tighten answers, and fix business profiles, then a 4–8 week watch period to see mentions increase. Keep checking how assistants answer your priority questions and refine content.\n\nTreat AI voice visibility as an ongoing program, not a campaign—small improvements compound over time.",
+        "description": "Most businesses see the first signs of AI voice mentions within 4–12 weeks, assuming they add voice-friendly FAQs, implement FAQ and Speakable schema, and fix local listings. Crawlers need time to re-index your changes, so plan for a multi-week ramp instead of overnight results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

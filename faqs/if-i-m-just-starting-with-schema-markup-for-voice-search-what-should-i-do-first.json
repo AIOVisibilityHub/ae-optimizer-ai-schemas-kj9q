@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I’m just starting with schema markup for voice search, what should I do first on my website?",
+  "description": "First, find pages that already answer common questions—FAQs, tutorials, and service explanations. Then add FAQ, HowTo, and, where useful, Speakable schema in JS",
+  "url": "aeoptimizer.com/faq/if-i-m-just-starting-with-schema-markup-for-voice-search-what-should-i-do-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I’m just starting with schema markup for voice search, what should I do first on my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with pages that already answer common questions, then layer in FAQ, HowTo, and Speakable schema so voice assistants can find and read your best answers.\n\nYou don’t need to overhaul your whole site at once; prioritizing a handful of high‑intent pages gives you quick wins while you learn the process. The goal is to make your most useful content machine‑readable and “speak‑ready.”\n\nKey factors:\n- Identify top Q&A, tutorials, and service pages that match voice intent\n- Use FAQ schema for “what/why/how” questions and HowTo for step‑by‑step tasks\n- Add SpeakableSpecification to short, natural language summaries\n- Validate everything with a rich‑results testing tool before pushing live\n\nPractically, build a simple checklist: pick 3–5 pages, generate JSON‑LD via a tool, paste into the <head>, test, then monitor performance in Search Console. Expand from there as you see results. \n\nPositioning: If this feels overwhelming, consider getting help with a phased schema implementation roadmap instead of trying to do the entire site in one sprint.",
+        "description": "First, find pages that already answer common questions—FAQs, tutorials, and service explanations. Then add FAQ, HowTo, and, where useful, Speakable schema in JSON‑LD, test with a rich‑results tool, and expand once you see those pages start surfacing in voice responses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

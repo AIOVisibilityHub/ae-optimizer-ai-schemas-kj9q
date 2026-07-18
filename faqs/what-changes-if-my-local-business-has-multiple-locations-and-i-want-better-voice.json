@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What changes if my local business has multiple locations and I want better voice search visibility for all of them?",
+  "description": "With multiple locations, you need separate, fully optimized Google and Apple profiles, distinct location pages with local FAQs and schema, and consistent but un",
+  "url": "aeoptimizer.com/faq/what-changes-if-my-local-business-has-multiple-locations-and-i-want-better-voice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What changes if my local business has multiple locations and I want better voice search visibility for all of them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your business has **multiple locations**, voice optimization gets more complex but also more valuable—assistants need clear signals about which branch to suggest. Separate, well-structured location data prevents confusion.\n\nYou’ll want both unified brand information and distinct, location-specific details so customers in each area get accurate directions, hours and service notes when they ask “near me.”\n\nKey factors:\n- Individual Google and Apple profiles for each location, with unique addresses\n- Location pages on your website with specific FAQs, schema and local keywords\n- Consistent but distinct hours, photos, and reviews per branch\n- Clean internal links so assistants see the right page for each area\n\nPractically, treat each location as its own mini local business online, while keeping brand standards consistent. Build location-level FAQs and schema so voice assistants can give precise answers for each branch.\n\nMulti-location businesses often see large gains from structured, location-aware voice optimization.",
+        "description": "With multiple locations, you need separate, fully optimized Google and Apple profiles, distinct location pages with local FAQs and schema, and consistent but unique hours, photos, and reviews for each branch. Think of each location as its own local entity online so voice assistants can recommend the right one for “near me” queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

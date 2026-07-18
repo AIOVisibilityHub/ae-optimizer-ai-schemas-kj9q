@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why doesn’t my business show up when I try voice searches like “pizza near me” or “best plumber nearby”? What’s usually going wrong?",
+  "description": "When you don’t show up in voice results, it’s usually because your business data looks less complete or trustworthy than competitors: outdated or inconsistent N",
+  "url": "aeoptimizer.com/faq/why-doesn-t-my-business-show-up-when-i-try-voice-searches-like-pizza-near-me-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why doesn’t my business show up when I try voice searches like “pizza near me” or “best plumber nearby”? What’s usually going wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your business isn’t appearing in voice searches, it’s usually because your **profiles are incomplete, inconsistent, or low-trust** compared to competitors. Assistants default to listings that look accurate, active, and well-reviewed.\n\nCommon issues include outdated hours, multiple conflicting addresses, missing categories, thin descriptions, or weak review signals. Sometimes you’re simply located just outside the area the assistant considers “nearby.”\n\nKey factors:\n- Missing or incorrect name, address, phone, or hours\n- Weak or mismatched categories and service descriptions\n- Low review count, poor rating, or unaddressed complaints\n- No FAQ content or schema for question-based queries\n\nPractically, run a mini audit: search your business name and type, click through every listing, and fix anything that looks wrong or incomplete. Then compare your profile and reviews to the competitors you do see in voice results.\n\nTreat no visibility as a signal that the assistant doesn’t trust your data yet, and fix that trust problem methodically.",
+        "description": "When you don’t show up in voice results, it’s usually because your business data looks less complete or trustworthy than competitors: outdated or inconsistent NAP, weak categories or descriptions, thin reviews, or missing FAQ-style content. Fixing those issues is the fastest way to become voice-visible."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if my efforts to rank in Google Assistant are actually working if Google doesn’t show separate stats?",
+  "description": "Use indirect metrics: track featured snippet and People Also Ask wins, question‑based query performance in Search Console, local pack rankings, and call/directi",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-my-efforts-to-rank-in-google-assistant-are-actually-working-if",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if my efforts to rank in Google Assistant are actually working if Google doesn’t show separate stats?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you should track specific metrics to see whether your Google Assistant optimization is working, even though there’s no dedicated “Assistant dashboard.” Use proxies like featured snippet wins, local pack visibility, and query patterns in Search Console.\n\nChanges in these areas usually correlate with more voice exposure.\n\nKey factors:\n- Number of featured snippets and People Also Ask answers you own.\n- Search Console data for question-based queries and click-throughs.\n- Local pack rankings for “near me” and city-modified searches.\n- Call, direction, and message actions from Google Business Profile.\n\nPractically, set up regular reports for question keywords and rich result appearances, and watch for increases after you deploy new Q&A structures and schema. Monitor profile insights for shifts in discovery vs direct searches.\n\nThese metrics together give you a reasonable picture of how often Google Assistant is likely choosing your content as the spoken answer.",
+        "description": "Use indirect metrics: track featured snippet and People Also Ask wins, question‑based query performance in Search Console, local pack rankings, and call/direction actions in your Google Business Profile. Improvements in these typically mean your content is being chosen more often for Google Assistant voice answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

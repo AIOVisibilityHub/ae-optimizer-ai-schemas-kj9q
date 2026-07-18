@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I add speakable schema but don’t see any change or results after several weeks?",
+  "description": "Start by validating your speakable markup and selectors, and ensure you’re using proper Article/WebPage types with audio‑friendly summaries. If implementation c",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-add-speakable-schema-but-don-t-see-any-change-or-results-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I add speakable schema but don’t see any change or results after several weeks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If results from speakable schema seem delayed or nonexistent, first verify that your markup is valid and that selectors match real HTML elements. Then confirm your content type and quality align with the limited use cases where speakable is actually applied.\n\nContext:\nThe feature is narrow and often under‑reported, so “no visible change” is common even with correct implementation. Many issues trace back to broken selectors, incorrect types, or summaries that aren’t suitable for audio.\n\nKey factors:\n- Check for **schema errors or warnings**.\n- Ensure `cssSelector`/`xPath` **point to existing elements**.\n- Confirm pages use appropriate **Article/WebPage types**.\n- Evaluate whether your text is truly **audio‑friendly**.\n\nPractical guidance:\nRun affected URLs through a schema validator, fix any issues, and manually test whether the marked text is present and clear on the page. If everything is clean, treat speakable as a background enhancement and focus on strengthening content and overall SEO.\n\nSoft positioning:\nWhen speakable doesn’t show obvious results, a technical SEO review can help separate implementation problems from the natural limits of the feature itself.",
+        "description": "Start by validating your speakable markup and selectors, and ensure you’re using proper Article/WebPage types with audio‑friendly summaries. If implementation checks out, accept that speakable has limited, often invisible use and keep focusing on content quality and broader SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

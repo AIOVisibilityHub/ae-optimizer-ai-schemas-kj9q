@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly are “long-tail keywords for voice search” and how are they different from regular SEO keywords?",
+  "description": "Long-tail keywords for voice search are longer, conversational phrases that mirror how people actually speak their queries into assistants, usually as full ques",
+  "url": "aeoptimizer.com/faq/what-exactly-are-long-tail-keywords-for-voice-search-and-how-are-they-different",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly are “long-tail keywords for voice search” and how are they different from regular SEO keywords?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-tail keywords for voice search are longer, conversational phrases people actually speak into assistants like Siri, Google Assistant, or Alexa, usually built around questions and natural speech. They tend to be lower competition and higher intent, making them powerful for capturing ready-to-act users.\n\nVoice queries are typically phrased as full questions (who, what, where, when, why, how) or commands, not short keyword strings. Long-tail phrases mirror that pattern, such as “best vegan tacos near me open now” instead of “vegan tacos.”\n\nKEY FACTORS\n- Usually 4–8+ words and sound like natural speech\n- Often start with question words or “near me”\n- Lower search volume but higher conversion potential\n- Ideal for featured snippets and voice assistant answers\n\nStart by listening to how customers talk, scanning support emails, and mining tools like Google Autocomplete and People Also Ask to capture real spoken phrasing. Then use those exact questions as headings and answer them clearly near the top of your content. \n\nDone well, long-tail voice keywords quietly turn your content into something assistants can quote directly.",
+        "description": "Long-tail keywords for voice search are longer, conversational phrases that mirror how people actually speak their queries into assistants, usually as full questions. They differ from regular SEO keywords by being more natural-sounding, more specific, lower competition, and better aligned with how Siri, Google Assistant, and Alexa choose spoken answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

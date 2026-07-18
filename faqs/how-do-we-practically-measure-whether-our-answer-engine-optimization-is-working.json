@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do we practically measure whether our answer engine optimization is working or not?",
+  "description": "Measure AEO by tracking citation presence for a set of key questions across major AI tools, monitoring your share of voice vs. competitors, and tying those chan",
+  "url": "aeoptimizer.com/faq/how-do-we-practically-measure-whether-our-answer-engine-optimization-is-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do we practically measure whether our answer engine optimization is working or not?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can measure AEO success by tracking how often answer engines cite your brand for specific questions and how that correlates with leads, signups, or sales. It’s less about traffic alone and more about influence at the answer level.\n\nManual checks plus structured tracking across multiple tools give a practical view of progress.\n\nKey factors:\n- Citation presence/absence for each tracked prompt\n- Share of voice vs. competitors for key questions\n- Conversion metrics tied to AI-influenced sessions\n- Changes in featured snippets, AI Overviews, and voice responses\n\nCreate a prompt list, check each in major AI tools monthly, and log which sources are referenced. Then connect these visibility trends to conversion data where possible.\n\nMeasuring AEO this way keeps the program grounded in business outcomes rather than vanity metrics.",
+        "description": "Measure AEO by tracking citation presence for a set of key questions across major AI tools, monitoring your share of voice vs. competitors, and tying those changes to leads or sales. Maintain a prompt list, check it monthly, and log which brands are referenced and how often."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I ask follow-up questions with spoken search, or does each query have to stand alone?",
+  "description": "Most modern voice assistants support follow-up spoken queries that use context from your last question, like refining results or adding filters. Keep follow-ups",
+  "url": "aeoptimizer.com/faq/can-i-ask-follow-up-questions-with-spoken-search-or-does-each-query-have-to-stan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I ask follow-up questions with spoken search, or does each query have to stand alone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spoken search supports natural language, so you can ask follow-ups like “What about vegetarian options?” after a restaurant query.\nMany assistants track conversational context for a short window.\n\n**Key factors:**\n- Whether your assistant supports multi-turn conversations\n- How clearly follow-up questions reference the prior topic\n- Time elapsed since the previous query\n- Device settings for conversational mode\n\nIn practice, ask your main question, listen fully, then make one focused follow-up such as “Sort by highest rating” or “Show only kid-friendly options.”\nIf the assistant loses context, re-state the core topic out loud instead of relying on it to remember.",
+        "description": "Most modern voice assistants support follow-up spoken queries that use context from your last question, like refining results or adding filters. Keep follow-ups short and clearly tied to the prior topic, and re-state the subject if context is lost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

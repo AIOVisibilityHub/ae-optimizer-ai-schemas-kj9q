@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When does it make sense to hire a professional for AI voice search optimization instead of trying to do it all myself?",
+  "description": "Hire help if you have multiple locations, complex or messy listings, past technical issues, or limited time to learn schema and audits. A specialist can quickly",
+  "url": "aeoptimizer.com/faq/when-does-it-make-sense-to-hire-a-professional-for-ai-voice-search-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does it make sense to hire a professional for AI voice search optimization instead of trying to do it all myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DIY optimization can get you far, but there are situations where hiring a specialist makes sense—especially for multi-location data, complex schema, or recovery from past technical issues. The right help can compress months of trial-and-error into weeks.\n\nYou don’t need ongoing agency retainers just to be mentioned, but strategic support can be valuable at key moments.\n\nKey factors:\n- Number of locations and listings you need to unify and maintain\n- Comfort level with JSON-LD, structured data, and technical audits\n- History of penalties, migrations, or messy CMS setups\n- Time constraints relative to other responsibilities\n\nIf you’re juggling several cities (like LA, Austin, Denver, SLC) or have a tangled listing history, consider at least a one-time engagement to set up your schema and local framework correctly.\n\nThink of expert help as infrastructure work: once the foundation is solid, your ongoing content can carry the voice strategy forward.",
+        "description": "Hire help if you have multiple locations, complex or messy listings, past technical issues, or limited time to learn schema and audits. A specialist can quickly set up clean structured data and local foundations, after which you can manage ongoing Q&A content and refinements yourself."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

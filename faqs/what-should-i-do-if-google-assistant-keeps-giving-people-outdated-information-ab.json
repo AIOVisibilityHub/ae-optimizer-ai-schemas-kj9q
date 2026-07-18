@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if Google Assistant keeps giving people outdated information about my business?",
+  "description": "Fix mismatched data. Update your Google Business Profile first, then your website and schema, and make sure NAP details match across key directories. Google Ass",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-google-assistant-keeps-giving-people-outdated-information-ab",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if Google Assistant keeps giving people outdated information about my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Google Assistant is reading outdated or wrong info about your business, you need to update and reconcile all your primary data sources: Google Business Profile, your website, and key directories. Assistant relies heavily on what Google considers your “source of truth.”\n\nConflicting or stale data causes mistrust and can delay corrections in voice answers.\n\nKey factors:\n- Correct hours, phone, and address in GBP and on your site.\n- Consistent NAP data across major listings.\n- Removal or update of old schema referencing outdated details.\n- Clear, current content that matches real-world operations.\n\nPractically, change the information in GBP first, then update your site and re-test schema. Use a citation management tool or manual checks to fix major directories.\n\nOnce your ecosystem is aligned, Google Assistant is far more likely to speak the right information when people ask about you.",
+        "description": "Fix mismatched data. Update your Google Business Profile first, then your website and schema, and make sure NAP details match across key directories. Google Assistant relies on these sources as your “truth set,” so consistent, current information is essential for correcting what it says about your business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

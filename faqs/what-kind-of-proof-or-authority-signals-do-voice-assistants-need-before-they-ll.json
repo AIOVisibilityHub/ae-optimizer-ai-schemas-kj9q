@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of proof or “authority signals” do voice assistants need before they’ll trust my content enough to cite it?",
+  "description": "Voice assistants favor content with strong evidence: clear Q&A structure, FAQ/LocalBusiness schema, accurate business listings, solid reviews, and third‑party c",
+  "url": "aeoptimizer.com/faq/what-kind-of-proof-or-authority-signals-do-voice-assistants-need-before-they-ll",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of proof or “authority signals” do voice assistants need before they’ll trust my content enough to cite it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice assistants look for clear signals that you’re the best authority: concise answers, structured data, local business validation, and evidence that others cite and trust you. Without those, your chances of being chosen as the spoken source are low.\n\nThink in terms of “answer evidence”: your content should make it obvious to a machine why your explanation is safe to read aloud.\n\nKEY FACTORS\n- FAQ and HowTo schema marking questions and steps\n- LocalBusiness and organization schema with ratings and details\n- External citations, reviews, and press mentions\n- Internally consistent content that matches your profiles and listings\n\nAudit your site and profiles for gaps: missing schema, thin content, weak reviews, or outdated info. Then upgrade each area so an assistant can confidently trace a line from query to your validated answer.\n\nThis approach turns abstract “authority” into concrete, fixable evidence signals.",
+        "description": "Voice assistants favor content with strong evidence: clear Q&A structure, FAQ/LocalBusiness schema, accurate business listings, solid reviews, and third‑party citations or press. When your answers are concise and backed by these signals, machines are much more likely to treat you as a safe, authoritative source."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

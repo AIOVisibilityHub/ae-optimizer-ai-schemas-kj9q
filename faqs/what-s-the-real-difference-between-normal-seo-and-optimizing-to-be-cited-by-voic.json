@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the real difference between normal SEO and optimizing to be cited by voice assistants?",
+  "description": "SEO focuses on ranking pages; voice optimization focuses on ranking specific, speakable answers. You still need strong SEO, but you add question‑based headings,",
+  "url": "aeoptimizer.com/faq/what-s-the-real-difference-between-normal-seo-and-optimizing-to-be-cited-by-voic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the real difference between normal SEO and optimizing to be cited by voice assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO makes you findable in text search; voice optimization makes your answers easy to read aloud and more likely to be chosen as the single spoken response. The best strategies treat voice as a layer on top of solid SEO, not a replacement.\n\nIn practice, voice is obsessed with structure, brevity, and conversational phrasing in ways regular SEO doesn’t always enforce.\n\nKEY FACTORS\n- SEO focuses on ranking pages; voice focuses on ranking specific answers\n- Voice uses question‑style headings and 40–60 word direct answers\n- Schema and speakable markup matter more for voice confidence\n- Local and entity data play a stronger role in voice than in some text queries\n\nInstead of debating “SEO vs voice,” build unified pages that satisfy both: they rank well, then within them you carve out segments optimized for spoken delivery.\n\nThis blended approach keeps you competitive in search while capturing emerging voice and AI opportunities.",
+        "description": "SEO focuses on ranking pages; voice optimization focuses on ranking specific, speakable answers. You still need strong SEO, but you add question‑based headings, 40–60 word direct answers, FAQ and LocalBusiness schema, and conversational phrasing so assistants can confidently choose and read your content aloud."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

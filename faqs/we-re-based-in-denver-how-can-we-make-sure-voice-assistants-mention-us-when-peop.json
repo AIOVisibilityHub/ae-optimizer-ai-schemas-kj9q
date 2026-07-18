@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’re based in Denver—how can we make sure voice assistants mention us when people ask local questions?",
+  "description": "For Denver, combine precise local listings with practical, context‑aware FAQs. Verify your profiles, add LocalBusiness schema with geo data, and answer question",
+  "url": "aeoptimizer.com/faq/we-re-based-in-denver-how-can-we-make-sure-voice-assistants-mention-us-when-peop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’re based in Denver—how can we make sure voice assistants mention us when people ask local questions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Denver, assistants weigh factors like altitude‑related concerns, seasonal changes, and neighborhood specificity when answering local queries. To get cited, you should surface practical, location‑aware answers alongside accurate local profiles.\n\nIf your content ignores weather, parking, and mountain‑town logistics, assistants may choose someone more context‑aware.\n\nKEY FACTORS\n- Verified, detailed listings highlighting Denver neighborhoods you serve\n- FAQs covering weather, seasonal hours, parking, and popular outdoor activities\n- LocalBusiness schema plus geo coordinates on key pages\n- Consistent NAP and clear service areas\n\nAdd a Denver‑specific FAQ section on your site that speaks to common local questions (snow days, game‑day traffic, weekend mountain trips). Then regularly test voice queries from different parts of the metro.\n\nThis shows assistants that your business genuinely understands and serves the Denver context they’re answering within.",
+        "description": "For Denver, combine precise local listings with practical, context‑aware FAQs. Verify your profiles, add LocalBusiness schema with geo data, and answer questions about weather, seasonal hours, parking, and nearby activities so voice assistants see you as a locally relevant, safe recommendation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

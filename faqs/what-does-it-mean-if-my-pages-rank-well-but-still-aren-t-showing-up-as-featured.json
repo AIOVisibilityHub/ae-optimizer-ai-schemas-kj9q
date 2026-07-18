@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does it mean if my pages rank well but still aren’t showing up as featured snippets in voice search? What might be wrong?",
+  "description": "If you rank but don’t get featured snippets, your answers are likely not packaged clearly: no explicit question headings, no concise 40–60 word answer blocks, a",
+  "url": "aeoptimizer.com/faq/what-does-it-mean-if-my-pages-rank-well-but-still-aren-t-showing-up-as-featured",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does it mean if my pages rank well but still aren’t showing up as featured snippets in voice search? What might be wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If rankings and traffic look fine but you’re still not getting featured snippets, it usually means your answers aren’t structured or concise enough for snippet extraction.\n\nSearch engines need clearly defined, self-contained answer blocks.\n\n**Key factors:**\n- Lack of explicit question headings (\u0016H2/H3 with natural questions)\n- No 40–60 word “answer paragraph” immediately following the question\n- Overly complex wording or buried answers in long text\n- Missing FAQ/HowTo/Speakable schema on strong candidate sections\n\nAudit a few pages: pick one core question per page, write a direct answer just below the heading, then convert common follow-ups into concise FAQ items with schema. Retest and watch for new rich results.\n\nTreat snippet optimization as refining answer packaging—not just adding more content.",
+        "description": "If you rank but don’t get featured snippets, your answers are likely not packaged clearly: no explicit question headings, no concise 40–60 word answer blocks, and limited use of FAQ/HowTo/Speakable schema. Restructure content so key answers are short, obvious, and easy for Google to extract."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

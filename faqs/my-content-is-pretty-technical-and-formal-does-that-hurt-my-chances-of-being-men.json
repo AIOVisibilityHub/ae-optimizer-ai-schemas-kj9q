@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My content is pretty technical and formal. Does that hurt my chances of being mentioned in AI voice search, and should I rewrite it?",
+  "description": "Overly technical, formal content can reduce your AI voice visibility. Rewrite key answers in short, plain, conversational sentences at roughly an 8th–9th grade",
+  "url": "aeoptimizer.com/faq/my-content-is-pretty-technical-and-formal-does-that-hurt-my-chances-of-being-men",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My content is pretty technical and formal. Does that hurt my chances of being mentioned in AI voice search, and should I rewrite it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI voice assistants don’t require perfect English, but unclear or overly complex language can reduce your chances of being quoted and mentioned. They prefer short, simple sentences that users can easily understand when read aloud.\n\nYou’re writing for listening, not just reading, so clarity becomes a core ranking factor.\n\nKey factors:\n- Aim for an 8th–9th grade reading level with plain vocabulary\n- Keep sentences under ~20 words where possible\n- Avoid jargon unless you briefly define it\n- Use “you” and direct phrasing so answers feel conversational\n\nReview your key pages and rewrite answers to be shorter and more straightforward, even if your audience is sophisticated. Assistants can still convey nuance later, but they need a crisp base answer.\n\nThink of every answer as a short script someone will hear once; if it’s easy to follow, it’s easier for AI to choose.",
+        "description": "Overly technical, formal content can reduce your AI voice visibility. Rewrite key answers in short, plain, conversational sentences at roughly an 8th–9th grade level, then add FAQ and Speakable schema. Clear, listenable language makes it more likely that assistants will quote and mention you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

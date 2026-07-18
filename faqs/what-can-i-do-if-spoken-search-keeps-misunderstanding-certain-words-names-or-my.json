@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can I do if spoken search keeps misunderstanding certain words, names, or my accent?",
+  "description": "When spoken search mishears you, slow down, reduce noise, and add context or spell difficult names aloud. You can also create shortcuts for common commands and,",
+  "url": "aeoptimizer.com/faq/what-can-i-do-if-spoken-search-keeps-misunderstanding-certain-words-names-or-my",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can I do if spoken search keeps misunderstanding certain words, names, or my accent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spoken search can struggle with names, slang, and accents, but you can improve results by spelling tricky words aloud or adding context.\nFor example, say “Show reviews for restaurant spelled N-O-B-U in downtown Denver.”\n\n**Key factors:**\n- Rarity of the word or brand name\n- Accent and pronunciation differences\n- System training data for local terminology\n- Willingness to spell or rephrase\n\nWhen assistants routinely mishear a particular phrase, create a shortcut or voice command if your device supports it.\nIn cities like Los Angeles or San Diego with diverse accents and languages, speak a bit slower and avoid overlapping speech to give the system a clean signal.",
+        "description": "When spoken search mishears you, slow down, reduce noise, and add context or spell difficult names aloud. You can also create shortcuts for common commands and, in multilingual or accent-heavy environments, keep queries short and clearly enunciated."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

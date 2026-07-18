@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve done basic SEO… how do I actually get started with answer engine optimization step by step?",
+  "description": "Start AEO by listing your audience’s top questions, turning each into an answer-first section, then adding FAQ or HowTo schema. Begin with 10–20 high-impact que",
+  "url": "aeoptimizer.com/faq/i-ve-done-basic-seo-how-do-i-actually-get-started-with-answer-engine-optimizatio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve done basic SEO… how do I actually get started with answer engine optimization step by step?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To start with AEO, begin by identifying the questions your audience actually asks, then turn those into answer-first sections on your site with proper schema markup. You don’t need to rebuild everything; focus on your highest-impact pages first.\n\nMost teams start AEO after they already have basic SEO foundations in place—good technical health, crawlability, and useful content. From there, it’s about reshaping and annotating content for AI consumption.\n\nKey factors:\n- Audit existing pages for question-based opportunities\n- Extract real queries from tools like Search Console and internal search\n- Rewrite priority sections into concise Q&A format\n- Implement FAQPage/HowTo/Article schema via JSON-LD\n\nPick 10–20 top buyer questions, create or update pages so each leads with a direct answer, and wrap those blocks in FAQPage schema. Re-test with AI tools to see if your brand starts being cited.\n\nAEO is an iterative layer on top of SEO, not a replacement, so you can start small and expand as you see results.",
+        "description": "Start AEO by listing your audience’s top questions, turning each into an answer-first section, then adding FAQ or HowTo schema. Begin with 10–20 high-impact questions, rewrite content into concise Q&A blocks, implement JSON-LD schema, and test whether AI tools start citing your site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

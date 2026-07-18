@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should we try to handle answer engine optimization ourselves or hire a specialist agency?",
+  "description": "DIY AEO can work if you have people who can research questions, rewrite content, and implement schema for a limited scope. If you’re covering many topics or cit",
+  "url": "aeoptimizer.com/faq/should-we-try-to-handle-answer-engine-optimization-ourselves-or-hire-a-specialis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should we try to handle answer engine optimization ourselves or hire a specialist agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re deciding between DIY and hiring an AEO specialist, consider your team’s capacity for structured question research, schema implementation, and ongoing experimentation. DIY is feasible for smaller scopes; specialists add speed and depth for complex topics.\n\nAEO is part strategy, part technical, and part content operations—you need at least basic strength in all three areas.\n\nKey factors:\n- Internal skills in SEO, schema, and content writing\n- Number of topics, cities, and audiences you must cover\n- Need for experimental testing and tooling\n- Available time over the next 6–12 months\n\nStart by piloting a DIY AEO project on a limited question set; if results stall or bandwidth collapses, that’s a signal to bring in external help for scaling. Use any vendor primarily for architecture and training, not just tasks.\n\nBlending DIY with expert guidance often yields the best balance of cost, speed, and institutional learning.",
+        "description": "DIY AEO can work if you have people who can research questions, rewrite content, and implement schema for a limited scope. If you’re covering many topics or cities or lack technical depth, an AEO specialist can accelerate results and build a scalable architecture you later maintain in-house."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is keyword research for local voice search different from normal SEO keyword research?",
+  "description": "Local voice search keyword research focuses on long, conversational, question-based phrases like “best vegan restaurant near me” instead of short, generic terms",
+  "url": "aeoptimizer.com/faq/how-is-keyword-research-for-local-voice-search-different-from-normal-seo-keyword",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is keyword research for local voice search different from normal SEO keyword research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest difference is that voice search queries are longer, more conversational, and often urgent, like “Where’s a coffee shop open near me right now?” Your content needs to answer full questions plainly, not just match short keywords.\n\nVoice results also lean more on business listings, reviews, and structured data than traditional SEO alone. That changes both your research and optimization approach.\n\nKEY FACTORS\n- Focus on long‑tail, natural phrases instead of short, robotic keywords.\n- Include question-based headings and direct answers in your content.\n- Use schema markup (LocalBusiness, FAQPage) so assistants can parse details.\n\nWhen researching keywords, pay special attention to “near me,” “open now,” and questions starting with who, what, where, when, why, and how. Then write like you’re answering a customer out loud.\n\nThink conversational first, keyword second; that’s the mindset shift for voice search.",
+        "description": "Local voice search keyword research focuses on long, conversational, question-based phrases like “best vegan restaurant near me” instead of short, generic terms. You prioritize “who/what/where/when/how” queries, “near me” intent, and natural language that mirrors how people actually talk to assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

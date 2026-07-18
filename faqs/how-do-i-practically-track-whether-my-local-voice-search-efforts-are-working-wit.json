@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I practically track whether my local voice search efforts are working without fancy tools?",
+  "description": "Use what you already have: Google Business Profile insights for calls and directions, Search Console for conversational and “near me” queries, and simple notes",
+  "url": "aeoptimizer.com/faq/how-do-i-practically-track-whether-my-local-voice-search-efforts-are-working-wit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I practically track whether my local voice search efforts are working without fancy tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure local voice search performance, you’ll combine several indirect metrics rather than a single “voice” report. Track changes in calls, direction requests, map views, and question-based queries over time.\n\nThese behaviors typically rise when assistants start recommending your business more often.\n\nKEY FACTORS\n- Use Google Business Profile insights for calls, messages, and direction taps.\n- Check Search Console for longer, conversational queries and “near me” phrases.\n- Look at referral data from maps and assistant apps where available.\n\nCreate a simple monthly dashboard to compare these numbers before and after voice-focused changes like FAQ additions or listing cleanups.\n\nYou’re looking for more high-intent actions, not just keyword rankings, as your primary success signal.",
+        "description": "Use what you already have: Google Business Profile insights for calls and directions, Search Console for conversational and “near me” queries, and simple notes on customer feedback (“I asked my phone”). Rising high-intent actions are your best indicator that voice optimization is paying off."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

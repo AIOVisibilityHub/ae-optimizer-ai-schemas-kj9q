@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do generic FAQ pages really help with Google Assistant rankings, or do I need deeper, more specific questions?",
+  "description": "Generic FAQs rarely help. You need questions pulled from real user behavior—support tickets, sales calls, People Also Ask—and answers that give specific, action",
+  "url": "aeoptimizer.com/faq/do-generic-faq-pages-really-help-with-google-assistant-rankings-or-do-i-need-dee",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do generic FAQ pages really help with Google Assistant rankings, or do I need deeper, more specific questions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thin or generic FAQs rarely perform well for Google Assistant because they don’t reflect real user intent. To rank, your FAQs must be grounded in actual questions and provide specific, actionable answers.\n\nAssistant favors content that solves a concrete problem, not vague marketing statements or one-line definitions.\n\nKey factors:\n- Questions based on real data: support tickets, sales calls, PAA, forums.\n- Answers that explain what, why, how long, and how much where relevant.\n- Clear distinctions between similar services or options.\n- Minimal fluff; every FAQ should earn its space.\n\nPractically, audit existing FAQs and remove or rewrite anything that feels like filler. Replace them with scenario-based questions (“What if…”, “How do I handle…”) and detailed but concise guidance.\n\nThis makes your FAQ sections a rich source of voice-ready answers Google Assistant can trust.",
+        "description": "Generic FAQs rarely help. You need questions pulled from real user behavior—support tickets, sales calls, People Also Ask—and answers that give specific, actionable guidance. Replace vague or promotional FAQs with scenario‑based, detailed responses to create content Google Assistant can confidently use for voice answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to completely rebuild my website to start getting mentioned in AI voice search, or can I retrofit what I already have?",
+  "description": "You can usually retrofit your existing site. Add question-style headings that mirror real voice queries, place short direct answers immediately underneath, and",
+  "url": "aeoptimizer.com/faq/do-i-need-to-completely-rebuild-my-website-to-start-getting-mentioned-in-ai-voic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to completely rebuild my website to start getting mentioned in AI voice search, or can I retrofit what I already have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI voice mentions don’t require you to rebuild your entire site, but you will likely need to restructure key pages. Most existing sites are written in long, narrative paragraphs that aren’t ideal for spoken answers.\n\nThink of this as a conversion rather than a replacement: you’re turning existing knowledge into clearly labeled, quotable answers. The more you can do that, the more assistants can use your content.\n\nKey factors:\n- Identify your top-trafficked or most valuable pages first\n- Add question-based subheadings reflecting real voice queries\n- Insert short, stand-alone answers immediately under each heading\n- Layer FAQPage and Speakable schema onto existing sections\n\nStart with a content audit: mark which pages map to valuable questions, then retrofit them with Q&A structure. You can leave deeper narrative content below the answers for humans who want more detail.\n\nYou’re evolving your site into an AI-friendly format, not throwing it away.",
+        "description": "You can usually retrofit your existing site. Add question-style headings that mirror real voice queries, place short direct answers immediately underneath, and wrap those sections with FAQ and Speakable schema. This conversion lets AI assistants quote your content without a full rebuild."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

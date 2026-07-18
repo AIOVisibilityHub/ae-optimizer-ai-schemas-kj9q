@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should multi-location businesses in Los Angeles, San Diego, and Salt Lake City set up their site to rank in Google Assistant?",
+  "description": "Create separate, locally‑focused pages and Google Business Profiles for each city. Give each location its own address, hours, local FAQs, and LocalBusiness sche",
+  "url": "aeoptimizer.com/faq/how-should-multi-location-businesses-in-los-angeles-san-diego-and-salt-lake-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should multi-location businesses in Los Angeles, San Diego, and Salt Lake City set up their site to rank in Google Assistant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have multiple locations like Los Angeles, San Diego, and Salt Lake City, you should create separate, locally-focused pages and profiles rather than a single generic one. Google Assistant needs city-specific signals to answer “near me” queries accurately.\n\nEach location should look like a distinct, real-world entity with its own content and reviews.\n\nKey factors:\n- Individual location pages with address, hours, and local FAQs.\n- Separate Google Business Profiles for each physical location.\n- LocalBusiness schema per location, matching on-page details.\n- Location-specific reviews and content referencing local context.\n\nPractically, build a template for location pages that includes Q&A sections about availability, pricing nuances, and local conditions. Then duplicate it per city and customize as needed.\n\nThis helps Google Assistant map users in different cities to the right branch and answer both informational and transactional queries correctly.",
+        "description": "Create separate, locally‑focused pages and Google Business Profiles for each city. Give each location its own address, hours, local FAQs, and LocalBusiness schema. This lets Google Assistant match “near me” and city‑specific queries to the right branch instead of treating your business as one generic location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do differently with long-tail voice search keywords if I’ve already had a bad experience with an SEO company?",
+  "description": "Audit the past work: Did they target real questions, write natural answers, use schema, and track calls or bookings—not just rankings? Reset your strategy aroun",
+  "url": "aeoptimizer.com/faq/what-should-i-do-differently-with-long-tail-voice-search-keywords-if-i-ve-alread",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do differently with long-tail voice search keywords if I’ve already had a bad experience with an SEO company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve already worked with an SEO vendor and got disappointing results, start by auditing their approach: did they target real questions, provide clear answers, and measure outcomes beyond rankings? If not, you may need to reset expectations and strategy rather than abandon voice long-tail work entirely.\n\nPast SEO issues often stem from overemphasis on vanity keywords instead of useful, question-based content.\n\nKEY FACTORS\n- Examine whether they focused on head terms over long-tail questions\n- Check if content reads naturally and answers queries directly\n- Look for missing schema, weak local signals, or poor mobile performance\n- Clarify goals: calls, bookings, or revenue—not just rankings\n\nUse the audit to define what “good” looks like for you: conversational content, clear answers, structured data, and measurable business outcomes. Then decide whether to retrain your current vendor, bring the work in-house, or switch partners. \n\nA refined, question-led voice strategy can succeed even after a prior SEO disappointment.",
+        "description": "Audit the past work: Did they target real questions, write natural answers, use schema, and track calls or bookings—not just rankings? Reset your strategy around conversational, question-based content tied to business outcomes, then decide whether to retrain that vendor, move the work in-house, or switch partners."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

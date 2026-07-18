@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does being in San Diego change how I should approach voice search for my restaurant or local shop?",
+  "description": "Yes. In San Diego, optimize for tourists and neighborhood-based searches by clearly describing nearby attractions, beaches or districts, keeping seasonal hours",
+  "url": "aeoptimizer.com/faq/does-being-in-san-diego-change-how-i-should-approach-voice-search-for-my-restaur",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does being in San Diego change how I should approach voice search for my restaurant or local shop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For **San Diego** businesses, voice searches often reflect **tourist intent, military communities, and coastal vs inland neighborhoods**, so your profiles and content should explain where you are and who you serve in plain language.\n\nVisitors using Siri or Google voice tend to ask for “best tacos near me,” “kid-friendly beach restaurant,” or “hotel near the zoo.” Clear descriptions and photos help assistants choose your listing when people don’t know the area.\n\nKey factors:\n- Strong Google Business and Apple Maps profiles with coastal or neighborhood cues\n- Content and FAQs that mention nearby attractions (zoo, beaches, downtown)\n- Seasonal hours and parking details clearly stated\n- Reviews that mention what makes you good for families, tourists, or locals\n\nPractically, add a short, spoken-friendly description to your profiles that orients newcomers: who you serve, what you’re near, and why you’re a safe choice. Make sure your hours and parking info are especially accurate.\n\nIn San Diego, explaining context—“where and for whom”—can win you more voice-picked visitors.",
+        "description": "Yes. In San Diego, optimize for tourists and neighborhood-based searches by clearly describing nearby attractions, beaches or districts, keeping seasonal hours accurate, and using photos and reviews that show why you’re a good choice for visitors and locals who rely on Siri or Google for “near me” decisions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

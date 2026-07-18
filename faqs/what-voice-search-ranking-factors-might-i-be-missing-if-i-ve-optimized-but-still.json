@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What voice search ranking factors might I be missing if I’ve optimized but still don’t show up?",
+  "description": "If you’ve optimized for voice but don’t rank, you may be missing broader SEO factors: strong organic rankings, domain authority, quality backlinks, and deeper c",
+  "url": "aeoptimizer.com/faq/what-voice-search-ranking-factors-might-i-be-missing-if-i-ve-optimized-but-still",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What voice search ranking factors might I be missing if I’ve optimized but still don’t show up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve optimized for voice search and still don’t see results, the ranking factors you may be missing are **overall authority, backlink quality, and top-3 organic positions**. Voice answers usually come from already strong pages.\n\nAssistants rarely choose content that struggles to rank in regular search, regardless of formatting.\n\nKey factors:\n- Page ranking in the top few results for target queries.\n- Domain authority built through credible backlinks.\n- Content depth and topical coverage beyond just short answers.\n- Ongoing updates to keep information fresh.\n\nReview whether your pages actually rank on page one for the queries you’re targeting; if not, strengthen your broader SEO and link-building. Expand content where it’s too thin and pursue relevant mentions or links from trusted sites.\n\nIf you’re impatient, track a small set of queries and improve both traditional and voice-related factors together—it’s rarely just one issue holding you back.",
+        "description": "If you’ve optimized for voice but don’t rank, you may be missing broader SEO factors: strong organic rankings, domain authority, quality backlinks, and deeper content coverage. Voice assistants typically pull answers from pages already near the top of traditional search results, not just well-formatted FAQs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

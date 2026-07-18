@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often do I need to update my profiles and content to stay visible in voice searches for my local business?",
+  "description": "Plan to review your Google, Apple, Yelp and Bing profiles monthly, refresh FAQs and key content quarterly, and update immediately whenever hours, locations or m",
+  "url": "aeoptimizer.com/faq/how-often-do-i-need-to-update-my-profiles-and-content-to-stay-visible-in-voice-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often do I need to update my profiles and content to stay visible in voice searches for my local business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To keep everything current, set a **simple maintenance rhythm**: check your profiles monthly, review voice-style FAQs quarterly, and update immediately when hours, locations, or key services change. Voice assistants notice stale or conflicting info.\n\nYou don’t need to tweak daily, but you do need reliable processes. The more often your schedule or offerings change, the more frequent your checks should be.\n\nKey factors:\n- Regular review of Google Business, Apple Maps, Yelp and Bing data\n- Monitoring new Q&A and review activity\n- Updating FAQ content when you notice new question patterns\n- Aligning site and profile changes (never one without the other)\n\nPractically, add voice-ready maintenance tasks to your existing operations checklist—like monthly bookkeeping or inventory reviews. Use that time to fix hours, add photos, answer questions, and request reviews.\n\nConsistency over months and years is what keeps you visible and trusted in voice search.",
+        "description": "Plan to review your Google, Apple, Yelp and Bing profiles monthly, refresh FAQs and key content quarterly, and update immediately whenever hours, locations or major services change. That level of maintenance keeps your information current and trustworthy enough for voice assistants to keep recommending you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

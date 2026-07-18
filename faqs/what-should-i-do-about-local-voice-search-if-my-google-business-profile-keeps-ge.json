@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do about local voice search if my Google Business Profile keeps getting suspended or shows errors?",
+  "description": "Pause advanced voice work and fix the underlying listing issues first—clean up your business name, remove duplicates, correct address/phone, and follow platform",
+  "url": "aeoptimizer.com/faq/what-should-i-do-about-local-voice-search-if-my-google-business-profile-keeps-ge",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do about local voice search if my Google Business Profile keeps getting suspended or shows errors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your Google Business Profile keeps getting suspended or has errors, fix those before pushing harder on voice search. Assistants rely on stable, trusted listings; repeated issues can make your business look risky or confusing.\n\nRushing ahead without resolving suspensions can waste effort and frustrate customers.\n\nKEY FACTORS\n- Confirm your business name and address follow platform rules.\n- Remove keyword stuffing from names and clean up duplicate listings.\n- Upload legitimate verification documents when requested.\n\nOnce your profile stays active and consistent for a few weeks, resume broader optimization—reviews, FAQs, and structured data. That timing helps rebuild trust.\n\nTreat profile stability as a prerequisite: voice visibility depends on data platforms believing you’re real and compliant.",
+        "description": "Pause advanced voice work and fix the underlying listing issues first—clean up your business name, remove duplicates, correct address/phone, and follow platform rules. Voice assistants won’t reliably surface a profile that’s unstable or frequently suspended."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

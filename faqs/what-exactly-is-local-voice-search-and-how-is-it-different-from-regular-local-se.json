@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is “local voice search” and how is it different from regular local SEO?",
+  "description": "Local voice search is when people use assistants like Siri, Google Assistant, or Alexa to find nearby businesses with spoken queries such as “best pizza near me",
+  "url": "aeoptimizer.com/faq/what-exactly-is-local-voice-search-and-how-is-it-different-from-regular-local-se",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is “local voice search” and how is it different from regular local SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local voice search means customers use assistants like Siri, Google Assistant, or Alexa to find nearby businesses with spoken queries such as “best pizza near me” or “hardware store open now.” It pulls results from map listings, local SEO, and structured data rather than just traditional web pages.\n\nVoice queries are usually longer, more conversational, and strongly focused on immediate needs like hours, distance, and “near me” intent. That makes accurate listings, reviews, and question-based content critical.\n\nKEY FACTORS\n- Voice assistants rely heavily on Google Business Profile, Apple Maps, Bing Places, and Yelp.\n- Queries tend to be question-based (“who,” “where,” “when,” “how”) and mention locations or neighborhoods.\n- Fast, mobile-friendly sites and clear schema markup help assistants understand and surface your info.\n\nTo benefit, ensure your business data is accurate everywhere, build FAQ-style content that mirrors real spoken questions, and track how often people find you via maps and assistant queries. Treat voice search as part of local SEO, not a separate channel.\n\nDone well, local voice search becomes a steady stream of high‑intent, ready‑to‑buy customers.",
+        "description": "Local voice search is when people use assistants like Siri, Google Assistant, or Alexa to find nearby businesses with spoken queries such as “best pizza near me.” It emphasizes conversational questions, map listings, and structured data, so accurate profiles, reviews, and FAQ-style content matter even more than in regular local SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

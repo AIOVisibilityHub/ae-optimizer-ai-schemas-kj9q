@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there topics we should avoid optimizing for answer engines because of risk or sensitivity?",
+  "description": "Yes. For sensitive or high-stakes topics, only optimize content you can state clearly and safely. Use precise, scoped answers with defined assumptions, add cont",
+  "url": "aeoptimizer.com/faq/are-there-topics-we-should-avoid-optimizing-for-answer-engines-because-of-risk-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there topics we should avoid optimizing for answer engines because of risk or sensitivity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some topics are too sensitive or speculative for you to want answer engines extrapolating beyond your official guidance. In those cases, narrow and clarify your content rather than trying to “game” AI outputs.\n\nYou control what AI can safely quote by carefully defining boundaries in your public information.\n\nKey factors:\n- Topics involving safety, compliance, or high-stakes decisions\n- Areas where internal policies outpace public docs\n- Potential for misinterpretation of vague advice\n- Need for clear disclaimers and scope of applicability\n\nWrite precise, scoped answers that state assumptions and limits, and avoid publishing ambiguous or half-formed positions. Use definitions and schema to tie terms back to controlled explanations.\n\nThoughtful AEO here is about minimizing room for misinterpretation while still giving users useful, reliable guidance.",
+        "description": "Yes. For sensitive or high-stakes topics, only optimize content you can state clearly and safely. Use precise, scoped answers with defined assumptions, add controlled definitions and schema, and avoid vague or speculative guidance that answer engines could misinterpret or over-generalize."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

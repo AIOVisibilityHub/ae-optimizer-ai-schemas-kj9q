@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My last SEO experience was a mess and probably hurt my site. Can I still turn things around and get mentioned in AI voice search?",
+  "description": "Yes. Even after bad SEO, you can recover and earn AI voice mentions by removing low‑quality tactics, building genuine Q&A content, adding proper schema, and str",
+  "url": "aeoptimizer.com/faq/my-last-seo-experience-was-a-mess-and-probably-hurt-my-site-can-i-still-turn-thi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My last SEO experience was a mess and probably hurt my site. Can I still turn things around and get mentioned in AI voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your previous SEO agency did keyword stuffing or shady link schemes, you can still earn AI voice mentions by cleaning up and rebuilding trust signals. Voice assistants care about current quality and reliability, not just old mistakes.\n\nThe key is to show a clear turn toward helpful, human-centered content and transparent data.\n\nKey factors:\n- Remove spammy or low-quality pages that don’t serve real questions\n- Disavow toxic links if necessary and stop any manipulative tactics\n- Build fresh Q&A content aligned with genuine user queries\n- Strengthen reviews and reputable citations to offset past issues\n\nStart with a technical and content audit, then reshape pages into conversational answers with proper schema. Over time, AI systems recalibrate based on the newer, higher-quality signals.\n\nYou’re not stuck with your past; consistent quality can restore your credibility with both users and assistants.",
+        "description": "Yes. Even after bad SEO, you can recover and earn AI voice mentions by removing low‑quality tactics, building genuine Q&A content, adding proper schema, and strengthening reviews and reputable citations. Assistants pay close attention to current quality and trust, not just past mistakes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

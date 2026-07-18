@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it really possible to influence which sites voice assistants cite, or is that all random and out of my control?",
+  "description": "It isn’t random. You can’t force Siri or Alexa to cite you, but you can strongly influence their choices by publishing concise Q&A content, adding schema markup",
+  "url": "aeoptimizer.com/faq/is-it-really-possible-to-influence-which-sites-voice-assistants-cite-or-is-that",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it really possible to influence which sites voice assistants cite, or is that all random and out of my control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can improve your chances of being cited by Siri, Alexa, and Google Assistant, but you can’t guarantee it because assistants ultimately choose what they believe is the best answer. Your job is to make your content the most obvious, structured, and authoritative choice.\n\nVoice assistants mostly rely on search engines, knowledge graphs, and business listings, not on private deals or payments. If you meet those systems’ criteria, you earn citations; if you don’t, no amount of “hacks” will fix it.\n\nKEY FACTORS\n- Strong SEO fundamentals: crawlability, speed, mobile-friendliness\n- Clear, conversational Q&A content aligned with actual voice queries\n- Schema markup (FAQPage, LocalBusiness, Speakable where relevant)\n- Third‑party authority: mentions, links, and consistent NAP\n\nTreat “getting cited” as a continuous optimization process, not a one‑time switch—you’ll test queries, see who’s being quoted, and refine your pages accordingly. Over time, you can meaningfully increase how often assistants choose your content.\n\nPositioning this as an evidence‑driven project helps keep expectations realistic while still aiming for ambitious results.",
+        "description": "It isn’t random. You can’t force Siri or Alexa to cite you, but you can strongly influence their choices by publishing concise Q&A content, adding schema markup, fixing local listings, and building authority. Assistants tend to cite pages that are structured, trusted, and already winning search features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

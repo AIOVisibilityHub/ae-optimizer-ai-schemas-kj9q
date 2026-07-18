@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should we do if ChatGPT or other AI tools keep getting facts about our company wrong?",
+  "description": "When AI tools misrepresent your brand, standardize your key facts, names, and definitions across the site, add concise Q&A explanations, and implement schema fo",
+  "url": "aeoptimizer.com/faq/what-should-we-do-if-chatgpt-or-other-ai-tools-keep-getting-facts-about-our-comp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should we do if ChatGPT or other AI tools keep getting facts about our company wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI tools keep misunderstanding or misquoting your brand, it usually means your content is ambiguous, inconsistent, or under-structured for machine reading. You need to clarify entities and tighten explanations.\n\nAnswer engines extrapolate from what they can reliably parse; unclear or conflicting signals lead to messy outputs.\n\nKey factors:\n- Inconsistent product names, labels, or metrics across pages\n- Long, narrative sections with no concise, answer-first summaries\n- Missing schema for key entities (Organization, Product, DefinedTerm)\n- Conflicting information between your site and public profiles\n\nConduct an “entity audit” to standardize names, definitions, and key facts, then add clear Q&A blocks and schema that spell out what matters. Fix discrepancies across directories and profiles.\n\nOnce your information architecture is cleaner, AI systems have a far easier job representing you accurately in answers.",
+        "description": "When AI tools misrepresent your brand, standardize your key facts, names, and definitions across the site, add concise Q&A explanations, and implement schema for entities like Organization and Product. Clean, consistent signals give answer engines a reliable foundation to correct and improve future answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

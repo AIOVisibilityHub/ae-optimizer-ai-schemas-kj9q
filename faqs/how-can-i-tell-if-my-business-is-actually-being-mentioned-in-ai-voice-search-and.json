@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if my business is actually being mentioned in AI voice search and not just regular search results?",
+  "description": "You’ll need to test and track. Regularly ask voice assistants your key questions and listen for mentions, then use AI monitoring tools to see when your pages ar",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-my-business-is-actually-being-mentioned-in-ai-voice-search-and",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if my business is actually being mentioned in AI voice search and not just regular search results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To know if you’re getting mentioned in AI voice search, you’ll need to combine hands-on testing with tools that track citations. There’s no single “voice ranking” report yet, but you can piece together clear signals.\n\nThe goal is to see both if assistants speak your name and if AI answer engines reference or link to your content.\n\nKey factors:\n- Regularly ask popular assistants your core questions and note what they say\n- Use AI monitoring tools that show when your pages are cited in generated answers\n- Track changes around major content and schema updates to see impact\n- Watch your local profile views and click-throughs as indirect indicators\n\nSet up a simple monthly checklist: run test queries, review tool dashboards, and connect shifts to specific optimizations. Over time, you’ll see patterns in what drives mentions.\n\nMeasurement doesn’t have to be perfect; it just needs to be consistent enough to guide decisions.",
+        "description": "You’ll need to test and track. Regularly ask voice assistants your key questions and listen for mentions, then use AI monitoring tools to see when your pages are cited in generated answers. Tie these observations to your content and schema changes to understand what’s driving voice mentions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

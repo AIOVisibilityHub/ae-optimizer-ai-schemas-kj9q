@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do online reviews really affect voice search rankings for my business?",
+  "description": "Online reviews are a strong voice search ranking factor for local businesses. High average ratings, plenty of recent reviews, and thoughtful owner responses hel",
+  "url": "aeoptimizer.com/faq/how-much-do-online-reviews-really-affect-voice-search-rankings-for-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do online reviews really affect voice search rankings for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reviews are a significant **trust and quality signal** in voice search ranking, especially for local queries like “best” or “top-rated” businesses. Assistants often mention ratings directly in the spoken answer.\n\nWhen many options exist nearby, platforms prefer businesses with strong star ratings and recent, authentic feedback.\n\nKey factors:\n- Average star rating and total review count.\n- Recency and consistency of new reviews.\n- Owner responses to both positive and negative feedback.\n- Consistent reputation across Google, Yelp, and other key sites.\n\nBuild a simple review process: ask customers at the right moment (after a successful service) and make leaving a review easy. Monitor and respond to reviews to show you’re engaged and trustworthy.\n\nIf your reviews are weak now, prioritize this over adding more keywords—reputation can matter more than content tweaks in local voice results.",
+        "description": "Online reviews are a strong voice search ranking factor for local businesses. High average ratings, plenty of recent reviews, and thoughtful owner responses help assistants choose and recommend your business, especially for “best” and “top-rated” voice queries where trust signals matter."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

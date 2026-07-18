@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is speakable schema only for news sites, or can I use it on my blog, FAQ, and product pages too?",
+  "description": "Speakable schema isn’t limited to big news sites; it can be used on any Article or WebPage where you have a short, clear summary or answer that works well in au",
+  "url": "aeoptimizer.com/faq/is-speakable-schema-only-for-news-sites-or-can-i-use-it-on-my-blog-faq-and-produ",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is speakable schema only for news sites, or can I use it on my blog, FAQ, and product pages too?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Speakable schema is currently most effective for article and news‑style pages, but the same pattern can be applied to FAQs, guides, and some product or service pages if they include a clear answer section. The key is having short, self‑contained text that works in audio.\n\nContext:\nSchema.org allows speakable to live under `Article` or `WebPage`, so you’re not limited to formal “news” if your content behaves like a page of information. Thin landing pages with no real explanation are poor candidates.\n\nKey factors:\n- **Articles, news posts, and detailed blog posts** work best.\n- **FAQ pages and how‑tos** can be good if answers are concise.\n- Product pages only make sense if they have a **summary block**.\n- Don’t use speakable on **empty or boilerplate pages**.\n\nPractical guidance:\nStart with informational content that already ranks or answers common questions, then expand cautiously to other templates. For each page type, define a standard “speakable section” in the layout so the implementation is consistent.\n\nSoft positioning:\nA brief content audit focused on “answer quality” can guide where speakable schema will add clarity instead of just more markup.",
+        "description": "Speakable schema isn’t limited to big news sites; it can be used on any Article or WebPage where you have a short, clear summary or answer that works well in audio. Focus on strong informational pages—articles, FAQs, how‑tos—rather than thin or purely promotional landing pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if local voice search is actually bringing customers to my business and not just hype?",
+  "description": "Look at behavior: more calls, direction requests, and “near me” impressions from map listings, plus question-based queries in Search Console. Ask new customers",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-local-voice-search-is-actually-bringing-customers-to-my-busines",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if local voice search is actually bringing customers to my business and not just hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Even if people aren’t explicitly saying “voice search,” you can usually tell it’s affecting your business when calls, direction requests, and “near me” impressions rise without a big change in typical keyword rankings. Map-listing analytics often reveal this pattern.\n\nAssistants drive high-intent actions more than long browsing sessions.\n\nKEY FACTORS\n- Monitor Google Business Profile for spikes in calls, messages, and direction taps.\n- Watch for more question-based queries in Search Console data.\n- Ask new customers how they found you and note mentions of Siri, Alexa, or “I just asked my phone.”\n\nIf those signals are climbing, your voice presence is working, even if you never see a report labeled “voice search.”\n\nTreat voice impact as behavior change—faster, more direct actions—rather than just another ranking metric.",
+        "description": "Look at behavior: more calls, direction requests, and “near me” impressions from map listings, plus question-based queries in Search Console. Ask new customers how they found you. Rising high-intent actions, even without a “voice search” label, usually signal that assistants are driving business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

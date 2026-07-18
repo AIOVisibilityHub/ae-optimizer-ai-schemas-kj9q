@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can messy or inconsistent business listings really stop my Denver or Boulder company from being mentioned in AI voice search?",
+  "description": "Yes. Inconsistent names, addresses, or hours across listings can make AI assistants distrust your data and skip mentioning you. For Denver and Boulder, first al",
+  "url": "aeoptimizer.com/faq/can-messy-or-inconsistent-business-listings-really-stop-my-denver-or-boulder-com",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can messy or inconsistent business listings really stop my Denver or Boulder company from being mentioned in AI voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your Denver or Boulder business has inconsistent names, addresses, or hours across listings, AI voice assistants may avoid mentioning you to reduce the risk of giving wrong information. Data conflict is a common silent killer of mentions.\n\nBefore you worry about content, you need to make sure the machines can trust your basic facts.\n\nKey factors:\n- Align NAP data across Google, Apple, Bing, Yelp, and major local directories\n- Use LocalBusiness schema with the same canonical details\n- Fix duplicate or outdated listings that confuse assistants\n- Keep hours, holiday schedules, and categories up-to-date\n\nAudit your listings for both Denver and Boulder, choose a single canonical format, and propagate it everywhere. Then map local Q&A content to neighborhoods and landmarks.\n\nClean data is the foundation; without it, even strong content may never be spoken aloud.",
+        "description": "Yes. Inconsistent names, addresses, or hours across listings can make AI assistants distrust your data and skip mentioning you. For Denver and Boulder, first align NAP across major platforms, implement matching LocalBusiness schema, then layer on local Q&A content to earn voice mentions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

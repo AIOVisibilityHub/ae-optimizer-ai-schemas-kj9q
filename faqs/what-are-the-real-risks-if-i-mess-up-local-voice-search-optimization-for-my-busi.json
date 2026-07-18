@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the real risks if I mess up local voice search optimization for my business?",
+  "description": "The biggest risks are inaccurate info being read aloud—wrong hours, wrong address—and your business becoming effectively invisible because of inconsistent listi",
+  "url": "aeoptimizer.com/faq/what-are-the-real-risks-if-i-mess-up-local-voice-search-optimization-for-my-busi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the real risks if I mess up local voice search optimization for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risk is that incorrect or outdated information—like old hours or a wrong address—gets amplified when assistants read it aloud, causing missed visits and frustrated customers. Another risk is being invisible because your data is too inconsistent for platforms to trust.\n\nThere’s no penalty for “trying” voice search, but bad data can hurt your reputation.\n\nKEY FACTORS\n- Stale hours lead to “closed when it said open” complaints.\n- Duplicate or conflicting listings confuse algorithms and customers.\n- Over‑optimized, unnatural content can make your answers sound robotic and less useful.\n\nStart with a data audit across all major directories, then simplify your content to clear, human-friendly answers. Fix problems before aggressively promoting voice use.\n\nApproach voice search as a quality control project: accuracy and clarity protect you from most meaningful risks.",
+        "description": "The biggest risks are inaccurate info being read aloud—wrong hours, wrong address—and your business becoming effectively invisible because of inconsistent listings. You won’t be “penalized” for trying, but bad or confusing data can damage customer trust and cost you visits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

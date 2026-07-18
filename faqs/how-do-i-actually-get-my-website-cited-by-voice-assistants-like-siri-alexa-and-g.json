@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually get my website cited by voice assistants like Siri, Alexa, and Google Assistant?",
+  "description": "You get cited by voice assistants by publishing clear Q&A content that wins featured snippets and AI citations, then supporting it with FAQ schema and strong au",
+  "url": "aeoptimizer.com/faq/how-do-i-actually-get-my-website-cited-by-voice-assistants-like-siri-alexa-and-g",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually get my website cited by voice assistants like Siri, Alexa, and Google Assistant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You get cited by voice assistants by publishing clear Q&A content, marking it up with schema, and building enough authority that search engines trust your answers more than competitors’. Voice assistants mostly read out what Google, Bing, and Apple have already selected as the best answer.\n\nVoice responses are usually pulled from featured snippets, AI Overviews, FAQ pages, and structured local listings rather than directly “submitted” to Siri or Alexa. That means you optimize for search ecosystems, not the assistants themselves.\n\nKEY FACTORS\n- Direct, 40–60 word answers to real user questions\n- FAQPage and other schema markup so machines see question–answer pairs\n- Strong topical authority and external citations\n- Clean technical SEO and mobile performance\n\nStart by building a FAQ section that mirrors how people actually speak their questions, then add schema and track which pages earn snippets and AI citations. Over time, voice assistants will treat your site as a reliable reference if you consistently provide concise, authoritative answers.\n\nDone well, this positioning quietly turns your brand into the “default explainer” for your topic in voice interfaces.",
+        "description": "You get cited by voice assistants by publishing clear Q&A content that wins featured snippets and AI citations, then supporting it with FAQ schema and strong authority signals. Focus on concise 40–60 word answers, structured data, and topical depth so search engines reliably choose your content as their spoken response."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

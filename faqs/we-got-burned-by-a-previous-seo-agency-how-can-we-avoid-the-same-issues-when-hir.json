@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We got burned by a previous SEO agency. How can we avoid the same issues when hiring for answer engine optimization?",
+  "description": "Limit risk by scoping AEO around a clear set of questions, defined deliverables (Q&A content and JSON-LD schema), and measurable citation targets. Ask for a bas",
+  "url": "aeoptimizer.com/faq/we-got-burned-by-a-previous-seo-agency-how-can-we-avoid-the-same-issues-when-hir",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We got burned by a previous SEO agency. How can we avoid the same issues when hiring for answer engine optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with a previous SEO vendor, approach AEO with clearer scoping, metrics, and transparency. AEO work is more structured and measurable around specific questions and citations, which can reduce ambiguity.\n\nInstead of broad promises, focus on defined question sets, explicit schema deliverables, and agreed citation-share targets.\n\nKey factors:\n- Narrow, testable scope (e.g., 25–50 priority questions)\n- Concrete artifacts: Q&A content, JSON-LD, tracking dashboards\n- Pilot periods (90 days is common) with exit options\n- Vendor ability to explain methods in plain language\n\nIn discovery, ask prospective partners to run a baseline citation audit and show anonymized client reports and schema examples. Insist on clear performance reviews.\n\nA disciplined AEO program can feel more accountable than past “black box” SEO engagements, making it easier to evaluate and, if needed, change course.",
+        "description": "Limit risk by scoping AEO around a clear set of questions, defined deliverables (Q&A content and JSON-LD schema), and measurable citation targets. Ask for a baseline audit, anonymized client examples, and a 90-day pilot with agreed review points so you can evaluate performance transparently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

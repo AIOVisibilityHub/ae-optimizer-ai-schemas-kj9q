@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a home‑based or mobile business still rank in \"near me\" voice searches without a public storefront?",
+  "description": "Yes, home‑based and mobile businesses can rank in “near me” voice results by using a service‑area profile (with the address hidden), defining clear service zone",
+  "url": "aeoptimizer.com/faq/can-a-home-based-or-mobile-business-still-rank-in-near-me-voice-searches-without",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a home‑based or mobile business still rank in \"near me\" voice searches without a public storefront?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your business is home‑based or primarily mobile, you can still show up in “near me” voice searches by setting up a proper service‑area listing and hiding your home address.\n\nAssistants care that you serve the user’s location, not that you have a walk‑in storefront.\n\nKey factors:\n- In Google Business Profile, choose “service‑area business,” hide your exact address, and define realistic service zones.\n- Describe your on‑site or mobile services clearly in profiles and on your site.\n- Keep your phone, hours, and service area details accurate and consistent everywhere.\n- Build reviews that mention specific neighborhoods or cities you serve.\n\nTake the time to configure your service‑area settings correctly instead of forcing a fake storefront address. Done right, you can still be the recommended option when someone nearby asks for your type of service.",
+        "description": "Yes, home‑based and mobile businesses can rank in “near me” voice results by using a service‑area profile (with the address hidden), defining clear service zones, maintaining accurate hours and contact info, and earning local reviews that reference the areas they serve."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

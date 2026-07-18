@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do spoken search queries usually take to process and answer?",
+  "description": "Most spoken search queries answer in 2–6 seconds end-to-end, depending mainly on your internet speed and device. Short, focused questions on solid Wi‑Fi feel ne",
+  "url": "aeoptimizer.com/faq/how-long-do-spoken-search-queries-usually-take-to-process-and-answer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do spoken search queries usually take to process and answer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A spoken search query typically takes 1–3 seconds to recognize your voice and another 1–3 seconds to fetch and read a result, depending on your connection.\nOn fast Wi‑Fi, responses can feel almost instantaneous.\n\n**Key factors:**\n- Internet speed and network stability\n- Device processing power and assistant used\n- Length of your query and complexity of the answer\n- Whether the assistant is loading apps, maps, or media\n\nIf responses feel slow, test your network, close unused apps, and shorten your query to the essential question.\nFor time-sensitive tasks like directions around Los Angeles traffic, start with a simple spoken query, then refine once navigation is running.",
+        "description": "Most spoken search queries answer in 2–6 seconds end-to-end, depending mainly on your internet speed and device. Short, focused questions on solid Wi‑Fi feel nearly instant, while complex or map-heavy requests can take a bit longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the right order of steps to optimize my local business for voice search without wasting time?",
+  "description": "Prioritize in this order: fully optimize your Google Business Profile, fix and expand your website’s local pages and FAQs, then clean up and complete your Apple",
+  "url": "aeoptimizer.com/faq/what-s-the-right-order-of-steps-to-optimize-my-local-business-for-voice-search-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the right order of steps to optimize my local business for voice search without wasting time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by fixing your **Google Business Profile**, then your website’s local pages and FAQs, and finally your other map/directory listings like Apple Maps and Yelp. Those three areas cover most of what Siri, Google Assistant and Alexa read for local answers.\n\nMany owners jump straight into technical SEO and schema markup, but the biggest wins usually come from completing basic profiles and making them easy to understand out loud. You want your core information and common questions answered clearly in a few seconds.\n\nKey factors:\n- Google Business Profile: categories, services, description, photos, Q&A\n- Website: a clear location/service page and FAQ content\n- Directories: Apple Maps, Bing Places, Yelp, Tripadvisor as relevant\n- Consistent name, address, phone and hours across all listings\n\nPractically, block 2–3 working sessions: one to fully clean and complete your Google profile, one for your main location/service pages and FAQs, and one for directory clean-up. That sequence usually raises voice visibility faster than scattered tweaks.\n\nThink of it as building a foundation: once profiles and content are solid, any advanced voice SEO work is much more effective.",
+        "description": "Prioritize in this order: fully optimize your Google Business Profile, fix and expand your website’s local pages and FAQs, then clean up and complete your Apple Maps, Yelp, Bing and other key listings. Once those foundations are solid, add schema and ongoing reviews for stronger voice results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

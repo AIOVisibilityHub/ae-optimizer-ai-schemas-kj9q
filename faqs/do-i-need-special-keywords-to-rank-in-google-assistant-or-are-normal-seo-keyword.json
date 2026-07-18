@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need special keywords to rank in Google Assistant, or are normal SEO keywords enough?",
+  "description": "You don’t need unique “Google Assistant keywords,” but you do need conversational, long‑tail phrases that match spoken queries. Use full-sentence questions as h",
+  "url": "aeoptimizer.com/faq/do-i-need-special-keywords-to-rank-in-google-assistant-or-are-normal-seo-keyword",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need special keywords to rank in Google Assistant, or are normal SEO keywords enough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need separate “Google Assistant keywords,” but you do need to prioritize long-tail, conversational phrases that sound like something someone would say out loud. Think full questions, not short keyword stems.\n\nAssistant typically responds to queries starting with “how,” “what,” “where,” “when,” “why,” or “can,” so aligning your content with those patterns increases your chances of being chosen as the spoken answer.\n\nKey factors:\n- Full-sentence questions as H2/H3s that match natural speech.\n- “5Ws and how” phrasing plus “near me” and “best” modifiers.\n- Answering in simple, clear language at a 6th–8th grade reading level.\n- Using your core entities (services, locations, tools) clearly in answers.\n\nIn practice, pull question data from Search Console, People Also Ask, and customer emails, then rewrite page sections to use those exact questions as headings. Answer them directly in the first paragraph, then add supporting detail underneath.\n\nThis approach turns your pages into question-and-answer hubs tailored to how real people talk to Google Assistant.",
+        "description": "You don’t need unique “Google Assistant keywords,” but you do need conversational, long‑tail phrases that match spoken queries. Use full-sentence questions as headings (how, what, where, when, why, can) and answer them clearly in natural language. Those question-based keywords help your content become the answer Assistant reads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

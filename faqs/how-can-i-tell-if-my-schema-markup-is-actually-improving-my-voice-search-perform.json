@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if my schema markup is actually improving my voice search performance and not just sitting there?",
+  "description": "Validate your JSON‑LD with rich‑results tools, monitor structured data reports and query metrics in Search Console, and routinely ask real voice questions your",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-my-schema-markup-is-actually-improving-my-voice-search-perform",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if my schema markup is actually improving my voice search performance and not just sitting there?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To know if your schema markup is helping voice search, combine structured data validation with real‑world voice testing and search analytics.\n\nNo single report will say “you won this voice answer,” but you can infer impact from rich‑result coverage, changes in impressions/clicks, and whether assistants cite your site when you ask relevant questions.\n\nKey factors:\n- Use rich‑results tests to confirm technical correctness\n- Monitor Search Console for structured data enhancements and errors\n- Track branded and non‑branded queries linked to FAQ/HowTo pages\n- Ask assistants your target questions and listen for your site name or summary\n\nPractically, build a small testing script: list 10–20 questions your pages answer, run them through Google Assistant and similar tools monthly, and log when your content is used. Compare this against traffic and engagement trends. \n\nPositioning: Schema becomes more valuable when you treat voice performance as something you regularly test, not a one‑time setup you never revisit.",
+        "description": "Validate your JSON‑LD with rich‑results tools, monitor structured data reports and query metrics in Search Console, and routinely ask real voice questions your pages answer. If assistants start citing your site and you see more impressions and clicks on marked‑up pages, your schema is working."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

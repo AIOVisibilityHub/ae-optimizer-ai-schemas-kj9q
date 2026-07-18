@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do differently with schema markup for voice search if my business has locations in Los Angeles and San Diego?",
+  "description": "Create separate location pages and unique LocalBusiness schema for Los Angeles and San Diego, each with accurate NAP, hours, and geo‑coordinates. Keeping city‑s",
+  "url": "aeoptimizer.com/faq/what-should-i-do-differently-with-schema-markup-for-voice-search-if-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do differently with schema markup for voice search if my business has locations in Los Angeles and San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In cities like Los Angeles or San Diego, local voice optimization with schema starts by mapping each physical location to precise LocalBusiness markup and consistent NAP data.\n\nDense metro areas have many competing entities, so assistants rely on structured data, geo‑coordinates, and hours to decide which businesses to mention first for nearby intent.\n\nKey factors:\n- Separate LocalBusiness schema entries for each location (e.g., LA, San Diego)\n- Include latitude/longitude for accurate “near me” matching\n- Reflect local nuances like holiday hours or neighborhood names\n- Sync schema with local listings and map data for each city\n\nPractically, create a dedicated location page per city, embed city‑specific LocalBusiness JSON‑LD, and test with real voice queries like “Is [business name] open now in San Diego?” to verify responses. \n\nPositioning: If you operate in multiple metros, a structured, city‑by‑city schema plan prevents mixed signals and strengthens local voice visibility.",
+        "description": "Create separate location pages and unique LocalBusiness schema for Los Angeles and San Diego, each with accurate NAP, hours, and geo‑coordinates. Keeping city‑specific structured data clean and consistent helps voice assistants pick the right location when users ask nearby or “open now” questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

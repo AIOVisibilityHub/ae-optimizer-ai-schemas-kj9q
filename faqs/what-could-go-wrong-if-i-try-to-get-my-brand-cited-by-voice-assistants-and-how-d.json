@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What could go wrong if I try to get my brand cited by voice assistants, and how do I avoid shooting myself in the foot?",
+  "description": "Main risks are outdated info being read aloud, assistants favoring competitors, or over‑optimized content that sounds robotic. Avoid this by keeping listings cu",
+  "url": "aeoptimizer.com/faq/what-could-go-wrong-if-i-try-to-get-my-brand-cited-by-voice-assistants-and-how-d",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What could go wrong if I try to get my brand cited by voice assistants, and how do I avoid shooting myself in the foot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Big risks include assistants quoting outdated info, mispronouncing your brand, or favoring a competitor for queries you thought you owned. There’s also the chance of over‑optimizing with spammy schema or awkward copy that hurts regular search performance.\n\nBecause you don’t control the exact wording of voice replies, reputation risks show up as subtle misalignment rather than dramatic misquotes.\n\nKEY FACTORS\n- Out‑of‑date hours, pricing, or policies in local listings\n- Inconsistent NAP or product naming across platforms\n- Over‑engineered copy that sounds robotic when read aloud\n- Misconfigured or misleading structured data\n\nMitigate risk by keeping business info current, writing answers in natural language, and validating your schema with testing tools. Regularly listen to how assistants currently describe your brand and adjust your content to shape that narrative.\n\nDone carefully, optimization reduces errors rather than creating new ones.",
+        "description": "Main risks are outdated info being read aloud, assistants favoring competitors, or over‑optimized content that sounds robotic. Avoid this by keeping listings current, using natural language, validating your schema, and regularly listening to how Siri, Alexa, and Google Assistant currently describe your brand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

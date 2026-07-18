@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can my business show up when people ask Google Assistant \"near me\" questions in my city? (Los Angeles / San Diego focus)",
+  "description": "To rank for “near me” queries in Google Assistant, focus on local SEO: fully optimize your Google Business Profile, earn strong recent reviews, use consistent N",
+  "url": "aeoptimizer.com/faq/how-can-my-business-show-up-when-people-ask-google-assistant-near-me-questions-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can my business show up when people ask Google Assistant \"near me\" questions in my city? (Los Angeles / San Diego focus)",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To rank for “near me” questions in Google Assistant, you need strong local SEO foundations plus content that mirrors how people actually speak those queries. Assistant pulls mainly from Google Business Profile data and nearby local-optimized pages.\n\nWhen someone in Los Angeles asks, “Hey Google, best SEO agency near me,” Assistant chooses businesses with complete profiles, relevant categories, strong reviews, and consistent local signals. Your website still matters, but the profile is often primary.\n\nKey factors:\n- Fully built-out Google Business Profile (categories, description, photos, hours).\n- Lots of recent, high-quality reviews mentioning your services and city.\n- LocalBusiness schema and NAP consistency across major directories.\n- Location pages using conversational “near me” and neighborhood language.\n\nPractically, audit your profile and top local citations, update descriptions with natural phrases people say, and build city or neighborhood landing pages that answer “where,” “when,” and “how much” questions. For Los Angeles or San Diego, include local landmarks and areas users actually mention.\n\nThis combination makes you the obvious choice when Google Assistant needs a nearby answer it can trust.",
+        "description": "To rank for “near me” queries in Google Assistant, focus on local SEO: fully optimize your Google Business Profile, earn strong recent reviews, use consistent NAP data and LocalBusiness schema, and create city-focused pages with conversational “near me” language. Assistant largely reads from these local signals when choosing nearby answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

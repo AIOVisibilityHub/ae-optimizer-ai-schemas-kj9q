@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do Core Web Vitals really influence voice search rankings, or just regular SEO?",
+  "description": "Core Web Vitals do influence voice search rankings because they measure speed and stability, which voice users expect. Pages with good LCP, CLS, and responsiven",
+  "url": "aeoptimizer.com/faq/do-core-web-vitals-really-influence-voice-search-rankings-or-just-regular-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do Core Web Vitals really influence voice search rankings, or just regular SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice search responses often come from pages that meet **Core Web Vitals**, which have become important ranking factors. Good vitals signal a fast, stable experience, which voice users expect.\n\nSearch engines increasingly use these metrics to decide which pages are safe to recommend, including in voice results.\n\nKey factors:\n- Largest Contentful Paint (LCP) within recommended thresholds.\n- Cumulative Layout Shift (CLS) kept low for visual stability.\n- Interaction metrics showing responsive pages.\n- Overall mobile usability and accessibility.\n\nCheck your Core Web Vitals in tools like Search Console or performance dashboards, then target the biggest issues—often oversized imagery or layout shifts. Improving these metrics can lift both traditional and voice rankings.\n\nIf you lack technical resources, tackling LCP with better image handling is usually the highest-impact first step.",
+        "description": "Core Web Vitals do influence voice search rankings because they measure speed and stability, which voice users expect. Pages with good LCP, CLS, and responsiveness are more likely to be trusted and recommended by search engines for voice responses, alongside their impact on regular SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

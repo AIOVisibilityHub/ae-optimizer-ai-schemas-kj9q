@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I do all this work, is there any guarantee that AI voice assistants will actually mention my business by name?",
+  "description": "No. You can’t guarantee AI voice mentions, even with strong optimization. You can significantly improve your chances by creating clear Q&A content, adding schem",
+  "url": "aeoptimizer.com/faq/if-i-do-all-this-work-is-there-any-guarantee-that-ai-voice-assistants-will-actua",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I do all this work, is there any guarantee that AI voice assistants will actually mention my business by name?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There’s no guarantee of being mentioned in AI voice search, even with good optimization, because assistants weigh many signals and mix sources. Your goal is to improve your odds, not secure a fixed slot.\n\nThink of it like trying to earn featured snippets: you can follow best practices and still compete with other high-quality answers. Over time, strong execution tends to win more share.\n\nKey factors:\n- Assistants may paraphrase your content without naming you\n- Some answers pull from generic reference sources instead of brands\n- Competitive queries can rotate sources or favor large entities\n- Poor reviews or inconsistent data can suppress mentions\n\nFocus on questions where you can be uniquely helpful, and align your content, schema, and local signals around those. Track when you’re cited and keep improving.\n\nAim for “often enough to matter,” not “always,” and build broader visibility so you’re not dependent on a single assistant.",
+        "description": "No. You can’t guarantee AI voice mentions, even with strong optimization. You can significantly improve your chances by creating clear Q&A content, adding schema, and cleaning up local data, but assistants still weigh many signals and may choose other sources for some queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

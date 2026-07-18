@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What voice search ranking factors are most important for my business in San Diego?",
+  "description": "For San Diego businesses, top voice search ranking factors include mobile site speed, complete local listings targeting key areas like Gaslamp and La Jolla, str",
+  "url": "aeoptimizer.com/faq/what-voice-search-ranking-factors-are-most-important-for-my-business-in-san-dieg",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What voice search ranking factors are most important for my business in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego, **local intent** and **proximity** strongly influence voice search rankings, but **reviews and mobile speed** often decide which business gets named. Coastal and tourist-heavy areas amplify competition for “near me” voice queries.\n\nAssistants prioritize businesses that look reliable to out-of-town visitors and locals alike, based on ratings and clear information.\n\nKey factors:\n- Fast, mobile-friendly site that works well on spotty beach or travel Wi-Fi.\n- Optimized listings for key areas (Gaslamp Quarter, La Jolla, North Park).\n- Strong review profiles on Google, Yelp, and other local platforms.\n- Clear answers to tourist-style questions (parking, peak times, family-friendly?).\n\nMake sure your content and profiles mention the specific San Diego neighborhoods you serve and answer practical questions travelers ask. Pair that with speed tuning so your pages load smoothly on mobile.\n\nIf you’re short on time, prioritize reviews and neighborhood-specific pages—they’re high impact in San Diego voice results.",
+        "description": "For San Diego businesses, top voice search ranking factors include mobile site speed, complete local listings targeting key areas like Gaslamp and La Jolla, strong review signals, and content that answers common visitor questions. These help voice assistants confidently recommend you for “near me” and tourist-focused voice searches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

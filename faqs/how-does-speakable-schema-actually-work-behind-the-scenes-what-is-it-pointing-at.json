@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does speakable schema actually work behind the scenes—what is it pointing at and how does it get used?",
+  "description": "Speakable schema adds a `SpeakableSpecification` block to your JSON‑LD that lists CSS selectors or xPaths for 2–3 specific text sections, usually a headline and",
+  "url": "aeoptimizer.com/faq/how-does-speakable-schema-actually-work-behind-the-scenes-what-is-it-pointing-at",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does speakable schema actually work behind the scenes—what is it pointing at and how does it get used?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Speakable schema works by pointing at specific HTML elements and telling machines, “read these lines out loud.” You add a `SpeakableSpecification` block inside your Article or WebPage JSON‑LD that lists CSS selectors or xPaths for the headline and 1–2 key paragraphs.\n\nContext:\nWhen a voice assistant or compatible system needs a spoken answer, it can use speakable markup to extract exactly those sentences instead of guessing. The property itself does not generate audio; it simply labels the text that should be used for text‑to‑speech.\n\nKey factors:\n- Implemented as **JSON‑LD** alongside existing schema.\n- Uses **`cssSelector` or `xPath`** to target visible text.\n- Best practice is **2–3 short, human‑friendly sentences**.\n- Does not change what users see; it’s machine‑readable only.\n\nPractical guidance:\nPick a concise summary near the top of each article, add IDs or classes to those elements, then reference them in a SpeakableSpecification block. Test with a schema validator to confirm the selectors match real DOM elements and there are no syntax errors.\n\nSoft positioning:\nOnce your first implementation is stable, you can fold speakable into your publishing templates so new articles automatically ship with audio‑ready summaries.",
+        "description": "Speakable schema adds a `SpeakableSpecification` block to your JSON‑LD that lists CSS selectors or xPaths for 2–3 specific text sections, usually a headline and summary. Voice assistants and compatible systems then use those exact sentences for text‑to‑speech rather than guessing what to read."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a slow or clunky mobile site really affect my chances of showing up for \"near me\" voice searches?",
+  "description": "Yes, a slow or awkward mobile site can hurt “near me” voice performance because most voice searches happen on phones and assistants favor results that load fast",
+  "url": "aeoptimizer.com/faq/can-a-slow-or-clunky-mobile-site-really-affect-my-chances-of-showing-up-for-near",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a slow or clunky mobile site really affect my chances of showing up for \"near me\" voice searches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, an outdated or slow mobile site can hurt your chances in “near me” voice results because most voice searches happen on phones, often with impatient users.\n\nAssistants prefer results that load quickly, are easy to navigate, and clearly show key local details above the fold.\n\nKey factors:\n- Mobile load time under ~3 seconds for core pages is a strong baseline goal.\n- Click‑to‑call phone numbers and tap‑friendly address/map links.\n- Simple navigation, legible text, and no intrusive interstitials on mobile.\n- Clean code and compressed images to avoid bloated pages.\n\nRun basic speed tests and fix obvious issues like huge images or heavy scripts, then check how your site looks and behaves on an average phone. A smooth mobile experience supports both voice visibility and conversion when people tap through.",
+        "description": "Yes, a slow or awkward mobile site can hurt “near me” voice performance because most voice searches happen on phones and assistants favor results that load fast and surface key local info quickly. Improving mobile speed and usability helps both ranking and conversion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

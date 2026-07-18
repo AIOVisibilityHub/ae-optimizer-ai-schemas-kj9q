@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will having multiple locations help me win more \"near me\" voice searches, or can it actually hurt me?",
+  "description": "Multiple real, staffed locations can help if each has its own clean, optimized profile, but fake or overlapping locations can confuse assistants and hurt trust.",
+  "url": "aeoptimizer.com/faq/will-having-multiple-locations-help-me-win-more-near-me-voice-searches-or-can-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will having multiple locations help me win more \"near me\" voice searches, or can it actually hurt me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most local businesses, you’ll get better “near me” voice results by optimizing your existing location listings rather than trying to game multiple locations.\n\nMultiple profiles with overlapping areas or vague addresses can confuse assistants and dilute your authority.\n\nKey factors:\n- Only create separate listings for genuine, staffed locations with distinct addresses.\n- For service‑area businesses, set clear service boundaries from a single profile.\n- Avoid virtual offices or P.O. boxes; these can trigger suspensions or distrust.\n- Strengthen one profile with reviews, photos, and content instead of spinning up fake ones.\n\nIf you truly operate several locations, optimize each individually and keep NAP data perfectly clean. But if you’re tempted to create extra listings just for reach, it’s safer to double‑down on one strong, trusted location for voice.",
+        "description": "Multiple real, staffed locations can help if each has its own clean, optimized profile, but fake or overlapping locations can confuse assistants and hurt trust. It’s usually better to build one strong, consistent listing than to spread effort over questionable extra profiles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

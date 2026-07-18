@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is optimizing for voice search going to be expensive for a small local business, or can I do it on a shoestring budget?",
+  "description": "You can cover most core voice-search optimization on a shoestring budget by investing time instead of cash: clean up your Google and Apple profiles, rewrite con",
+  "url": "aeoptimizer.com/faq/is-optimizing-for-voice-search-going-to-be-expensive-for-a-small-local-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is optimizing for voice search going to be expensive for a small local business, or can I do it on a shoestring budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Basic voice-search readiness can be done on a **very tight budget**, often just your time plus a modest spend on tools or help. The bigger costs come from ongoing content, reviews, and potentially hiring a specialist.\n\nMost of the crucial fixes—Google Business Profile, Apple Maps, Yelp, FAQ content and schema—are either free or low-cost if you’re a bit technical. What you’re really investing is time, consistency, and a system.\n\nKey factors:\n- DIY effort vs paying someone to implement changes\n- Number of locations and services to maintain\n- Need for technical help (schema, speed, mobile fixes)\n- Review generation and possible reputation tools\n\nPractically, start with all free steps: profile cleanup, conversational rewrites, FAQ pages, and review requests. Only consider paid help if you’re stuck on technical items or don’t have the bandwidth to maintain things monthly.\n\nTreat voice search as part of your overall local SEO budget, not a separate, expensive line item.",
+        "description": "You can cover most core voice-search optimization on a shoestring budget by investing time instead of cash: clean up your Google and Apple profiles, rewrite content in natural language, add FAQs, and ask for reviews. Paid costs mainly come from technical help, content creation, or ongoing management."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

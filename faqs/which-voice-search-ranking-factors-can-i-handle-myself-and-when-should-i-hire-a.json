@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which voice search ranking factors can I handle myself and when should I hire a professional?",
+  "description": "You can usually DIY voice-related content, FAQs, Google Business Profile optimization, reviews, and simple speed tweaks. Consider hiring a professional for adva",
+  "url": "aeoptimizer.com/faq/which-voice-search-ranking-factors-can-i-handle-myself-and-when-should-i-hire-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which voice search ranking factors can I handle myself and when should I hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can absolutely **DIY basic voice search optimization**, but some ranking factors—like deep technical fixes and complex schema—often benefit from professional help. It depends on your comfort level.\n\nMany impactful changes are strategy and content, not code-heavy work.\n\nDIY-friendly factors:\n- Question-based content, short answers, and conversational tone.\n- Google Business Profile optimization and review generation.\n- Simple image compression and plugin cleanup.\n\nBetter with professional support:\n- Advanced schema implementation at scale.\n- Core Web Vitals and complex performance tuning.\n- Site architecture and crawl optimization.\n\nStart by handling the content and local profile improvements yourself, then consider hiring help for persistent technical issues that block rankings.\n\nIf you’re unsure, tackle DIY steps for a month and then evaluate whether technical bottlenecks remain before bringing in outside support.",
+        "description": "You can usually DIY voice-related content, FAQs, Google Business Profile optimization, reviews, and simple speed tweaks. Consider hiring a professional for advanced schema, deeper performance fixes, and architecture issues, since those technical ranking factors are harder to address without specialized expertise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

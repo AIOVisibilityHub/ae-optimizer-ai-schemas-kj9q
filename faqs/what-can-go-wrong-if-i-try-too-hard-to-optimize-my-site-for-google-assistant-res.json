@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if I try too hard to optimize my site for Google Assistant results?",
+  "description": "Over‑optimizing for Google Assistant can backfire: invalid or misleading schema, robotic answers, and low‑value FAQ spam can hurt overall rankings and trust. Fo",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-if-i-try-too-hard-to-optimize-my-site-for-google-assistant-res",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if I try too hard to optimize my site for Google Assistant results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risk in “optimizing for Google Assistant” is overfitting to bots and sacrificing user clarity, which can hurt overall rankings. Other common issues include broken schema, thin Q&A content, and ignoring local SEO.\n\nAssistant rewards content that’s both technically clean and genuinely useful. Short, robotic answers or spammy FAQ sections often backfire and may reduce trust signals.\n\nKey factors:\n- Invalid or misleading schema can trigger rich result loss.\n- Overuse of low-value FAQs that don’t reflect real user questions.\n- Ignoring page speed and mobile usability while chasing keywords.\n- Neglecting reviews and profile data for local voice queries.\n\nPractically, base your Q&A content on actual customer questions, keep direct answers concise but helpful, and validate all markup before deploying. Avoid stuffing pages with superficial questions just to add FAQ schema.\n\nTreat Google Assistant optimization as a layer on top of solid SEO and UX, not a separate hack, to avoid self-inflicted ranking problems.",
+        "description": "Over‑optimizing for Google Assistant can backfire: invalid or misleading schema, robotic answers, and low‑value FAQ spam can hurt overall rankings and trust. Focus on real user questions, clear 40–60 word answers, valid markup, and strong UX rather than chasing tricks that compromise quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

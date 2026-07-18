@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’re a local business in Austin—what should we do differently to get cited by voice assistants around town?",
+  "description": "In Austin, match how locals actually speak. Use precise categories, keep hours and events current, add conversational FAQs about parking, lines, and amenities,",
+  "url": "aeoptimizer.com/faq/we-re-a-local-business-in-austin-what-should-we-do-differently-to-get-cited-by-v",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’re a local business in Austin—what should we do differently to get cited by voice assistants around town?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Austin’s competitive tech and nightlife scene, assistants tend to favor businesses with detailed local data and content that speaks in the casual, conversational style locals actually use. Being cited means blending good local SEO with clear, friendly Q&A content.\n\nThink less corporate, more “what a real Austinite would ask at midnight on a Friday.”\n\nKEY FACTORS\n- Precise categories that match how people voice queries (e.g., “live music bar,” “coworking space”)\n- Up‑to‑date hours, events, and service details on all major listings\n- Short, conversational FAQs addressing parking, lines, cover charges, remote‑work amenities\n- LocalBusiness schema aligned with your listings\n\nReview your profiles and site copy for stiffness or generic phrasing, then rewrite key FAQs to match actual spoken questions you hear from customers. Test with voice queries around downtown, South Congress, and East Side.\n\nPosition yourself as the easy‑to‑understand option in a city full of noisy choices.",
+        "description": "In Austin, match how locals actually speak. Use precise categories, keep hours and events current, add conversational FAQs about parking, lines, and amenities, and implement LocalBusiness schema. This mix of detailed local data and friendly Q&A makes voice assistants more likely to cite you for “near me” queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

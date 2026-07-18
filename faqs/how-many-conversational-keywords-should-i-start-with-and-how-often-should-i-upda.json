@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many conversational keywords should I start with, and how often should I update them?",
+  "description": "Start by collecting 50–100 conversational keywords and focus content efforts on the top 20–30 high-value questions. Review and refresh your list at least quarte",
+  "url": "aeoptimizer.com/faq/how-many-conversational-keywords-should-i-start-with-and-how-often-should-i-upda",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many conversational keywords should I start with, and how often should I update them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good starting point is to build a bank of 50–100 conversational keywords over a month and then commit to answering a handful each week. This gives you enough variety without overwhelming your content capacity.\n\nYou can expand as you see which questions perform best.\n\nKey factors:\n- Aim for 50–100 questions across different intent stages and topics\n- Focus on 20–30 highest-value queries for initial content\n- Revisit and refresh the bank quarterly as language shifts\n- Use analytics to promote top-performing questions and retire weak ones\n\nPractically, set a simple quota—e.g., “we’ll publish or update 3–5 answer-first pieces per week based on our question bank”—and review progress monthly.\n\nIf you try to collect thousands of conversational keywords upfront, you’ll stall; a well-curated, smaller set is more actionable.",
+        "description": "Start by collecting 50–100 conversational keywords and focus content efforts on the top 20–30 high-value questions. Review and refresh your list at least quarterly, using performance data to refine which queries you keep, expand, or drop as user language and priorities evolve."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

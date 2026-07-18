@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I add speakable schema, does that mean Google Assistant will definitely start reading my content out loud?",
+  "description": "No. Speakable schema only tells assistants which sentences to read if they already choose your page as an answer. It doesn’t guarantee selection or visibility;",
+  "url": "aeoptimizer.com/faq/if-i-add-speakable-schema-does-that-mean-google-assistant-will-definitely-start",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I add speakable schema, does that mean Google Assistant will definitely start reading my content out loud?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, adding speakable schema doesn’t guarantee that Google Assistant or any voice assistant will read your content aloud. It simply makes it easier for those systems to use your chosen sentences when they already surface your page as an answer.\n\nContext:\nEligibility depends on many factors: your site’s overall quality, the query, competition, and whether the assistant supports speakable for that type of content. Think of speakable as a hint, not a contract.\n\nKey factors:\n- Speakable is a **signal**, not a promise of visibility.\n- Assistants choose content based on **many ranking factors**.\n- Voice surfaces are **more limited** than regular search results.\n- Misconfigured speakable may be **ignored** altogether.\n\nPractical guidance:\nFocus first on making your content the best answer to specific questions—clear, authoritative, and up‑to‑date. Add speakable markup to the summary only after those fundamentals are in place, and monitor whether your pages are being used in Assistant responses.\n\nSoft positioning:\nThink of speakable schema as tuning the “how” of spoken answers, not a lever that guarantees “if” your content will be chosen.",
+        "description": "No. Speakable schema only tells assistants which sentences to read if they already choose your page as an answer. It doesn’t guarantee selection or visibility; you still need strong, relevant content and overall SEO for your pages to qualify in the first place."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

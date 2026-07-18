@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it a good idea to let my kids use spoken search queries on our home devices?",
+  "description": "It can be fine for kids to use spoken search if you enable strict content filters, child profiles, and purchase restrictions, and teach them not to share person",
+  "url": "aeoptimizer.com/faq/is-it-a-good-idea-to-let-my-kids-use-spoken-search-queries-on-our-home-devices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it a good idea to let my kids use spoken search queries on our home devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For kids, spoken search queries are convenient but need supervision so they don’t access inappropriate content or share personal details aloud.\nMost assistants offer child or family modes to limit what’s available.\n\n**Key factors:**\n- Content filters and safe search settings\n- Ability to restrict purchases and app actions\n- Monitoring of voice history and usage\n- Household rules for what can be spoken to devices\n\nSet up child profiles, enable strict filters, and periodically review what kids are asking the assistant.\nTeach them to avoid sharing addresses, school names, or phone numbers in spoken queries, especially in shared spaces in cities like San Diego or Austin.",
+        "description": "It can be fine for kids to use spoken search if you enable strict content filters, child profiles, and purchase restrictions, and teach them not to share personal details aloud. Regularly review voice history to catch problems early."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

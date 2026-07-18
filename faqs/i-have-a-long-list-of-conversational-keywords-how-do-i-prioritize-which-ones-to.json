@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a long list of conversational keywords. How do I prioritize which ones to target first?",
+  "description": "Score each conversational keyword on intent strength, business value, and ranking difficulty, then prioritize high-intent, high-value, medium-difficulty questio",
+  "url": "aeoptimizer.com/faq/i-have-a-long-list-of-conversational-keywords-how-do-i-prioritize-which-ones-to",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a long list of conversational keywords. How do I prioritize which ones to target first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prioritize conversational keywords, score each question on intent strength, commercial value, and difficulty, then focus first on those closest to purchase or high-value actions. You don’t need to target everything—just the queries that matter most to your business.\n\nThis keeps you out of the trap of chasing every long-tail phrase and lets you invest in the ones with clear payoff.\n\nKey factors:\n- Intent: Is the query exploratory (“what is…”) or decision-oriented (“best tool for…”)?\n- Value: Does it relate to core services, highest-margin products, or critical features?\n- Difficulty: How strong are current results; can you realistically compete?\n- Existing traction: Are you already getting impressions/clicks for related phrases?\n\nIn practice, assign 1–5 scores for each dimension in a spreadsheet and sort descending. Start with the top 20–30 conversational keywords, build or refine content around them, and only then expand into broader informational questions.\n\nIf you’re in a smaller team or budget-sensitive situation, prioritization is what makes conversational keyword work feasible instead of overwhelming.",
+        "description": "Score each conversational keyword on intent strength, business value, and ranking difficulty, then prioritize high-intent, high-value, medium-difficulty questions. Start with 20–30 decision-oriented queries tied to core offers, optimize content for those, and only later expand to broader informational questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

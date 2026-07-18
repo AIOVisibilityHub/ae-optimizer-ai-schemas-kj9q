@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a conversational keyword strategy and what should it include?",
+  "description": "A conversational keyword strategy is a plan to target real, question-style, natural-language searches systematically. It should include research into actual cus",
+  "url": "aeoptimizer.com/faq/what-is-a-conversational-keyword-strategy-and-what-should-it-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a conversational keyword strategy and what should it include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A conversational keyword strategy is a plan to consistently target and answer real, question-style queries across your site, content, and structured data. It focuses on natural-language, long-tail searches instead of just head terms.\n\nThis strategy aligns your content architecture with the way people ask for help at different stages of their journey.\n\nKey factors:\n- Research: mine real questions from customers and public forums\n- Organization: cluster by topic and intent (research, compare, decide, troubleshoot)\n- Execution: build answer-first pages, FAQs, and supporting content\n- Optimization: add schema, monitor queries in Search Console, refine wording over time\n\nTo build your strategy, start with a question bank of 50–100 conversational queries, group them into 8–12 topic clusters, then map each cluster to existing or planned content. Review performance quarterly, updating questions and answers as user language shifts.\n\nIf your current SEO strategy is just a list of keywords and blog titles, a conversational keyword framework makes it more user-centered and resilient to search changes.",
+        "description": "A conversational keyword strategy is a plan to target real, question-style, natural-language searches systematically. It should include research into actual customer questions, clustering by topic and intent, answer-first content and FAQ structures, plus ongoing monitoring and refinement as query patterns and search tech evolve."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

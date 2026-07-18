@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My website is old and mostly static—can I still get cited by voice assistants without rebuilding everything?",
+  "description": "Yes. You can convert existing sections into Q&A headings with short answers and add FAQPage and LocalBusiness schema to your current pages. As long as your site",
+  "url": "aeoptimizer.com/faq/my-website-is-old-and-mostly-static-can-i-still-get-cited-by-voice-assistants-wi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My website is old and mostly static—can I still get cited by voice assistants without rebuilding everything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your site is mostly static, you can still get cited by turning existing information into Q&A blocks and adding schema—no full redesign needed. Voice assistants don’t care whether your site feels “modern”; they care whether answers are easy to parse.\n\nA few structural tweaks can make a static site machine‑friendly without changing its look.\n\nKEY FACTORS\n- Convert sections like “Services” and “Hours” into question‑style headings\n- Add 2–3 sentence direct answers under each question\n- Implement FAQPage and LocalBusiness schema via lightweight snippets\n- Ensure basic mobile performance and HTTPS\n\nStart with one or two pages, update their headings and answers, then paste in JSON‑LD schema in the header or body. Test those pages with voice queries before touching the rest of the site.\n\nThis lets you modernize how your content is read without disrupting its visual design or structure.",
+        "description": "Yes. You can convert existing sections into Q&A headings with short answers and add FAQPage and LocalBusiness schema to your current pages. As long as your site is crawlable, mobile‑friendly enough, and uses HTTPS, voice assistants can still cite it without a full redesign."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
