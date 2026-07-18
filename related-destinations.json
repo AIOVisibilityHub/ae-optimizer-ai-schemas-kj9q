@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-07-18T22:42:08.664Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "AE Optimizer",
+    "canonicalUrl": "aeoptimizer.com",
+    "aiDataHub": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "AE Optimizer — canonical website",
+      "url": "aeoptimizer.com"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "AE Optimizer — AI Data Hub",
+      "url": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html"
+    }
+  ],
+  "destinations": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "AE Optimizer — AI Data Package",
+  "short_name": "AE Optimizer",
+  "start_url": "./ai-data.html",
+  "display": "browser",
+  "description": "AI Data Package for AE Optimizer"
+}

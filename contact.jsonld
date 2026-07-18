@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "Contact AE Optimizer",
+  "url": "aeoptimizer.com/contact",
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "AE Optimizer",
+    "telephone": "(213) 537-5613",
+    "url": "aeoptimizer.com"
+  }
+}
