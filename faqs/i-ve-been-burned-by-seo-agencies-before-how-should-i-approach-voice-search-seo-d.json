@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve been burned by SEO agencies before. How should I approach voice search SEO differently this time?",
+  "description": "Approach voice search SEO as a tightly scoped, measurable project. Focus on a few high-value pages and local profiles, insist on specific deliverables (content,",
+  "url": "aeoptimizer.com/faq/i-ve-been-burned-by-seo-agencies-before-how-should-i-approach-voice-search-seo-d",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve been burned by SEO agencies before. How should I approach voice search SEO differently this time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad SEO experience, treat voice search SEO as a focused, measurable project rather than a vague retainer.\n\nDefine specific voice-style queries and pages upfront so you can clearly see whether this round of work delivers different results.\n\n**Key factors:**\n- Start with a limited scope: 3–5 pages and your main local profiles.\n- Require clear deliverables: updated content, schemas, and performance metrics.\n- Ask for baseline and follow-up data on question-based queries.\n- Avoid long-term contracts until you’ve seen tangible improvements.\n\nUse your past experience as a checklist: identify what went wrong (no reporting, generic tactics, unclear goals) and insist those issues be addressed in any new voice SEO engagement. Consider running a small pilot before expanding.\n\nAn honest provider will welcome a test project and transparent measurement instead of asking for blind trust.",
+        "description": "Approach voice search SEO as a tightly scoped, measurable project. Focus on a few high-value pages and local profiles, insist on specific deliverables (content, schema, speed fixes), and require before-and-after reporting on voice-style queries. Avoid long contracts until you see clear improvements from a pilot engagement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

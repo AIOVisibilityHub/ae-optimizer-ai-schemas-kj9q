@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My LA business barely has any online presence—can I still get Siri to show me without a ton of documentation?",
+  "description": "Yes. Start by creating one accurate Apple Maps listing as your core record, then mirror that data to a simple website and major directories, and slowly correct",
+  "url": "aeoptimizer.com/faq/my-la-business-barely-has-any-online-presence-can-i-still-get-siri-to-show-me-wi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My LA business barely has any online presence—can I still get Siri to show me without a ton of documentation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have almost no documentation or old listings for a business in Los Angeles, you can still show up on Siri by starting fresh with one accurate, authoritative data source and gradually cleaning up any legacy entries you find. Siri cares more about current consistency than historical clutter.\n\nThe risk with minimal documentation is that any wrong information you do publish may get replicated and confuse algorithms.\n\nKey factors:\n- A single, correct Apple Maps listing as your “source of truth”\n- Careful creation of new listings that copy that data exactly\n- Systematic search and correction of any outdated entries\n- A simple website that confirms the core details\n\nPractically, begin with Apple Maps, double-check every field, then roll that same info into a basic website and major directories. Periodically search your business name and old addresses to find and correct stray profiles.\n\nThink of Siri visibility for under-documented businesses as a clean-slate project, built slowly and carefully.",
+        "description": "Yes. Start by creating one accurate Apple Maps listing as your core record, then mirror that data to a simple website and major directories, and slowly correct any stray old entries. Siri values current, consistent data more than a long paper trail."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

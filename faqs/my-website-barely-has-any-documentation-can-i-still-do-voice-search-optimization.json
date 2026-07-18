@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My website barely has any documentation—can I still do voice search optimization, and where should I start?",
+  "description": "Yes. Start by listing 20–50 real customer questions and building pages or sections that answer each clearly with short, natural language paragraphs. As you publ",
+  "url": "aeoptimizer.com/faq/my-website-barely-has-any-documentation-can-i-still-do-voice-search-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My website barely has any documentation—can I still do voice search optimization, and where should I start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your site has little documentation or existing content, voice search optimization is actually a good framework for building it: start from the questions customers ask and create pages that answer those questions clearly. You don’t need hundreds of pages—just a few strong, intent‑focused ones.\n\nRather than writing broad marketing copy, you build structured answers that can power both search and sales conversations.\n\nKey factors:\n- Identify 20–50 core questions across your services\n- Create individual sections or pages around those questions\n- Use natural language and short, direct answer blocks\n- Add basic FAQ and LocalBusiness schema as you publish\n\nPractically, think of this as building a “knowledge base” that doubles as your website. Each answer you document is one less thing customers have to ask support—and one more thing assistants can surface.\n\nStarting from questions turns a thin site into a focused, voice‑ready resource.",
+        "description": "Yes. Start by listing 20–50 real customer questions and building pages or sections that answer each clearly with short, natural language paragraphs. As you publish, add FAQ and LocalBusiness schema. You don’t need a huge site—just a focused, question‑driven structure that assistants can understand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

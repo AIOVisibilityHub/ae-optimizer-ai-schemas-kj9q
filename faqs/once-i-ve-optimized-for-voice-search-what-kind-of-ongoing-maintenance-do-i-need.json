@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Once I’ve optimized for voice search, what kind of ongoing maintenance do I need to keep performance from slipping?",
+  "description": "Plan quarterly maintenance: update Google Business Profile data, refresh FAQs with new questions, validate and expand schema, and monitor featured snippets and",
+  "url": "aeoptimizer.com/faq/once-i-ve-optimized-for-voice-search-what-kind-of-ongoing-maintenance-do-i-need",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Once I’ve optimized for voice search, what kind of ongoing maintenance do I need to keep performance from slipping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To keep voice search performance strong over time, you need regular monitoring and small, consistent adjustments—similar to ongoing SEO. Assistants change behaviors, competitors improve, and your own content grows, so “set and forget” doesn’t work.\n\nStable voice visibility depends on fresh local data, up-to-date FAQs, and healthy mobile performance. Neglecting any of these can gradually push you out of featured answers.\n\nKey factors:\n- Routine checks of Google Business Profile, hours, and categories\n- Periodic content reviews to add new questions and retire outdated ones\n- Monitoring featured snippets and question-based queries in Search Console\n- Ongoing page speed and Core Web Vitals maintenance\n\nCreate a quarterly voice optimization review: update local profiles, refine FAQs, validate schema, and look for new patterns in what people ask. Adjust your content strategy to match those emerging queries.\n\nThink of voice search as a living part of your SEO program that needs light but consistent care.",
+        "description": "Plan quarterly maintenance: update Google Business Profile data, refresh FAQs with new questions, validate and expand schema, and monitor featured snippets and question-style queries in Search Console. Keep mobile speed and Core Web Vitals healthy so assistants continue to trust and surface your answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

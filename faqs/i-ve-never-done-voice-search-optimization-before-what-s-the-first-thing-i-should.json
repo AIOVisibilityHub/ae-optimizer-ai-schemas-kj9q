@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve never done voice search optimization before—what’s the first thing I should actually do on my site?",
+  "description": "Start by listing the real questions your customers ask and rewriting 3–5 key pages so each uses question headings followed by concise, conversational 40–60 word",
+  "url": "aeoptimizer.com/faq/i-ve-never-done-voice-search-optimization-before-what-s-the-first-thing-i-should",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve never done voice search optimization before—what’s the first thing I should actually do on my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by identifying the real questions your customers ask, then rework a few key pages to answer those questions clearly in a conversational tone and short, direct paragraphs. Once content is in place, add FAQ and LocalBusiness schema and make sure your site is fast and mobile‑friendly.\n\nYou don’t need a full site rebuild to see benefits—small, targeted changes can start surfacing you in voice results. Focus on pages that already get traffic or drive leads, and improve those first.\n\nKey factors:\n- Use question‑based headings that match how people speak\n- Place 40–60 word answers immediately under each question\n- Add FAQ schema to those Q&A sections\n- Check mobile speed and local listings (Google Business Profile, key directories)\n\nPractically, pick 3–5 priority pages, extract common questions from support emails or calls, and rewrite those sections for voice. Then implement schema and re‑test. You can extend to more pages once you see what works.\n\nThis approach helps you get meaningful voice gains quickly without needing an agency-sized budget or timeline.",
+        "description": "Start by listing the real questions your customers ask and rewriting 3–5 key pages so each uses question headings followed by concise, conversational 40–60 word answers. Then add FAQ and LocalBusiness schema and verify your site is fast and mobile‑friendly to begin appearing in voice results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

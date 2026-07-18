@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why doesn’t my business show up at all when I try asking Siri, even though I’m open and nearby?",
+  "description": "You’re usually invisible to Siri because your Apple Maps listing is missing, unclaimed, or inaccurate, and your local signals (reviews, categories, website cont",
+  "url": "aeoptimizer.com/faq/why-doesn-t-my-business-show-up-at-all-when-i-try-asking-siri-even-though-i-m-op",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why doesn’t my business show up at all when I try asking Siri, even though I’m open and nearby?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your business isn’t appearing on Siri, most of the time it’s because your Apple Maps listing is missing, unclaimed, mis-categorized, or inconsistent with other local data. Less often, it’s a temporary algorithm or category issue.\n\nSiri’s priority is reliable, verified information. When data is sparse, contradictory, or low-trust, Siri simply prefers competitors with better signals instead of risking a bad recommendation.\n\nKey factors:\n- No Apple Maps listing or an unverified profile\n- Wrong categories, outdated hours, or an incorrect pin location\n- Weak or missing reviews compared to nearby competitors\n- Website and schema not aligned with what people ask Siri\n\nPractically, search for your business directly in Apple Maps; if you can’t find or claim it, start there. Next, fix any incorrect details, align your categories with how customers describe you, and update your website with plain-language answers to common Siri-style questions.\n\nMost “invisibility” problems are fixable with better data and clearer signals, not with tricks or secret settings.",
+        "description": "You’re usually invisible to Siri because your Apple Maps listing is missing, unclaimed, or inaccurate, and your local signals (reviews, categories, website content) are weaker than nearby competitors. Fix and verify your Apple Maps profile, clean up your local listings, and add clear Q&A content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

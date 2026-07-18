@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if my current website is even remotely “ready” for voice search, or if I’m starting from zero?",
+  "description": "You’re “voice-ready” if your site uses question-based headings and FAQs, loads quickly on mobile, has a fully optimized Google Business Profile with consistent",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-my-current-website-is-even-remotely-ready-for-voice-search-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if my current website is even remotely “ready” for voice search, or if I’m starting from zero?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To know if your site is ready for voice search, look for three things: your content must answer real spoken questions, your local and mobile setup must be solid, and your structured data must help assistants understand those answers. Without all three, your chances drop quickly.\n\nMost sites have decent content but fail on conversation style and answer structure, or they neglect local and schema entirely. Voice assistants favor pages with obvious Q&A patterns, strong local context, and clean, fast mobile experiences.\n\nKey factors:\n- Presence of question-based headings and FAQ sections\n- Mobile speed and usability scores\n- Completed Google Business Profile and NAP consistency\n- Implementation of FAQ and LocalBusiness schema\n\nRun a quick audit: list your top five voice-style queries, see if you have matching content, then check mobile speed and schema coverage. Use that gap analysis as your starting roadmap.\n\nThink of “voice readiness” as a checklist—content, local, and technical all need to be at least decent.",
+        "description": "You’re “voice-ready” if your site uses question-based headings and FAQs, loads quickly on mobile, has a fully optimized Google Business Profile with consistent NAP, and implements FAQ/LocalBusiness schema. If any of these are missing, treat them as your first voice search optimization priorities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

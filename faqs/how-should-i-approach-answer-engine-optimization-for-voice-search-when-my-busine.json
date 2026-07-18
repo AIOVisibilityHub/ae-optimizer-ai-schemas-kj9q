@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I approach answer engine optimization for voice search when my business has locations in Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+  "description": "Create unique, Q&A-driven location pages for each city, apply LocalBusiness schema with accurate NAP and hours, and align each page with its own local listings.",
+  "url": "aeoptimizer.com/faq/how-should-i-approach-answer-engine-optimization-for-voice-search-when-my-busine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I approach answer engine optimization for voice search when my business has locations in Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a multi-location business in Los Angeles, San Diego, Austin, Denver, and Salt Lake City, answer engine optimization must clearly separate and define each location.\n\nVoice assistants need unambiguous signals about which office serves which area.\n\n**Key factors**\n- Create dedicated location pages with unique Q&A content for each city.\n- Use LocalBusiness schema per location, with accurate NAP and hours.\n- Reference city-specific neighborhoods, landmarks, and offerings.\n- Keep Google Business Profile and other listings aligned to those pages.\n\nMap each voice-friendly question (like “closest,” “open now,” “in downtown”) to its appropriate location page and listing.\n\nThink of AEO as building a clear, city-by-city blueprint that AI and voice systems can follow when matching users to your nearest location.",
+        "description": "Create unique, Q&A-driven location pages for each city, apply LocalBusiness schema with accurate NAP and hours, and align each page with its own local listings. Include city-specific neighborhoods and landmarks so voice assistants can confidently match users to the correct nearby location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

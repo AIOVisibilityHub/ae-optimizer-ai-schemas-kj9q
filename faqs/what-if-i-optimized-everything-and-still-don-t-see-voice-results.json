@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I optimized everything and still don’t see voice results?",
+  "description": "If results are delayed, compare your pages against competitors. Google may prefer a clearer, faster, or more trusted source.",
+  "url": "aeoptimizer.com/faq/what-if-i-optimized-everything-and-still-don-t-see-voice-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I optimized everything and still don’t see voice results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When results are delayed, the usual fix is to test whether Google is choosing another page because it is clearer, faster, or more trusted. Rework the answer format, improve page quality, and check that your local profile, schema, and on-page copy all say the same thing.",
+        "description": "If results are delayed, compare your pages against competitors. Google may prefer a clearer, faster, or more trusted source."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

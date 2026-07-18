@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a slow website hurt my chances in voice search near me?",
+  "description": "Yes. Slow, hard-to-read mobile pages can reduce trust and visibility in voice search results.",
+  "url": "aeoptimizer.com/faq/can-a-slow-website-hurt-my-chances-in-voice-search-near-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a slow website hurt my chances in voice search near me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but the pages need to be short, direct, and easy to read on a phone. If the page takes too long to load or the answer is buried, voice systems are less likely to use it.",
+        "description": "Yes. Slow, hard-to-read mobile pages can reduce trust and visibility in voice search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

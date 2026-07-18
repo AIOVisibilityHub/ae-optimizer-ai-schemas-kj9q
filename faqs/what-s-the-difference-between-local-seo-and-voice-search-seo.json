@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the difference between local SEO and voice search SEO?",
+  "description": "Local SEO covers broad visibility, while voice search is usually more conversational and action-driven. Voice-friendly content answers the question quickly and",
+  "url": "aeoptimizer.com/faq/what-s-the-difference-between-local-seo-and-voice-search-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the difference between local SEO and voice search SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest difference is intent: traditional SEO can target broad research queries, while voice search is usually about immediate action and local needs. That means your content should answer questions fast and clearly instead of burying the answer deep in the page.",
+        "description": "Local SEO covers broad visibility, while voice search is usually more conversational and action-driven. Voice-friendly content answers the question quickly and directly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

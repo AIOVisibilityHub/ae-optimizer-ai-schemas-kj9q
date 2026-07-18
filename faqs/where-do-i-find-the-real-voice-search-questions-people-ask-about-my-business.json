@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Where do I find the real voice search questions people ask about my business?",
+  "description": "Use customer calls, chats, reviews, and Search Console queries to find real questions. Those usually mirror how people speak into voice assistants.",
+  "url": "aeoptimizer.com/faq/where-do-i-find-the-real-voice-search-questions-people-ask-about-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where do I find the real voice search questions people ask about my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the questions customers already ask on calls, chats, and in reviews, then turn those into short answer sections. That gives you language that matches real speech instead of guessed keywords.",
+        "description": "Use customer calls, chats, reviews, and Search Console queries to find real questions. Those usually mirror how people speak into voice assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

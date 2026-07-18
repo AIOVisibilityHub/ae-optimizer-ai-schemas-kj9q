@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a local business in Los Angeles, San Diego, Austin, Denver, or Salt Lake City structure voice search keywords differently from a national brand?",
+  "description": "Local businesses should focus voice search keywords on neighborhood-level questions using local landmarks, parking/transit details, and practical “near me” quer",
+  "url": "aeoptimizer.com/faq/how-should-a-local-business-in-los-angeles-san-diego-austin-denver-or-salt-lake",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a local business in Los Angeles, San Diego, Austin, Denver, or Salt Lake City structure voice search keywords differently from a national brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local businesses in cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City should focus voice search keywords around specific neighborhood questions, not just city-wide terms. People often ask hyperlocal queries.\n\nInstead of “gym in Denver,” think “what’s the best 24-hour gym near Capitol Hill in Denver” or “kid-friendly dentist in North Park San Diego.” Your content and profiles must reflect that granularity.\n\nKey factors:\n- Embed neighborhood names, landmarks, and common local vocabulary\n- Answer practical questions: parking, transit access, busy hours, same-day options\n- Use consistent NAP and rich business descriptions across GMB and citations\n- Write FAQs that mirror real local queries and mark them up with schema\n\nPractically, interview staff and customers in each city about how they describe your location and services, then turn those phrases into keyword-rich questions and answers. Build or refine location pages accordingly.\n\nDone right, you become the obvious answer when assistants handle neighborhood-level voice queries.",
+        "description": "Local businesses should focus voice search keywords on neighborhood-level questions using local landmarks, parking/transit details, and practical “near me” queries. Build FAQs and location pages that mirror how locals talk, then support them with consistent NAP data and LocalBusiness/FAQ schema."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

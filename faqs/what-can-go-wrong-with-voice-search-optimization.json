@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with voice search optimization?",
+  "description": "Inconsistent listings, fake reviews, and slow pages can hurt visibility. Poorly written content can also make it harder for assistants to trust your business da",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-voice-search-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with voice search optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are inconsistent business information, fake reviews, slow mobile pages, and content that sounds written for search engines instead of people. Those issues can reduce trust and make it harder for assistants to pull your business into local results.",
+        "description": "Inconsistent listings, fake reviews, and slow pages can hurt visibility. Poorly written content can also make it harder for assistants to trust your business data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

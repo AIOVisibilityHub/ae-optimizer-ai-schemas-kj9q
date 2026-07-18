@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can any business show up for voice search near me, or do I need a storefront?",
+  "description": "Not every business needs a storefront, but you do need clear local signals. Verified listings, accurate service areas, and consistent contact details matter mos",
+  "url": "aeoptimizer.com/faq/can-any-business-show-up-for-voice-search-near-me-or-do-i-need-a-storefront",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can any business show up for voice search near me, or do I need a storefront?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your business is more likely to appear if you have a real local presence, a verified listing, and clear service-area information. If you serve customers remotely or from multiple locations, you may still qualify, but the location data has to be consistent and specific.",
+        "description": "Not every business needs a storefront, but you do need clear local signals. Verified listings, accurate service areas, and consistent contact details matter most."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with Google Assistant optimization?",
+  "description": "The biggest risks are inconsistent business info, misleading schema, and pages that still aren’t clear enough for Google to quote confidently.",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-google-assistant-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with Google Assistant optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are changing pages without improving clarity, adding schema that does not match the visible content, or leaving inconsistent business information across platforms. Those mistakes can make performance worse or create confusing signals for Google.",
+        "description": "The biggest risks are inconsistent business info, misleading schema, and pages that still aren’t clear enough for Google to quote confidently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

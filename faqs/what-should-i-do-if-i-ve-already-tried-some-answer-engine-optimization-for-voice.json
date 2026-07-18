@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’ve already tried some answer engine optimization for voice search and I’m still not seeing results in San Diego?",
+  "description": "Run a focused AEO audit: identify which question queries show competitors, compare their snippets and local signals to yours, fix schema issues, and rewrite key",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-ve-already-tried-some-answer-engine-optimization-for-voice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’ve already tried some answer engine optimization for voice search and I’m still not seeing results in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re in San Diego and your voice search results are flat, it usually means your site’s answers aren’t competitive yet, not that AEO “doesn’t work.”\n\nYou’ll need to diagnose where you’re losing to competitors and tighten your content and signals.\n\n**Key factors**\n- Check which queries show competitors in featured snippets or AI overviews.\n- Compare their answer length, clarity, and structure to yours.\n- Review your schema implementation for errors or gaps.\n- Confirm local listings and NAP are consistent for San Diego.\n\nRun an AEO audit focusing on question queries, then prioritize rewriting underperforming pages with clearer 40–60 word answers and better local and technical signals.\n\nTreat slow results as feedback that you need sharper, more structured answers, not as a failure of the approach.",
+        "description": "Run a focused AEO audit: identify which question queries show competitors, compare their snippets and local signals to yours, fix schema issues, and rewrite key pages with clearer 40–60 word answers and better San Diego location cues. Slow results usually mean your answers aren’t yet the strongest option, not that AEO is broken."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

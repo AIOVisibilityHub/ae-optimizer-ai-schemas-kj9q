@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I optimize first if I only have 10 minutes?",
+  "description": "Optimize your most-used tasks first, like reminders, messages, calendar, and calls. Those give the fastest payoff.",
+  "url": "aeoptimizer.com/faq/what-should-i-optimize-first-if-i-only-have-10-minutes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I optimize first if I only have 10 minutes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the commands you use most often, then build around them. If reminders, messages, calendar entries, and calls are your main tasks, optimize those first because they deliver the biggest daily payoff. Test each one several times before adding more complexity.",
+        "description": "Optimize your most-used tasks first, like reminders, messages, calendar, and calls. Those give the fastest payoff."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

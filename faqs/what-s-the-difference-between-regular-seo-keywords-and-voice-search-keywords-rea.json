@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the difference between regular SEO keywords and voice search keywords, really?",
+  "description": "Voice search keywords are longer, conversational, question-style phrases that sound like real speech, often with clear intent and location (“how do I fix…” “nea",
+  "url": "aeoptimizer.com/faq/what-s-the-difference-between-regular-seo-keywords-and-voice-search-keywords-rea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the difference between regular SEO keywords and voice search keywords, really?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice search keywords are longer, more conversational phrases that sound like how someone would talk to a voice assistant, usually framed as questions. Traditional SEO keywords tend to be shorter, more fragmented, and typed-focused.\n\nA text search might be “best running shoes,” while a voice query is more like “what are the best running shoes for flat feet that won’t wreck my knees.” Voice queries bundle context, intent, and specifics in one sentence.\n\nKey factors:\n- Voice keywords: longer (often 5+ words), natural speech, full questions\n- Text keywords: shorter, “keywordy,” often missing context\n- Voice queries often contain intent words: “how do I,” “should I,” “can I”\n- Voice keywords more frequently include location or “near me” phrases\n\nTo use this difference, build content around question-style headings and short direct answers, then layer your shorter “SEO” phrases inside that natural language. Don’t abandon traditional keywords—use voice keywords as an additional lens.\n\nThink of voice search keywords as the everyday language version of your existing SEO strategy, not a completely separate universe.",
+        "description": "Voice search keywords are longer, conversational, question-style phrases that sound like real speech, often with clear intent and location (“how do I fix…” “near me”). Traditional SEO keywords are shorter and more fragmented. You generally need both, structured around natural-language questions and concise answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

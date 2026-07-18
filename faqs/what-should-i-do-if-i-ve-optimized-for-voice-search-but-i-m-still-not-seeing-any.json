@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’ve “optimized” for voice search but I’m still not seeing any improvement?",
+  "description": "If voice results aren’t improving, re‑check whether you targeted the right real questions, validate your FAQ and LocalBusiness schema, compare your answer block",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-ve-optimized-for-voice-search-but-i-m-still-not-seeing-any",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’ve “optimized” for voice search but I’m still not seeing any improvement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When metrics don’t move after voice search optimization, it usually means changes were too shallow, misaligned with actual user questions, or not properly implemented (especially schema and local signals). Assistants need both clean structure and demonstrated user value.\n\nLack of results isn’t a sign that voice “doesn’t work” so much as a cue to refine targeting and execution.\n\nKey factors:\n- Whether you targeted the right questions and intents\n- Correctness and validation of schema markup\n- Strength of competing pages already holding snippets\n- Quality of mobile UX and site speed\n\nPractically, revisit your keyword and question research, validate schema in testing tools, and compare your answer blocks against the pages currently winning snippets. You may need more depth or clearer answers.\n\nTreat stalled results as feedback to iterate, not failure—voice optimization is rarely perfect on the first pass.",
+        "description": "If voice results aren’t improving, re‑check whether you targeted the right real questions, validate your FAQ and LocalBusiness schema, compare your answer blocks to current snippet winners, and fix mobile speed or UX issues. Stalled performance usually reflects shallow or misaligned implementation, not that voice “doesn’t work.”"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

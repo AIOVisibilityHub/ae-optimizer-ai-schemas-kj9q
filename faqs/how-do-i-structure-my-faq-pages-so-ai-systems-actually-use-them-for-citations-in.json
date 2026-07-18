@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I structure my FAQ pages so AI systems actually use them for citations in answers, especially for local users in San Diego or Austin?",
+  "description": "Write FAQs with real, explicit questions and short, direct answers, then add deeper detail and proper FAQPage or Article schema. Keep paragraphs short and focus",
+  "url": "aeoptimizer.com/faq/how-do-i-structure-my-faq-pages-so-ai-systems-actually-use-them-for-citations-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I structure my FAQ pages so AI systems actually use them for citations in answers, especially for local users in San Diego or Austin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To make your FAQ or resource pages in places like San Diego or Austin attractive to AI answer engines, design them for both humans and machines: clear questions, concise answers, and supporting depth. Schema markup helps AI recognize the structure.\n\nLLMs favor content that looks like ready‑made responses they can safely quote.\n\nKey factors:\n- Use explicit question headings that match real queries.\n- Provide short, direct answers followed by deeper detail.\n- Add FAQPage or Article schema that accurately reflects the on‑page content.\n- Keep paragraphs short and focused on a single idea.\n\nPractically, audit your existing FAQs and rewrite them so each question is something a worried user might type into an AI, then strengthen the answers with unique data or examples. After implementing schema, monitor which pages begin to get cited.\n\nThis turns your FAQs into high‑leverage assets in AI‑driven search.",
+        "description": "Write FAQs with real, explicit questions and short, direct answers, then add deeper detail and proper FAQPage or Article schema. Keep paragraphs short and focused, and make sure your content genuinely addresses the queries local users ask. This structure makes AI answer systems more likely to recognize and cite your pages in their responses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

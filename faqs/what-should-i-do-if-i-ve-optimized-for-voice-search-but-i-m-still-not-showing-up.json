@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’ve optimized for voice search but I’m still not showing up as the spoken answer, even after a few months?",
+  "description": "Audit who is currently being read aloud and why: check your schema validity, how closely your headings match real spoken questions, and the strength of your loc",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-ve-optimized-for-voice-search-but-i-m-still-not-showing-up",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’ve optimized for voice search but I’m still not showing up as the spoken answer, even after a few months?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When voice search results lag behind your efforts, start by checking whether assistants are picking someone else, a directory, or a generic snippet—and why. Often the issue is incomplete schema, weak local data, or answers that don’t match spoken phrasing.\n\nRanking changes for voice-style queries can take time, especially in competitive markets like New York or Dallas–Fort Worth. You may also see impression gains without immediate click or call increases.\n\nKey factors:\n- Validity and coverage of schema for your key FAQs and locations\n- Alignment between your headings and the exact questions people ask\n- Local profile completeness and review strength\n- Time since changes and crawl frequency\n\nCompare your content and profiles to those currently reading out as answers, then adjust structure and phrasing to close the gap. Keep an eye on Search Console’s question-style queries and featured snippet gains as early indicators.\n\nTreat slow voice results as feedback to refine, not proof the strategy failed.",
+        "description": "Audit who is currently being read aloud and why: check your schema validity, how closely your headings match real spoken questions, and the strength of your local profiles and reviews. Refine content and markup, and monitor question-style queries and featured snippets in Search Console."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

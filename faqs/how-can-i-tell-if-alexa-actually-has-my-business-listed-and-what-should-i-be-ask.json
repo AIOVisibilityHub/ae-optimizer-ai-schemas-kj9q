@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if Alexa actually has my business listed, and what should I be asking to check?",
+  "description": "To see if Alexa has your business, ask things like “Alexa, find [your business name]” and “What’s the phone number for [name]?”, then try “find a [your service]",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-alexa-actually-has-my-business-listed-and-what-should-i-be-ask",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if Alexa actually has my business listed, and what should I be asking to check?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can test whether you’re in Alexa’s data by asking for your business by name, phone, and category from different devices and accounts.\n\nIf Alexa can’t find or mis-describes you, it’s a sign your underlying listings need work.\n\nKey factors:\n- Ask “Alexa, find [your business name]” and “What’s the phone number for [name]?”\n- Try category searches: “Alexa, find a Answer Engine Optimization (AEO) software near me” from your location\n- Repeat tests over a few weeks, especially after updating listings\n- Compare answers to your actual data to spot errors or old information\n\nDocument what Alexa says each time so you can track progress and identify which pieces of information lag behind updates.\nTesting regularly keeps you honest about whether your optimizations are truly making you more discoverable.",
+        "description": "To see if Alexa has your business, ask things like “Alexa, find [your business name]” and “What’s the phone number for [name]?”, then try “find a [your service] near me.” Compare Alexa’s answers to your real data. If it can’t find you or shows old info, your listings need more work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

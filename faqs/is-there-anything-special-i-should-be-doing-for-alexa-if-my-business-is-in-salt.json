@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there anything special I should be doing for Alexa if my business is in Salt Lake City and competing with a lot of big chains?",
+  "description": "In Salt Lake City, focus on precise categories, locally relevant descriptions, and strong reviews to stand out on Alexa against big chains. Use consistent NAP,",
+  "url": "aeoptimizer.com/faq/is-there-anything-special-i-should-be-doing-for-alexa-if-my-business-is-in-salt",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there anything special I should be doing for Alexa if my business is in Salt Lake City and competing with a lot of big chains?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Salt Lake City has a mix of local and chain businesses, so to stand out on Alexa you need precise categories, strong local reviews, and clear service descriptions tied to the metro area.\n\nAlexa favors listings that look both trustworthy and locally relevant.\n\nKey factors:\n- Choose specific categories (not just “store” or “service”) across all listings\n- Include “Salt Lake City” and nearby areas naturally in your descriptions, not as keyword stuffing\n- Encourage local customers to mention neighborhoods or services in their reviews\n- Use consistent NAP and a single main phone number to avoid fragmented signals\n\nAfter tightening your categories and descriptions, test Alexa with queries like “near downtown Salt Lake City” or “in Sugar House” to see how often you appear.\nLean into local relevance and clarity rather than generic wording.",
+        "description": "In Salt Lake City, focus on precise categories, locally relevant descriptions, and strong reviews to stand out on Alexa against big chains. Use consistent NAP, mention the metro and neighborhoods naturally in your profiles, and test voice queries like “near downtown Salt Lake City” to gauge visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

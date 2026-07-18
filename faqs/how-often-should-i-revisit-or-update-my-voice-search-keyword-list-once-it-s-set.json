@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I revisit or update my voice search keyword list once it’s set up?",
+  "description": "Revisit your voice search keyword list at least quarterly. Review Search Console and FAQ performance, add new questions from support and sales conversations, re",
+  "url": "aeoptimizer.com/faq/how-often-should-i-revisit-or-update-my-voice-search-keyword-list-once-it-s-set",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I revisit or update my voice search keyword list once it’s set up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should treat voice search keywords as an ongoing, quarterly process rather than a one-time project. User behavior, device adoption, and competitor content all shift over time.\n\nInitially, you’ll capture obvious questions, but over months you’ll see new patterns emerge in analytics and support conversations. Updating your list keeps your content aligned with real speech.\n\nKey factors:\n- Review Search Console queries and FAQ performance every 3 months\n- Add new questions from support tickets, chat logs, and sales calls\n- Prune low-value or duplicative phrases from your keyword set\n- Refresh content and Q&As to match evolving language and offerings\n\nPractically, schedule recurring “voice search reviews” where your team examines data, brainstorms new questions, and prioritizes a small batch of updates for the next sprint.\n\nConsistent iteration turns voice optimization into a durable competitive advantage instead of a short-lived SEO tactic.",
+        "description": "Revisit your voice search keyword list at least quarterly. Review Search Console and FAQ performance, add new questions from support and sales conversations, remove low-value phrases, and refresh content. Treat it as continuous optimization, not a one-off project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

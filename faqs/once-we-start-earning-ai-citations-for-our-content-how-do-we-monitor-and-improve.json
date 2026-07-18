@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Once we start earning AI citations for our content, how do we monitor and improve that performance over time?",
+  "description": "Regularly query AI answer tools with your key topics, record when and how your site is cited, and compare your cited pages to those of competitors. Then refine",
+  "url": "aeoptimizer.com/faq/once-we-start-earning-ai-citations-for-our-content-how-do-we-monitor-and-improve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Once we start earning AI citations for our content, how do we monitor and improve that performance over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For content teams in cities like Seattle or Denver, the best practice is to treat AI citations as part of an ongoing quality loop: you publish, monitor which pages get cited by AI answer tools, then refine both content and structure based on those insights.\n\nAI‑driven search is dynamic, so your strategy must be iterative, not one‑and‑done.\n\nKey factors:\n- Track when and how AI systems reference your site across key queries.\n- Analyze whether you’re cited as a primary or secondary source.\n- Compare your cited content to competitors’ and fill topic or data gaps.\n- Continuously improve structure, schema, and clarity for top pages.\n\nPractically, build a simple dashboard or checklist of priority topics, test them regularly in AI search tools, and document which pages and domains show up. Use that feedback to tune your content and citation friendliness over time.\n\nYou’ll stay aligned with how AI actually “sees” and cites your brand.",
+        "description": "Regularly query AI answer tools with your key topics, record when and how your site is cited, and compare your cited pages to those of competitors. Then refine your top content with clearer structure, better data, and accurate schema. Treat AI citation performance as an ongoing feedback loop, not a one‑time optimization task."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

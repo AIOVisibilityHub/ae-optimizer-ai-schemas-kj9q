@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need separate pages for each city I serve, like Salt Lake City and Denver?",
+  "description": "Separate pages can help if each one is truly useful and unique. They should describe real service areas, not duplicate the same text.",
+  "url": "aeoptimizer.com/faq/do-i-need-separate-pages-for-each-city-i-serve-like-salt-lake-city-and-denver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need separate pages for each city I serve, like Salt Lake City and Denver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For local businesses in Salt Lake City or Denver, service-area pages can help if they reflect genuine coverage and not copied text. Each location page should give a clear answer about what you do, where you do it, and how quickly customers can reach you.",
+        "description": "Separate pages can help if each one is truly useful and unique. They should describe real service areas, not duplicate the same text."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

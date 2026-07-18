@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can answer engine optimization for voice search backfire or hurt my rankings if I do it wrong?",
+  "description": "Yes. If AEO leads you to write vague, misleading, or thin answers, or you implement broken schema or inconsistent business data, your rankings and trust signals",
+  "url": "aeoptimizer.com/faq/can-answer-engine-optimization-for-voice-search-backfire-or-hurt-my-rankings-if",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can answer engine optimization for voice search backfire or hurt my rankings if I do it wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Poorly executed AEO can backfire if answers are misleading, over-optimized, or technically broken.\n\nVoice assistants are cautious about low-quality or inconsistent information.\n\n**Key factors**\n- Overly promotional or vague answers may be ignored or downranked.\n- Incorrect schema markup can confuse crawlers and hurt visibility.\n- Thin content built only for keywords can reduce trust signals.\n- Inconsistent NAP data can harm local and “near me” voice results.\n\nTreat every answer as a mini, factual commitment: verify accuracy, keep claims modest, and align information across your site and profiles.\n\nThink of AEO as strengthening clarity, not gaming algorithms—quality and consistency are the safeguards.",
+        "description": "Yes. If AEO leads you to write vague, misleading, or thin answers, or you implement broken schema or inconsistent business data, your rankings and trust signals can suffer. Focus on accurate, well-structured, genuinely helpful answers and clean markup to avoid negative side effects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

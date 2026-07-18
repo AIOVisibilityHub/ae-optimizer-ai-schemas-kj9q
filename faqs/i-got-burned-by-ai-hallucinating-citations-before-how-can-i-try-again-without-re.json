@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got burned by AI hallucinating citations before—how can I try again without repeating the same mistakes?",
+  "description": "Give AI a narrower job: let it format citations only for sources you’ve already found and verified, using clear, structured prompts and example outputs. Always",
+  "url": "aeoptimizer.com/faq/i-got-burned-by-ai-hallucinating-citations-before-how-can-i-try-again-without-re",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got burned by AI hallucinating citations before—how can I try again without repeating the same mistakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with AI citations before, reset by narrowing the tool’s role and tightening your prompts. Most failures come from asking AI to both find and format sources instead of just handling formatting.\n\nTreat the previous issues as a signal to rebuild a safer workflow, not a reason to abandon AI entirely.\n\nKey factors:\n- Separate source discovery (databases, search) from citation formatting (AI).\n- Use structured prompts with example outputs and clear style instructions.\n- Implement a mandatory manual review step for every AI‑generated citation.\n- Track error types so you can improve your prompts over time.\n\nPractically, run a small pilot with 10–15 sources, compare AI output to official style guides, and iterate until the error rate is acceptable. Only then scale up to full projects.\n\nYou’ll regain trust by seeing that AI can be reliable when used within clear boundaries.",
+        "description": "Give AI a narrower job: let it format citations only for sources you’ve already found and verified, using clear, structured prompts and example outputs. Always manually review each AI‑generated citation against the original document and an official style guide, then track recurring errors and refine your prompts before scaling up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to list AI as an author if it helped me write or edit my paper, or is a citation or note enough?",
+  "description": "You should not list AI as an author of your paper, but you may need to cite its output or acknowledge its assistance, depending on your style guide and institut",
+  "url": "aeoptimizer.com/faq/do-i-have-to-list-ai-as-an-author-if-it-helped-me-write-or-edit-my-paper-or-is-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to list AI as an author if it helped me write or edit my paper, or is a citation or note enough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you shouldn’t list the AI as the “author” of your paper, but you may need to credit it as a source or tool depending on the style guide and local policy. Human authorship is still the standard for responsibility and accountability.\n\nTreat AI either as a cited source (when you quote its output) or as an acknowledged tool (when it helps draft, edit, or translate), not as a co‑author.\n\nKey factors:\n- Academic guidelines usually restrict “author” status to humans.\n- AI attributions go in citations, footnotes, or acknowledgments sections.\n- Some institutions have specific wording they require for AI assistance.\n- Mislabeling AI as an author can raise integrity and plagiarism concerns.\n\nPractically, ask your instructor or supervisor how they want AI use disclosed, and follow the latest style guidance for citing generative AI outputs. Keep a record of your prompts to support transparency.\n\nThat way you respect both the letter and spirit of current academic standards.",
+        "description": "You should not list AI as an author of your paper, but you may need to cite its output or acknowledge its assistance, depending on your style guide and institution. Use citations or an acknowledgment note to describe how you used AI, and follow any explicit policies your school or employer has on generative tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

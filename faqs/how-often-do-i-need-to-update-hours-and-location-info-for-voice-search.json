@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often do I need to update hours and location info for voice search?",
+  "description": "Update hours whenever they change and before holidays or seasonal shifts. Accurate current hours are important for voice-driven local results.",
+  "url": "aeoptimizer.com/faq/how-often-do-i-need-to-update-hours-and-location-info-for-voice-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often do I need to update hours and location info for voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should update hours whenever they change, especially before holidays, emergencies, or seasonal shifts. Voice search often surfaces current hours, so stale information can cause missed visits and frustrated callers.",
+        "description": "Update hours whenever they change and before holidays or seasonal shifts. Accurate current hours are important for voice-driven local results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

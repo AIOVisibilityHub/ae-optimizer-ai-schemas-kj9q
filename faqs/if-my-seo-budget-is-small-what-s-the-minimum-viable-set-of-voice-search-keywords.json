@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If my SEO budget is small, what’s the minimum viable set of voice search keywords I should target?",
+  "description": "With a small budget, pick 3–5 core services, then gather 10–20 real spoken questions for each around cost, how-to, comparisons, and local intent. Integrate thos",
+  "url": "aeoptimizer.com/faq/if-my-seo-budget-is-small-what-s-the-minimum-viable-set-of-voice-search-keywords",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If my SEO budget is small, what’s the minimum viable set of voice search keywords I should target?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a limited budget, focus on a small, high-impact set of voice search keywords around your main money pages and simplest customer questions. You don’t need hundreds of phrases to see meaningful results.\n\nVoice search rewards clarity and relevance more than sheer volume. A well-structured page that answers 10–20 core questions can outperform a bloated keyword list that never gets implemented.\n\nKey factors:\n- Identify 3–5 primary services or products that drive revenue\n- For each, collect 10–20 real questions (cost, how-to, comparisons, nearby)\n- Optimize existing pages and FAQs before creating new content\n- Use simple schema (FAQ, LocalBusiness) rather than complex custom setups\n\nPractically, treat this like a “minimum viable voice strategy”: capture the top questions from sales/support, rewrite them in conversational language, and integrate them into existing pages with short answers. Revisit the list every 3–6 months.\n\nA focused, realistic keyword set is better than an impressive spreadsheet you never execute.",
+        "description": "With a small budget, pick 3–5 core services, then gather 10–20 real spoken questions for each around cost, how-to, comparisons, and local intent. Integrate those into existing pages and FAQs with concise answers and basic FAQ/LocalBusiness schema before chasing large keyword lists."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

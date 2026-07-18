@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My business is brand new—what should I do first so Alexa can eventually find and list me?",
+  "description": "For a new business, first claim and verify Google, Yelp, Bing Places, and Apple Maps, launch a simple website with accurate NAP, and start gathering a few revie",
+  "url": "aeoptimizer.com/faq/my-business-is-brand-new-what-should-i-do-first-so-alexa-can-eventually-find-and",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My business is brand new—what should I do first so Alexa can eventually find and list me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your business is brand new, you should first establish and verify your core listings and website before worrying about Alexa visibility.\n\nAlexa depends on this foundation to recognize you as a legitimate entity.\n\nKey factors:\n- Create and verify Google Business Profile, Yelp, Bing Places, and Apple Maps listings\n- Launch a simple website with accurate NAP and basic service descriptions\n- Start collecting a few initial reviews from early customers\n- Avoid changing your name, phone, or address during the first few months\n\nOnce your basic profiles are stable, begin testing Alexa and making small refinements based on what it says.\nPatience is key; new businesses often take longer to show in voice results than established ones.",
+        "description": "For a new business, first claim and verify Google, Yelp, Bing Places, and Apple Maps, launch a simple website with accurate NAP, and start gathering a few reviews. Keep your core details stable for several months; once that foundation is solid, Alexa has the data it needs to begin showing you in voice results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

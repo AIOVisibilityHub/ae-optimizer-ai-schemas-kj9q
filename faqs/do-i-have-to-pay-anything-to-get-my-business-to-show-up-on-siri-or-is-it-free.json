@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to pay anything to get my business to show up on Siri, or is it free?",
+  "description": "Apple doesn’t charge to list your business in Apple Maps or to show up on Siri. The real cost is your time to claim and optimize your listings, plus any optiona",
+  "url": "aeoptimizer.com/faq/do-i-have-to-pay-anything-to-get-my-business-to-show-up-on-siri-or-is-it-free",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to pay anything to get my business to show up on Siri, or is it free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Getting listed in Apple Maps via Apple Business Connect is free; the “cost” is your time and effort to set things up and maintain them. You may optionally pay for tools or services to manage local listings, but Siri itself doesn’t charge you.\n\nApple wants broad, accurate coverage of businesses, so it doesn’t put a paywall on appearing in Maps or Siri. The real investment is in local SEO, content, and reputation-building.\n\nKey factors:\n- Apple Business Connect and Apple Maps listings are free\n- Third-party local SEO tools or agencies charge fees\n- Time cost: initial setup plus ongoing updates and review management\n- Opportunity cost: not doing it can mean lost “near me” customers\n\nPractically, budget a few hours for the initial setup, then schedule periodic reviews of your listings and reviews. Only consider paid services if you struggle to keep information updated or want help scaling across many locations.\n\nTreat Siri visibility as a long-term value play rather than a direct advertising expense line item.",
+        "description": "Apple doesn’t charge to list your business in Apple Maps or to show up on Siri. The real cost is your time to claim and optimize your listings, plus any optional spend on tools or services to manage local SEO and reviews across platforms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

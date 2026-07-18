@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does Siri optimization usually take?",
+  "description": "Basic Siri setup takes a few minutes, while a full tune-up with permissions and Shortcuts can take 10–20 minutes.",
+  "url": "aeoptimizer.com/faq/how-long-does-siri-optimization-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does Siri optimization usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A basic Siri setup usually takes only a few minutes. If you are also adding Shortcuts, retraining voice recognition, and adjusting app permissions, expect closer to 10–20 minutes for a solid setup.",
+        "description": "Basic Siri setup takes a few minutes, while a full tune-up with permissions and Shortcuts can take 10–20 minutes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

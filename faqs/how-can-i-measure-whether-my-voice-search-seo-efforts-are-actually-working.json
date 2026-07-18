@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I measure whether my voice search SEO efforts are actually working?",
+  "description": "Measure voice search SEO by tracking growth in question-style queries, featured snippets, and mobile traffic, along with calls and direction requests from local",
+  "url": "aeoptimizer.com/faq/how-can-i-measure-whether-my-voice-search-seo-efforts-are-actually-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I measure whether my voice search SEO efforts are actually working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To tell if your voice search SEO is working, watch how often your content appears for question-style queries and whether those impressions turn into calls, inquiries, or visits.\n\nYou can’t see every voice result directly, but you can track the patterns around it.\n\n**Key factors:**\n- Search Console data for “who/what/where/how/near me” queries.\n- Growth in featured snippets and top-position answers.\n- Increases in mobile traffic, calls, and direction requests.\n- Performance of Google Business Profile insights over time.\n\nSet up regular reporting that highlights question-based queries and mobile behavior, then compare those trends before and after your voice-focused changes. Use annotated timelines to link specific updates to observed impacts.\n\nAn experienced SEO should be able to explain these metrics in plain language, not just send a generic dashboard.",
+        "description": "Measure voice search SEO by tracking growth in question-style queries, featured snippets, and mobile traffic, along with calls and direction requests from local profiles. Use Search Console and Google Business Profile insights to compare these metrics before and after voice-focused content, schema, and performance updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Siri use Apple Maps or Google Business Profile to decide which businesses to show?",
+  "description": "For local business results, Siri relies on Apple Maps data, not Google Business Profile. For informational answers, Siri often surfaces top-ranked web pages, wh",
+  "url": "aeoptimizer.com/faq/does-siri-use-apple-maps-or-google-business-profile-to-decide-which-businesses-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Siri use Apple Maps or Google Business Profile to decide which businesses to show?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For local “near me” recommendations, Siri uses Apple Maps as its core database, not Google Business Profile. However, your Google visibility can still influence which web pages Siri cites when answering non-local questions.\n\nWhen someone asks Siri for a nearby business, Apple Maps and associated ratings usually drive what appears. For informational queries, Siri often surfaces top-ranked web pages, and those rankings are heavily tied to Google’s search results.\n\nKey factors:\n- Apple Maps/Business Connect drives local business listings\n- Google rankings affect which web pages Siri quotes for answers\n- Consistent NAP and schema markup help both ecosystems\n- Reviews and engagement matter across platforms\n\nPractically, treat Apple Maps as mandatory for Siri local results and Google as mandatory for Siri’s web-answer layer. Optimize both your listings and your site content so you’re covered whether Siri chooses a map card or a web snippet.\n\nThink of Siri as a bridge between Apple Maps and the broader web, with Google still shaping the web side of what gets read aloud.",
+        "description": "For local business results, Siri relies on Apple Maps data, not Google Business Profile. For informational answers, Siri often surfaces top-ranked web pages, which are strongly influenced by Google’s search results, so you need both Apple Maps and solid Google SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Alexa is reading out the wrong info for my business—how do I track down where it’s pulling that from and fix it?",
+  "description": "When Alexa reads wrong info, compare what it says to your data on Google, Yelp, Bing Places, Apple Maps, and major directories. Find the source that still shows",
+  "url": "aeoptimizer.com/faq/alexa-is-reading-out-the-wrong-info-for-my-business-how-do-i-track-down-where-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Alexa is reading out the wrong info for my business—how do I track down where it’s pulling that from and fix it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Alexa shows wrong hours, address, or phone, you need to trace the error back to whichever directory or data source it’s reading and correct it there.\n\nFixing Alexa’s output starts with fixing the underlying inputs.\n\nKey factors:\n- Compare Alexa’s answer to your listings on Google, Yelp, Bing Places, Apple Maps, and major directories\n- Identify where the incorrect data lives and update it, then verify ownership\n- Check for obsolete duplicate profiles that still carry old information\n- Align your website NAP and schema so all sources match\n\nAfter updating, give it time—often a few weeks—for the corrections to flow through and then re-test Alexa with specific questions.\nKeeping a simple change log helps you connect what you fixed to how Alexa’s responses evolve.",
+        "description": "When Alexa reads wrong info, compare what it says to your data on Google, Yelp, Bing Places, Apple Maps, and major directories. Find the source that still shows the incorrect details, update and verify it, remove duplicates, align your website NAP/schema, then wait a few weeks and re-test Alexa."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

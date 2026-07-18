@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I figure out what real voice search questions people are asking about my business or services?",
+  "description": "Combine Google Search Console, autocomplete, “People Also Ask,” Q&A tools, and your own support and sales conversations to gather real, conversational questions",
+  "url": "aeoptimizer.com/faq/how-do-i-figure-out-what-real-voice-search-questions-people-are-asking-about-my",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I figure out what real voice search questions people are asking about my business or services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To find the actual questions people ask via voice, combine Google autocomplete, “People Also Ask,” Search Console query reports, Q&A tools, and your own support emails and call transcripts. You’re looking for natural, conversational phrasing, not just short keywords.\n\nVoice question research is less about volume and more about mapping intents you can answer clearly and uniquely.\n\nKey factors:\n- Use Search Console to identify long, question‑style queries\n- Explore autocomplete and “People Also Ask” around core topics\n- Pull recurring questions from sales and support conversations\n- Use third‑party Q&A tools for additional ideas, then refine\n\nPractically, build a single list of 50–100 real questions and cluster them by theme. Prioritize those that show high intent (location, urgency, comparison) for early optimization.\n\nA thoughtful question map is the foundation of effective voice search work and prevents random content changes.",
+        "description": "Combine Google Search Console, autocomplete, “People Also Ask,” Q&A tools, and your own support and sales conversations to gather real, conversational questions. Then cluster 50–100 of them by theme and prioritize high‑intent ones (location, urgency, comparisons) as the core targets for your voice search optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

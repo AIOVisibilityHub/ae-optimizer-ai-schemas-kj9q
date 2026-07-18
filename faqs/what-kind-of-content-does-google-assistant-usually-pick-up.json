@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content does Google Assistant usually pick up?",
+  "description": "Short, direct, conversational answers usually work best. Google favors pages that answer the question clearly and quickly.",
+  "url": "aeoptimizer.com/faq/what-kind-of-content-does-google-assistant-usually-pick-up",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content does Google Assistant usually pick up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google tends to prefer concise, natural answers that are easy to read aloud, often within the first few sentences of a section. Pages that answer the question directly, use plain language, and avoid filler usually perform better for voice-style queries.",
+        "description": "Short, direct, conversational answers usually work best. Google favors pages that answer the question clearly and quickly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I find the right voice search keywords and questions my customers are actually asking?",
+  "description": "Find voice search keywords by mining Google Search Console for question-style queries, using tools like AnswerThePublic or AlsoAsked to uncover more, and listen",
+  "url": "aeoptimizer.com/faq/how-do-i-find-the-right-voice-search-keywords-and-questions-my-customers-are-act",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I find the right voice search keywords and questions my customers are actually asking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To identify the best voice search keywords, focus on real questions your audience asks rather than generic phrases.\n\nYou’re looking for long-tail, conversational queries that start with who, what, where, when, how, and “near me.”\n\n**Key factors:**\n- Extract question-style queries from Google Search Console’s Performance report.\n- Use tools like AnswerThePublic or AlsoAsked to expand question lists.\n- Listen to sales calls, support tickets, and chat logs for natural phrasing.\n- Prioritize queries that signal strong intent (e.g., timing, pricing, location).\n\nCompile a shortlist of 10–20 high-value questions and build or update content around them, with each question getting a clear, snippet-ready answer. Revisit and refine this list regularly.\n\nIf this research feels overwhelming, a strategist experienced in conversational keyword discovery can accelerate the process.",
+        "description": "Find voice search keywords by mining Google Search Console for question-style queries, using tools like AnswerThePublic or AlsoAsked to uncover more, and listening to real customer conversations. Prioritize long-tail, conversational questions—especially those around timing, pricing, and location—and create clear, snippet-ready answers for each."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

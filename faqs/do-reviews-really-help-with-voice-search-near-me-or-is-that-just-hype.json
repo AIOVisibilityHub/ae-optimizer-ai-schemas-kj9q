@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do reviews really help with voice search near me, or is that just hype?",
+  "description": "Yes, reviews help because they build trust and provide fresh local signals. Recent, specific, honest reviews are more useful than generic praise.",
+  "url": "aeoptimizer.com/faq/do-reviews-really-help-with-voice-search-near-me-or-is-that-just-hype",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do reviews really help with voice search near me, or is that just hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reviews matter because they help prove that your business is real, active, and relevant to local customers. The best reviews are honest, specific, and recent, and they should be answered professionally without copying the same reply every time.",
+        "description": "Yes, reviews help because they build trust and provide fresh local signals. Recent, specific, honest reviews are more useful than generic praise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

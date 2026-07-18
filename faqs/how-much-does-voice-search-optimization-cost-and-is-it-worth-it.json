@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does voice search optimization cost, and is it worth it?",
+  "description": "It can be inexpensive if you handle the basics yourself. The value comes from more calls, directions, and bookings from people already looking nearby.",
+  "url": "aeoptimizer.com/faq/how-much-does-voice-search-optimization-cost-and-is-it-worth-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does voice search optimization cost, and is it worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary widely depending on whether you do it yourself or hire help, but the essentials are usually low-cost: listings, content updates, reviews, and schema markup. The biggest value comes from improving visibility for high-intent local searches that can lead to calls, directions, and bookings.",
+        "description": "It can be inexpensive if you handle the basics yourself. The value comes from more calls, directions, and bookings from people already looking nearby."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

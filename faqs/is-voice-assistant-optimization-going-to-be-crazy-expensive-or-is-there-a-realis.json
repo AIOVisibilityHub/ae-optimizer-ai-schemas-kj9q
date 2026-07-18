@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is voice assistant optimization going to be crazy expensive, or is there a realistic budget range for a small business that just wants to show up more in Siri/Google answers?",
+  "description": "Costs vary, but serious voice assistant optimization typically runs from a few thousand dollars for a focused project to ongoing retainers for continuous update",
+  "url": "aeoptimizer.com/faq/is-voice-assistant-optimization-going-to-be-crazy-expensive-or-is-there-a-realis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is voice assistant optimization going to be crazy expensive, or is there a realistic budget range for a small business that just wants to show up more in Siri/Google answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pricing ranges widely, but most serious voice assistant optimization projects fall between a few thousand dollars for a focused audit/implementation and ongoing retainers if you want continuous content and schema updates. For DIY, costs are mainly your time plus tools.\n\nUnlike quick add-ons, high-impact work involves research, content rewriting, structured data, and technical fixes. That’s why cheap, one-off “voice optimization” packages rarely move the needle.\n\nKey factors:\n- Scope: number of pages, locations, and profiles optimized\n- Depth: strategic research vs. basic keyword sprinkling\n- Ongoing vs. one-time: maintenance for content and schema\n- Tooling: analytics, monitoring, and schema testing platforms\n\nPractically, set a budget that matches your growth goals—small local businesses might start with a limited pilot, while multi-location brands often plan multi-quarter engagements. Always ask what deliverables and metrics you’ll get for the cost.\n\nA reputable optimization provider should be able to tie pricing directly to clear, verifiable actions and outcomes.",
+        "description": "Costs vary, but serious voice assistant optimization typically runs from a few thousand dollars for a focused project to ongoing retainers for continuous updates. For small businesses, starting with a scoped audit and key-page implementation is usually a realistic budget path."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I optimize first for Google Assistant?",
+  "description": "Start with your homepage, top service pages, FAQ page, and Google Business Profile. Make the answers short, conversational, and easy for Google to extract, then",
+  "url": "aeoptimizer.com/faq/what-should-i-optimize-first-for-google-assistant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I optimize first for Google Assistant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the pages people are most likely to hear back from Google Assistant: your homepage, service pages, FAQ page, and Google Business Profile. Make the answer on each page direct, conversational, and easy to extract, then add structured data and test the results on real devices.",
+        "description": "Start with your homepage, top service pages, FAQ page, and Google Business Profile. Make the answers short, conversational, and easy for Google to extract, then add schema and test on real devices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

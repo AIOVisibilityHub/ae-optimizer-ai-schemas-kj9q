@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I already paid a listings service, but Alexa still doesn’t show my business—what could they have missed?",
+  "description": "A listings service can miss duplicates, bad categories, old addresses, or mismatched hours, all of which confuse Alexa. Manually audit your Google/Yelp/Bing/App",
+  "url": "aeoptimizer.com/faq/i-already-paid-a-listings-service-but-alexa-still-doesn-t-show-my-business-what",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I already paid a listings service, but Alexa still doesn’t show my business—what could they have missed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve already used a listings service and Alexa still doesn’t show you, there may be hidden issues like duplicate profiles, wrong categories, or stale data the tool didn’t fix.\n\nSoftware doesn’t catch everything; you still need a manual review.\n\nKey factors:\n- Check for duplicates under old names, addresses, or phone numbers\n- Verify that your categories and descriptions match how customers talk about you by voice\n- Look for outdated hours or services on any directory your tool syncs with\n- Confirm that your website’s NAP and schema match the listings data\n\nSet aside time for a manual sweep of your most important profiles and your website, correcting anything your service missed, then re-test Alexa.\nTreat listing software as a helper, not a substitute for periodic human oversight.",
+        "description": "A listings service can miss duplicates, bad categories, old addresses, or mismatched hours, all of which confuse Alexa. Manually audit your Google/Yelp/Bing/Apple Maps profiles and your website NAP/schema, fix anything the software didn’t catch, and then test Alexa again for name and category searches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

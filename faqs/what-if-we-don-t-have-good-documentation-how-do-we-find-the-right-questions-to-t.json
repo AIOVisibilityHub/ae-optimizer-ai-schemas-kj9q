@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if we don’t have good documentation—how do we find the right questions to target for answer engine optimization and voice search?",
+  "description": "Focus on real-world inputs: support tickets, chat transcripts, sales call notes, and customer interviews. Turn recurring questions from those sources into headi",
+  "url": "aeoptimizer.com/faq/what-if-we-don-t-have-good-documentation-how-do-we-find-the-right-questions-to-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if we don’t have good documentation—how do we find the right questions to target for answer engine optimization and voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Without much documentation, you’ll need to pull voice-style questions directly from people and existing data rather than old manuals.\n\nAnswer engine optimization relies more on lived questions than formal specs anyway.\n\n**Key factors**\n- Mine support inboxes, chat logs, and call notes for recurring questions.\n- Ask sales and service teams to list the top 20 questions they hear.\n- Use brainstorming tools (e.g., “People Also Ask”) to expand variations.\n- Record customer interviews focused on “What do you ask your phone about us?”\n\nTranslate these raw questions into clean headings and 40–60 word answers, then refine language and structure as you go.\n\nThink of the missing documentation as permission to write content in the customer’s voice, not the engineer’s.",
+        "description": "Focus on real-world inputs: support tickets, chat transcripts, sales call notes, and customer interviews. Turn recurring questions from those sources into headings and short answers, then expand them with variations from tools like “People Also Ask.” AEO works best when it’s built on actual user language, not formal documentation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does answer engine optimization for voice search typically cost, and how do I know if it’s worth it?",
+  "description": "Expect to invest either 20–80 hours of internal effort or roughly $1,500–$7,500 with specialists to get meaningful answer engine and voice search optimization d",
+  "url": "aeoptimizer.com/faq/what-does-answer-engine-optimization-for-voice-search-typically-cost-and-how-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does answer engine optimization for voice search typically cost, and how do I know if it’s worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary widely, but most small and mid-sized sites invest a few thousand dollars or several weeks of internal effort for meaningful AEO and voice search improvements.\n\nPricing depends on scope, content volume, and whether you use in-house staff, freelancers, or specialized tools.\n\n**Key factors**\n- DIY with internal team: mainly time cost (20–80 hours for audit, rewrites, schema).\n- Freelancers/consultants: often $1,500–$7,500 for a focused project.\n- Ongoing optimization and monitoring: monthly retainers or tool subscriptions.\n- Extra cost if you need major technical fixes (speed, mobile, structure).\n\nStart by scoping 5–15 priority pages and getting estimates based on clear deliverables: content rewrites, FAQ creation, schema markup, and tracking setup.\n\nTreat AEO spend as an extension of your SEO budget aimed specifically at earning “best answer” visibility in voice and AI systems.",
+        "description": "Expect to invest either 20–80 hours of internal effort or roughly $1,500–$7,500 with specialists to get meaningful answer engine and voice search optimization done for a typical site. It’s worth it if your audience uses voice or AI heavily and if winning “best answer” positions can drive leads or revenue."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need a separate keyword strategy just for voice search, or can I reuse my normal SEO keywords?",
+  "description": "You don’t need a totally separate keyword list, but you do need to expand your current SEO keywords into conversational, question-based, and local phrases. Keep",
+  "url": "aeoptimizer.com/faq/do-i-really-need-a-separate-keyword-strategy-just-for-voice-search-or-can-i-reus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need a separate keyword strategy just for voice search, or can I reuse my normal SEO keywords?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need a separate keyword list for voice search, but you *do* need to reshape how you use and expand your existing keywords into conversational questions. Think “layered” rather than “totally separate.”\n\nYour current SEO keywords are still important—they anchor topical relevance. Voice search optimization adds question-style, long-tail, and local phrases that reflect how people speak, then structures content to answer them clearly.\n\nKey factors:\n- Keep your core keyword strategy for topics and authority\n- Add conversational, question-based variations around each core term\n- Create FAQ sections and Q&A headings instead of only generic H2s\n- Use schema markup (FAQ, LocalBusiness, Speakable) so assistants can parse answers\n\nPractically, start by mapping 5–10 real questions to each major keyword you already target, then integrate those questions into content with short, direct answers. Track which ones gain impressions from voice-related SERP features.\n\nThink of voice search as a new “use case” for your current keywords, not a replacement roadmap.",
+        "description": "You don’t need a totally separate keyword list, but you do need to expand your current SEO keywords into conversational, question-based, and local phrases. Keep your core terms, then layer real spoken-style questions and clear answers on top, supported by FAQ and LocalBusiness schema."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

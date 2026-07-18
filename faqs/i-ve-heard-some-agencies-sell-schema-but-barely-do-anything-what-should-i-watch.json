@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve heard some agencies “sell” schema but barely do anything—what should I watch for so I’m not getting scammed on JSON-LD work?",
+  "description": "Watch for one‑time copy‑paste implementations with no templates, no monitoring, and no clear explanation of schema types used. Demand visibility into the JSON-L",
+  "url": "aeoptimizer.com/faq/i-ve-heard-some-agencies-sell-schema-but-barely-do-anything-what-should-i-watch",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve heard some agencies “sell” schema but barely do anything—what should I watch for so I’m not getting scammed on JSON-LD work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In some markets, agencies add JSON-LD and then use it as a justification for ongoing retainers without actually maintaining or improving it. That leads to outdated schema, missed opportunities, and sometimes even penalties if the data diverges from reality.\n\nThe value of per‑page JSON-LD comes from accuracy, coverage, and alignment with evolving search features—not from a one‑time code drop.\n\nKEY FACTORS\n- Whether the provider offers real monitoring and updates.\n- Transparency in what schema types are used and why.\n- Access to view or export the generated JSON-LD.\n- Inclusion of validation and Search Console review in the service.\n\nAsk providers to show you example markup, explain their template logic, and outline how they’ll keep schema in sync with site changes. Avoid “black box” offerings.\n\nTools and partners that treat structured data as an evolving asset, not a checkbox, usually drive better long‑term results.",
+        "description": "Watch for one‑time copy‑paste implementations with no templates, no monitoring, and no clear explanation of schema types used. Demand visibility into the JSON-LD, validation practices, and how they’ll keep markup updated as your site and Google’s features change."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

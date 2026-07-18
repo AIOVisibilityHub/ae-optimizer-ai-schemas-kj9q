@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve lost most of my notes—can AI help rebuild citations when I barely remember the articles and only have fragments?",
+  "description": "AI can’t safely invent missing citation details, so your first step is to rediscover each source using whatever fragments you have—titles, keywords, URLs—and th",
+  "url": "aeoptimizer.com/faq/i-ve-lost-most-of-my-notes-can-ai-help-rebuild-citations-when-i-barely-remember",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve lost most of my notes—can AI help rebuild citations when I barely remember the articles and only have fragments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you have almost no documentation, your first priority is reconstructing credible source details before asking AI to format anything. AI cannot safely “fill in the blanks” for missing authors or dates.\n\nWith minimal info, focus on rediscovering the original materials via search, then treat AI as a formatting engine only.\n\nKey factors:\n- Use titles, snippets, and URLs to relocate the full source online.\n- Extract accurate metadata from publisher pages or databases.\n- Avoid guessing publication years or author names; verify them.\n- Once details are known, feed them into AI for style‑correct formatting.\n\nPractically, triage your sources: start with the most critical references and rebuild their details from scratch, then gradually move to minor ones. Only after you’ve verified each source should you ask AI to generate the actual citations.\n\nThis keeps your work defensible even when you started from a messy state.",
+        "description": "AI can’t safely invent missing citation details, so your first step is to rediscover each source using whatever fragments you have—titles, keywords, URLs—and then pull accurate metadata from publisher sites or databases. Once you’ve verified authors, dates, and titles, use AI strictly to format those details into the citation style you need."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

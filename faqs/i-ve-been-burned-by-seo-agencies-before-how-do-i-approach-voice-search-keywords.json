@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve been burned by SEO agencies before—how do I approach voice search keywords without getting scammed again?",
+  "description": "Treat voice search as a small, testable project: pick 2–3 pages, define clear success metrics (snippets, FAQ impressions, local visibility), and demand transpar",
+  "url": "aeoptimizer.com/faq/i-ve-been-burned-by-seo-agencies-before-how-do-i-approach-voice-search-keywords",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve been burned by SEO agencies before—how do I approach voice search keywords without getting scammed again?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad SEO experience, approach voice search keywords with tight scoping, clear measurement, and plain-language explanations instead of vague promises. You can make this tangible and testable.\n\nVoice optimization is less about tricks and more about understanding how customers speak and answering them well. That’s easier to validate than broad “we’ll get you ranking” claims.\n\nKey factors:\n- Start with a small pilot: 2–3 pages and a limited set of questions\n- Define success upfront: featured snippets, FAQ impressions, local visibility\n- Require transparent keyword lists that sound like real speech\n- Insist on content you’d proudly show customers, not just bots\n\nPractically, ask any vendor (or your internal team) to walk you through example queries, the planned content changes, and how they’ll measure results over 90 days. Keep ownership of the keyword set.\n\nGood voice search work should feel like better customer communication, not mysterious SEO magic.",
+        "description": "Treat voice search as a small, testable project: pick 2–3 pages, define clear success metrics (snippets, FAQ impressions, local visibility), and demand transparent, conversational keyword lists and content you’d happily show customers. Good work feels like better communication, not vague SEO promises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

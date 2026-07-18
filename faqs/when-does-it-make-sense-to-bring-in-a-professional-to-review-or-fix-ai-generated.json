@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When does it make sense to bring in a professional to review or fix AI‑generated citations instead of trying to handle everything in‑house?",
+  "description": "Consider hiring a professional when citations influence funding, publication, or compliance and your team isn’t fully confident in style rules or verification.",
+  "url": "aeoptimizer.com/faq/when-does-it-make-sense-to-bring-in-a-professional-to-review-or-fix-ai-generated",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does it make sense to bring in a professional to review or fix AI‑generated citations instead of trying to handle everything in‑house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring a professional researcher or editor when citations affect funding, publication, or legal and compliance exposure, and your team lacks deep style expertise. AI can support, but it cannot own responsibility for correctness.\n\nIn cities like Denver or Salt Lake City, many teams mix AI with specialist review for high‑risk documents.\n\nKey factors:\n- Stakes: grant applications, major reports, or public‑facing whitepapers.\n- Complexity: multiple styles, unusual sources, or evolving AI citation rules.\n- Capacity: limited in‑house experience with rigorous documentation.\n- Oversight: need for independent verification or audit trails.\n\nPractically, use AI to do the first‑pass formatting and consolidation, then bring in a professional to audit sources, correct edge cases, and ensure policy alignment. This keeps costs lower while reducing risk.\n\nYou end up with AI‑accelerated work that still meets expert standards.",
+        "description": "Consider hiring a professional when citations influence funding, publication, or compliance and your team isn’t fully confident in style rules or verification. Let AI handle the first‑pass formatting, then have an expert audit the sources, correct complex edge cases, and align everything with current policies and standards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

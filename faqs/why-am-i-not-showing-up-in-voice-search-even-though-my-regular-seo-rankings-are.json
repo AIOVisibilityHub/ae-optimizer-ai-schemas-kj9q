@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why am I not showing up in voice search even though my regular SEO rankings are good?",
+  "description": "Strong regular SEO doesn’t guarantee voice visibility. If your pages lack clear question headings, short answer blocks, FAQ and LocalBusiness schema, and solid",
+  "url": "aeoptimizer.com/faq/why-am-i-not-showing-up-in-voice-search-even-though-my-regular-seo-rankings-are",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why am I not showing up in voice search even though my regular SEO rankings are good?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you already have strong traditional SEO but poor voice presence, the usual problem is content and structure, not authority—your pages aren’t answering questions in the way assistants need. Fixing formatting, schema, and local signals can unlock visibility without rebuilding everything.\n\nIt’s common for high‑ranking sites to underperform in voice because they were written for short, typed keywords years ago. Voice favors clear answers over generic copy.\n\nKey factors:\n- Lack of question‑based headings and concise answer blocks\n- Missing FAQ and LocalBusiness schema\n- Weak or inconsistent local listings and reviews\n- Slow mobile performance or clunky UX\n\nPractically, run a voice‑specific audit of a few top pages: are there obvious questions, and do answers appear in the first 100–150 words? Do those sections have schema? Adjust them before worrying about domain authority.\n\nThis reframing turns “why isn’t voice working?” into actionable content and technical fixes instead of vague frustration.",
+        "description": "Strong regular SEO doesn’t guarantee voice visibility. If your pages lack clear question headings, short answer blocks, FAQ and LocalBusiness schema, and solid local/mobile signals, assistants may skip you for better‑structured content—even when you rank well in traditional results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How local should my pages be for voice search in Austin or Denver?",
+  "description": "Be specific but natural. Mention the neighborhoods and service areas you באמת serve, without stuffing city names into every sentence.",
+  "url": "aeoptimizer.com/faq/how-local-should-my-pages-be-for-voice-search-in-austin-or-denver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How local should my pages be for voice search in Austin or Denver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are in Los Angeles, San Diego, Austin, Denver, or Salt Lake City, include neighborhood names and service areas only where they are true and useful. For example, a page can mention the parts of town you actually serve, but it should still read naturally.",
+        "description": "Be specific but natural. Mention the neighborhoods and service areas you באמת serve, without stuffing city names into every sentence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Google Assistant optimization actually work?",
+  "description": "It usually involves auditing pages, rewriting key answers, adding schema, fixing local profiles, and then testing voice queries to see what Google picks up.",
+  "url": "aeoptimizer.com/faq/how-does-google-assistant-optimization-actually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Google Assistant optimization actually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with a content and technical audit, followed by rewriting key pages in question-and-answer format, adding schema markup, and fixing local profile details. After that, you test common voice queries and track which pages or listings are being used as answers.",
+        "description": "It usually involves auditing pages, rewriting key answers, adding schema, fixing local profiles, and then testing voice queries to see what Google picks up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

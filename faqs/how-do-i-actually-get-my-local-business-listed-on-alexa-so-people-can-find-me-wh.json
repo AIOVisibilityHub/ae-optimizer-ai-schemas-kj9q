@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually get my local business listed on Alexa so people can find me when they ask their Echo?",
+  "description": "You get listed on Alexa by fully optimizing your business on the directories Alexa uses—Google Business Profile, Yelp, Bing Places, Apple Maps, and key data agg",
+  "url": "aeoptimizer.com/faq/how-do-i-actually-get-my-local-business-listed-on-alexa-so-people-can-find-me-wh",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually get my local business listed on Alexa so people can find me when they ask their Echo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can’t submit a “listing” directly to Alexa; instead, you must make sure your business data is complete and consistent on the directories Alexa reads (Google Business Profile, Yelp, Bing Places, Apple Maps, data aggregators) and, optionally, create an Alexa Skill.\n\nAlexa pulls local business information from major directories and trusted data sources, then matches it by name, address, and phone to answer voice queries.\n\nKey factors:\n- Fully completed Google Business Profile and Yelp listings with accurate NAP, hours, categories, and photos\n- Verified Bing Places and Apple Maps entries\n- Consistent name, address, phone (NAP) across your website, social profiles, and all listings\n- Optional Alexa Skill for branded, custom interactions and information\n\nPractically, audit and fix your existing listings first, then add missing ones and align all details, before exploring a custom Alexa Skill if you need richer interactions.\nBeing methodical and consistent usually beats “secret tricks” for getting onto Alexa.",
+        "description": "You get listed on Alexa by fully optimizing your business on the directories Alexa uses—Google Business Profile, Yelp, Bing Places, Apple Maps, and key data aggregators—while keeping your name, address, and phone exactly consistent everywhere. Once those are complete and verified, Alexa can pull and match your business when people ask for it by voice."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My mobile site is kind of slow—how much will that hurt my chances of ranking in voice search, and what should I fix first?",
+  "description": "Slow, clunky mobile pages significantly reduce your chances in voice search because most queries come from phones and assistants favor fast results. Improve Cor",
+  "url": "aeoptimizer.com/faq/my-mobile-site-is-kind-of-slow-how-much-will-that-hurt-my-chances-of-ranking-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My mobile site is kind of slow—how much will that hurt my chances of ranking in voice search, and what should I fix first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your mobile site is slow or clunky, it will hold back your voice search performance even if your content is good. Most voice queries come from phones, and assistants prefer results that load quickly and render cleanly.\n\nHeavy scripts, large images, and complex layouts can cause delays that make assistants favor faster competitors. Poor mobile UX also wastes the extra traffic you do get from voice-friendly snippets.\n\nKey factors:\n- Core Web Vitals (especially on mobile)\n- Page load time and server response speed\n- Mobile-friendly layout and tap targets\n- Use of caching, compression, and image optimization\n\nRun mobile speed tests, fix obvious performance and UX issues, and re-check after deploying voice-focused content and schema. Make sure your snippet-ready answers appear high on the page and are easy to view on small screens.\n\nTreat mobile optimization as a prerequisite for serious voice search gains.",
+        "description": "Slow, clunky mobile pages significantly reduce your chances in voice search because most queries come from phones and assistants favor fast results. Improve Core Web Vitals, compress images, trim heavy scripts, and ensure your concise answers appear high and clean on mobile screens."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

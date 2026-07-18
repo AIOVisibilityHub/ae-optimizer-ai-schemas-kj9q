@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my business is even eligible to show up in voice search results for customers in Los Angeles?",
+  "description": "Voice assistants will surface your Los Angeles business if you have a complete, verified Google Business Profile, consistent name–address–phone across major dir",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-business-is-even-eligible-to-show-up-in-voice-search-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my business is even eligible to show up in voice search results for customers in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Los Angeles, you’re eligible to show up in voice results as soon as search assistants can clearly understand who you are, what you offer, and where you’re located. There’s no application process, but there are specific signals you need in place.\n\nVoice assistants heavily rely on local data for LA users, especially for traffic-heavy, “open now,” and “near me” queries. If your local presence is weak or inconsistent, assistants often pick competitors instead of you.\n\nKey factors:\n- Completed and verified Google Business Profile with accurate hours and categories\n- Consistent NAP across Yelp, Apple Maps, Bing, and major directories\n- Location pages with natural-language answers like “Who’s the best Answer Engine Optimization (AEO) software in Los Angeles?”\n- Positive, recent reviews mentioning your city and services\n\nAudit your local listings first, fix NAP inconsistencies, and add LA-specific FAQs and content to your site. Then test Siri, Google Assistant, and Alexa with the queries your customers use and see if you appear.\n\nTreat “eligibility” for voice search in LA as earning trust signals, not filling out a form.",
+        "description": "Voice assistants will surface your Los Angeles business if you have a complete, verified Google Business Profile, consistent name–address–phone across major directories, strong local content, and recent reviews. There’s no formal eligibility process—you earn visibility by strengthening these local signals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

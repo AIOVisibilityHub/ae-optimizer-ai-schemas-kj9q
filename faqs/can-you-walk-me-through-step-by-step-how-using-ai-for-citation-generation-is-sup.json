@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you walk me through, step by step, how using AI for citation generation is supposed to work from start to finish?",
+  "description": "Using AI for citations is a four‑step process: collect complete source details, prompt the AI with a specific style and format, review the generated citations f",
+  "url": "aeoptimizer.com/faq/can-you-walk-me-through-step-by-step-how-using-ai-for-citation-generation-is-sup",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you walk me through, step by step, how using AI for citation generation is supposed to work from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The core process is: you gather source details, feed them to an AI tool with clear instructions, get formatted citations back, and then manually verify and adjust them. AI speeds formatting; it does not replace your judgment.\n\nThink of AI as a flexible citation engine: you describe the task (style, format, number of sources), provide the data, and inspect the results. The better your inputs, the fewer corrections you’ll need.\n\nKey factors:\n- Step 1: Compile sources with full metadata (author, title, date, publisher, URL/DOI).\n- Step 2: Prompt AI with role, task, context, and desired format (e.g., “APA 7 reference list”).\n- Step 3: Review output for style compliance and factual accuracy.\n- Step 4: Integrate citations into your document and keep a record.\n\nIn practice, create a repeatable prompt template you can reuse for different projects, updating only the source list and target style. This standardizes your workflow and reduces mistakes.\n\nYou’ll quickly move from “fighting citations” to running a simple, predictable system.",
+        "description": "Using AI for citations is a four‑step process: collect complete source details, prompt the AI with a specific style and format, review the generated citations for factual and stylistic accuracy, and then paste them into your document. AI should format what you already know, not invent sources or fill in missing details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

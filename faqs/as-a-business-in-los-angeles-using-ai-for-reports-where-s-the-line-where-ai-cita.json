@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "As a business in Los Angeles using AI for reports, where’s the line where AI citations go from helpful to dangerously misleading?",
+  "description": "AI citations become dangerous when you let the tool both pick and format your sources, especially for high‑stakes business reports. Keep humans in charge of cho",
+  "url": "aeoptimizer.com/faq/as-a-business-in-los-angeles-using-ai-for-reports-where-s-the-line-where-ai-cita",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "As a business in Los Angeles using AI for reports, where’s the line where AI citations go from helpful to dangerously misleading?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For businesses in Los Angeles or San Diego, AI citation generation becomes risky when you use it to justify claims without solid sources behind them. In regulated or high‑stakes environments, every referenced statement needs a traceable origin.\n\nAI should never be your only layer of evidence; it’s a formatting and organization tool, not a compliance system.\n\nKey factors:\n- Identify which deliverables require audited, verifiable citations.\n- Maintain a central repository of approved sources and datasets.\n- Use AI only to format references from that vetted repository.\n- Periodically review AI‑assisted documents for citation integrity.\n\nPractically, build a clear boundary: AI can style and structure citations, but it cannot decide what counts as an acceptable source. Keep humans in charge of source selection and verification, especially for external reports.\n\nThat way, your business can enjoy AI’s speed without compromising trust or regulatory expectations.",
+        "description": "AI citations become dangerous when you let the tool both pick and format your sources, especially for high‑stakes business reports. Keep humans in charge of choosing and verifying evidence, maintain a vetted source repository, and use AI only to format citations from those approved materials so your references stay traceable and defensible."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

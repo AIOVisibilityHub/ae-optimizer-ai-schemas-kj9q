@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the exact process step-by-step to get my business to show up on Alexa when someone asks for my type of service?",
+  "description": "The process is: audit your Google, Yelp, Bing Places, Apple Maps, and major directory listings; fix any name, address, phone, or hours inconsistencies; create a",
+  "url": "aeoptimizer.com/faq/what-s-the-exact-process-step-by-step-to-get-my-business-to-show-up-on-alexa-whe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the exact process step-by-step to get my business to show up on Alexa when someone asks for my type of service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The basic process is: fix your existing listings, create any missing ones on Alexa’s data sources, standardize your NAP, then test how Alexa responds and refine from there.\n\nYou’re essentially feeding correct data into the sources Alexa trusts, so it can reliably match and surface your business.\n\nKey factors:\n- Step 1: Audit your current listings on Google, Yelp, Bing Places, Apple Maps, and major directories\n- Step 2: Correct inconsistencies in name, address, phone, hours, and categories\n- Step 3: Create missing profiles and verify ownership\n- Step 4: Optimize descriptions, services, photos, and reviews\n\nPlan a weekend to clean up your listings, then spend the next few weeks collecting reviews and testing Alexa by asking for your business by name and category.\nTreat it like an ongoing process: check your listings and Alexa responses every few months to catch data drift.",
+        "description": "The process is: audit your Google, Yelp, Bing Places, Apple Maps, and major directory listings; fix any name, address, phone, or hours inconsistencies; create and verify missing profiles; optimize your descriptions and photos; then test Alexa by voice and keep refining. Alexa pulls from those sources, not from a separate submission form."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

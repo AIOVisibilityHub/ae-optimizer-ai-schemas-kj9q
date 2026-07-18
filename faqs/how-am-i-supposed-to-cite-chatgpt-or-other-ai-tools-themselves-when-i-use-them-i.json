@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How am I supposed to cite ChatGPT or other AI tools themselves when I use them in my research or reports?",
+  "description": "To cite AI tools like ChatGPT, document the tool name, developer, version (if known), date of the interaction, your prompt or a description of the generated con",
+  "url": "aeoptimizer.com/faq/how-am-i-supposed-to-cite-chatgpt-or-other-ai-tools-themselves-when-i-use-them-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How am I supposed to cite ChatGPT or other AI tools themselves when I use them in my research or reports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When citing AI tools like ChatGPT, you typically treat the tool or its developer as the author, describe your prompt or the generated content, and include the date and URL of the interaction. Exact formats depend on the citation style and your institution’s policy.\n\nMost guidelines agree on two duties: cite the AI output itself and disclose how you used the tool in your work.\n\nKey factors:\n- Record the date, version (if known), tool name, and the prompt you used.\n- Follow style‑specific rules (APA, MLA, etc.) for “software” or “non‑human author” sources.\n- Distinguish between quoting AI output and using AI for editing or brainstorming.\n- Check your school, company, or journal policy before finalizing.\n\nPractically, keep a simple log of AI sessions that influence your work, then generate a citation with AI using your documented details and adjust it to match official guidance. Include a short usage note in your introduction or methods.\n\nThis shows you’re transparent and responsible with AI assistance.",
+        "description": "To cite AI tools like ChatGPT, document the tool name, developer, version (if known), date of the interaction, your prompt or a description of the generated content, and the URL. Then format that information according to the specific citation style you’re using and include a brief note explaining how you used the AI in your work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

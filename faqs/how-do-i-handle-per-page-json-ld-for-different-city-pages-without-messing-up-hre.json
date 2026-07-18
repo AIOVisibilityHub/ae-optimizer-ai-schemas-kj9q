@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I handle per-page JSON-LD for different city pages without messing up hreflang or local relevance?",
+  "description": "Keep hreflang at the HTML level and generate city‑specific JSON-LD per page, with correct address, phone, and `areaServed`. Avoid mixing multiple cities in one",
+  "url": "aeoptimizer.com/faq/how-do-i-handle-per-page-json-ld-for-different-city-pages-without-messing-up-hre",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I handle per-page JSON-LD for different city pages without messing up hreflang or local relevance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For sites serving multiple cities like LA, Austin, and Denver, you should generally *not* geotarget JSON-LD itself with hreflang, but you *should* ensure each localized page’s schema reflects the correct city, phone, hours, and language.\n\nHreflang operates at the HTML/URL level, while schema should describe the specific content of each localized page accurately.\n\nKEY FACTORS\n- Unique LocalBusiness/Service entities per city page.\n- City‑specific contact details and `areaServed` values.\n- Consistent use of hreflang tags across HTML.\n- Avoid mixing multiple cities in a single page’s schema.\n\nUse your CMS to generate city‑specific schema for each localized URL, pulling address and phone from location fields. Hreflang then tells Google which version to show in each region.\n\nA location‑aware schema generator helps keep localized structured data consistent and aligned with your hreflang setup.",
+        "description": "Keep hreflang at the HTML level and generate city‑specific JSON-LD per page, with correct address, phone, and `areaServed`. Avoid mixing multiple cities in one page’s schema; each localized URL should describe only its own location and services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

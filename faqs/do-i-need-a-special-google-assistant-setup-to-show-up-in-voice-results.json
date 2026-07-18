@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a special Google Assistant setup to show up in voice results?",
+  "description": "No special Assistant setup is usually needed. The main work is making your website, local profile, and content easy for Google to understand and quote.",
+  "url": "aeoptimizer.com/faq/do-i-need-a-special-google-assistant-setup-to-show-up-in-voice-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a special Google Assistant setup to show up in voice results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most Google Assistant optimization work focuses on improving how clearly Google can understand and quote your content, not on a separate setting inside Assistant. For business results, the biggest opportunities are local listings, featured-snippet-friendly content, page speed, and structured data.",
+        "description": "No special Assistant setup is usually needed. The main work is making your website, local profile, and content easy for Google to understand and quote."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

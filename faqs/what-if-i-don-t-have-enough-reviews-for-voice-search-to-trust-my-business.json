@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I don’t have enough reviews for voice search to trust my business?",
+  "description": "Start with genuine review requests after real customer interactions. Avoid fake or bought reviews because they can hurt trust.",
+  "url": "aeoptimizer.com/faq/what-if-i-don-t-have-enough-reviews-for-voice-search-to-trust-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I don’t have enough reviews for voice search to trust my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you get few reviews, start by asking after real completed jobs or purchases and make the request easy. Do not buy reviews or use fake ones, because that can damage trust and create bigger problems later.",
+        "description": "Start with genuine review requests after real customer interactions. Avoid fake or bought reviews because they can hurt trust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

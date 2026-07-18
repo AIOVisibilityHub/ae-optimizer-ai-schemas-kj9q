@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If my business is mobile and I work across the Denver metro area, how do I get Siri to still show me?",
+  "description": "Give Siri a clear home base by listing a central Denver address in Apple Maps, then describe your service area and radius in your profile and on your website. T",
+  "url": "aeoptimizer.com/faq/if-my-business-is-mobile-and-i-work-across-the-denver-metro-area-how-do-i-get-si",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If my business is mobile and I work across the Denver metro area, how do I get Siri to still show me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For service-area businesses like mobile repair or in-home services around Denver, Siri visibility depends on clearly defining your base location and service area in Apple Maps and on your website. Siri needs a physical anchor even if you don’t have a walk-in shop.\n\nWithout a clear hub location, Siri struggles to know which “near me” queries you’re relevant for and how far you’re willing to travel.\n\nKey factors:\n- A precise address or central hub listed in Apple Maps\n- Service area described in your description and on your site\n- Accurate hours and contact info for dispatch\n- Local content referencing Denver and surrounding suburbs\n\nPractically, set your Apple Maps listing to your main office or warehouse, then describe your service radius (e.g., “serving Denver metro, including Lakewood and Aurora”) in your description and FAQs. Use your website to reinforce that geography with natural language.\n\nThink of Siri as needing a “home base” pin plus clear service boundaries to recommend you correctly.",
+        "description": "Give Siri a clear home base by listing a central Denver address in Apple Maps, then describe your service area and radius in your profile and on your website. That combination lets Siri understand where you operate and when to show you for “near me” queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

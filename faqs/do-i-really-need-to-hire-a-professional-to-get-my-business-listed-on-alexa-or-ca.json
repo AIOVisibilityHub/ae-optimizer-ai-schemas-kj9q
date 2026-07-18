@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need to hire a professional to get my business listed on Alexa, or can I do this myself without screwing it up?",
+  "description": "Most Alexa listing work is DIY-friendly: claim and optimize Google/Yelp/Bing/Apple Maps, fix your NAP, update hours, and add basic structured data to your site.",
+  "url": "aeoptimizer.com/faq/do-i-really-need-to-hire-a-professional-to-get-my-business-listed-on-alexa-or-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need to hire a professional to get my business listed on Alexa, or can I do this myself without screwing it up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re comfortable with basic web tools, you can handle most Alexa listing work yourself by managing your profiles and adding structured data to your site.\n\nYou only need outside help if you lack time or get stuck on the more technical pieces.\n\nKey factors:\n- DIY-friendly tasks: claiming listings, fixing NAP, updating hours, writing descriptions\n- Moderate difficulty: adding LocalBusiness schema markup and FAQ structured data to your website\n- Higher difficulty: building and maintaining a custom Alexa Skill\n- Time commitment: initial cleanup plus periodic audits every few months\n\nStart with the DIY tasks and see how far you get; if you’re overwhelmed or your business is large and complex, consider hiring a specialist for schema or Skill development.\nEven with help, staying involved helps ensure Alexa always reflects your real-world operations.",
+        "description": "Most Alexa listing work is DIY-friendly: claim and optimize Google/Yelp/Bing/Apple Maps, fix your NAP, update hours, and add basic structured data to your site. You only need a pro if you lack time or want advanced pieces like a custom Alexa Skill. Expect some learning, but it’s manageable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the safest way to migrate from my old schema setup to a new per-page JSON-LD generator without tanking SEO?",
+  "description": "Treat it like an SEO migration: inventory current schema, preserve key `@id` values for entities, rebuild equivalent or better templates, and roll out in stages",
+  "url": "aeoptimizer.com/faq/what-s-the-safest-way-to-migrate-from-my-old-schema-setup-to-a-new-per-page-json",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the safest way to migrate from my old schema setup to a new per-page JSON-LD generator without tanking SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re migrating from hard‑coded or plugin‑generated JSON-LD to a new per‑page generator, plan it like any other SEO migration: inventory current markup, map equivalents, and avoid dropping key schema types during the switch.\n\nA big risk is unintentionally removing or changing IDs for entities Google already knows, which can temporarily disrupt understanding.\n\nKEY FACTORS\n- Crawl and store current structured data for reference.\n- Preserve important `@id` URIs for Organization and main entities where possible.\n- Roll out template by template, not all at once, if you’re risk‑averse.\n- Monitor Search Console for changes in enhancements and errors.\n\nBuild your new templates to mimic or improve on current schema coverage, then test on a small set of URLs before full deployment. Keep old and new implementations from overlapping on the same entity.\n\nA careful, staged migration with clear ID mapping usually avoids major SEO turbulence.",
+        "description": "Treat it like an SEO migration: inventory current schema, preserve key `@id` values for entities, rebuild equivalent or better templates, and roll out in stages. Avoid double‑defining the same entity and monitor Search Console for changes in enhancements and errors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

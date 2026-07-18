@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do voice search SEO services usually cost, and what am I paying for?",
+  "description": "Voice search SEO services typically range from a few hundred to a few thousand dollars per month, depending on how many pages, locations, and technical elements",
+  "url": "aeoptimizer.com/faq/how-much-do-voice-search-seo-services-usually-cost-and-what-am-i-paying-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do voice search SEO services usually cost, and what am I paying for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice search SEO services vary widely, but many small to mid-sized businesses invest anywhere from a few hundred to a few thousand dollars per month, depending on scope.\n\nCosts rise with the number of locations, pages, and platforms you want optimized (web, profiles, schemas, analytics).\n\n**Key factors:**\n- One-time audit and setup vs. ongoing content and optimization.\n- Number of city pages and local listings (e.g., Austin, Denver, Salt Lake City).\n- Depth of technical work: schema, speed, crawl fixes, analytics.\n- Whether services are bundled with broader SEO and content marketing.\n\nWhen evaluating proposals, ask exactly which pages, profiles, and schemas will be touched, and what reporting you’ll receive on question-based queries and featured snippets. Compare the expected impact on leads and calls to the monthly cost.\n\nIf your budget is tight, start with a focused, fixed-scope project and expand only if early results justify it.",
+        "description": "Voice search SEO services typically range from a few hundred to a few thousand dollars per month, depending on how many pages, locations, and technical elements are included. You’re paying for audits, conversational content updates, local profile optimization, schema implementation, speed fixes, and ongoing monitoring of voice-style queries and snippets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

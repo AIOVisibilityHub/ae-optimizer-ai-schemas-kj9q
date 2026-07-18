@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want my business to show up for voice search near me?",
+  "description": "Check your business listings first, then fix your NAP, hours, category, reviews, and FAQ content. Voice search usually pulls from accurate local profiles and di",
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-want-my-business-to-show-up-for-voice-search-near-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want my business to show up for voice search near me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by checking how your business appears in voice-friendly results on Google, Apple, and Bing, then fix your name, address, phone number, hours, and main category everywhere. Voice assistants often rely on structured business data, reviews, and concise FAQ-style answers, so those are usually the fastest improvements.",
+        "description": "Check your business listings first, then fix your NAP, hours, category, reviews, and FAQ content. Voice search usually pulls from accurate local profiles and direct answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

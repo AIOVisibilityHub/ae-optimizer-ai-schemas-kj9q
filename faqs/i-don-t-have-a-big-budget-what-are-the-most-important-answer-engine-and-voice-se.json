@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I don’t have a big budget—what are the most important answer engine and voice search optimizations I can do first?",
+  "description": "Prioritize content and schema: rewrite a handful of key pages around real customer questions, add concise answers and FAQ sections, then implement FAQ and Local",
+  "url": "aeoptimizer.com/faq/i-don-t-have-a-big-budget-what-are-the-most-important-answer-engine-and-voice-se",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I don’t have a big budget—what are the most important answer engine and voice search optimizations I can do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a limited budget, focus on high-impact AEO steps that don’t require custom development.\n\nContent and schema changes alone can move the needle for voice search.\n\n**Key factors**\n- Rewrite 5–10 priority pages with question-based headings and direct answers.\n- Add an on-page FAQ section targeting common voice-style queries.\n- Implement basic FAQ and LocalBusiness schema using simple plugins or tools.\n- Use free data sources like Search Console and “People Also Ask” for research.\n\nTime-box your effort (e.g., 20–30 hours), aim for clear deliverables, and measure snippet and AI citation gains before investing more.\n\nThink of it as a staged project where early, budget-conscious wins justify deeper investment later.",
+        "description": "Prioritize content and schema: rewrite a handful of key pages around real customer questions, add concise answers and FAQ sections, then implement FAQ and LocalBusiness schema with low-cost tools. Use free data like Search Console and “People Also Ask” to guide your topics before spending on advanced AEO services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

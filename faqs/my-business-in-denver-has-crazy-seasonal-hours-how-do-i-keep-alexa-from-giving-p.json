@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My business in Denver has crazy seasonal hours—how do I keep Alexa from giving people the wrong info about when we’re open?",
+  "description": "For a Denver business with seasonal hours, you need to update special/holiday hours promptly on Google, Yelp, Bing Places, and Apple Maps and regularly test Ale",
+  "url": "aeoptimizer.com/faq/my-business-in-denver-has-crazy-seasonal-hours-how-do-i-keep-alexa-from-giving-p",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My business in Denver has crazy seasonal hours—how do I keep Alexa from giving people the wrong info about when we’re open?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Denver’s seasonal swings, make sure Alexa always has current hours and availability, especially during snowstorms or peak tourism periods.\n\nAlexa users often ask about whether you’re open “right now,” so stale data can cost you business.\n\nKey factors:\n- Update seasonal hours promptly on Google, Yelp, Bing Places, and Apple Maps\n- Use holiday/special hours settings rather than changing your main hours each time\n- Check Alexa’s responses when seasons change to ensure it’s reading current data\n- Add notes in your descriptions about weather-related closures if they’re common\n\nBuild a simple calendar reminder to adjust your hours and verify listings whenever your schedule changes, then test by asking Alexa if you’re open.\nKeeping your data fresh matters more than any single optimization trick in a variable climate like Denver.",
+        "description": "For a Denver business with seasonal hours, you need to update special/holiday hours promptly on Google, Yelp, Bing Places, and Apple Maps and regularly test Alexa’s “are they open” responses. Treat hour changes like a recurring task so Alexa always reads your current schedule instead of outdated times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

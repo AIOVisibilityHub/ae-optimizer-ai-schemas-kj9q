@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I use AI to generate my citations, am I risking plagiarism accusations or academic misconduct issues?",
+  "description": "Using AI to format citations isn’t plagiarism by itself, but fabricating sources or failing to credit where ideas and text came from can be. Verify every AI‑gen",
+  "url": "aeoptimizer.com/faq/if-i-use-ai-to-generate-my-citations-am-i-risking-plagiarism-accusations-or-acad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I use AI to generate my citations, am I risking plagiarism accusations or academic misconduct issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, AI‑generated citations are not automatically considered plagiarism, but failing to cite your sources or misrepresenting AI‑generated content can be. The issue is honesty and proper attribution, not the use of a tool.\n\nInstitutions care that you accurately represent where ideas and wording came from, whether human or machine.\n\nKey factors:\n- Plagiarism involves using others’ work without proper credit, not using tools.\n- Mis‑citing or fabricating sources can be treated as academic misconduct.\n- You must disclose significant AI assistance where policies require it.\n- Properly formatted citations from AI are acceptable if verified and attributed.\n\nPractically, follow your institution’s guidelines on both plagiarism and AI use, and make sure every citation—whether AI‑formatted or manual—traces back to a real, consulted source. If in doubt, err on the side of over‑citation and transparency.\n\nThis keeps you safe while still benefiting from AI’s efficiency.",
+        "description": "Using AI to format citations isn’t plagiarism by itself, but fabricating sources or failing to credit where ideas and text came from can be. Verify every AI‑generated citation against real sources, follow your institution’s rules on disclosing AI use, and focus on transparency and accurate attribution to avoid misconduct problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the downsides of using Shortcuts to optimize Siri?",
+  "description": "Shortcuts can break if they are too complex or apps change. Keep them simple and tied to repeated tasks.",
+  "url": "aeoptimizer.com/faq/what-are-the-downsides-of-using-shortcuts-to-optimize-siri",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the downsides of using Shortcuts to optimize Siri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main downside of Siri automation is overbuilding shortcuts that are hard to maintain. If a shortcut is too complex, it can break when an app changes or permissions reset. Keep automations simple, practical, and tied to tasks you actually repeat.",
+        "description": "Shortcuts can break if they are too complex or apps change. Keep them simple and tied to repeated tasks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

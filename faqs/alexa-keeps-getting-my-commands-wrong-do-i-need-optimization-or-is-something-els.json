@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Alexa keeps getting my commands wrong—do I need optimization, or is something else going on?",
+  "description": "Frequent misunderstandings are usually about device health and phrasing, not optimization. Check Wi‑Fi, update Alexa, move the device away from noise, train Ale",
+  "url": "aeoptimizer.com/faq/alexa-keeps-getting-my-commands-wrong-do-i-need-optimization-or-is-something-els",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Alexa keeps getting my commands wrong—do I need optimization, or is something else going on?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Alexa keeps misunderstanding you, start with basics: connection, device placement, and voice training. Then refine how *you* speak to match how Alexa is designed to interpret commands and questions.\n\nMany “Alexa problems” are really microphone, noise, or phrasing issues rather than anything to do with optimization services.\n\nKey factors:\n- Stable Wi‑Fi and up‑to‑date Alexa software on your devices.\n- Devices placed away from heavy noise, echoes, or obstructions.\n- Using clear, moderately paced speech and consistent phrasing.\n- Training Alexa to recognize your voice via the app and sending feedback on errors.\n\nFirst, follow a device health checklist: update firmware, adjust placement, verify Wi‑Fi, and run voice training. Then experiment with a few alternative phrasings for the same question to see which Alexa handles best.\n\nOnce your basic interactions are reliable, you’ll get a much clearer signal from any Alexa optimization work you do on content and products.",
+        "description": "Frequent misunderstandings are usually about device health and phrasing, not optimization. Check Wi‑Fi, update Alexa, move the device away from noise, train Alexa to your voice, and try clearer, more consistent commands before investing in broader content or product optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

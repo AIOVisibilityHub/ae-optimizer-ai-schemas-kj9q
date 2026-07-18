@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if Siri optimization is actually working?",
+  "description": "Test the same command multiple times after changes. If success becomes consistent, the optimization is working.",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-siri-optimization-is-actually-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if Siri optimization is actually working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—look at permission settings, app compatibility, and how specific your commands are. Siri performs better when the related app can access the microphone, calendar, mail, contacts, or camera, and when your request is phrased clearly. Try the same command three times after changes to see if the improvement is consistent.",
+        "description": "Test the same command multiple times after changes. If success becomes consistent, the optimization is working."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Alexa never seems to suggest my products—how do I figure out what’s wrong?",
+  "description": "When Alexa skips your products, examine search term reports and reviews for voice‑style queries, then compare your titles, bullets, attributes, and FAQs to prod",
+  "url": "aeoptimizer.com/faq/alexa-never-seems-to-suggest-my-products-how-do-i-figure-out-what-s-wrong",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Alexa never seems to suggest my products—how do I figure out what’s wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Alexa isn’t recommending your products, it usually means your listing copy and data don’t align with the queries Alexa hears most. You fix this by auditing search terms and reviews, then rewriting content to match the spoken language of those questions.\n\nRandom keyword tweaks won’t help much; you need a prompt‑driven approach that reflects real customer behavior.\n\nKey factors:\n- Search term reports showing “best,” “good for,” and question‑based phrases.\n- Customer questions and reviews that reveal common intent and language.\n- Gaps in titles, bullets, or attributes compared to competitors Alexa recommends.\n- Missing FAQ content for objections, comparisons, and use cases.\n\nStart by pulling a 90‑day search term and review sample, identify voice‑pattern queries, and map them to specific content gaps in your listings. Then update titles, bullets, attributes, and FAQs to close those gaps and retest on Alexa.\n\nIf competitors continue to outrank you, a deeper competitive content analysis is often worth the effort.",
+        "description": "When Alexa skips your products, examine search term reports and reviews for voice‑style queries, then compare your titles, bullets, attributes, and FAQs to products Alexa *does* recommend. Rewrite your content around those real spoken questions and retest the same prompts to confirm improvements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

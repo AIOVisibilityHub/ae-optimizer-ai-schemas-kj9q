@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the best way to handle voice search optimization for multiple locations in cities like LA, San Diego, Austin, Denver, and Salt Lake City?",
+  "description": "Create separate, city‑specific location pages for each site, with unique NAP, hours, neighborhood and landmark references, local FAQs, and LocalBusiness schema.",
+  "url": "aeoptimizer.com/faq/what-s-the-best-way-to-handle-voice-search-optimization-for-multiple-locations-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the best way to handle voice search optimization for multiple locations in cities like LA, San Diego, Austin, Denver, and Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For multi‑location businesses across LA, San Diego, Austin, Denver, and Salt Lake City, each city should have its own optimized location page with city‑specific content, FAQs, landmarks, and LocalBusiness schema. Assistants prefer precise, localized answers over generic national copy.\n\nCentralized brand messaging is fine, but discovery and directions depend on unique, city‑aligned signals.\n\nKey factors:\n- Separate location pages with NAP, hours, and services per city\n- City and neighborhood references (e.g., “Gaslamp Quarter,” “Capitol Hill”)\n- Local FAQs (parking, transit, peak times, local offers)\n- Individual Google Business Profiles linked to the right pages\n\nPractically, map your locations and ensure each has a clean path from assistant query to the correct city page and profile. Then add question‑based content tailored to that city’s concerns.\n\nThis structure lets you scale voice optimization while preserving the nuances of each local market.",
+        "description": "Create separate, city‑specific location pages for each site, with unique NAP, hours, neighborhood and landmark references, local FAQs, and LocalBusiness schema. Link each Google Business Profile to its matching page. This makes it easier for assistants to deliver precise, city‑correct answers for “near me” queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

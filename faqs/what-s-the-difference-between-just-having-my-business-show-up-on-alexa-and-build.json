@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the difference between just having my business show up on Alexa and building an Alexa Skill for my company?",
+  "description": "Showing up on Alexa as a local business comes from directory data (Google, Yelp, Bing Places, etc.), while an Alexa Skill is a custom voice app you build in the",
+  "url": "aeoptimizer.com/faq/what-s-the-difference-between-just-having-my-business-show-up-on-alexa-and-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the difference between just having my business show up on Alexa and building an Alexa Skill for my company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there’s a meaningful difference: being “found” by Alexa as a local result comes from directory data, while an Alexa Skill is a custom voice app you build and publish.\n\nMost small businesses only need to optimize listings; a Skill is useful when you want branded, interactive experiences.\n\nKey factors:\n- Directory-based presence powers “Alexa, find a plumber near me” type queries\n- Alexa Skills require an Amazon developer account and a full skill setup (name, invocation, intents, testing, certification)\n- Skills can answer FAQs, take bookings, or offer custom content under your brand\n- Skills take more time and maintenance but give you more control over what Alexa says\n\nDecide first whether you simply need to be discoverable or you want richer interactions; that determines whether you focus on listings only or invest in building a Skill.\nMost local businesses start with listings and explore Skills later as their voice strategy matures.",
+        "description": "Showing up on Alexa as a local business comes from directory data (Google, Yelp, Bing Places, etc.), while an Alexa Skill is a custom voice app you build in the Alexa developer console. Listings get you found; a Skill lets you control branded, interactive experiences like FAQs or bookings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

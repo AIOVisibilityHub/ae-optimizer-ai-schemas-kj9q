@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to show up in voice search near me results?",
+  "description": "Small fixes can show results in days, but meaningful voice search gains usually take weeks. Search engines need time to recrawl your profiles and content.",
+  "url": "aeoptimizer.com/faq/how-long-does-it-take-to-show-up-in-voice-search-near-me-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to show up in voice search near me results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Basic fixes can take a few days, while stronger visibility often takes several weeks or longer. Search systems need time to recrawl your listings, index new content, and build confidence in your business signals.",
+        "description": "Small fixes can show results in days, but meaningful voice search gains usually take weeks. Search engines need time to recrawl your profiles and content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

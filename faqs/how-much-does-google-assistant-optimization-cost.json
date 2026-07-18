@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does Google Assistant optimization cost?",
+  "description": "Pricing varies by scope. A basic cleanup is cheaper, while ongoing optimization with content, schema, local SEO, and technical fixes costs more.",
+  "url": "aeoptimizer.com/faq/how-much-does-google-assistant-optimization-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does Google Assistant optimization cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on whether you need a one-time cleanup, ongoing SEO support, or technical development work. The biggest cost drivers are content rewrites, schema implementation, local listing management, and site speed fixes.",
+        "description": "Pricing varies by scope. A basic cleanup is cheaper, while ongoing optimization with content, schema, local SEO, and technical fixes costs more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

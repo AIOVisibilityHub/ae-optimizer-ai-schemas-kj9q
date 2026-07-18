@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is voice search optimization worth it for a small local business?",
+  "description": "Yes, if your customers search for nearby help and act quickly. It is often most valuable for urgent or high-intent local needs.",
+  "url": "aeoptimizer.com/faq/is-voice-search-optimization-worth-it-for-a-small-local-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is voice search optimization worth it for a small local business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It can be worth it if your customers often search while driving, walking, or making quick decisions. Voice search is especially useful for urgent, local, and comparison-style queries where a fast answer leads to action.",
+        "description": "Yes, if your customers search for nearby help and act quickly. It is often most valuable for urgent or high-intent local needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

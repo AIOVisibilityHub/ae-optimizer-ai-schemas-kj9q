@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I add FAQ pages for voice search, or is that outdated?",
+  "description": "FAQ pages still help when they answer real questions clearly and directly. They are one of the easiest ways to match conversational searches.",
+  "url": "aeoptimizer.com/faq/should-i-add-faq-pages-for-voice-search-or-is-that-outdated",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I add FAQ pages for voice search, or is that outdated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but the FAQ should answer one clear question at a time in plain language. That format helps both users and search systems quickly find a usable answer.",
+        "description": "FAQ pages still help when they answer real questions clearly and directly. They are one of the easiest ways to match conversational searches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

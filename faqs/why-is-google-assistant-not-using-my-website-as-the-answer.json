@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is Google Assistant not using my website as the answer?",
+  "description": "Usually Google sees another source as clearer or more trustworthy. Improve answer clarity, page speed, schema, and consistency across your business listings.",
+  "url": "aeoptimizer.com/faq/why-is-google-assistant-not-using-my-website-as-the-answer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is Google Assistant not using my website as the answer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your answers are not showing up, the usual issue is that Google cannot clearly identify a better source than a competitor’s page or listing. Tighten your answer format, improve page speed, add schema, and verify that your business details are consistent everywhere.",
+        "description": "Usually Google sees another source as clearer or more trustworthy. Improve answer clarity, page speed, schema, and consistency across your business listings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

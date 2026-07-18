@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if my voice search optimization is actually working and not just changing things on paper?",
+  "description": "Track wins in featured snippets and “People Also Ask,” growth in long, conversational queries, and increases in calls, directions requests, and profile clicks—e",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-my-voice-search-optimization-is-actually-working-and-not-just",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if my voice search optimization is actually working and not just changing things on paper?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’ll know your voice search optimization is working when you start winning more featured snippets, see growth in long, conversational queries, and notice rises in calls, directions requests, and branded searches—especially from mobile users in cities like Denver or San Diego. These are practical proxies for voice impact.\n\nDirect “voice only” metrics are limited, so you rely on related indicators rather than a single dashboard number.\n\nKey factors:\n- Increased snippets and “People Also Ask” visibility for key questions\n- More impressions/clicks on longer, question‑style queries\n- Growth in local actions (calls, directions, website clicks from profiles)\n- Qualitative feedback (“I found you through my phone/assistant”) \n\nPractically, set a baseline before changes, then monitor monthly. Tag key answer pages and watch their query mix evolve.\n\nThis helps you connect the dots between optimization work and tangible business impact, beyond raw rankings.",
+        "description": "Track wins in featured snippets and “People Also Ask,” growth in long, conversational queries, and increases in calls, directions requests, and profile clicks—especially from mobile. Voice metrics aren’t isolated, so these related signals are the best proof your voice search optimization is genuinely paying off."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

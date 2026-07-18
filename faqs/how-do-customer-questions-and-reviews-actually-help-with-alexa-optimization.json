@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do customer questions and reviews actually help with Alexa optimization?",
+  "description": "You mine customer questions and reviews for the exact phrases and concerns people voice, then turn those into spoken prompts and FAQ‑style answers in your title",
+  "url": "aeoptimizer.com/faq/how-do-customer-questions-and-reviews-actually-help-with-alexa-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do customer questions and reviews actually help with Alexa optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Customer questions and reviews are critical inputs for Alexa optimization because they reveal the exact phrases and concerns people voice about your products. You use them to design prompts and structure content as direct answers.\n\nRather than guessing what users say to Alexa, you mine what they already say to you and to Amazon.\n\nKey factors:\n- Common “how,” “why,” “what if,” and “best for” patterns in questions.\n- Emotional or descriptive language customers use (“gentle,” “for small spaces,” etc.).\n- Recurring objections and comparison points that need clear answers.\n- Differences between how satisfied and dissatisfied customers describe the product.\n\nCreate a spreadsheet of recurring phrases from questions and reviews, group them into themes, and turn each into a conversational prompt and an FAQ‑style answer in your content. Make sure those answers are short enough to sound good when Alexa reads them.\n\nThis evidence‑driven approach typically produces more reliable voice results than generic keyword research alone.",
+        "description": "You mine customer questions and reviews for the exact phrases and concerns people voice, then turn those into spoken prompts and FAQ‑style answers in your titles, bullets, and descriptions. Aligning content to this real language makes it much easier for Alexa to match your products to voice queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will schema markup alone get my business into Google Assistant answers?",
+  "description": "No. Schema helps Google understand your page, but it works best with clear content, local signals, and solid site performance.",
+  "url": "aeoptimizer.com/faq/will-schema-markup-alone-get-my-business-into-google-assistant-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will schema markup alone get my business into Google Assistant answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schema helps Google understand what your page is about, but it is not a guarantee that Assistant will use your content. The best results usually come from combining schema with strong page copy, local signals, and good technical performance.",
+        "description": "No. Schema helps Google understand your page, but it works best with clear content, local signals, and solid site performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

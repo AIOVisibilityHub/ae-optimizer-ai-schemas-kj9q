@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’ve been “optimizing for Alexa” for months and still don’t see any change?",
+  "description": "If results are stalled, focus on real spoken prompts: build a set from customer reviews and search terms, rewrite titles, bullets, and FAQs to match those quest",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-ve-been-optimizing-for-alexa-for-months-and-still-don-t-se",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’ve been “optimizing for Alexa” for months and still don’t see any change?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delayed Alexa results usually mean your content changes haven’t yet been indexed, or they don’t clearly match the way people actually speak to Alexa in your category. It’s rarely a single technical switch you forgot to flip.\n\nVoice assistants are picky about clarity and structure; vague or generic updates often get ignored even after indexing.\n\nKey factors:\n- Time lag for Amazon and search engines to recrawl and reprocess content.\n- Insufficient use of real conversational questions in titles, bullets, and FAQs.\n- Missing or incomplete FAQ and LocalBusiness schema on your site.\n- Lack of systematic prompt testing to guide further iterations.\n\nIf you’re months in with minimal movement, pause and build a prompt set based on actual customer reviews, search terms, and support questions, then align your content tightly to those phrases and retest.\n\nSometimes an external review of your work can reveal structural issues or missed opportunities faster than continued trial and error.",
+        "description": "If results are stalled, focus on real spoken prompts: build a set from customer reviews and search terms, rewrite titles, bullets, and FAQs to match those questions exactly, ensure FAQ/local schema is in place, and retest. Delays usually stem from weak alignment with how people actually talk, not a single missing setting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

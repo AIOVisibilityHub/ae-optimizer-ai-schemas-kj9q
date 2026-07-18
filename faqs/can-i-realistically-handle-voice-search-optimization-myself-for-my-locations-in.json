@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I realistically handle voice search optimization myself for my locations in Boulder and Portland, or do I need a technical team?",
+  "description": "You can do much of voice optimization yourself by rewriting content around real questions, improving local profiles, and using plugins or generators for FAQ/Loc",
+  "url": "aeoptimizer.com/faq/can-i-realistically-handle-voice-search-optimization-myself-for-my-locations-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I realistically handle voice search optimization myself for my locations in Boulder and Portland, or do I need a technical team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For DIY voice optimization in cities like Boulder or Portland, focus on three practical tasks: rewrite content around real questions, strengthen local profiles, and add basic schema using plugins or generators. You can cover a lot of ground without deep coding.\n\nYou’ll still need to be comfortable editing pages, validating structured data, and reading analytics. Complex site architectures or custom platforms may require developer support for performance improvements.\n\nKey factors:\n- CMS capabilities (plugins for schema, caching, and SEO)\n- Your comfort level with content writing and HTML basics\n- Availability of tools for testing structured data and speed\n- Size and complexity of your site\n\nStart with one or two priority locations (e.g., Boulder, Portland), optimize their pages and local listings, and learn from the results before scaling. Call in technical help only when you hit limitations you can’t safely work around.\n\nDIY voice optimization is doable if you stick to content, local, and simple technical changes.",
+        "description": "You can do much of voice optimization yourself by rewriting content around real questions, improving local profiles, and using plugins or generators for FAQ/LocalBusiness schema. A technical team is mainly needed for deeper performance fixes or complex site architectures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

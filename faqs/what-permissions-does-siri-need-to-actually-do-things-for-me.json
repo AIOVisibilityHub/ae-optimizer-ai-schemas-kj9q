@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permissions does Siri need to actually do things for me?",
+  "description": "Siri often needs access to Mail, Calendar, Contacts, Microphone, Camera, and sometimes Location Services.",
+  "url": "aeoptimizer.com/faq/what-permissions-does-siri-need-to-actually-do-things-for-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permissions does Siri need to actually do things for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you rely on Siri for email, calendar, messages, or reminders, the key permissions are the ones those apps need to function. Mail, Calendar, Contacts, Microphone, Camera, and sometimes Location Services are the most common ones to verify. Without those, Siri may hear you correctly but still fail the task.",
+        "description": "Siri often needs access to Mail, Calendar, Contacts, Microphone, Camera, and sometimes Location Services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

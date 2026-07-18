@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I’m under a deadline, which pages should get per-page JSON-LD first instead of trying to do the whole site?",
+  "description": "Start with your highest‑impact URLs: top service or product pages, main location pages, and best‑performing content. Apply schema templates there first, validat",
+  "url": "aeoptimizer.com/faq/if-i-m-under-a-deadline-which-pages-should-get-per-page-json-ld-first-instead-of",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I’m under a deadline, which pages should get per-page JSON-LD first instead of trying to do the whole site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you’re on a tight timeline—like prepping for a seasonal push in Denver or Austin—focus your per-page JSON-LD on the 10–20 URLs most likely to impact revenue: key service pages, top locations, and highest‑traffic content.\n\nTrying to mark up an entire large site at once usually leads to mistakes and delays. A phased, prioritized rollout gets value live sooner.\n\nKEY FACTORS\n- Revenue and lead impact of each page.\n- Current search visibility and impression volume.\n- Complexity of the page template.\n- Available time for proper QA.\n\nRank your pages by business importance, implement schema templates there first, and monitor impact. Expand coverage only after those core templates validate cleanly and show up in Search Console.\n\nA good generator should make it easy to apply schema to a subset of URLs instead of forcing an all‑or‑nothing deployment.",
+        "description": "Start with your highest‑impact URLs: top service or product pages, main location pages, and best‑performing content. Apply schema templates there first, validate, and monitor results before expanding to less critical pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the hidden downsides of using cheap or generic JSON-LD generators for per-page schema?",
+  "description": "Cheap tools often output generic, duplicate schema, miss required fields, and ignore entity relationships. That can limit rich results or create a messy data la",
+  "url": "aeoptimizer.com/faq/what-are-the-hidden-downsides-of-using-cheap-or-generic-json-ld-generators-for-p",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the hidden downsides of using cheap or generic JSON-LD generators for per-page schema?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main problems with cheaper schema tools are: they often generate generic, duplicate markup for every page, miss required fields, or fail to model entity relationships correctly. This can limit rich result eligibility or create a messy data layer.\n\nHigher‑quality generators emphasize template logic, shared entities, and validation rather than just spitting out code snippets.\n\nKEY FACTORS\n- Whether the tool supports per‑template rules vs. copy‑paste blocks.\n- Handling of Organization/WebSite vs. per‑page entities.\n- Built‑in validation or at least easy export for testing.\n- Ability to adapt as guidelines and your site evolve.\n\nTest any tool on a sample of real pages, run them through validators, and compare against Google’s feature docs. Don’t judge solely on how “pretty” the interface looks.\n\nChoosing a more robust schema engine up front can save you from re‑doing your entire implementation a year later.",
+        "description": "Cheap tools often output generic, duplicate schema, miss required fields, and ignore entity relationships. That can limit rich results or create a messy data layer you’ll later have to fix. Look for template logic, shared entities, and strong validation support."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

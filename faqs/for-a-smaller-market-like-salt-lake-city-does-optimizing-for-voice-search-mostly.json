@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "For a smaller market like Salt Lake City, does optimizing for voice search mostly come down to local SEO, or is there more to it?",
+  "description": "In Salt Lake City, strong local SEO is the core of voice optimization: a complete Google Business Profile, consistent NAP, local-focused content, and good revie",
+  "url": "aeoptimizer.com/faq/for-a-smaller-market-like-salt-lake-city-does-optimizing-for-voice-search-mostly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "For a smaller market like Salt Lake City, does optimizing for voice search mostly come down to local SEO, or is there more to it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In cities like Salt Lake City, local “near me” and “open now” queries dominate voice behavior, so local optimization has outsized impact. Make sure your business data is complete and consistent before you worry about advanced voice-specific tactics.\n\nIf assistants don’t trust your address, hours, or category, they won’t pick you—even if your on-site content is strong. Many businesses lose out simply because their Google Business Profile and other listings are half-finished or outdated.\n\nKey factors:\n- Verified Google Business Profile with Salt Lake City details\n- Accurate, consistent NAP across major directories and maps\n- Local keywords and FAQs embedded naturally on service pages\n- Reviews that mention your location and core services\n\nStart by cleaning and enhancing your local presence, then align your on-site content with the voice-style questions people ask in your niche. Only after that should you invest in more advanced schema or content patterns.\n\nTreat local voice optimization as getting your foundation right for Salt Lake City users.",
+        "description": "In Salt Lake City, strong local SEO is the core of voice optimization: a complete Google Business Profile, consistent NAP, local-focused content, and good reviews. Once that foundation is solid, layer on conversational FAQs and schema to improve how assistants surface your business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

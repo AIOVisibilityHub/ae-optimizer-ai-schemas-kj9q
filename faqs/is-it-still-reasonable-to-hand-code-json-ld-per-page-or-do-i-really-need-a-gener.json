@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it still reasonable to hand-code JSON-LD per page, or do I really need a generator or automation?",
+  "description": "Hand‑coding works for a few static pages, but it doesn’t scale. Once you have multiple templates, locations, or frequent updates, a template‑driven generator is",
+  "url": "aeoptimizer.com/faq/is-it-still-reasonable-to-hand-code-json-ld-per-page-or-do-i-really-need-a-gener",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it still reasonable to hand-code JSON-LD per page, or do I really need a generator or automation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Manual JSON-LD snippets are fine for a handful of static pages, but once you have multiple templates, locations, or frequent updates, a generator or template‑driven system becomes far more sustainable and less error‑prone.\n\nRepeated copy‑paste work almost guarantees inconsistencies and outdated schema as content evolves.\n\nKEY FACTORS\n- Number of pages and how often they change.\n- Availability of technical staff vs. non‑technical editors.\n- Need for consistent, site‑wide entity modeling.\n- Desire to quickly adapt to changing guidelines or features.\n\nIf your site is small and stable, hand‑coding a few key pages can work. As soon as you feel schema maintenance becoming a chore, that’s your signal to invest in automation.\n\nA generator that encodes your schema strategy once lets your team focus on content and business outcomes instead of syntax.",
+        "description": "Hand‑coding works for a few static pages, but it doesn’t scale. Once you have multiple templates, locations, or frequent updates, a template‑driven generator is far more reliable, consistent, and maintainable than manual JSON editing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

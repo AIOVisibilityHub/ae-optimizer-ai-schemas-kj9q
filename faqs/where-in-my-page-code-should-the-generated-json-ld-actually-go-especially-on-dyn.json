@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Where in my page code should the generated JSON-LD actually go, especially on dynamic or JS-heavy sites?",
+  "description": "Place generated JSON-LD in one or a few consolidated `<script type=\"application/ld+json\">` blocks in the head or near the end of the body. The key is that it’s",
+  "url": "aeoptimizer.com/faq/where-in-my-page-code-should-the-generated-json-ld-actually-go-especially-on-dyn",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where in my page code should the generated JSON-LD actually go, especially on dynamic or JS-heavy sites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most of your per-page JSON-LD should live in the `<head>` or near the end of the `<body>`, generated server‑side or by your CMS. Having dozens of small script blocks scattered throughout dynamic components is harder to maintain and debug.\n\nFrom a search engine perspective, placement in head vs. body usually doesn’t matter as long as the markup is valid and rendered on initial load.\n\nKEY FACTORS\n- Keep schema centralized per page (one or a few script blocks, not many tiny ones).\n- Avoid blocking or delaying schema with heavy client‑side JS.\n- Ensure markup is rendered for bots (SSR or prerendering if needed).\n- Consistent placement per template simplifies QA.\n\nAsk your dev team to wire schema generation into your existing layout templates rather than component‑by‑component. That keeps things predictable.\n\nA generator that outputs consolidated, page‑level JSON-LD scripts is generally best for maintainability.",
+        "description": "Place generated JSON-LD in one or a few consolidated `<script type=\"application/ld+json\">` blocks in the head or near the end of the body. The key is that it’s valid, rendered for bots on load, and managed at the page/template level for easier maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

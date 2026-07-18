@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my Alexa optimization is actually working or just wasting time?",
+  "description": "You measure Alexa optimization by testing a fixed set of spoken prompts on Alexa, tracking which products or answers show, and tying those changes to sales or i",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-alexa-optimization-is-actually-working-or-just-wasting-time",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my Alexa optimization is actually working or just wasting time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alexa optimization results are usually measured by how often voice prompts surface your products or answers and whether those interactions lead to more sales or inquiries. You track outcomes by testing prompts on Alexa and watching changes in visibility and conversion metrics.\n\nThere’s no single “Alexa ranking score,” so you have to pair qualitative testing with your existing analytics and Amazon data.\n\nKey factors:\n- Prompt coverage: how many of your target voice questions now show your products.\n- Placement and framing of your products in Alexa’s recommendations.\n- Changes in Amazon sales, click‑through, and conversion for optimized SKUs.\n- Customer feedback about their voice shopping or voice information experience.\n\nCreate a simple prompt test set (e.g., 50 key questions) and re‑run it monthly, logging which products or pages appear and how they’re described. Tie these trends back to product sales, web leads, or other KPIs.\n\nIf your internal team is stretched, it can help to have an external partner design the prompt set and measurement framework, then you own the ongoing tracking.",
+        "description": "You measure Alexa optimization by testing a fixed set of spoken prompts on Alexa, tracking which products or answers show, and tying those changes to sales or inquiries. Look for improved visibility on target queries, better recommendation framing, and rising conversions on optimized SKUs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

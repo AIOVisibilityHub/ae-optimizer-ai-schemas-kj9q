@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I actually need to do so my business shows up when people use voice search for “near me” in Los Angeles or San Diego?",
+  "description": "You need complete, verified Google Business Profiles, consistent NAP, and city-specific pages that clearly explain your services in Los Angeles and San Diego. C",
+  "url": "aeoptimizer.com/faq/what-do-i-actually-need-to-do-so-my-business-shows-up-when-people-use-voice-sear",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I actually need to do so my business shows up when people use voice search for “near me” in Los Angeles or San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To show up for “near me” voice queries in Los Angeles or San Diego, you need both strong local data and content that clearly relates to your area. Assistants look for businesses whose profiles and on-site content match the user’s location and intent.\n\nSimply adding “near me” everywhere won’t work; what matters is accurate NAP, relevant categories, and pages that genuinely describe what you do in those cities. Reviews mentioning neighborhoods and services help, too.\n\nKey factors:\n- Verified Google Business Profiles for each city you serve\n- City-specific pages that describe services, neighborhoods, and common local questions\n- Consistent NAP across directories and map providers\n- Reviews that reference the city or area\n\nBuild dedicated pages for Los Angeles and San Diego with conversational FAQs about local needs, and tie them to your business profiles using LocalBusiness schema. Then test Siri and Google Assistant with realistic local voice queries.\n\nThink of “near me” optimization as proving you’re truly local and relevant, not just using the phrase.",
+        "description": "You need complete, verified Google Business Profiles, consistent NAP, and city-specific pages that clearly explain your services in Los Angeles and San Diego. Combine that with LocalBusiness schema, conversational FAQs, and good local reviews to earn visibility on “near me” voice queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

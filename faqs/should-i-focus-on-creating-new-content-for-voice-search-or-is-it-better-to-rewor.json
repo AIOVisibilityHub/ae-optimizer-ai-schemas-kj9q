@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I focus on creating new content for voice search, or is it better to rework the pages I already have?",
+  "description": "Start by reworking existing high-value pages: add question-based headings, concise answers near the top, FAQ sections, and schema. Assistants prefer authoritati",
+  "url": "aeoptimizer.com/faq/should-i-focus-on-creating-new-content-for-voice-search-or-is-it-better-to-rewor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I focus on creating new content for voice search, or is it better to rework the pages I already have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’ll usually get better ROI by optimizing your existing content for voice search before investing heavily in new pages. Most sites already have core topics; they just need clearer questions, answers, and schema layered on top.\n\nAssistants favor authoritative, well-established pages that directly answer specific questions, not thin new articles created just for “voice keywords.” Revising structure and markup often unlocks more value than publishing lots of new content.\n\nKey factors:\n- Current traffic and rankings of existing pages\n- Opportunities to add question-based headings and FAQ sections\n- Ability to insert concise answers near the top of each page\n- Schema coverage for key topics and locations\n\nAudit top-performing pages and rewrite them to lead with natural-language questions and short direct answers, then add FAQ blocks for supporting queries. Only create new pages where you find genuine gaps in topics or locations.\n\nThink “optimize then expand,” not “expand instead of optimize.”",
+        "description": "Start by reworking existing high-value pages: add question-based headings, concise answers near the top, FAQ sections, and schema. Assistants prefer authoritative pages that clearly answer spoken questions, so optimization usually beats publishing lots of new, thin voice-focused content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

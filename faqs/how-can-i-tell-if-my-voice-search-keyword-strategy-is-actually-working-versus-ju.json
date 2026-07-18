@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if my voice search keyword strategy is actually working, versus just normal SEO fluctuations?",
+  "description": "Watch Search Console for growth in full-question queries, track featured snippets and FAQ rich-result impressions, and monitor local discovery metrics in GMB. C",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-my-voice-search-keyword-strategy-is-actually-working-versus-ju",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if my voice search keyword strategy is actually working, versus just normal SEO fluctuations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can measure whether your voice search keyword strategy is working by tracking question-style queries, featured snippets, FAQ impressions, and changes in local discovery—not just overall traffic. The signals are more granular than typical SEO KPIs.\n\nVoice search impact often shows up as more visibility for longer, conversational queries and higher placement in Q&A-rich SERP features.\n\nKey factors:\n- Monitor Search Console for growth in queries that look like full questions\n- Track featured snippet wins and FAQ rich-result impressions and clicks\n- Use call logs and CRM notes to see whether people mention voice assistants\n- Check GMB insights for local discovery and “direction” requests\n\nPractically, create a small dashboard focused only on voice-related indicators and review monthly. Compare performance for pages where you implemented voice keyword structures versus those you haven’t touched yet.\n\nThis keeps voice optimization accountable and separates it from general SEO noise.",
+        "description": "Watch Search Console for growth in full-question queries, track featured snippets and FAQ rich-result impressions, and monitor local discovery metrics in GMB. Compare pages with voice-optimized Q&A structures to untouched pages to isolate impact from general SEO fluctuations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

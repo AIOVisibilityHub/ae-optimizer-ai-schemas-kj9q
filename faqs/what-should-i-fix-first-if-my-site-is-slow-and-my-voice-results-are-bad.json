@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I fix first if my site is slow and my voice results are bad?",
+  "description": "Fix speed first, then clean up business information and answer formatting. A slow mobile site can hurt both search visibility and voice-readability.",
+  "url": "aeoptimizer.com/faq/what-should-i-fix-first-if-my-site-is-slow-and-my-voice-results-are-bad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I fix first if my site is slow and my voice results are bad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, because voice results are strongly influenced by local business data and mobile performance. If your site is slow on phones or your business info is incomplete, Google is less likely to trust it for a spoken answer.",
+        "description": "Fix speed first, then clean up business information and answer formatting. A slow mobile site can hurt both search visibility and voice-readability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

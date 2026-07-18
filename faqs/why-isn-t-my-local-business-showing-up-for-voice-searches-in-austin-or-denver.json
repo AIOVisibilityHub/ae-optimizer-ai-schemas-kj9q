@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why isn’t my local business showing up for voice searches in Austin or Denver?",
+  "description": "Inconsistent business details are a common reason. Make sure your name, address, phone number, hours, and service area match everywhere.",
+  "url": "aeoptimizer.com/faq/why-isn-t-my-local-business-showing-up-for-voice-searches-in-austin-or-denver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why isn’t my local business showing up for voice searches in Austin or Denver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common local problem is inconsistent name, address, phone number, hours, or service area data. For businesses serving Austin or Denver, even small mismatches across profiles and pages can weaken trust signals.",
+        "description": "Inconsistent business details are a common reason. Make sure your name, address, phone number, hours, and service area match everywhere."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

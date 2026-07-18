@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do backend search terms really matter for Alexa optimization, or is it all in the visible copy?",
+  "description": "Backend search terms do matter for Alexa optimization because they’re perfect for long, conversational phrases that people speak to Alexa but don’t belong in yo",
+  "url": "aeoptimizer.com/faq/do-backend-search-terms-really-matter-for-alexa-optimization-or-is-it-all-in-the",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do backend search terms really matter for Alexa optimization, or is it all in the visible copy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Backend search terms are valuable for Alexa optimization because they let you include longer, conversational phrases that don’t fit naturally in your visible copy. Voice queries are often full sentences, not single words.\n\nFilling backend fields with question fragments and “best for” phrases helps Alexa match more of what people actually say to your products.\n\nKey factors:\n- Replacing single‑word synonyms with multi‑word spoken phrases.\n- Including “best for,” “good for,” and common question stems customers use.\n- Avoiding keyword stuffing that repeats visible copy without adding value.\n- Using the full allowed byte limit strategically with diverse, natural language.\n\nReview your search term reports for voice‑style queries, then rewrite backend terms to capture those patterns specifically. Think in terms of “how someone would say this to Alexa,” not just what they’d type.\n\nCombined with strong visible Q&A content, voice‑optimized backend terms can help close coverage gaps on long‑tail spoken questions.",
+        "description": "Backend search terms do matter for Alexa optimization because they’re perfect for long, conversational phrases that people speak to Alexa but don’t belong in your visible copy. Use them for “best for” and question‑style fragments drawn from real search term data, not just single‑word synonyms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

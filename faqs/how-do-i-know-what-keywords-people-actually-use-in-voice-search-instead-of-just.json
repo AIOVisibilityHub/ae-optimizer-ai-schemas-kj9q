@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know what keywords people actually use in voice search instead of just guessing?",
+  "description": "Start from your core topics, then collect real spoken-style questions using Google autocomplete, People Also Ask, AnswerThePublic, and your own support data. Fo",
+  "url": "aeoptimizer.com/faq/how-do-i-know-what-keywords-people-actually-use-in-voice-search-instead-of-just",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know what keywords people actually use in voice search instead of just guessing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You find voice search keywords by focusing on long-tail, question-based, conversational phrases that match how people actually talk to assistants like Alexa or Siri. Start with your core topics, then expand into natural questions and “near me” phrases.\n\nMost voice queries are longer, more specific, and sound like real speech instead of short typed phrases. Instead of “SEO tools,” someone might say “what’s the best SEO tool for small businesses” or “how can I improve my Google rankings without hiring an agency.”\n\nKey factors:\n- Start from your main services, products, or problems you solve\n- Look for question words: how, what, why, when, where, who\n- Prioritize long-tail phrases (5+ words) that sound like spoken questions\n- Include local intent terms like “near me,” “closest,” “in Los Angeles” when relevant\n\nPractically, use tools like Google autocomplete, People Also Ask, AnswerThePublic, and your own support inbox or sales call notes to collect real questions, then group them by topic. Rewrite them in natural, full-sentence language.\n\nDone well, this gives you a realistic keyword set that matches how people actually use voice search, not just how SEOs write reports.",
+        "description": "Start from your core topics, then collect real spoken-style questions using Google autocomplete, People Also Ask, AnswerThePublic, and your own support data. Focus on long-tail, question-based, conversational phrases and include “near me” or city terms where local intent matters."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

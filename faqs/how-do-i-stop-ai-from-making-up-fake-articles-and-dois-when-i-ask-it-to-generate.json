@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making up fake articles and DOIs when I ask it to generate citations for my research?",
+  "description": "Stop asking AI to invent sources and only use it to format citations for materials you’ve already found yourself. Always open each article or book, confirm the",
+  "url": "aeoptimizer.com/faq/how-do-i-stop-ai-from-making-up-fake-articles-and-dois-when-i-ask-it-to-generate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making up fake articles and DOIs when I ask it to generate citations for my research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI citation tools often hallucinate articles, DOIs, and even entire books when you ask them to “find” sources instead of format ones you already have. You prevent this by separating discovery from formatting.\n\nDiscovery belongs to databases, catalogs, and search engines; AI is most trustworthy when it’s just re‑arranging verified facts you provide.\n\nKey factors:\n- Never accept a citation for a source you haven’t independently found and opened.\n- Treat AI‑generated sources as suggestions to check, not final references.\n- Look for tell‑tale signs: generic titles, suspicious volume/issue numbers, missing DOIs.\n- Use institutional databases, Google Scholar, or publisher sites to validate.\n\nPractically, run discovery with proper search tools, compile a list of real sources, and then feed those details into AI for formatting only. If AI proposes a new article, search for it yourself; if you can’t find it, don’t cite it.\n\nYou’ll avoid the embarrassment of citing things that don’t exist.",
+        "description": "Stop asking AI to invent sources and only use it to format citations for materials you’ve already found yourself. Always open each article or book, confirm the title, authors, date, and DOI or URL, and then let AI handle the styling. If you can’t independently locate a source, don’t include it in your references."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

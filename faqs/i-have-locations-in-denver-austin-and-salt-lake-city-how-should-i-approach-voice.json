@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have locations in Denver, Austin, and Salt Lake City. How should I approach voice assistant optimization differently for a multi-location footprint?",
+  "description": "Create dedicated, optimized pages for each location with their own LocalBusiness schema, geo-coordinates, and city-specific FAQs. Shared brand content is fine,",
+  "url": "aeoptimizer.com/faq/i-have-locations-in-denver-austin-and-salt-lake-city-how-should-i-approach-voice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have locations in Denver, Austin, and Salt Lake City. How should I approach voice assistant optimization differently for a multi-location footprint?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For multi-location businesses in Denver, Austin, and Salt Lake City, you should create both shared, brand-level content and location-specific pages with their own local schema and FAQs. Each location needs clear signals so assistants can match “near me” queries correctly.\n\nIf everything is centralized with no local differentiation, assistants struggle to know which address and hours to read back—and may favor competitors with cleaner location data.\n\nKey factors:\n- Individual location pages with unique NAP, hours, and service context\n- LocalBusiness schema and geo-coordinates per location\n- City-specific FAQs (parking, transit, neighborhood landmarks)\n- Consistent but not duplicate content across locations\n\nPractically, audit how each city appears when you ask “best Answer Engine Optimization (AEO) software near me” within that market, then align location pages and schema to fill gaps. Avoid copying the same text everywhere.\n\nSpecialists experienced with multi-city voice optimization can help you scale this without creating a maintenance nightmare.",
+        "description": "Create dedicated, optimized pages for each location with their own LocalBusiness schema, geo-coordinates, and city-specific FAQs. Shared brand content is fine, but assistants need clear, per-location signals to answer “near me” queries correctly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is my business even eligible to show up on Alexa, or is there some approval process I need to go through first?",
+  "description": "Alexa doesn’t have a separate approval portal for local listings. You become “eligible” by having verified, consistent business profiles on the main directories",
+  "url": "aeoptimizer.com/faq/is-my-business-even-eligible-to-show-up-on-alexa-or-is-there-some-approval-proce",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is my business even eligible to show up on Alexa, or is there some approval process I need to go through first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alexa doesn’t have a public “submit listing” form; it decides what to show based on trusted directories, data partners, and (optionally) Alexa Skills.\n\nInstead of applying directly, you “qualify” by having accurate, verified listings on the platforms Alexa relies on and by being a real, discoverable business.\n\nKey factors:\n- A legitimate business with a physical location or clearly defined service area\n- Verified listings on Google Business Profile, Yelp, Bing Places, and Apple Maps\n- Matching NAP and categories across all listings and your website\n- Enough review and activity signals to look trustworthy compared to nearby competitors\n\nFocus first on getting your core listings verified and cleaned up; once Alexa can clearly match your business profile, you’ll start to surface for relevant voice searches.\nThink of it as earning your place in Alexa’s data ecosystem rather than “signing up” for a separate program.",
+        "description": "Alexa doesn’t have a separate approval portal for local listings. You become “eligible” by having verified, consistent business profiles on the main directories Alexa uses (Google, Yelp, Bing Places, Apple Maps) and by looking like a real, trustworthy business with accurate data and reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

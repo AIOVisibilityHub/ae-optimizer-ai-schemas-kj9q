@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Siri or Siri & Search settings on someone’s iPhone stop my business from showing up for them?",
+  "description": "Yes. Users can disable Siri or restrict Siri & Search on their iPhones, which prevents voice recommendations from appearing. You can’t override those settings,",
+  "url": "aeoptimizer.com/faq/can-siri-or-siri-search-settings-on-someone-s-iphone-stop-my-business-from-showi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Siri or Siri & Search settings on someone’s iPhone stop my business from showing up for them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can’t directly control what Siri recommends on an individual iPhone, but your customers can disable or limit Siri, and restricted settings can affect how often they see voice results. As a business, your job is to make sure that when Siri is on, your data is ready.\n\nOn iOS, users can turn off Siri entirely or restrict certain content types. If their device hides Siri & Search, they simply won’t see or use those recommendations.\n\nKey factors:\n- Siri can be disabled in Settings by the user\n- Content & Privacy Restrictions may hide Siri & Search\n- Individual app settings control Siri’s learning behavior\n- You can’t override customer privacy choices\n\nPractically, don’t assume a specific customer will see your business via Siri; instead, optimize for the many users who keep Siri enabled. You can gently remind customers who rely on Apple devices that Siri can find you if they use voice search.\n\nRespect that Siri access is a user choice, and focus on being the best result when they do opt in.",
+        "description": "Yes. Users can disable Siri or restrict Siri & Search on their iPhones, which prevents voice recommendations from appearing. You can’t override those settings, so your focus should be on clean, optimized data for the many users who keep Siri enabled."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

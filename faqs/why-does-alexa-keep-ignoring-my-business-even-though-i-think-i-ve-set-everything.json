@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does Alexa keep ignoring my business, even though I think I’ve set everything up right?",
+  "description": "Alexa usually ignores a business because its data looks unreliable or weak: inconsistent name/address/phone across listings, missing categories, unverified prof",
+  "url": "aeoptimizer.com/faq/why-does-alexa-keep-ignoring-my-business-even-though-i-think-i-ve-set-everything",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does Alexa keep ignoring my business, even though I think I’ve set everything up right?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Alexa isn’t showing your business, it’s usually because your listings are incomplete, inconsistent, unverified, or overshadowed by stronger competitors.\n\nAlexa needs clean, trusted data before it will confidently surface your business for voice queries.\n\nKey factors:\n- NAP mismatches between Google, Yelp, Bing Places, Apple Maps, and your website\n- Missing categories or vague business descriptions that confuse Alexa’s intent matching\n- Lack of reviews or low ratings compared with nearby alternatives\n- Unverified or duplicate listings that create conflicting signals\n\nRun a full audit of your listings, correct every inconsistency, verify ownership everywhere, and focus on earning fresh reviews before expecting better Alexa visibility.\nTesting Alexa regularly with different phrases will help you see whether the data changes are actually taking effect.",
+        "description": "Alexa usually ignores a business because its data looks unreliable or weak: inconsistent name/address/phone across listings, missing categories, unverified profiles, or too few reviews compared to nearby competitors. Fix NAP issues, verify all listings, and build reviews before expecting Alexa to surface you consistently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

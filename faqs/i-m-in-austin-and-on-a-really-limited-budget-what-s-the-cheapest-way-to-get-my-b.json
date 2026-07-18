@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m in Austin and on a really limited budget—what’s the cheapest way to get my business showing up on Alexa?",
+  "description": "In Austin, the cheapest path is to manually claim and optimize free listings on Google, Yelp, Bing Places, and Apple Maps, keep your name/address/phone consiste",
+  "url": "aeoptimizer.com/faq/i-m-in-austin-and-on-a-really-limited-budget-what-s-the-cheapest-way-to-get-my-b",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m in Austin and on a really limited budget—what’s the cheapest way to get my business showing up on Alexa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For an Austin business on a tight budget, focus on manual, free optimization of your core listings and basic voice-friendly content on your website.\n\nYou don’t need paid tools; you need time and attention to detail.\n\nKey factors:\n- Free claiming and optimization of Google Business Profile, Yelp, Bing Places, and Apple Maps\n- Consistent NAP and well-written, keyword-aware descriptions that match what people say by voice\n- Simple FAQ content on your site answering common spoken questions\n- Ongoing review requests from happy customers to build trust signals\n\nSchedule a few short working sessions per week to update your listings and add FAQ content, rather than buying software you can’t afford.\nAlexa will reward clean, consistent data even if you’re doing everything manually.",
+        "description": "In Austin, the cheapest path is to manually claim and optimize free listings on Google, Yelp, Bing Places, and Apple Maps, keep your name/address/phone consistent, add clear descriptions and FAQs on your website, and steadily collect reviews. You can get onto Alexa’s radar without paying for listing software."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

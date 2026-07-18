@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What results should I expect from voice search near me optimization?",
+  "description": "Expect more visibility for high-intent local searches, especially calls, directions, and bookings. It works best when people are already ready to act.",
+  "url": "aeoptimizer.com/faq/what-results-should-i-expect-from-voice-search-near-me-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What results should I expect from voice search near me optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ideal outcome is more visibility for nearby, high-intent searches such as calls, directions, bookings, and visits. Voice search usually helps most when the customer already knows what they want and is ready to act quickly.",
+        "description": "Expect more visibility for high-intent local searches, especially calls, directions, and bookings. It works best when people are already ready to act."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

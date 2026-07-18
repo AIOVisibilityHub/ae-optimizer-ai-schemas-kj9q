@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do reviews affect whether Alexa recommends my business, and what’s the best way to build them up?",
+  "description": "Alexa relies heavily on reviews from sites like Google and Yelp to decide which businesses to recommend. Build steady, authentic reviews by asking customers aft",
+  "url": "aeoptimizer.com/faq/how-do-reviews-affect-whether-alexa-recommends-my-business-and-what-s-the-best-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do reviews affect whether Alexa recommends my business, and what’s the best way to build them up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Asking for reviews in the right way and then responding to them thoughtfully helps Alexa trust your business more and recommend you for competitive queries.\n\nAlexa leans on review volume and quality from sources like Google and Yelp.\n\nKey factors:\n- Make review requests part of your standard post-service or checkout process\n- Aim for steady review growth rather than occasional bursts\n- Respond to both positive and negative reviews to show you’re active and engaged\n- Keep your NAP consistent so reviews attach to the correct business profile\n\nFocus on authentic reviews from real customers, and never try to game the system with fake or incentivized feedback.\nHealthy review activity is one of the strongest signals you can send into Alexa’s ecosystem.",
+        "description": "Alexa relies heavily on reviews from sites like Google and Yelp to decide which businesses to recommend. Build steady, authentic reviews by asking customers after service, responding to feedback, and keeping your listing data consistent so reviews attach to the right profile, boosting your trust signals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I set things up with Siri if my brand has locations in Austin and Salt Lake City?",
+  "description": "Create separate Apple Maps listings for each city location, use distinct addresses and phone numbers consistently in local directories, and build city-specific",
+  "url": "aeoptimizer.com/faq/how-should-i-set-things-up-with-siri-if-my-brand-has-locations-in-austin-and-sal",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I set things up with Siri if my brand has locations in Austin and Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you have multiple locations (say, Austin and Salt Lake City), each location needs its own properly configured Apple Maps listing, and your website should clearly separate and mark them up. Siri treats each location as a distinct entity anchored in its city.\n\nCombining everything into one vague listing confuses distance and relevance, making it harder for Siri to serve the right branch for local queries.\n\nKey factors:\n- Separate Apple Maps entries for each physical location\n- Unique NAP details per location, consistently used in local citations\n- Location-specific pages with local-schema on your website\n- Reviews that reference each city location\n\nPractically, claim or create individual Apple Maps profiles for each store or office, then build dedicated pages on your website for Austin, Salt Lake City, etc., with matching addresses and FAQs. Encourage reviews that clearly mention the specific branch.\n\nTreat each location as its own “Siri-ready” business, even if they share a brand name.",
+        "description": "Create separate Apple Maps listings for each city location, use distinct addresses and phone numbers consistently in local directories, and build city-specific pages with local-schema on your site. Siri then recognizes each branch as a separate, local result."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

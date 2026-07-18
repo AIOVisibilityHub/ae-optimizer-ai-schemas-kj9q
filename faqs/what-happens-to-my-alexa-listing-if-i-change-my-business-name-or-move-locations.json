@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens to my Alexa listing if I change my business name or move locations, and how do I avoid a mess?",
+  "description": "If you rebrand or move, Alexa can show wrong or mixed info unless you update every major listing (Google, Yelp, Bing Places, Apple Maps), change your website NA",
+  "url": "aeoptimizer.com/faq/what-happens-to-my-alexa-listing-if-i-change-my-business-name-or-move-locations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens to my Alexa listing if I change my business name or move locations, and how do I avoid a mess?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your business rebrands or moves, Alexa can get confused unless you carefully update and align all of your listings and website details.\n\nMismatched old and new data is one of the biggest causes of Alexa errors.\n\nKey factors:\n- Update Google, Yelp, Bing Places, Apple Maps, and data aggregators with the new name/address\n- Change your website NAP and structured data to match the new details\n- Close or merge duplicate old listings instead of leaving them live\n- Notify regular customers and encourage new reviews under the updated branding\n\nTreat a move or rebrand as a full data migration project and plan for several weeks where Alexa may show mixed information.\nThe more thorough you are about cleaning up old profiles, the faster Alexa will lock onto your new identity.",
+        "description": "If you rebrand or move, Alexa can show wrong or mixed info unless you update every major listing (Google, Yelp, Bing Places, Apple Maps), change your website NAP and structured data, and close old duplicates. Treat it like a full data migration so Alexa quickly adopts your new name and address."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

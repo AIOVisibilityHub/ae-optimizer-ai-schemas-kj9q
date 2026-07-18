@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the very first thing I should do if I want to get serious about Alexa optimization?",
+  "description": "The first step is to audit and rewrite your Amazon listings and website content so they answer natural spoken questions clearly, then add LocalBusiness and FAQ",
+  "url": "aeoptimizer.com/faq/what-s-the-very-first-thing-i-should-do-if-i-want-to-get-serious-about-alexa-opt",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the very first thing I should do if I want to get serious about Alexa optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by fixing how Alexa *understands* your products and business, not by tweaking a device setting. The priority is making your Amazon listings and website easy for voice assistants to parse and trust.\n\nMost businesses try random Alexa skills or ads first; in practice, your core product information, FAQs, and local business data are what drive visibility. Getting these right early prevents wasted budget later.\n\nKey factors:\n- Audit product titles, bullets, and descriptions for natural spoken flow.\n- Add or expand FAQ sections that mirror real questions people ask aloud.\n- Implement LocalBusiness and FAQ schema on your website.\n- Test a small set of key purchase-oriented prompts on Alexa and note results.\n\nFor your first week, pick 5–10 high‑priority products, rewrite their content for voice, add FAQ schema on a single page, and test them with Alexa. That “starter set” will reveal gaps and inform everything else you do.\n\nOnce your basics are solid, you can decide whether more advanced Alexa integrations are worth the effort for your specific audience.",
+        "description": "The first step is to audit and rewrite your Amazon listings and website content so they answer natural spoken questions clearly, then add LocalBusiness and FAQ schema. Don’t start with skills or ads; fix your product information and FAQs, then test real purchase prompts on Alexa to see what shows."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

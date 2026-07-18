@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I need to change on my website so AI answer engines actually cite my content instead of my competitors?",
+  "description": "You need authoritative, well‑structured content: deep guides that directly answer key questions, clear headings, short focused paragraphs, visible dates and aut",
+  "url": "aeoptimizer.com/faq/what-do-i-need-to-change-on-my-website-so-ai-answer-engines-actually-cite-my-con",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I need to change on my website so AI answer engines actually cite my content instead of my competitors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get your content cited by AI answer engines, you need to publish clearly structured, authoritative resources that directly answer common questions better than competitors. Schema markup, clean headings, and unique data are your leverage points.\n\nAI systems scan the web for trustworthy, well‑organized pages when generating answers. If your site in Los Angeles or Austin doesn’t speak in that language, it’s easy to be ignored.\n\nKey factors:\n- Create in‑depth, question‑focused guides with original data and clear takeaways.\n- Use semantic HTML (clean headings, one H1, short paragraphs) and FAQPage/Article schema.\n- Surface dates, authors, and entities clearly (no buried metadata).\n- Monitor when and where AI answer tools already cite you or your competitors.\n\nIn practice, pick 5–10 high‑value topics, build definitive guides, mark them up with proper schema, and periodically query major AI search tools to see which domains get referenced. Improve your content until you consistently show up.\n\nYou’ll be building long‑term visibility, not chasing one‑off tricks.",
+        "description": "You need authoritative, well‑structured content: deep guides that directly answer key questions, clear headings, short focused paragraphs, visible dates and authors, and proper schema (Article, FAQPage) that matches the page. Then regularly test AI answer tools and refine your pages until they consistently select your site as a cited source."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main risks or downsides of going heavy on voice search keywords?",
+  "description": "The main risks are unnatural, awkward language; keyword-stuffed content; pages created just to match obscure phrases; and answers that ignore user intent. Use v",
+  "url": "aeoptimizer.com/faq/what-are-the-main-risks-or-downsides-of-going-heavy-on-voice-search-keywords",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main risks or downsides of going heavy on voice search keywords?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risk with voice search keywords is over-optimizing for unnatural phrases or chasing volume instead of intent, which can hurt both rankings and user experience. You also risk thin content if you create pages just to “match” queries.\n\nVoice assistants favor answers that are accurate, concise, and natural. Trying to force awkward wording or stuffing every variant into a single page can backfire.\n\nKey factors:\n- Unnatural language that doesn’t read like real speech\n- Keyword stuffing, especially repeating similar question variants\n- Ignoring intent (e.g., answering “how” questions with sales copy)\n- Creating low-value pages solely to target obscure long-tail phrases\n\nPractically, use voice keywords as a guide for content structure, but always prioritize clarity, usefulness, and honest answers. If a phrase sounds weird when read out loud, don’t build content around it.\n\nA healthy voice strategy balances search patterns with genuine, human-friendly communication.",
+        "description": "The main risks are unnatural, awkward language; keyword-stuffed content; pages created just to match obscure phrases; and answers that ignore user intent. Use voice keywords to guide structure, but always prioritize natural speech, clear utility, and concise answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

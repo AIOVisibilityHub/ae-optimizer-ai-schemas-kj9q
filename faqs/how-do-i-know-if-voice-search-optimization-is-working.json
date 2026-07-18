@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if voice search optimization is working?",
+  "description": "Track calls, direction requests, bookings, and query impressions. Those show whether voice search is bringing real local action.",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-voice-search-optimization-is-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if voice search optimization is working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The smartest approach is to measure calls, direction requests, bookings, and impression changes for question-based queries. Voice search success is not just rankings; it is whether more local customers take action after finding you.",
+        "description": "Track calls, direction requests, bookings, and query impressions. Those show whether voice search is bringing real local action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

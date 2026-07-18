@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How important is structured data on my website for getting listed and recommended by Alexa, and what should I add?",
+  "description": "Structured data isn’t required but is very helpful. Add LocalBusiness schema for your name/address/phone/hours and FAQ schema for common questions, making sure",
+  "url": "aeoptimizer.com/faq/how-important-is-structured-data-on-my-website-for-getting-listed-and-recommende",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How important is structured data on my website for getting listed and recommended by Alexa, and what should I add?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structured data on your website (like LocalBusiness and FAQ schema) helps Alexa read and understand your information directly, instead of relying only on third-party listings.\n\nIt’s not mandatory, but it can give you a meaningful edge.\n\nKey factors:\n- LocalBusiness schema can describe your name, address, phone, hours, and services\n- FAQ schema lets Alexa answer common questions using your on-site content\n- Structured data must match your directory NAP and descriptions to avoid conflicts\n- Implementation can be done via plugins, generators, or manual JSON-LD snippets\n\nStart with basic LocalBusiness schema and one well-crafted FAQ section, then validate your markup with available testing tools before expecting benefits.\nThink of schema as making your website “speak machine” so Alexa can understand it more reliably.",
+        "description": "Structured data isn’t required but is very helpful. Add LocalBusiness schema for your name/address/phone/hours and FAQ schema for common questions, making sure it matches your directory data. This gives Alexa a direct, machine-readable source for your business info and answers, improving understanding and recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

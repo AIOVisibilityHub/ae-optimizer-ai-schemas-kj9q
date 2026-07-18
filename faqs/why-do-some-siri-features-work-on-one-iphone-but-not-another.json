@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do some Siri features work on one iPhone but not another?",
+  "description": "Not all Siri features are available on every device. Hardware support and app permissions can determine whether a command works.",
+  "url": "aeoptimizer.com/faq/why-do-some-siri-features-work-on-one-iphone-but-not-another",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do some Siri features work on one iPhone but not another?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your device and permissions matter most. Some advanced Siri capabilities depend on supported hardware, app access, and Apple account permissions, so a feature can be unavailable even when Siri itself is on. If a command fails, verify the related app permissions and whether your device supports that Siri function.",
+        "description": "Not all Siri features are available on every device. Hardware support and app permissions can determine whether a command works."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

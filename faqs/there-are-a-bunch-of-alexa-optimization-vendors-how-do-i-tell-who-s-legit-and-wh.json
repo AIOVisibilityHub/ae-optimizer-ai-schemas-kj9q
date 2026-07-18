@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "There are a bunch of “Alexa optimization” vendors—how do I tell who’s legit and who’s just selling buzzwords?",
+  "description": "Look for vendors with a clear, data‑driven process: they should build prompt sets from search terms and reviews, map those to content changes, test Alexa respon",
+  "url": "aeoptimizer.com/faq/there-are-a-bunch-of-alexa-optimization-vendors-how-do-i-tell-who-s-legit-and-wh",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "There are a bunch of “Alexa optimization” vendors—how do I tell who’s legit and who’s just selling buzzwords?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing between vendors promising Alexa optimization, focus less on buzzwords and more on whether they use real customer data, structured testing, and content discipline. Many offerings are vague or gimmicky.\n\nYou want someone who can explain how they build prompt sets, measure results, and integrate voice with your broader search and product strategy.\n\nKey factors:\n- Clear methodology: prompt design, content mapping, and iterative testing.\n- Use of search term reports, reviews, and FAQ analysis as inputs.\n- Ability to show before/after examples tied to measurable outcomes.\n- Willingness to start with a scoped pilot rather than a huge commitment.\n\nAsk each vendor to walk through a detailed case study and a proposed 90‑day plan for your business, including how they’ll test Alexa prompts and what metrics they’ll track.\n\nIf their answers stay high‑level or rely on proprietary “secret sauce,” treat that as a warning sign and keep looking.",
+        "description": "Look for vendors with a clear, data‑driven process: they should build prompt sets from search terms and reviews, map those to content changes, test Alexa responses regularly, and tie results to sales or leads. Avoid providers who stay vague or push large contracts without a scoped 90‑day pilot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

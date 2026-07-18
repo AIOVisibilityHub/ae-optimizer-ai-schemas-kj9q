@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a big website to benefit from Google Assistant optimization?",
+  "description": "No. Even small businesses can benefit if their pages, local profile, and answers are clear and consistent.",
+  "url": "aeoptimizer.com/faq/do-i-need-a-big-website-to-benefit-from-google-assistant-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a big website to benefit from Google Assistant optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you already have strong rankings, fast pages, and a well-maintained local profile, optimization may be a quick tune-up rather than a major project. If your content is thin or your business information is inconsistent, you will need more cleanup first.",
+        "description": "No. Even small businesses can benefit if their pages, local profile, and answers are clear and consistent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

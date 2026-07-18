@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with voice assistant optimization? Are there mistakes that can actually hurt my visibility or confuse Siri/Google?",
+  "description": "Risks include overly long or vague answers, broken or duplicated schema, inconsistent local data, and slow mobile pages. These can make assistants bypass your c",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-voice-assistant-optimization-are-there-mistakes-that-can",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with voice assistant optimization? Are there mistakes that can actually hurt my visibility or confuse Siri/Google?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common pitfalls include writing answers that are too long or vague, over-stuffing keywords, implementing broken schema, and ignoring local data quality. These can cause assistants to skip your content or even reduce trust in your site.\n\nVoice assistants reward clarity, brevity, and clean structure. Anything that confuses crawlers or users works against you.\n\nKey factors:\n- Bloated answers instead of tight, 40–60 word responses\n- Misconfigured or duplicated FAQPage/Question/Answer schema\n- Inconsistent name, address, phone data across listings\n- Slow mobile performance and intrusive popups\n\nPractically, use schema validators and page-speed tools before and after changes, and avoid rewriting content solely for “robot talk.” Keep language natural and user-centric.\n\nIf you’ve had a bad SEO experience before, a careful, audit-driven approach to voice optimization can help you avoid repeating the same mistakes.",
+        "description": "Risks include overly long or vague answers, broken or duplicated schema, inconsistent local data, and slow mobile pages. These can make assistants bypass your content or reduce trust. Aim for concise, natural answers and clean, validated structured data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

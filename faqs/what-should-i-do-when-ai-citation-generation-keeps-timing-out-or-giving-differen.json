@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when AI citation generation keeps timing out or giving different answers every time I run the same prompt?",
+  "description": "Simplify and batch your workflow: use short, single‑purpose prompts that focus only on formatting citations for a small list of verified sources, and run them i",
+  "url": "aeoptimizer.com/faq/what-should-i-do-when-ai-citation-generation-keeps-timing-out-or-giving-differen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when AI citation generation keeps timing out or giving different answers every time I run the same prompt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI citation results are delayed or inconsistent, shift to a more structured, batch‑oriented workflow and simplify your prompts. Long, tangled instructions and mixed tasks often cause slow or unreliable responses.\n\nAI tools perform best when you give them one job at a time on clean input.\n\nKey factors:\n- Avoid multi‑step prompts that combine discovery, evaluation, and formatting.\n- Break large reference lists into smaller, manageable batches.\n- Use clear, repetitive prompt structures for each batch.\n- Have a fallback: a manual or alternative tool for critical deadlines.\n\nPractically, rewrite your prompt to focus purely on citation formatting for a small list of sources, then run multiple batches instead of one giant request. Record the prompt that gives the most stable output and reuse it.\n\nThis turns a flaky AI experience into a repeatable, predictable system.",
+        "description": "Simplify and batch your workflow: use short, single‑purpose prompts that focus only on formatting citations for a small list of verified sources, and run them in multiple batches instead of one huge request. Avoid mixing discovery and formatting, and keep a manual or alternative tool ready as a fallback for time‑sensitive projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

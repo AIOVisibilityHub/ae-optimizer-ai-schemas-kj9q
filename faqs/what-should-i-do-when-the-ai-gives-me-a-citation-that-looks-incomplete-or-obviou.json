@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when the AI gives me a citation that looks incomplete or obviously wrong, but I’m on a deadline?",
+  "description": "When AI citations look wrong or incomplete, immediately check the original source or a trusted database, then manually fill in missing details and fix the forma",
+  "url": "aeoptimizer.com/faq/what-should-i-do-when-the-ai-gives-me-a-citation-that-looks-incomplete-or-obviou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when the AI gives me a citation that looks incomplete or obviously wrong, but I’m on a deadline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI gives you a citation that looks incomplete or wrong, treat it as a rough draft and fix it using the original source, not guesswork. Never submit citations that you haven’t personally validated against the actual document.\n\nIncomplete entries are common when the AI is missing data or mixing styles; your job is to close those gaps using trustworthy references.\n\nKey factors:\n- Always cross‑check with the original source or a reliable database record.\n- Fill in missing authors, dates, and publishers from the real document.\n- Correct style issues (capitalization, italics, punctuation) using official guides.\n- Document any edge cases so you handle them consistently across your work.\n\nPractically, highlight all AI‑generated citations that feel “off,” open the underlying materials, and repair the entries manually. If you're unsure, consult a librarian or style manual rather than asking AI to “guess” again.\n\nThis keeps AI in a support role while you guard the accuracy of the final output.",
+        "description": "When AI citations look wrong or incomplete, immediately check the original source or a trusted database, then manually fill in missing details and fix the formatting. Don’t submit anything you haven’t validated yourself. Use AI as a formatting assistant, not as the final authority on what belongs in your references."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

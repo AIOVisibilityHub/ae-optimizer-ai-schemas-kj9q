@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How important are “best,” “cheapest,” and similar intent words in voice search keywords?",
+  "description": "They’re important because people often say “best,” “cheapest,” or “closest” in voice queries, but they must be used honestly and supported by reviews, pricing,",
+  "url": "aeoptimizer.com/faq/how-important-are-best-cheapest-and-similar-intent-words-in-voice-search-keyword",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How important are “best,” “cheapest,” and similar intent words in voice search keywords?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keywords like “best,” “cheapest,” and “closest” matter a lot in voice search because people frequently include quality and cost signals in spoken queries. But you should use them realistically, not as empty superlatives.\n\nAssistants try to match those qualifiers with reviews, pricing, proximity, and relevance. Claiming “best” without supporting signals won’t carry much weight.\n\nKey factors:\n- Use modifiers that reflect real user intent: best, affordable, closest, quickest\n- Support “best” with strong ratings, detailed content, and topical authority\n- Align “cheapest” or “affordable” with transparent pricing or value explanations\n- Avoid spammy overuse of qualifiers across every heading and title\n\nPractically, embed these intent words into natural questions like “what’s the best budget-friendly option for…” and answer them honestly, highlighting who you’re truly best for (e.g., beginners, enterprise, local customers).\n\nIntent-rich qualifiers help capture more precise voice queries when grounded in real value.",
+        "description": "They’re important because people often say “best,” “cheapest,” or “closest” in voice queries, but they must be used honestly and supported by reviews, pricing, and strong content. Embed them in natural questions and explain who you’re actually best or most affordable for."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get Siri to behave consistently across my iPhone, iPad, and Mac?",
+  "description": "Use the same Apple ID, language, region, and permissions across devices for more consistent Siri behavior.",
+  "url": "aeoptimizer.com/faq/how-do-i-get-siri-to-behave-consistently-across-my-iphone-ipad-and-mac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get Siri to behave consistently across my iPhone, iPad, and Mac?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you want smarter Siri behavior across Apple devices, focus on consistency: same Apple ID, same language, same region, and the same core permissions on each device. That makes handoff-style experiences and suggestions more predictable. For business or team workflows, custom Shortcuts can keep the process consistent across users.",
+        "description": "Use the same Apple ID, language, region, and permissions across devices for more consistent Siri behavior."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

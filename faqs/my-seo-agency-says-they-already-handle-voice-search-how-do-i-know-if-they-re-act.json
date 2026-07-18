@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My SEO agency says they “already handle” voice search—how do I know if they’re actually doing it right?",
+  "description": "Ask your SEO agency to show specific work on question‑based content, featured snippets, FAQ/LocalBusiness schema, mobile speed, and local “near me” queries. If",
+  "url": "aeoptimizer.com/faq/my-seo-agency-says-they-already-handle-voice-search-how-do-i-know-if-they-re-act",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My SEO agency says they “already handle” voice search—how do I know if they’re actually doing it right?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your current SEO agency hasn’t specifically addressed voice search—question‑based content, schema, and local optimization—there’s a good chance you’re missing opportunities. Traditional SEO work alone rarely covers the nuances of voice.\n\nYou don’t need a separate provider, but you do need to confirm that voice considerations are explicitly in the scope and reporting. Ask directly rather than assuming.\n\nKey factors:\n- Whether they’re optimizing for featured snippets and question queries\n- Use of FAQ and LocalBusiness schema, not just generic metadata\n- Attention to mobile speed and Core Web Vitals\n- Monitoring of assistant‑friendly queries and “near me” performance\n\nPractically, request a review focused on voice readiness and a plan for closing gaps. If your agency can’t articulate a voice strategy, consider augmenting with specialists or changing vendors.\n\nPutting voice search on the agenda ensures you’re not stuck with 2015‑era SEO in a 2026 search ecosystem.",
+        "description": "Ask your SEO agency to show specific work on question‑based content, featured snippets, FAQ/LocalBusiness schema, mobile speed, and local “near me” queries. If they can’t demonstrate concrete voice‑focused changes and results, voice search likely isn’t truly covered and you may need added expertise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

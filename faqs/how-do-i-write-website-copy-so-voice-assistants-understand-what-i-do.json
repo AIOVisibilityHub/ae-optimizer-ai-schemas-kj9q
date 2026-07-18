@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I write website copy so voice assistants understand what I do?",
+  "description": "Use plain, conversational language and describe services the way real customers ask for them. Clear wording helps assistants match your page to spoken queries.",
+  "url": "aeoptimizer.com/faq/how-do-i-write-website-copy-so-voice-assistants-understand-what-i-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I write website copy so voice assistants understand what I do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only if you describe them naturally and consistently on your pages. A voice assistant is more likely to understand “same-day HVAC repair in Austin” than a vague service label with no context.",
+        "description": "Use plain, conversational language and describe services the way real customers ask for them. Clear wording helps assistants match your page to spoken queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

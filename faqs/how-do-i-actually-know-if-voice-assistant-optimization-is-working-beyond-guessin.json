@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually know if voice assistant optimization is working, beyond guessing? What should I be measuring?",
+  "description": "Measure voice optimization by combining assistant tests with analytics: track which queries trigger your brand as a spoken answer, changes in impressions and sn",
+  "url": "aeoptimizer.com/faq/how-do-i-actually-know-if-voice-assistant-optimization-is-working-beyond-guessin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually know if voice assistant optimization is working, beyond guessing? What should I be measuring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best way to measure impact is to combine assistant testing with analytics from search and local platforms. You should track changes in impressions, clicks, featured snippets, and how often assistants read your brand or pages aloud for target queries.\n\nVoice results don’t always show up as a separate metric, so you need to triangulate evidence rather than rely on one dashboard.\n\nKey factors:\n- Regular test scripts using Siri, Alexa, and Google Assistant\n- Search console data for question-based and long-tail queries\n- Local profile insights (views, calls, direction requests)\n- Ranking and snippet monitoring for key FAQs and HowTos\n\nPractically, define a simple monthly checklist: ask a set of core questions, log which result is spoken, and compare against your analytics trends. Over time, look for alignment between optimization work and visibility gains.\n\nAn experienced team can set up practical reporting so you can see real-world voice impact instead of just raw SEO metrics.",
+        "description": "Measure voice optimization by combining assistant tests with analytics: track which queries trigger your brand as a spoken answer, changes in impressions and snippets for question-based searches, and shifts in local profile actions like calls and directions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

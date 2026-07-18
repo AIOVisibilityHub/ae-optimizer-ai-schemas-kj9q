@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m on a brutal deadline—what’s the safest way to lean on AI for citation generation without wrecking my credibility?",
+  "description": "Under time pressure, use AI only to format citations for sources you’ve already confirmed, and keep your prompts narrow and style‑specific. Batch your source li",
+  "url": "aeoptimizer.com/faq/i-m-on-a-brutal-deadline-what-s-the-safest-way-to-lean-on-ai-for-citation-genera",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m on a brutal deadline—what’s the safest way to lean on AI for citation generation without wrecking my credibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a rush, you can safely use AI citation tools by limiting their role to formatting and keeping your prompts extremely focused. The key is to avoid letting urgency push you into trusting unverified, AI‑invented sources.\n\nSpeed comes from organization: if your source list is clean, AI can handle the rest quickly without massive risk.\n\nKey factors:\n- Have a prepared list of sources with complete details before you start.\n- Use concise prompts for one style and one output type at a time.\n- Prioritize verification for high‑impact citations (data, controversial claims).\n- Reserve a final 10–15 minutes for quick manual checks.\n\nPractically, batch your sources, paste them into AI with explicit style instructions, and scan the output for obvious issues (wrong author order, date mismatches, formatting errors). Fix the worst ones first before submission.\n\nYou’ll meet your deadline while keeping your references defensible if someone reviews them later.",
+        "description": "Under time pressure, use AI only to format citations for sources you’ve already confirmed, and keep your prompts narrow and style‑specific. Batch your source list, generate the references, then quickly scan and correct obvious errors in authors, dates, and titles. This gives you speed without blindly trusting AI‑invented details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

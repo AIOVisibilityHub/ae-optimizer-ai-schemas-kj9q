@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Google Assistant optimization help me get more leads?",
+  "description": "Yes, if your pages answer high-intent questions clearly. Voice visibility can support more calls, bookings, and direction requests.",
+  "url": "aeoptimizer.com/faq/can-google-assistant-optimization-help-me-get-more-leads",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Google Assistant optimization help me get more leads?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, especially if your audience asks very specific questions like pricing, hours, service areas, or how to book. Voice search usually rewards pages that answer those exact questions cleanly and quickly.",
+        "description": "Yes, if your pages answer high-intent questions clearly. Voice visibility can support more calls, bookings, and direction requests."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’re a small content team in Austin—how should we integrate AI citation generation into our workflow without creating chaos?",
+  "description": "Create a shared AI citation workflow: standard prompts, agreed‑upon styles, and clear rules about what gets manually reviewed. Connect AI outputs to your existi",
+  "url": "aeoptimizer.com/faq/we-re-a-small-content-team-in-austin-how-should-we-integrate-ai-citation-generat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’re a small content team in Austin—how should we integrate AI citation generation into our workflow without creating chaos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For agencies and startups in Austin or Denver, AI citation generation works best when plugged into a broader content and knowledge workflow, not used ad‑hoc by everyone. Centralizing prompts and patterns reduces inconsistencies.\n\nA loose, “every person does their own thing” approach leads to mismatched formats and harder audits later.\n\nKey factors:\n- Standardize prompts and style choices across the team.\n- Connect AI with your existing knowledge base or reference manager.\n- Define which outputs need manual review versus spot‑checks.\n- Log major AI‑assisted deliverables for transparency and QA.\n\nPractically, nominate one person to design and maintain your AI citation process, including templates, examples, and review rules. Train the team on when to use AI and when to fall back on manual methods.\n\nYou’ll get speed and consistency without losing control of your documentation standards.",
+        "description": "Create a shared AI citation workflow: standard prompts, agreed‑upon styles, and clear rules about what gets manually reviewed. Connect AI outputs to your existing knowledge base or reference manager, and have one person own the process. This gives your Austin team consistent, fast citations without everyone improvising their own methods."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

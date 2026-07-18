@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My business in San Diego is home-based with no storefront—can Alexa still list me, and how should I set that up?",
+  "description": "Yes, Alexa can list a home-based San Diego business if your profiles are set up as a service-area business on Google and other directories, with consistent name",
+  "url": "aeoptimizer.com/faq/my-business-in-san-diego-is-home-based-with-no-storefront-can-alexa-still-list-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My business in San Diego is home-based with no storefront—can Alexa still list me, and how should I set that up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you run a mobile or home-based service in San Diego with no public storefront, you can still show up on Alexa by setting a service area and hiding your exact address where allowed.\n\nAlexa mainly cares that your data sources describe a real, verifiable business in that geographic area.\n\nKey factors:\n- Use service-area settings in Google Business Profile and compatible directories\n- Keep NAP consistent even if your address isn’t publicly displayed everywhere\n- Clearly define your services and coverage zones (e.g., “San Diego County”) in descriptions\n- Maintain reviews tied to your business name and phone number\n\nConfigure your profiles as a service-area business, then test Alexa with location-specific voice queries like “near me in San Diego” from different neighborhoods.\nBeing transparent about where you serve and how to contact you helps Alexa route relevant queries to your listing.",
+        "description": "Yes, Alexa can list a home-based San Diego business if your profiles are set up as a service-area business on Google and other directories, with consistent name, phone, and clearly defined service areas. You don’t need a walk-in storefront; you need verifiable, accurate local data tied to your business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

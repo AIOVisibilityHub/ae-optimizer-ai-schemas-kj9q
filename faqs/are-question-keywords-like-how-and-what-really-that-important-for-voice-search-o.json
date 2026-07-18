@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are question keywords like “how” and “what” really that important for voice search, or is that overhyped?",
+  "description": "Yes—question keywords like “how,” “what,” “where,” and “why” are central to voice search because most people speak to assistants in full questions. Systematical",
+  "url": "aeoptimizer.com/faq/are-question-keywords-like-how-and-what-really-that-important-for-voice-search-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are question keywords like “how” and “what” really that important for voice search, or is that overhyped?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice search heavily favors question phrases starting with how, what, where, why, when, and who—because that’s how people naturally talk to assistants. You should prioritize these, but not ignore other conversational patterns.\n\nA big chunk of voice queries begin with “how do I…,” “what’s the best…,” or “where can I…,” which signals both intent and topic. These are excellent seeds for keyword research and FAQ structures.\n\nKey factors:\n- Systematically brainstorm “how/what/where/why/when/who” questions per topic\n- Include comparison intents: “should I,” “is it better to,” “difference between”\n- Capture troubleshooting phrases: “why is my…,” “what do I do if”\n- Watch your analytics for recurring question patterns on-site search and support\n\nPractically, create a question bank where each row starts with a question word and feels like something a real person would say into their phone. Use these as H2/H3 headings and FAQ questions with concise answers.\n\nQuestion-style keywords are usually the backbone of a sustainable voice search strategy.",
+        "description": "Yes—question keywords like “how,” “what,” “where,” and “why” are central to voice search because most people speak to assistants in full questions. Systematically brainstorm these around your topics, then use them as headings and FAQ questions with clear, concise answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

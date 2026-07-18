@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I already claimed my business in Apple Maps—why is Siri still not showing me for relevant searches?",
+  "description": "Claiming Apple Maps is only step one. Siri skips you when your categories, photos, descriptions, and external listings are weak or inconsistent, or your reviews",
+  "url": "aeoptimizer.com/faq/i-already-claimed-my-business-in-apple-maps-why-is-siri-still-not-showing-me-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I already claimed my business in Apple Maps—why is Siri still not showing me for relevant searches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve claimed Apple Maps but Siri still ignores you, the issue is usually weak categories, poor optimization, or conflicting data across other directories. Just being “in the system” isn’t enough; you need to be the most trustworthy choice for a given query.\n\nSiri compares your profile with others nearby and favors listings that feel complete, popular, and clearly aligned with the question asked.\n\nKey factors:\n- Wrong or overly broad categories in Apple Maps\n- Missing photos, descriptions, or detailed hours\n- Old or mismatched addresses/phones in other directories\n- Low review volume relative to neighbors\n\nPractically, revisit your Apple Maps listing and tune categories to match what customers say out loud, then add strong photos and a keyword-rich description. Run a quick audit of Yelp, Google, and others to fix inconsistent info and actively grow your review base.\n\nThink of Apple Maps as your foundation; if the walls (other listings and reviews) are shaky, Siri won’t feel safe recommending you.",
+        "description": "Claiming Apple Maps is only step one. Siri skips you when your categories, photos, descriptions, and external listings are weak or inconsistent, or your reviews lag behind competitors. Refine your categories, enrich your profile, fix mismatches, and build reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

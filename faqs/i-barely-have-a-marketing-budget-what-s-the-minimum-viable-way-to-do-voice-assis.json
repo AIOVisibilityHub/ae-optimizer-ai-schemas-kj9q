@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I barely have a marketing budget—what’s the minimum viable way to do voice assistant optimization without wasting money?",
+  "description": "On a tight budget, focus on your top pages and Google Business Profile. Add Q&A-style content with concise answers, implement simple FAQ schema, and clean up lo",
+  "url": "aeoptimizer.com/faq/i-barely-have-a-marketing-budget-what-s-the-minimum-viable-way-to-do-voice-assis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I barely have a marketing budget—what’s the minimum viable way to do voice assistant optimization without wasting money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re on a tight budget, focus on a few high-impact changes: adding Q&A content to key pages, implementing basic FAQ schema, and fully optimizing your Google Business Profile. These give you a real chance at voice visibility without large spend.\n\nVoice assistants care most about clear, direct answers and structured, trustworthy data. You can provide both with minimal tools if you’re methodical.\n\nKey factors:\n- Prioritizing your top 5–10 revenue pages for voice-friendly answers\n- Using free schema generators and testing tools\n- Cleaning up local listings and NAP consistency\n- Monitoring results via search console and assistant tests\n\nPractically, block a few hours each week to convert existing content into question-based sections and short, spoken-friendly answers. Then layer schema markup and maintain your local profiles.\n\nIf you later decide to scale, a specialist can build on this foundation instead of starting from scratch.",
+        "description": "On a tight budget, focus on your top pages and Google Business Profile. Add Q&A-style content with concise answers, implement simple FAQ schema, and clean up local listings. These few steps give you realistic voice visibility without major spend."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

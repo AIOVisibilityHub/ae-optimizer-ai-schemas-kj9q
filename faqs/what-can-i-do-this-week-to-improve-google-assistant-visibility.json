@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can I do this week to improve Google Assistant visibility?",
+  "description": "Update your Google Business Profile, rewrite your top FAQs, and fix the most obvious speed or schema issues first.",
+  "url": "aeoptimizer.com/faq/what-can-i-do-this-week-to-improve-google-assistant-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can I do this week to improve Google Assistant visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you need quick wins, focus on your Google Business Profile, your highest-traffic pages, and the questions customers ask most often. If you have more time, add deeper schema, improve mobile speed, and build topic clusters around your main services.",
+        "description": "Update your Google Business Profile, rewrite your top FAQs, and fix the most obvious speed or schema issues first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

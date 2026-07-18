@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it usually take for my business to start showing up on Alexa after I fix my listings?",
+  "description": "It’s typically a matter of weeks, not days. Once you’ve cleaned up and verified your listings on Google, Yelp, Bing Places, Apple Maps, and major directories, e",
+  "url": "aeoptimizer.com/faq/how-long-does-it-usually-take-for-my-business-to-start-showing-up-on-alexa-after",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it usually take for my business to start showing up on Alexa after I fix my listings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect several weeks to a few months before changes to your listings consistently show up in Alexa responses.\n\nMost of Alexa’s data is refreshed on unpredictable cycles, and it depends on multiple sources syncing their updates.\n\nKey factors:\n- Directories like Google, Yelp, and Bing update quickly, but aggregators may take weeks\n- Alexa doesn’t publish its refresh schedule, so there’s no guaranteed timeline\n- Conflicting or incomplete data can delay when Alexa “trusts” your listing enough to show it\n- New businesses usually take longer to appear than established ones with reviews\n\nPractically, assume 4–12 weeks from when you clean and verify your core listings before Alexa responses stabilize, and keep checking your listings during that time.\nIf you’re on a tight timeline, prioritize the biggest data sources first and make sure there are no NAP conflicts.",
+        "description": "It’s typically a matter of weeks, not days. Once you’ve cleaned up and verified your listings on Google, Yelp, Bing Places, Apple Maps, and major directories, expect 4–12 weeks for Alexa’s data sources to sync and for your business to consistently show up in voice results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

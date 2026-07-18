@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I do Google Assistant optimization myself or hire someone?",
+  "description": "DIY works for basic FAQs and profile cleanup. Professional help is better for technical fixes, schema, and multi-location optimization.",
+  "url": "aeoptimizer.com/faq/should-i-do-google-assistant-optimization-myself-or-hire-someone",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I do Google Assistant optimization myself or hire someone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are comparing DIY and professional help, DIY can work for small changes, but a professional is useful when you need technical schema, page-speed repairs, or multi-location cleanup. That is especially true when you are targeting several cities at once.",
+        "description": "DIY works for basic FAQs and profile cleanup. Professional help is better for technical fixes, schema, and multi-location optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

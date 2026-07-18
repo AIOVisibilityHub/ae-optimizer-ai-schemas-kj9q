@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I focus on Google, Apple, Bing, or Yelp for voice search near me?",
+  "description": "Focus on all major platforms, not just one. Consistent business data across Google, Apple, Bing, Yelp, and your site gives the best local signal.",
+  "url": "aeoptimizer.com/faq/should-i-focus-on-google-apple-bing-or-yelp-for-voice-search-near-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I focus on Google, Apple, Bing, or Yelp for voice search near me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For local voice search, comparison usually comes down to Google Business Profile, Apple Business Connect, Bing Places, Yelp, and your own website. The best setup is not one platform alone; it is consistent data across all of them.",
+        "description": "Focus on all major platforms, not just one. Consistent business data across Google, Apple, Bing, Yelp, and your site gives the best local signal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

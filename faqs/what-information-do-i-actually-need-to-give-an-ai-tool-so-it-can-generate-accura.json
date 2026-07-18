@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I actually need to give an AI tool so it can generate accurate citations instead of making stuff up?",
+  "description": "To get accurate citations from AI, you must provide complete source details: author, full title, publication date, publisher, source type, and URL or DOI. Then",
+  "url": "aeoptimizer.com/faq/what-information-do-i-actually-need-to-give-an-ai-tool-so-it-can-generate-accura",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I actually need to give an AI tool so it can generate accurate citations instead of making stuff up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get good citations from AI, you need to feed it structured, complete information and ask for a specific style and output format. If you just paste a URL or vague title, you’re inviting errors and hallucinated details.\n\nAI tools excel when the “raw materials” are clear: author names, full titles, publication dates, and source types. Problems usually come from vague prompts or missing data, not the formatting itself.\n\nKey factors:\n- Provide: author(s), full title, source type (journal, book, website), publication date, publisher, and URL/DOI.\n- Specify: exact style (APA 7, MLA 9, Chicago, etc.) and whether you want a reference entry or in‑text citation.\n- Avoid: asking for citations based only on broad topics or search queries.\n- Include: examples of the format you expect if your needs are complex.\n\nIn practice, build a simple template of source details, paste that into the AI, and ask it to format one citation style at a time. This reduces errors and makes it faster to scan and correct anything the AI gets wrong.\n\nYou’ll look far more credible when your citations are consistent and clearly structured.",
+        "description": "To get accurate citations from AI, you must provide complete source details: author, full title, publication date, publisher, source type, and URL or DOI. Then clearly request a specific style (e.g., APA 7, MLA 9) and output type (reference list entry or in‑text citation). AI formats well, but only when the inputs are precise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

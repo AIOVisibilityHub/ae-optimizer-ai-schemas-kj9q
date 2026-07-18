@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my business is a good fit for Google Assistant optimization?",
+  "description": "If Google can easily pull short answers from your site or profile, you’re a good fit. Clear headings, strong local data, and existing search visibility help mos",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-business-is-a-good-fit-for-google-assistant-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my business is a good fit for Google Assistant optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong sign is when Google can pull a clean, short answer from your page or business profile for common questions. If your content already ranks well, has clear headings, and matches how people speak, you usually have a better starting point.",
+        "description": "If Google can easily pull short answers from your site or profile, you’re a good fit. Clear headings, strong local data, and existing search visibility help most."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

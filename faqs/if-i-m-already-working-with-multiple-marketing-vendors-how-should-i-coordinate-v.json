@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I’m already working with multiple marketing vendors, how should I coordinate voice search optimization so it doesn’t turn into a mess?",
+  "description": "Assign one internal owner for voice search strategy, then give vendors clearly scoped roles—content, technical SEO, or local listings—with shared reporting. Kee",
+  "url": "aeoptimizer.com/faq/if-i-m-already-working-with-multiple-marketing-vendors-how-should-i-coordinate-v",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I’m already working with multiple marketing vendors, how should I coordinate voice search optimization so it doesn’t turn into a mess?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multiple vendors can help with voice search, but you’ll get better results by owning the strategy and handing out clearly scoped tasks. Keep content direction, local priorities, and metrics under your control, and use vendors for specific execution pieces.\n\nConfusion and overlap are common when several agencies all “do SEO” without a shared plan. Voice optimization needs consistent question phrasing, schema approaches, and reporting to avoid wasted effort.\n\nKey factors:\n- A single owner for voice search strategy and KPIs\n- Clear division of work (content vs. technical vs. local listings)\n- Shared access to analytics and Search Console\n- Regular check-ins focused on question-based performance\n\nDocument your voice search roadmap and assign vendors to distinct responsibilities, like schema implementation or local listing management. Review progress against question-style impressions and assistant tests on a regular cadence.\n\nThink of vendors as specialized helpers, not strategic owners, for voice optimization.",
+        "description": "Assign one internal owner for voice search strategy, then give vendors clearly scoped roles—content, technical SEO, or local listings—with shared reporting. Keep question-based KPIs, schema standards, and analytics centralized so multiple partners execute against a single, coherent plan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does Siri forget what I was asking two minutes later?",
+  "description": "Siri only keeps short conversational context. Use complete requests instead of expecting long memory.",
+  "url": "aeoptimizer.com/faq/why-does-siri-forget-what-i-was-asking-two-minutes-later",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does Siri forget what I was asking two minutes later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A common reason people think Siri optimization failed is that they expect Siri to remember context for too long. Siri can handle short follow-ups, but it does not maintain long, multi-day conversation history the way a human assistant would. Use complete requests rather than relying on memory from earlier.",
+        "description": "Siri only keeps short conversational context. Use complete requests instead of expecting long memory."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

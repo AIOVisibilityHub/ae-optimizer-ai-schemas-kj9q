@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the actual process for doing keyword research specifically for voice search?",
+  "description": "Start with a few seed topics, then expand into natural spoken questions using tools like Google autocomplete, People Also Ask, AnswerThePublic, and your own sup",
+  "url": "aeoptimizer.com/faq/what-s-the-actual-process-for-doing-keyword-research-specifically-for-voice-sear",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the actual process for doing keyword research specifically for voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice search keyword research starts with your core topics, then systematically expands into real spoken questions using both tools and customer data. You’re mapping how people *say* their problems, not just how they type them.\n\nUnlike typical keyword lists, voice research focuses on natural sentences, question words, and context like location, urgency, and constraints. You’re trying to mirror how someone would talk to their phone or smart speaker.\n\nKey factors:\n- Define a few seed topics (service types, core problems, product categories)\n- Use tools: Google autocomplete, People Also Ask, AnswerThePublic, QuestionDB\n- Mine internal sources: email support, chat logs, sales call notes, onboarding forms\n- Group questions by intent (how-to, cost, comparison, nearby, troubleshooting)\n\nPractically, build a spreadsheet where each row is a full-sentence query you’d be comfortable reading out loud, then tag it by topic and intent. Prioritize phrases that combine clear intent with realistic wording and some search interest.\n\nTreat this as an ongoing, quarterly process—voice patterns shift as users get more comfortable talking to devices.",
+        "description": "Start with a few seed topics, then expand into natural spoken questions using tools like Google autocomplete, People Also Ask, AnswerThePublic, and your own support/sales data. Capture full-sentence, question-based phrases, group by intent (how-to, cost, comparison, local), and refresh the list quarterly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
