@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I handle “appearing in Perplexity answers” myself, or do I really need to hire an AI/SEO specialist?",
+  "description": "You can do the basics yourself—open crawl access, rewrite pages around questions and answers, and add simple FAQ schema. As your site grows more complex or you",
+  "url": "aeoptimizer.com/faq/can-i-handle-appearing-in-perplexity-answers-myself-or-do-i-really-need-to-hire",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I handle “appearing in Perplexity answers” myself, or do I really need to hire an AI/SEO specialist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can absolutely do the basics yourself: fix robots.txt, structure content around real questions, and add simple FAQ schema using standard generators. Where you typically need help is in complex schema stacks, topic strategy, and systematic tracking.\n\nIf your site is small and fairly simple, DIY can get you meaningful Perplexity visibility.\n\nKey factors:\n- Your comfort with editing robots.txt and JSON‑LD schema\n- Complexity of your site (multiple locations, products, or CMS quirks)\n- Time available to run and log regular Perplexity prompt tests\n- Need for advanced analytics or custom llms.txt strategies\n\nStart DIY by updating a few core pages and implementing FAQPage schema, then watch results for 4–8 weeks. If you hit a ceiling or the technical work feels brittle, consider bringing in an expert to extend the strategy.\n\nThink of it like SEO: the basics are accessible, but specialized support can speed things up and reduce mistakes on larger, multi‑city sites.",
+        "description": "You can do the basics yourself—open crawl access, rewrite pages around questions and answers, and add simple FAQ schema. As your site grows more complex or you want deeper tracking and schema stacks, an AI/SEO specialist becomes useful to avoid technical missteps and accelerate results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

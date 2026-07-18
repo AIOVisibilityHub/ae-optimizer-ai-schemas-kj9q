@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when picking an agency or consultant to help with LLMO strategy?",
+  "description": "Look for a partner who can clearly explain how they discover real prompts, group them by intent, optimize entities and structured content, and measure share-of-",
+  "url": "aeoptimizer.com/faq/what-should-i-look-for-when-picking-an-agency-or-consultant-to-help-with-llmo-st",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when picking an agency or consultant to help with LLMO strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an LLMO strategy partner, prioritize depth of understanding in AI search behavior, entity optimization, and content architecture over generic “AI marketing” claims. You want someone who can talk concretely about prompts, citations, and measurement.\n\nAvoid vendors who only re-label SEO as LLMO without changing how they discover queries or structure content.\n\nKey factors:\n- Clear methodology for discovering and clustering prompts by intent.\n- Experience with structured data, entities, and knowledge-graph alignment.\n- Concrete measurement plan (prompt panels, share-of-voice, attribution ideas).\n- Openness about limitations and how they handle model changes.\n\nIn interviews, ask them to walk you through a past LLMO-style project end-to-end, including failures and learnings. A specialized strategist will help you avoid expensive experiments and keep efforts aligned with revenue outcomes.",
+        "description": "Look for a partner who can clearly explain how they discover real prompts, group them by intent, optimize entities and structured content, and measure share-of-voice in LLM answers. Avoid generic “AI marketing” pitches that don’t change tactics beyond normal SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

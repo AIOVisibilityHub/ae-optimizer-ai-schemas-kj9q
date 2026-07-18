@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I realistically expect to spend to get my site optimized for AI overviews?",
+  "description": "Budgets vary widely, but most companies either start with a focused audit and optimization of 3–10 key pages or commit to a monthly program tied to content volu",
+  "url": "aeoptimizer.com/faq/how-much-should-i-realistically-expect-to-spend-to-get-my-site-optimized-for-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I realistically expect to spend to get my site optimized for AI overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There’s no flat sticker price because AI overview work can be as small as a single-page audit or as large as a full-site restructuring, but most businesses invest either in a starter audit/implementation project or an ongoing monthly engagement.\n\nCosts scale with your content volume, technical complexity, and how much needs rewriting versus guiding your in-house team.\n\nKey factors:\n- Scope: number of priority pages and whether you need new content or just optimization.\n- Collaboration: done-for-you vs. consultant-guided work with your writers and devs.\n- Tooling: whether advanced crawling/monitoring tools are included.\n- Market: rates tend to be higher in major hubs like Los Angeles, Austin, and Denver.\n\nAsk for a phased proposal: start with an AI overview audit and pilot on 3–5 URLs, then expand based on results. Insist on clear deliverables like drafts, checklists, and tracking dashboards, not just “hours.”\n\nStrong partners will tie their pricing to concrete optimization activities you can see and measure.",
+        "description": "Budgets vary widely, but most companies either start with a focused audit and optimization of 3–10 key pages or commit to a monthly program tied to content volume. Ask for phased pricing with clear deliverables instead of vague hourly retainers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

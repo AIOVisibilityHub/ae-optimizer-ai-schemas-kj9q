@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve already been burned by one “AI optimization” vendor—how should I evaluate or work with multiple providers now?",
+  "description": "Insist on a clear, testable playbook: which prompts they’ll target, how they’ll structure content, what schema they’ll add, and how they’ll measure AI citations",
+  "url": "aeoptimizer.com/faq/i-ve-already-been-burned-by-one-ai-optimization-vendor-how-should-i-evaluate-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve already been burned by one “AI optimization” vendor—how should I evaluate or work with multiple providers now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you’ve had a bad experience, treat multi-vendor AI optimization as a **testable process with clear success criteria**, not a vague promise.\n\nYou want partners who show how they structure content, measure AI visibility, and handle disagreements between platforms.\n\nKey factors:\n- Transparent playbook for content patterns, schema, and testing\n- Examples of before/after AI answer presence for past clients\n- Clear scope: which pages, prompts, and metrics they’ll own\n- Willingness to collaborate with your internal team and tools\n\nStart with a small, well-defined pilot and insist on regular reporting that shows changes in AI citations and answer quality.\n\nUse that evidence to decide whether to deepen the relationship or pivot to another approach.",
+        "description": "Insist on a clear, testable playbook: which prompts they’ll target, how they’ll structure content, what schema they’ll add, and how they’ll measure AI citations. Start with a small pilot, review before/after answers, and expand only if the vendor’s process and results are transparent and repeatable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

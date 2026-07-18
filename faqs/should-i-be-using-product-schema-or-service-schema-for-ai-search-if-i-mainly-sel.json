@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I be using Product schema or Service schema for AI search if I mainly sell services, not physical items?",
+  "description": "Use Product schema only for true products with SKUs and inventory. For service-based businesses, prioritize Service and LocalBusiness schema so AI search unders",
+  "url": "aeoptimizer.com/faq/should-i-be-using-product-schema-or-service-schema-for-ai-search-if-i-mainly-sel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I be using Product schema or Service schema for AI search if I mainly sell services, not physical items?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Product schema is essential if you sell defined products, but for service-focused operations you’re usually better off with Service and LocalBusiness schema.\nOverusing Product schema for non-products can confuse AI search rather than help it.\n\nKey factors:\n- Use Product for items with SKUs, prices, and inventory states.\n- Use Service for offerings like consulting, optimization, or subscriptions.\n- Mixing Product and Service arbitrarily dilutes both signals.\n- AI citation and comparison answers rely on accurate type distinctions.\n\nPractically, inventory your offerings and decide what truly behaves like a product versus a service.\nMark up service pages with Service schema and location pages with LocalBusiness, reserving Product schema for real product catalogs if you have them.\nAligning schema types with reality makes your site easier for AI to categorize.\n\nshort_answer:\"Use Product schema only for true products with SKUs and inventory. For service-based businesses, prioritize Service and LocalBusiness schema so AI search understands your offerings accurately without type confusion.\"",
+        "description": "Use Product schema only for true products with SKUs and inventory. For service-based businesses, prioritize Service and LocalBusiness schema so AI search understands your offerings accurately without type confusion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

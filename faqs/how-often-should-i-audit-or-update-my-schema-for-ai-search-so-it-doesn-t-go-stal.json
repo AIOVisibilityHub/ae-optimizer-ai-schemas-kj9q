@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I audit or update my schema for AI search so it doesn’t go stale or break?",
+  "description": "Audit schema during every major site change and at least a few times a year. Redesigns and content updates often break structured data, so regular validation ke",
+  "url": "aeoptimizer.com/faq/how-often-should-i-audit-or-update-my-schema-for-ai-search-so-it-doesn-t-go-stal",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I audit or update my schema for AI search so it doesn’t go stale or break?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use schema audits whenever you redesign, migrate, or significantly change templates, because those changes often break or misalign structured data.\nRegular light checks help you catch errors before they hurt visibility.\n\nKey factors:\n- Redesigns can remove or move elements your schema refers to.\n- Content changes can create mismatches between FAQs and FAQPage markup.\n- New locations or services need corresponding schema updates.\n- Validators and automated crawls can flag missing or broken markup at scale.\n\nPractically, bake schema review into your launch checklist for any major site update, especially across multiple locations like Austin or Salt Lake City.\nSchedule quarterly or biannual audits to confirm that Organization, LocalBusiness, Article, and FAQPage markup still matches visible content.\nTreat schema as living metadata, not static code.\n\nshort_answer:\"Audit schema during every major site change and at least a few times a year. Redesigns and content updates often break structured data, so regular validation keeps AI search seeing your pages accurately.\"",
+        "description": "Audit schema during every major site change and at least a few times a year. Redesigns and content updates often break structured data, so regular validation keeps AI search seeing your pages accurately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does AI SEO take to show results?",
+  "description": "Results usually take time because systems need to crawl and reassess your content. Priority-page updates often move faster than large-scale content campaigns.",
+  "url": "aeoptimizer.com/faq/how-long-does-ai-seo-take-to-show-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does AI SEO take to show results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline depends on how much work your site needs, but meaningful improvement usually takes time because both search engines and AI systems need to crawl, process, and reassess content. Faster gains tend to come from updating priority pages, not from launching lots of new pages at once.",
+        "description": "Results usually take time because systems need to crawl and reassess your content. Priority-page updates often move faster than large-scale content campaigns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

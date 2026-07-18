@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much content do I really need before optimizing for AI answers will make a difference?",
+  "description": "You don’t need hundreds of articles; you need **focused, question-based coverage** of your key topics. Start with 20–50 high-value questions, each answered clea",
+  "url": "aeoptimizer.com/faq/how-much-content-do-i-really-need-before-optimizing-for-ai-answers-will-make-a-d",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much content do I really need before optimizing for AI answers will make a difference?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need enough **question-led, answer-first content** to cover your main products, services, and customer journeys, starting with the 20–50 queries that drive value.\n\nDepth matters more than sheer page count; thin or vague content won’t earn citations just because it exists.\n\nKey factors:\n- Coverage of core buyer questions across awareness to decision\n- Clear one-question-per-section structure\n- Supporting proof (examples, data, usage scenarios)\n- Internal links that show topical authority\n\nAudit existing content: mark which pages already answer real questions well, which need restructuring, and where new Q&A sections are missing.\n\nAim for focused, authoritative coverage rather than dozens of shallow posts.",
+        "description": "You don’t need hundreds of articles; you need **focused, question-based coverage** of your key topics. Start with 20–50 high-value questions, each answered clearly in its own section with supporting proof. Quality, clarity, and structure matter more than volume."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

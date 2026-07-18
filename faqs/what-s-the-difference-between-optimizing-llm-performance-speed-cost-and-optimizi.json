@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the difference between optimizing LLM performance (speed/cost) and optimizing output quality, and which should I prioritize?",
+  "description": "Performance optimization targets speed, throughput, and cost with techniques like quantization, caching, and batching. Quality optimization focuses on accuracy,",
+  "url": "aeoptimizer.com/faq/what-s-the-difference-between-optimizing-llm-performance-speed-cost-and-optimizi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the difference between optimizing LLM performance (speed/cost) and optimizing output quality, and which should I prioritize?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technical optimization focuses on latency, throughput, and cost (e.g., quantization, batching, caching), while quality optimization targets accuracy, consistency, and safety (e.g., prompts, RAG, guardrails, fine‑tuning). You usually need both, but they’re distinct tracks.\n\nSome changes help both—like smart retrieval—but others trade off speed vs. quality. You should decide which track is primary for each use case.\n\nKey factors:\n- Business tolerance for slower but more accurate answers.\n- Current infrastructure constraints and budget.\n- Regulatory or brand risks from incorrect outputs.\n- Type of use case: internal tooling vs. customer‑facing.\n\nPractically, separate metrics dashboards: one for system performance and one for output quality. Optimize them in parallel but let business priorities decide when to favor one over the other.\n\nIf you’re resource‑constrained, start by fixing glaring quality issues, then tackle performance once trust and usefulness are established.",
+        "description": "Performance optimization targets speed, throughput, and cost with techniques like quantization, caching, and batching. Quality optimization focuses on accuracy, consistency, and safety via prompts, retrieval, guardrails, and fine‑tuning. Prioritize the track that most affects your business for each use case."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

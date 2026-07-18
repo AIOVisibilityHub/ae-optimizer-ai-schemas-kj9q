@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if Perplexity keeps recommending my competitors instead of my business on the questions I care about?",
+  "description": "Treat competitor citations as a blueprint. Log which competitor URLs Perplexity uses, study how they structure answers, schema, and evidence, then rebuild your",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-perplexity-keeps-recommending-my-competitors-instead-of-my-b",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if Perplexity keeps recommending my competitors instead of my business on the questions I care about?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Perplexity keeps showing your competitors instead of you, it’s a signal that their pages look more like clean, trustworthy answers for those prompts. Treat that as a roadmap rather than a defeat.\n\nYour job is to study which competitor URLs are cited and why, then outperform them on clarity, evidence, and local relevance.\n\nKey factors:\n- The specific competitor pages Perplexity cites for target queries\n- How their content is structured (headings, answer-first paragraphs, tables)\n- Their schema coverage versus yours\n- Their local and authority signals (reviews, mentions, case studies)\n\nMake a list of 10–20 prompts where you “lose,” capture the competitor URLs, and dissect each page. Use that analysis to redesign your own pages so they’re more focused, better evidenced, and fresher.\n\nPerplexity is showing you the current benchmark; the practical move is to build pages that clearly deserve to replace those citations.",
+        "description": "Treat competitor citations as a blueprint. Log which competitor URLs Perplexity uses, study how they structure answers, schema, and evidence, then rebuild your own pages to be clearer, fresher, and better documented. Over time, you can earn citations that replace or sit alongside those competitors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

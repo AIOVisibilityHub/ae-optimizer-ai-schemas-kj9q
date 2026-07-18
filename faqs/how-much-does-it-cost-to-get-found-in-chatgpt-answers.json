@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to get found in ChatGPT answers?",
+  "description": "It can be inexpensive or ongoing, but the best ROI usually comes from improving your highest-value pages first.",
+  "url": "aeoptimizer.com/faq/how-much-does-it-cost-to-get-found-in-chatgpt-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to get found in ChatGPT answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary widely because the work can range from simple content fixes to ongoing AI visibility management. The best value usually comes from improving the pages and listings that already matter most, instead of creating lots of new content with no clear customer intent.",
+        "description": "It can be inexpensive or ongoing, but the best ROI usually comes from improving your highest-value pages first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

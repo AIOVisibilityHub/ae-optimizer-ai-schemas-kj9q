@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I put FAQ answers only in JSON-LD and not on the page?",
+  "description": "No. The FAQ content should be visible on the page and the schema should mirror it.",
+  "url": "aeoptimizer.com/faq/can-i-put-faq-answers-only-in-json-ld-and-not-on-the-page",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I put FAQ answers only in JSON-LD and not on the page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google and AI systems need to see the FAQ content on the page. If the question and answer only exist inside schema, the markup is weaker and may violate best-practice guidance. Visible content is the part users can trust and read.",
+        "description": "No. The FAQ content should be visible on the page and the schema should mirror it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

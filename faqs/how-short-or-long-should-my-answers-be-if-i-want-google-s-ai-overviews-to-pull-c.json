@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How short or long should my answers be if I want Google’s AI Overviews to pull content from my pages?",
+  "description": "Aim for a 1–3 sentence direct answer at the top of each question section, followed by more detailed explanation. That mix gives Google’s AI a clean snippet to q",
+  "url": "aeoptimizer.com/faq/how-short-or-long-should-my-answers-be-if-i-want-google-s-ai-overviews-to-pull-c",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How short or long should my answers be if I want Google’s AI Overviews to pull content from my pages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Short, direct answers are critical for Google AI Overviews, but you still need enough depth around them for context and authority. Think “answer first, explanation second,” not thin content.\n\nGoogle’s AI prefers pages that open each question section with a clear, concise response the model can quote, followed by structured detail, examples, and supporting information. Overly long, meandering paragraphs make extraction harder; ultra-short, shallow pages lack credibility.\n\nKey factors:\n- 1–3 sentence direct answer at the top of each section\n- Supporting details, lists, or steps underneath\n- Readable formatting with headings and short paragraphs\n- Coverage of related sub-questions on the same page\n\nPractically, rework existing articles into a Q&A style: add question headings, lead with a crisp answer, then expand as needed. Use bullets or steps where useful and avoid burying the main answer halfway down the page.\n\nSoft positioning: Strong AI Overview content respects both the user’s need for a quick answer and their need for trustworthy detail.",
+        "description": "Aim for a 1–3 sentence direct answer at the top of each question section, followed by more detailed explanation. That mix gives Google’s AI a clean snippet to quote while still showing enough depth and authority to trust your page."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

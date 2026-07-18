@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is llms.txt and how much does it really matter for getting featured in Perplexity answers?",
+  "description": "llms.txt is a simple summary file at your site’s root that explains your business, services, locations, and key URLs in a structured, crawler‑friendly way. It w",
+  "url": "aeoptimizer.com/faq/what-is-llms-txt-and-how-much-does-it-really-matter-for-getting-featured-in-perp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is llms.txt and how much does it really matter for getting featured in Perplexity answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat llms.txt as a concise “cheat sheet” for answer engines: a structured summary of who you are, what you offer, where you operate, and which pages matter most. It doesn’t replace your site, but it makes your signal clearer.\n\nMany AI systems now look for these files as a starting point when assessing a domain.\n\nKey factors:\n- Plain Markdown or text at your root (e.g., /llms.txt)\n- Sections for business overview, services, locations, and key URLs\n- Consistency with what’s visible on your site and in schema\n- Occasional updates as your offerings or footprint change\n\nStart with a simple version you can maintain, listing your main service pages, city pages, and authoritative resources. Keep it honest and aligned with on-page content.\n\nThink of llms.txt as a way to introduce yourself to AI crawlers in your own words, making it easier for them to understand where to look for reliable answers.",
+        "description": "llms.txt is a simple summary file at your site’s root that explains your business, services, locations, and key URLs in a structured, crawler‑friendly way. It won’t magically rank you, but it helps Perplexity and other AI systems quickly understand where your most reliable, citation‑worthy content lives."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

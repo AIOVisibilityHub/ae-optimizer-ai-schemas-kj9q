@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do Reddit and other forums really matter for showing up in Perplexity answers, or is it all about my own site?",
+  "description": "Reddit and forums matter a lot. Perplexity frequently cites high‑quality, upvoted answers from those communities, especially for “best X for Y” and troubleshoot",
+  "url": "aeoptimizer.com/faq/do-reddit-and-other-forums-really-matter-for-showing-up-in-perplexity-answers-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do Reddit and other forums really matter for showing up in Perplexity answers, or is it all about my own site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perplexity treats Reddit, forums, and Q&A sites as rich evidence for many queries, especially “best X for Y” and troubleshooting questions. Being the author of highly upvoted, genuinely helpful answers there can indirectly boost your visibility.\n\nThose threads can be cited directly, and they also reinforce your expertise and brand presence.\n\nKey factors:\n- Participation in relevant subreddits and communities with real value\n- Self-contained answers that explain context, steps, and tradeoffs\n- Non‑spammy mentions of your brand or resources where appropriate\n- Keeping key posts updated as tools, prices, or best practices change\n\nIdentify 10–15 Perplexity prompts for your niche, see which threads it already cites, and join those communities thoughtfully. Focus on answers that stand on their own rather than short comments.\n\nThis “off-site” content becomes part of your overall evidence footprint, especially in technical and niche topics.",
+        "description": "Reddit and forums matter a lot. Perplexity frequently cites high‑quality, upvoted answers from those communities, especially for “best X for Y” and troubleshooting queries. Helpful, self‑contained posts there can be cited directly and strengthen your overall expertise footprint alongside your own site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

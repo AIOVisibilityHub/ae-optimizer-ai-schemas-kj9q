@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We had bad schema implemented before. How do we fix structured data so AEO trusts us again?",
+  "description": "Run a full structured-data audit, remove any markup that doesn’t match visible content, normalize everything to valid JSON-LD, then rebuild a smaller stack of h",
+  "url": "aeoptimizer.com/faq/we-had-bad-schema-implemented-before-how-do-we-fix-structured-data-so-aeo-trusts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We had bad schema implemented before. How do we fix structured data so AEO trusts us again?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you previously had messy or spammy schema, you can fix your AEO foundation by cleaning up and realigning your structured data to what users actually see on-page. Recovery is possible, but it requires a disciplined audit and rebuild.\n\nAnswer engines increasingly detect inconsistencies and manipulative markup, which can quietly reduce your visibility or trust. The goal is to replace “padding” schema with honest, well-mapped entities and Q&A.\n\nKey factors:\n- Remove markup that doesn’t match visible content (hidden FAQs, fake reviews).\n- Normalize to JSON-LD and correct invalid property names or nesting.\n- Rebuild FAQPage, Article, Organization, and Person schemas on core pages.\n- Keep dateModified accurate and avoid artificially inflating freshness.\n\nStart with a structured data audit, documenting what exists, what’s broken, and what should be removed or rebuilt. Then implement a smaller, cleaner schema stack aligned to your real content and validate thoroughly.\n\nA transparent, quality-first rebuild is the fastest path back to reliable AEO performance after prior missteps.",
+        "description": "Run a full structured-data audit, remove any markup that doesn’t match visible content, normalize everything to valid JSON-LD, then rebuild a smaller stack of honest FAQPage, Article, Organization, and Person schemas on key pages. Clean, transparent markup restores trust with answer engines over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

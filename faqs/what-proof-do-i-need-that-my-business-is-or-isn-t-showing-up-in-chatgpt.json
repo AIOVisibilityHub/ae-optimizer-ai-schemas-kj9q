@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need that my business is or isn’t showing up in ChatGPT?",
+  "description": "Run real prompts, track whether you appear, and compare your facts across your site and directories.",
+  "url": "aeoptimizer.com/faq/what-proof-do-i-need-that-my-business-is-or-isn-t-showing-up-in-chatgpt",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need that my business is or isn’t showing up in ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The strongest evidence is a prompt audit: ask the exact questions buyers would ask and record whether your brand appears, what it says, and which sources it uses. You should also check whether your business details are identical across your site, Google Business Profile, Bing Places, and major directories.",
+        "description": "Run real prompts, track whether you appear, and compare your facts across your site and directories."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

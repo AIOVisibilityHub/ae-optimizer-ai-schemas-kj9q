@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I want to appear in Perplexity answers quickly, what are the first 2–3 things I should do this week?",
+  "description": "This week, make sure PerplexityBot and Bingbot are allowed in your robots.txt and any firewalls, publish or update 5–10 key pages so each leads with a clear 1–2",
+  "url": "aeoptimizer.com/faq/if-i-want-to-appear-in-perplexity-answers-quickly-what-are-the-first-2-3-things",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I want to appear in Perplexity answers quickly, what are the first 2–3 things I should do this week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The fastest lever for appearing in Perplexity answers is fixing technical access: if PerplexityBot can’t crawl you cleanly, nothing else matters. Second is restructuring content so every key page leads with a direct, quotable answer and supporting evidence.\n\nMost sites already have decent information but bury it under fluff, pop‑ups, or blocked CDNs. Cleaning this up can move the needle in days rather than months.\n\nKey factors:\n- Robots.txt and firewalls explicitly allowing PerplexityBot and Bingbot\n- Removing heavy interstitials, gated content, and JS-only rendering of core facts\n- Adding llms.txt or similar summary files at your root\n- Updating a handful of priority pages with answer-first sections and FAQ blocks\n\nStart with 5–10 “money pages” (core services or products) and give them this treatment before boiling the ocean. Then run targeted prompts in Perplexity weekly to see whether those URLs start appearing as citations.\n\nThink in terms of technical hygiene plus a few sharply optimized pages; you don’t need to rebuild your entire site to start getting cited.",
+        "description": "This week, make sure PerplexityBot and Bingbot are allowed in your robots.txt and any firewalls, publish or update 5–10 key pages so each leads with a clear 1–2 sentence answer, and add FAQ + Article schema. Then immediately start testing relevant prompts in Perplexity to see if those URLs begin to get cited."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

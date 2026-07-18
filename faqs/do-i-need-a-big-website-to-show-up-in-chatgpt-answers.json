@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a big website to show up in ChatGPT answers?",
+  "description": "No, but you do need clear service pages, a strong homepage, and enough detail for AI to understand you.",
+  "url": "aeoptimizer.com/faq/do-i-need-a-big-website-to-show-up-in-chatgpt-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a big website to show up in ChatGPT answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need a huge content library to begin, but you do need enough detail for AI to understand what you do and who you help. A strong homepage, a few service pages, and a short FAQ can be enough to start testing visibility.",
+        "description": "No, but you do need clear service pages, a strong homepage, and enough detail for AI to understand you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

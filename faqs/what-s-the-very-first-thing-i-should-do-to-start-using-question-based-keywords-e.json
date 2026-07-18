@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the very first thing I should do to start using question-based keywords effectively?",
+  "description": "Begin by collecting the real questions your customers and prospects already ask through support, sales, and onboarding. Turn those into clean, searchable phrase",
+  "url": "aeoptimizer.com/faq/what-s-the-very-first-thing-i-should-do-to-start-using-question-based-keywords-e",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the very first thing I should do to start using question-based keywords effectively?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A solid first step is to catalog all the questions your customers and prospects already ask—through support tickets, sales calls, onboarding, and feedback—then align those with search data to identify question-based keywords. This ensures you’re solving real problems from day one.\n\nOnly after mapping these do you need tools or complex strategies.\n\nKey factors:\n- Centralize input from support, sales, and product teams.\n- Turn raw questions into clean, searchable phrases.\n- Check which of these show up in search query reports.\n- Prioritize by frequency and impact on satisfaction or revenue.\n\nPractically, run a simple workshop: ask internal teams to list the top 20–50 questions they hear, compare them to search data, and choose your first content targets. This can be done in a week without special tools.\n\nStarting from your own customers gives you immediate relevance; external SEO tools then help scale and refine the approach.",
+        "description": "Begin by collecting the real questions your customers and prospects already ask through support, sales, and onboarding. Turn those into clean, searchable phrases, cross‑check them with search data, and select the most frequent and impactful questions as your first targets for content and FAQ creation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

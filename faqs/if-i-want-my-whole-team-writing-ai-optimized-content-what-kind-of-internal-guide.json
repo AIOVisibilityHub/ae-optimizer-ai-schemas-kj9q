@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I want my whole team writing AI-optimized content, what kind of internal guidelines should I set up?",
+  "description": "Define a simple template: question-style headings, a 1–2 sentence direct answer, short supporting paragraphs or bullets, clear citations and dates, and specific",
+  "url": "aeoptimizer.com/faq/if-i-want-my-whole-team-writing-ai-optimized-content-what-kind-of-internal-guide",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I want my whole team writing AI-optimized content, what kind of internal guidelines should I set up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a **repeatable content pattern** so writers know exactly how to structure AI-ready sections.\n\nDocumentation doesn’t need to be long; it needs to be prescriptive and easy to follow across teams and projects.\n\nKey factors:\n- Standard section template: question heading → 1–2 sentence answer → bullets/examples\n- Rules for length, tone, and use of schema\n- Guidance on citing data and including dates/authors\n- Checklists for pre-publish review and periodic updates\n\nCreate a short playbook and a sample “gold standard” page, then train your writers and editors on using that template.\n\nConsistent patterns make AI optimization scalable without turning every page into a bespoke project.",
+        "description": "Define a simple template: question-style headings, a 1–2 sentence direct answer, short supporting paragraphs or bullets, clear citations and dates, and specific schema rules. Document this in a concise playbook and use a “model page” as an example so everyone can produce consistent, AI-ready content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the first FAQ topics I should write for AEO?",
+  "description": "Start with pricing, timeline, scope, onboarding, and support. Those are usually the highest-impact questions.",
+  "url": "aeoptimizer.com/faq/what-are-the-first-faq-topics-i-should-write-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first FAQ topics I should write for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the most common friction points: pricing, timeline, scope, onboarding, and support. For example, people often want to know whether they need technical help, how long implementation takes, and whether the FAQ content has to match the page exactly. Those are the questions that reduce hesitation.",
+        "description": "Start with pricing, timeline, scope, onboarding, and support. Those are usually the highest-impact questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

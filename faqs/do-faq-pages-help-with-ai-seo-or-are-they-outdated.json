@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do FAQ pages help with AI SEO, or are they outdated?",
+  "description": "Real FAQ pages still help when they answer actual questions clearly. Thin, keyword-stuffed FAQs do not work well, but useful Q&A content is AI-friendly.",
+  "url": "aeoptimizer.com/faq/do-faq-pages-help-with-ai-seo-or-are-they-outdated",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do FAQ pages help with AI SEO, or are they outdated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but they usually need to be rewritten for clarity, usefulness, and accuracy. A thin FAQ that only repeats keywords will not help much, while a real FAQ that answers actual customer concerns can improve both usability and AI retrieval.",
+        "description": "Real FAQ pages still help when they answer actual questions clearly. Thin, keyword-stuffed FAQs do not work well, but useful Q&A content is AI-friendly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I target lots of question-based keywords without creating thin or duplicate content?",
+  "description": "Cluster related questions into a single, robust page rather than publishing many near-identical posts. Use one main question as the focus, add subheadings for v",
+  "url": "aeoptimizer.com/faq/how-do-i-target-lots-of-question-based-keywords-without-creating-thin-or-duplica",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I target lots of question-based keywords without creating thin or duplicate content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To avoid thin or duplicate content when targeting question-based keywords, cluster closely related questions into one robust page rather than publishing dozens of near-identical posts. Each page should cover a topic comprehensively with sub-questions.\n\nThis approach keeps your site coherent and prevents “question spam” that confuses users and search engines.\n\nKey factors:\n- Group similar questions (variants, follow-ups) under one topic.\n- Use sections and subheadings for each sub-question.\n- Merge overlapping content instead of duplicating explanations.\n- Ensure each page has unique value, examples, and angles.\n\nPractically, sort your keyword list by similarity, pick a primary question per topic, and build that into a pillar piece with 5–10 related questions inside. Maintain a canonical URL for each topic cluster.\n\nThink of your content like a well-organized handbook, not a pile of almost-the-same blog posts.",
+        "description": "Cluster related questions into a single, robust page rather than publishing many near-identical posts. Use one main question as the focus, add subheadings for variants and follow‑ups, and ensure each page provides unique, substantial value so you avoid thin and duplicate content issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

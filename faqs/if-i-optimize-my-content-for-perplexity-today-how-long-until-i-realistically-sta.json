@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I optimize my content for Perplexity today, how long until I realistically start appearing in its answers?",
+  "description": "Most sites that fix crawl access and publish answer‑first, well‑structured content start seeing Perplexity citations within 2–6 weeks. Timing depends on indexin",
+  "url": "aeoptimizer.com/faq/if-i-optimize-my-content-for-perplexity-today-how-long-until-i-realistically-sta",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I optimize my content for Perplexity today, how long until I realistically start appearing in its answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There’s no fixed timeline, but many teams see first Perplexity citations within 2–6 weeks after cleaning crawl access and publishing answer‑structured content. The more existing authority you have, the faster you’ll usually show up.\n\nIndexing via Bing and other underlying search engines is often the bottleneck; once your pages are crawlable and indexed, Perplexity can start testing and citing them.\n\nKey factors:\n- How quickly Bing and other engines discover and index your updated pages\n- Whether bots are fully allowed in robots.txt, sitemaps, and CDNs\n- Freshness and depth of the content you ship during that period\n- Competitive density on the queries you’re targeting\n\nTo speed things up, submit sitemaps, use IndexNow, and start with less competitive, long‑tail questions where you can be clearly the best source. Monitor prompts weekly rather than daily, since changes tend to show up in batches.\n\nThink of this as an ongoing visibility program; initial citations are a milestone, not the finish line.",
+        "description": "Most sites that fix crawl access and publish answer‑first, well‑structured content start seeing Perplexity citations within 2–6 weeks. Timing depends on indexing speed, competition on the queries you target, and how strong your expertise and freshness signals are during that window."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

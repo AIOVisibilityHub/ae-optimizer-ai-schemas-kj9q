@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get my business to show up in ChatGPT answers fast?",
+  "description": "Test real customer prompts, see who ChatGPT cites, then fix your top pages with direct answers and consistent business facts.",
+  "url": "aeoptimizer.com/faq/how-do-i-get-my-business-to-show-up-in-chatgpt-answers-fast",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get my business to show up in ChatGPT answers fast?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The fastest way to start showing up is to test the prompts your customers would actually ask, then compare who ChatGPT cites and why. If you are missing, fix the page structure, add direct answers, and make sure your business facts are consistent across your site and major listings.",
+        "description": "Test real customer prompts, see who ChatGPT cites, then fix your top pages with direct answers and consistent business facts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

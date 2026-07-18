@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should a service page use FAQ schema, Service schema, or both?",
+  "description": "Often both, if each one matches the page content. Service schema describes the offer; FAQ schema answers common questions about it.",
+  "url": "aeoptimizer.com/faq/should-a-service-page-use-faq-schema-service-schema-or-both",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should a service page use FAQ schema, Service schema, or both?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use FAQ schema when the page is built around answering questions. Use Product schema when the page is about a specific product, Service schema for a service offering, and HowTo when you are showing steps. The page intent should decide the schema, not the other way around.",
+        "description": "Often both, if each one matches the page content. Service schema describes the offer; FAQ schema answers common questions about it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

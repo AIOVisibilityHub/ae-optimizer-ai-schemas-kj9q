@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the first signs that AI SEO is helping my business?",
+  "description": "Early signs include accurate citations, more qualified visits, and better conversions. Mentions without traffic usually mean the page targeting needs work.",
+  "url": "aeoptimizer.com/faq/what-are-the-first-signs-that-ai-seo-is-helping-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first signs that AI SEO is helping my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most important early signals are whether your pages are being cited, whether the citations are accurate, and whether AI answers are sending qualified traffic. If you see mentions but no visits or conversions, the strategy may need better page targeting or stronger calls to action.",
+        "description": "Early signs include accurate citations, more qualified visits, and better conversions. Mentions without traffic usually mean the page targeting needs work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

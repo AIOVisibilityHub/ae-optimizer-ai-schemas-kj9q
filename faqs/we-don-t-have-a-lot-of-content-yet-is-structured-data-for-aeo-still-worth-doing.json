@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We don’t have a lot of content yet. Is structured data for AEO still worth doing?",
+  "description": "Yes, but only after you create a few solid, question-focused pages. Build strong FAQs and guides around core customer questions, then add FAQPage, Article, and",
+  "url": "aeoptimizer.com/faq/we-don-t-have-a-lot-of-content-yet-is-structured-data-for-aeo-still-worth-doing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We don’t have a lot of content yet. Is structured data for AEO still worth doing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you don’t have much content yet, focus on creating a few strong, question-oriented pages and pairing them with clean structured data rather than trying to mark up an entire thin site. AEO depends on substance first, markup second.\n\nAnswer engines look for helpful, well-structured answers to real queries; schema can highlight those, but it can’t replace missing substance.\n\nKey factors:\n- Build at least several in-depth guides or FAQs around core customer questions.\n- Use headings and first sentences to deliver direct, scannable answers.\n- Add FAQPage and Article schema to those pages, plus Organization schema site-wide.\n- Expand content and schema together over time, prioritizing impact.\n\nStart with a content roadmap that lists your top user questions and the pages that will answer them, then design the corresponding schema patterns. Implement and validate as you publish.\n\nThoughtful content paired with structured data scales into a strong AEO foundation as your site grows.",
+        "description": "Yes, but only after you create a few solid, question-focused pages. Build strong FAQs and guides around core customer questions, then add FAQPage, Article, and Organization schema. AEO works best when structured data highlights good content; it can’t make up for very thin pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

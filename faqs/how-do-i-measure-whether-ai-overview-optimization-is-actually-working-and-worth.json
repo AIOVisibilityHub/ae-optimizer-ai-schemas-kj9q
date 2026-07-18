@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I measure whether AI overview optimization is actually working and worth the effort?",
+  "description": "Monitor query and page metrics for searches that trigger AI overviews: impressions, clicks, positions, engagement, and conversions. Compare optimized clusters t",
+  "url": "aeoptimizer.com/faq/how-do-i-measure-whether-ai-overview-optimization-is-actually-working-and-worth",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I measure whether AI overview optimization is actually working and worth the effort?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can use analytics and search data to estimate AI overview impact by tracking impressions, click-throughs, and conversions for queries and pages known to trigger these summaries.\n\nDirect attribution is imperfect, but trends across multiple metrics tell a clear story.\n\nKey factors:\n- Query-level data: identify searches that often show AI overviews and monitor impressions and positions.\n- Page-level data: watch metrics for optimized vs. non-optimized pages.\n- Behavior: measure time on site, depth, and conversions from those visits.\n- Brand signals: track changes in branded search volume over time.\n\nBuild simple dashboards comparing pre- and post-optimization periods for target clusters and look for consistent improvements, even if some clicks shift to zero-click answers. Combine this with qualitative feedback from customers and sales.\n\nA data-savvy partner can help you design these measurement frameworks so you’re not guessing about ROI.",
+        "description": "Monitor query and page metrics for searches that trigger AI overviews: impressions, clicks, positions, engagement, and conversions. Compare optimized clusters to baselines over time and watch for brand search growth to gauge overall impact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

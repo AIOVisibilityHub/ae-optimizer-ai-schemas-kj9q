@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should we prioritize if we have to improve our LLM’s performance urgently in the next few weeks?",
+  "description": "On an urgent timeline, prioritize quick wins: clean up prompts, lower overly creative sampling settings, and add simple retrieval from your existing knowledge b",
+  "url": "aeoptimizer.com/faq/what-should-we-prioritize-if-we-have-to-improve-our-llm-s-performance-urgently-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should we prioritize if we have to improve our LLM’s performance urgently in the next few weeks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For an urgent timeline, focus on the highest‑leverage changes: better prompts, sampling parameters, and simple retrieval from existing systems. Avoid deep fine‑tuning and major infra overhauls; they won’t fit a short window.\n\nShort projects should prioritize reliability and quick wins over architectural perfection.\n\nKey factors:\n- Deadline and deployment constraints.\n- Current quality vs. required threshold.\n- Ease of integrating retrieval into existing apps.\n- Ability to roll back if a change misbehaves.\n\nPractically, run a fast diagnostic, fix obvious prompt issues, lower overly creative sampling settings, and wire the model to a knowledge base using off‑the‑shelf RAG components. Track a few key metrics and stop when they meet minimum requirements.\n\nOnce the urgent deadline passes, you can revisit deeper optimization options more carefully.",
+        "description": "On an urgent timeline, prioritize quick wins: clean up prompts, lower overly creative sampling settings, and add simple retrieval from your existing knowledge base. Skip deep fine‑tuning and big infra changes; aim to reach minimum reliability and latency targets fast, then refine later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

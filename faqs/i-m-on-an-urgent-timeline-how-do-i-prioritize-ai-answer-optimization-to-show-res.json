@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m on an urgent timeline—how do I prioritize AI answer optimization to show results quickly?",
+  "description": "Pick 15–30 high-impact questions and turn each into a structured section with a direct answer, supporting bullets, and clean schema. Fix basic technical issues,",
+  "url": "aeoptimizer.com/faq/i-m-on-an-urgent-timeline-how-do-i-prioritize-ai-answer-optimization-to-show-res",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m on an urgent timeline—how do I prioritize AI answer optimization to show results quickly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you need AI answer visibility fast, focus on **a compact pilot with your most commercially important questions**, not your whole site.\n\nSpeed comes from tight scope, clear patterns, and quick review cycles, not rushing half-finished changes everywhere.\n\nKey factors:\n- Choose 15–30 prompts that directly drive leads or sales\n- Map each prompt to a dedicated section with a direct answer\n- Add FAQPage/Article schema and fix basic technical issues\n- Monitor AI answers weekly and refine weak sections first\n\nRun this as a 4–8 week sprint where content, dev, and analytics collaborate closely.\n\nOnce you see early wins, you can extend the approach to secondary topics at a more sustainable pace.",
+        "description": "Pick 15–30 high-impact questions and turn each into a structured section with a direct answer, supporting bullets, and clean schema. Fix basic technical issues, then monitor AI answers weekly. A focused 4–8 week sprint on critical topics usually produces the fastest visible gains."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I keep hearing about “optimizing content for AI answers” — what’s the very first thing I should do on my site?",
+  "description": "Start by turning your key topics into **question-led sections** with a short, direct answer in the first 1–2 sentences under each heading. Then support those an",
+  "url": "aeoptimizer.com/faq/i-keep-hearing-about-optimizing-content-for-ai-answers-what-s-the-very-first-thi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I keep hearing about “optimizing content for AI answers” — what’s the very first thing I should do on my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You start by mapping the real questions your audience asks, then rewriting or creating pages so each one gives a **direct, self-contained answer** in the first 1–2 sentences under a question-style heading.\n\nMost AI answer systems pull short, clear blocks that look like mini-FAQs or concise definition paragraphs, not long storytelling content.\n\nKey factors:\n- Use question-based H2/H3 headings that match real queries\n- Place a 40–80 word direct answer at the top of each section\n- Break details into bullets, tables, or short paragraphs\n- Add FAQPage, HowTo, Article, and Product schema where relevant\n\nPractically, take 20–30 core questions, put each into a header, write a snippable answer first, then layer proof, examples, and links below.\n\nThis gives AI systems confidence to quote your content and makes it easier for humans to read, too.",
+        "description": "Start by turning your key topics into **question-led sections** with a short, direct answer in the first 1–2 sentences under each heading. Then support those answers with bullets, examples, and structured data so AI systems can easily lift and cite them as reliable snippets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

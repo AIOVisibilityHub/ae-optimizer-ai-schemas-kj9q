@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I mine Reddit and other forums to find authentic question-based keywords?",
+  "description": "Search relevant subreddits and forums for your core topics, then skim top and recent threads to collect recurring questions and frustrations in users’ own words",
+  "url": "aeoptimizer.com/faq/how-can-i-mine-reddit-and-other-forums-to-find-authentic-question-based-keywords",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I mine Reddit and other forums to find authentic question-based keywords?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To uncover real question-based keywords from Reddit and other communities, search for your main topics, then sort by “top” or “new” and skim threads for recurring questions and frustrations. Capture the exact phrasing people use, not just your interpretation.\n\nThese communities reveal unfiltered language that keyword tools often miss.\n\nKey factors:\n- Focus on subreddits, forums, and niche communities relevant to your audience.\n- Look for repeated questions, not one-off curiosities.\n- Note emotional cues: “frustrated,” “confused,” “lost,” which signal pain points.\n- Translate raw questions into structured keywords while keeping tone.\n\nPractically, dedicate an hour per week to community listening, and maintain a living document of questions with tags for topic and intent. Validate promising questions with tools later.\n\nThink of forums as your qualitative lab, and keyword tools as your quantitative check on demand.",
+        "description": "Search relevant subreddits and forums for your core topics, then skim top and recent threads to collect recurring questions and frustrations in users’ own words. Log those questions, tag them by topic and intent, and later validate them with keyword tools to confirm which deserve dedicated answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

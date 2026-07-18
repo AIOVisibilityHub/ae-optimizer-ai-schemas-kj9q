@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when we start heavily optimizing our large language models, and how do we avoid breaking things?",
+  "description": "LLM optimization can introduce new problems—like more hallucinations, subtle bias shifts, and brittle behavior—especially when you push too hard on speed or cos",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-when-we-start-heavily-optimizing-our-large-language-models-and",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when we start heavily optimizing our large language models, and how do we avoid breaking things?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks in aggressively optimizing LLMs are degraded output quality, increased hallucinations, hidden biases, and brittle behavior that breaks when inputs change. Over‑optimization for speed or cost can silently damage reliability.\n\nYou’re also at risk of technical debt—complex pipelines that are hard to monitor and maintain. Guardrails and evaluation sets are your safety net.\n\nKey factors:\n- Over‑quantization or too‑aggressive pruning hurting quality.\n- Poorly designed prompts that mask errors instead of fixing them.\n- Lack of monitoring on bias, safety, and hallucinations.\n- Complexity from many chained tools and models.\n\nPractically, introduce one optimization change at a time and evaluate against a fixed test set. Track error types, not just aggregate scores, so you notice new failure modes.\n\nIf you’re in a regulated or high‑trust domain, invest early in governance: review processes, audit logs, and clear rollback mechanisms.",
+        "description": "LLM optimization can introduce new problems—like more hallucinations, subtle bias shifts, and brittle behavior—especially when you push too hard on speed or cost. Avoid this by changing one thing at a time, using a fixed evaluation set, and monitoring both quality and safety metrics closely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

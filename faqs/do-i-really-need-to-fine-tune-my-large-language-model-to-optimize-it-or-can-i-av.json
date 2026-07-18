@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need to fine‑tune my large language model to optimize it, or can I avoid retraining?",
+  "description": "You can often optimize an LLM significantly without fine‑tuning by improving prompts, using retrieval, and tuning parameters. Fine‑tuning is only necessary when",
+  "url": "aeoptimizer.com/faq/do-i-really-need-to-fine-tune-my-large-language-model-to-optimize-it-or-can-i-av",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need to fine‑tune my large language model to optimize it, or can I avoid retraining?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t always need fine‑tuning; many optimization wins come from better prompts, retrieval, and parameter settings. Fine‑tuning makes sense when you need consistent, specialized behavior that prompt tricks can’t reliably achieve.\n\nFine‑tuning is costlier and harder to maintain, so it’s usually a second or third step, not the first. Treat it as a tool for high‑stakes, high‑volume tasks.\n\nKey factors:\n- Whether your domain or style is very specific and stable.\n- Frequency and severity of failures with prompt‑only approaches.\n- Availability of quality labeled training examples.\n- Long‑term ownership for retraining and monitoring.\n\nPractically, exhaust prompt and RAG options first and measure residual errors. If critical workflows still misbehave, prototype a small PEFT‑based fine‑tune on a narrow task and evaluate carefully.\n\nIf your budget or data is limited, focus on orchestration and retrieval, which often deliver most of the value without heavy training.",
+        "description": "You can often optimize an LLM significantly without fine‑tuning by improving prompts, using retrieval, and tuning parameters. Fine‑tuning is only necessary when you need highly specialized, consistent behavior that prompt‑based methods can’t reliably deliver, and you have data to train on."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

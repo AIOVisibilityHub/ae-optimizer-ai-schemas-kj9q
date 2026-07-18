@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it realistically take to see improvements from large language model optimization?",
+  "description": "You can see early gains from LLM optimization in a few days via prompt and parameter tuning, but a typical project for durable, measurable improvements runs 2–8",
+  "url": "aeoptimizer.com/faq/how-long-does-it-realistically-take-to-see-improvements-from-large-language-mode",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it realistically take to see improvements from large language model optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Large language model optimization projects typically take 2–8 weeks for meaningful improvements, depending on scope and how much data and infrastructure you already have. Quick wins from prompt and parameter tuning can land in days; deeper fine‑tuning takes longer.\n\nTimeline is driven more by decision‑making and data prep than by the technology itself. Smaller, focused use cases in one team move much faster than cross‑company initiatives.\n\nKey factors:\n- Availability of labeled examples and evaluation criteria.\n- Number of use cases and stakeholders involved.\n- Whether you need custom fine‑tuning vs. config‑level changes only.\n- Environments and access (dev, staging, production) already in place.\n\nPractically, plan for a first “optimization sprint” of 2–3 weeks focused on logging, prompt work, and adding retrieval, then a second sprint if fine‑tuning is justified. Keep scope tight: one or two workflows at a time.\n\nIf you’re under deadline pressure, prioritize changes that don’t require retraining models and can be rolled out in configuration or orchestration layers.",
+        "description": "You can see early gains from LLM optimization in a few days via prompt and parameter tuning, but a typical project for durable, measurable improvements runs 2–8 weeks. Timelines depend on data readiness, number of use cases, and whether you need custom fine‑tuning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

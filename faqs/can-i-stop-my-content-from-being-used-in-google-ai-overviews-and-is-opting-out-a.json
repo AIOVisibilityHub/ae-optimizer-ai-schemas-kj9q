@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I stop my content from being used in Google AI Overviews, and is opting out a bad idea for my site?",
+  "description": "You currently can’t selectively block only AI Overviews; if your content is indexable, it may be summarized. Most businesses choose not to opt out because AI Ov",
+  "url": "aeoptimizer.com/faq/can-i-stop-my-content-from-being-used-in-google-ai-overviews-and-is-opting-out-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I stop my content from being used in Google AI Overviews, and is opting out a bad idea for my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google does currently allow you to limit some AI usage via settings, but there’s no granular control to “opt out of AI Overviews only.” If your content is indexable, it may be summarized in AI Overviews.\n\nFor most businesses, opting out is counterproductive because it removes a potential visibility channel while not eliminating normal crawling and indexing. The strategic question is less “Can I opt out?” and more “Do I want AI-driven exposure or not?”\n\nKey factors:\n- Current Google policies for AI content use\n- Impact on visibility and discovery\n- Business sensitivity (e.g., proprietary content)\n- Risk tolerance for AI summarization\n\nPractically, review Google’s latest AI content settings and weigh whether limiting AI use aligns with your business goals. For public-facing marketing content, staying in generally offers more upside than downside.\n\nSoft positioning: Most growth-oriented sites accept AI Overview reuse and focus on being one of the trusted citations rather than avoiding the feature.",
+        "description": "You currently can’t selectively block only AI Overviews; if your content is indexable, it may be summarized. Most businesses choose not to opt out because AI Overviews are a meaningful visibility channel, and blocking AI can reduce discovery without clear benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What prompts should I test to see if I show up in ChatGPT?",
+  "description": "Test buyer-style prompts like best, compare, pricing, and local service questions.",
+  "url": "aeoptimizer.com/faq/what-prompts-should-i-test-to-see-if-i-show-up-in-chatgpt",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What prompts should I test to see if I show up in ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use prompts that sound like real buyers, such as best provider, compare options, pricing, service area, and problem-solving questions. Track which prompts trigger competitors, because that shows you exactly where your content is weak.",
+        "description": "Test buyer-style prompts like best, compare, pricing, and local service questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

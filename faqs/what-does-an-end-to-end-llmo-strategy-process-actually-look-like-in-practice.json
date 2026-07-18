@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does an end-to-end LLMO strategy process actually look like in practice?",
+  "description": "An LLMO process cycles through four steps: discover real prompts, benchmark your current LLM visibility, execute targeted content/technical/offsite changes, the",
+  "url": "aeoptimizer.com/faq/what-does-an-end-to-end-llmo-strategy-process-actually-look-like-in-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does an end-to-end LLMO strategy process actually look like in practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically runs in cycles: discover prompts, benchmark visibility, build or update assets, then measure and refine. Each loop deepens your presence around a set of customer intents.\n\nThis iterative approach lets you adapt as models evolve and new questions emerge.\n\nKey factors:\n- A discovery phase using interviews, logs, and LLM testing.\n- A planning phase that clusters prompts and selects priority themes.\n- An execution phase covering content, structured data, and offsite work.\n- A measurement phase to track share-of-voice and business impact.\n\nVisualize it as a 90-day loop and avoid treating LLMO as a one-time project. A good strategy partner will embed this rhythm into your marketing operations so improvements compound rather than stall after the first push.",
+        "description": "An LLMO process cycles through four steps: discover real prompts, benchmark your current LLM visibility, execute targeted content/technical/offsite changes, then re-measure share-of-voice and business impact. You repeat this loop every few months to keep pace with models and markets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

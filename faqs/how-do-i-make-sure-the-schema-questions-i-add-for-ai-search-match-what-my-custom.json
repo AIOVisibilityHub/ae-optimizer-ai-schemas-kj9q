@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I make sure the schema questions I add for AI search match what my customers are actually asking?",
+  "description": "Build FAQs from real support and sales questions, publish them on key pages, then mirror them in FAQPage schema. Keep updating them as customer concerns evolve",
+  "url": "aeoptimizer.com/faq/how-do-i-make-sure-the-schema-questions-i-add-for-ai-search-match-what-my-custom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I make sure the schema questions I add for AI search match what my customers are actually asking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To align schema with real customer questions, mine your support inbox, chat logs, and sales calls for recurring concerns, then turn those into on-page FAQs and FAQPage markup.\nSchema should reflect genuine user intent, not just keyword lists.\n\nKey factors:\n- Real questions cover process, timing, costs, and risks more than generic “what is” queries.\n- Local nuances (Austin vs. Los Angeles) may require city-specific FAQs.\n- Matching language and phrasing users actually use improves resonance.\n- Regularly refreshing FAQs keeps them in sync with evolving customer needs.\n\nPractically, workshop a set of core FAQs per service and per major city, publish them visibly, and then encode them with FAQPage schema.\nReview and update this set quarterly based on new questions you’re hearing.\nThis feedback loop makes your schema truly user-driven.\n\nshort_answer:\"Build FAQs from real support and sales questions, publish them on key pages, then mirror them in FAQPage schema. Keep updating them as customer concerns evolve so your AI-visible Q&A stays relevant.\"",
+        "description": "Build FAQs from real support and sales questions, publish them on key pages, then mirror them in FAQPage schema. Keep updating them as customer concerns evolve so your AI-visible Q&A stays relevant."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

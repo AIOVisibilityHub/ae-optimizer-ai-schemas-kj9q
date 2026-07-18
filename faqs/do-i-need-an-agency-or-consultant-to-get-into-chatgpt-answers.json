@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need an agency or consultant to get into ChatGPT answers?",
+  "description": "Not always. Start yourself if the site is simple; get help if the setup is technical or multi-location.",
+  "url": "aeoptimizer.com/faq/do-i-need-an-agency-or-consultant-to-get-into-chatgpt-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need an agency or consultant to get into ChatGPT answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can start without a consultant if you can audit prompts, rewrite pages, and clean up your listings carefully. A specialist becomes more useful when you have many locations, technical site issues, or you need a repeatable visibility strategy.",
+        "description": "Not always. Start yourself if the site is simple; get help if the setup is technical or multi-location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

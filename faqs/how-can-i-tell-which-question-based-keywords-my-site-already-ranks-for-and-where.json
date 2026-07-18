@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell which question-based keywords my site already ranks for and where the gaps are?",
+  "description": "Use Search Console to filter queries by question words (who, what, how, etc.), then compare those to internal site search logs and customer questions. Map each",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-which-question-based-keywords-my-site-already-ranks-for-and-where",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell which question-based keywords my site already ranks for and where the gaps are?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by tracking which question keywords already bring people to your site (via Search Console and on-site search), then compare that to a list of questions you’d expect your audience to ask but don’t see. That gap is your opportunity.\n\nMany sites unknowingly rank for partial questions or long-tail variants without having dedicated, well-structured answers.\n\nKey factors:\n- Use Search Console to filter queries by question words (who, what, how…).\n- Check internal site search logs for repeated questions.\n- Compare current queries to your customer support and sales notes.\n- Identify topics with impressions but poor click‑through or thin content.\n\nPractically, build a spreadsheet of current question queries and map each to an existing page or content gap. Create or improve pages that deserve a better answer, starting with those that already get impressions.\n\nThink of this like giving your existing traffic the content it thought it was going to get, instead of leaving them half-served.",
+        "description": "Use Search Console to filter queries by question words (who, what, how, etc.), then compare those to internal site search logs and customer questions. Map each query to existing content, flag thin or missing answers as gaps, and prioritize creating or improving pages for the questions that already get impressions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

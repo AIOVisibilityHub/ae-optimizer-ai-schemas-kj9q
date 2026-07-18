@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should we use HowTo schema for AEO, and what details really matter?",
+  "description": "Use HowTo schema when your page genuinely walks through a process in clear steps. Define named HowToStep entities, keep instructions concise, add totalTime and",
+  "url": "aeoptimizer.com/faq/when-should-we-use-howto-schema-for-aeo-and-what-details-really-matter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should we use HowTo schema for AEO, and what details really matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schema for how‑to content can be especially powerful for AEO because answer engines like extracting step-by-step instructions. You should use HowTo schema only when your page truly walks through a process with discrete steps and outcomes.\n\nWell-structured procedural content is highly reusable in AI assistants and answer boxes, but only if it’s clearly segmented both in HTML and in schema.\n\nKey factors:\n- Break the procedure into named steps (HowToStep), each with concise instructions.\n- Include totalTime and estimatedCost when they’re meaningful and accurate.\n- Keep step names and descriptions aligned with on-page headings or bullets.\n- Pair HowTo with FAQPage if you also answer common context questions.\n\nBefore adding HowTo schema, revise your how‑to pages to follow a clear, numbered sequence with scannable steps. Then mirror that structure in JSON-LD and validate.\n\nProperly implemented HowTo markup turns your instructional content into prime material for AEO-driven answers.",
+        "description": "Use HowTo schema when your page genuinely walks through a process in clear steps. Define named HowToStep entities, keep instructions concise, add totalTime and estimatedCost where appropriate, and ensure everything matches on-page headings. This makes your how‑tos highly reusable in AI-powered answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

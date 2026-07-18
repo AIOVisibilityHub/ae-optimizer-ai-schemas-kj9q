@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is appearing in Google AI Overviews actually good for my business, or will it just steal clicks away from my site?",
+  "description": "Appearing in Google AI Overviews can reduce clicks on simple questions but increase your brand visibility and qualified visits on complex queries. The best stra",
+  "url": "aeoptimizer.com/faq/is-appearing-in-google-ai-overviews-actually-good-for-my-business-or-will-it-jus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is appearing in Google AI Overviews actually good for my business, or will it just steal clicks away from my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google AI Overviews can both help and hurt: they can drive qualified traffic and brand visibility, but they may also reduce clicks because users get answers directly in the overview. Your goal is to be one of the trusted sources when AI does show.\n\nWhen your site is cited, users see your brand alongside competitors and may click for deeper information or services. However, for simple questions, AI Overviews can satisfy the query without a click, which changes traditional SEO expectations for those keywords.\n\nKey factors:\n- Query type (simple FAQ vs complex decision)\n- How prominently your link appears in the carousel\n- Whether your page offers clear next steps beyond the overview\n- Overall brand exposure versus raw traffic volume\n\nPractically, prioritize queries where users still need to compare options, book services, or complete tasks after the overview. Design pages to capture that follow-up intent with strong clarity and calls to action.\n\nSoft positioning: Smart teams treat AI Overviews as a visibility and trust channel, not just a traffic meter.",
+        "description": "Appearing in Google AI Overviews can reduce clicks on simple questions but increase your brand visibility and qualified visits on complex queries. The best strategy is to be one of the cited sources and design pages that capture the user’s next step beyond the overview."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’ve added schema for AI search but still don’t see my site in AI answers or overviews?",
+  "description": "If AI search still ignores your site, check that your schema is valid, then improve content depth, expertise, and relevance. Structured data can’t compensate fo",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-ve-added-schema-for-ai-search-but-still-don-t-see-my-site",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’ve added schema for AI search but still don’t see my site in AI answers or overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI overviews or search snippets aren’t picking up your site despite schema, first verify your markup, then look at content quality, authority, and topical fit.\nSchema improves clarity but doesn’t override weak or off-topic pages.\n\nKey factors:\n- Invalid or incomplete schema won’t help and can be ignored by crawlers.\n- AI systems prioritize pages with strong expertise, relevance, and trust signals.\n- Overly generic FAQs or thin content rarely get cited even with perfect schema.\n- It can take weeks for changes to be crawled and reflected in AI answers.\n\nPractically, run your key pages through validators, fix any schema issues, and strengthen visible content with clear headings, examples, and up-to-date information.\nMonitor over a 30–60 day window and compare performance to similar pages on your site.\nUse schema as part of a broader effort to make your pages genuinely useful.\n\nshort_answer:\"If AI search still ignores your site, check that your schema is valid, then improve content depth, expertise, and relevance. Structured data can’t compensate for thin or off-topic pages—it’s a clarity boost, not a ranking shortcut.\"",
+        "description": "If AI search still ignores your site, check that your schema is valid, then improve content depth, expertise, and relevance. Structured data can’t compensate for thin or off-topic pages—it’s a clarity boost, not a ranking shortcut."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

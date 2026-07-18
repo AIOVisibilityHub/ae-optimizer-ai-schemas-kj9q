@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can bad reviews stop me from showing up in ChatGPT answers?",
+  "description": "They can weaken trust and make it harder for your brand to be chosen or cited.",
+  "url": "aeoptimizer.com/faq/can-bad-reviews-stop-me-from-showing-up-in-chatgpt-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can bad reviews stop me from showing up in ChatGPT answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, bad reviews or weak profile data can hurt because they reduce trust and create inconsistent signals. Even if ChatGPT is not directly reading reviews every time, it benefits from the same public information that buyers use to judge you.",
+        "description": "They can weaken trust and make it harder for your brand to be chosen or cited."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much proof or data do I need in my content for AI engines to trust and quote it in answers?",
+  "description": "Include specific data, examples, and clearly attributed references near your key claims, plus dates and conditions where relevant. AI answer engines favor conte",
+  "url": "aeoptimizer.com/faq/how-much-proof-or-data-do-i-need-in-my-content-for-ai-engines-to-trust-and-quote",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much proof or data do I need in my content for AI engines to trust and quote it in answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI answer engines look for **clear, evidence-backed claims**, not just polished marketing copy or generic thought leadership.\n\nThin opinion pieces without data, examples, or explicit limits tend to be less useful as sources for factual answers.\n\nKey factors:\n- Use concrete numbers, scenarios, and mini case studies\n- Attribute quotes and external references clearly\n- Note dates and conditions where claims apply\n- Avoid hype language that obscures what’s actually true\n\nWhen you state something important, ask: what proof, example, or constraint can I add right next to this sentence?\n\nThat habit makes your content safer and more attractive for AI systems that need reliable, verifiable information.",
+        "description": "Include specific data, examples, and clearly attributed references near your key claims, plus dates and conditions where relevant. AI answer engines favor content that looks verifiable and grounded, not just persuasive, so evidence directly beside your statements greatly improves trust and citation potential."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

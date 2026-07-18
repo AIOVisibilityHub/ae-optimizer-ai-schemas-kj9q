@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the biggest mistake businesses make when trying to appear in ChatGPT?",
+  "description": "They write generic SEO copy instead of clear answers to the questions real customers ask.",
+  "url": "aeoptimizer.com/faq/what-is-the-biggest-mistake-businesses-make-when-trying-to-appear-in-chatgpt",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the biggest mistake businesses make when trying to appear in ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest mistake is writing for search engines instead of answering the exact question a person would ask at 11 p.m. If your pages are clear, specific, and supported by trustworthy signals, they have a much better chance of being reused in ChatGPT answers.",
+        "description": "They write generic SEO copy instead of clear answers to the questions real customers ask."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

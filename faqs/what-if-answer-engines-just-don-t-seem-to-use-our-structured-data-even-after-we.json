@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if answer engines just don’t seem to use our structured data, even after we’ve implemented it correctly?",
+  "description": "You can’t force platforms to use your schema. If your valid structured data isn’t being used, focus on better aligning content to user intent, clarifying headin",
+  "url": "aeoptimizer.com/faq/what-if-answer-engines-just-don-t-seem-to-use-our-structured-data-even-after-we",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if answer engines just don’t seem to use our structured data, even after we’ve implemented it correctly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When answer engines seem to ignore your structured data—even though it’s valid—the best response is to refine your content and entity signals rather than trying to “force” visibility. AEO is partly at their discretion.\n\nPlatforms won’t guarantee use of your markup; they decide whether your content is the best fit for a given question.\n\nKey factors:\n- Confirm that your markup aligns with visible content and real user intent.\n- Improve clarity of headings, first sentences, and key facts on the page.\n- Strengthen Organization and Person signals with complete, credible data.\n- Expand and refine FAQs and how‑tos around core user journeys.\n\nTreat these periods as feedback: if you’re not being chosen, your content and structure may not yet be the most helpful option. Iteratively enhance them and give answer engines more reasons to trust and use your pages.\n\nStructured data is an invitation to be considered; your content quality is what gets you selected.",
+        "description": "You can’t force platforms to use your schema. If your valid structured data isn’t being used, focus on better aligning content to user intent, clarifying headings and answers, and strengthening Organization/Person signals. Improved content and entity trust increase your chances of being cited."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

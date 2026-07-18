@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need a formal tracking process for Perplexity citations, or can I just check once in a while?",
+  "description": "A formal tracking process helps a lot. Build a fixed list of 20–40 prompts, run them on a set schedule, and log which URLs Perplexity cites, how accurate they a",
+  "url": "aeoptimizer.com/faq/do-i-really-need-a-formal-tracking-process-for-perplexity-citations-or-can-i-jus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need a formal tracking process for Perplexity citations, or can I just check once in a while?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you should track Perplexity visibility deliberately, not just “check when you remember.” A structured prompt panel lets you see patterns and measure whether your changes are working.\n\nWithout tracking, it’s easy to over‑invest in tactics that aren’t actually moving citations.\n\nKey factors:\n- A fixed list of 20–40 prompts covering brand, category, and comparison queries\n- Monthly or biweekly runs with notes on which URLs are cited\n- Fields for accuracy of information and competitor presence\n- Tie‑ins to traffic and conversion metrics from cited pages\n\nSet up a simple spreadsheet, run the panel on a regular schedule, and treat every run as an experiment report. When a new page starts appearing, study why and replicate that structure elsewhere.\n\nSystematic tracking turns Perplexity from a black box into a feedback loop you can optimize against.",
+        "description": "A formal tracking process helps a lot. Build a fixed list of 20–40 prompts, run them on a set schedule, and log which URLs Perplexity cites, how accurate they are, and which competitors appear. That feedback shows what’s working and guides future content and technical improvements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

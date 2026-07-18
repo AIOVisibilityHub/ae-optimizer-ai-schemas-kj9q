@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do about schema for AI search if my business data and documentation are a mess or incomplete?",
+  "description": "When documentation is weak, keep schema simple and strictly accurate—start with core Organization and LocalBusiness fields, ensure they match visible content, a",
+  "url": "aeoptimizer.com/faq/what-should-i-do-about-schema-for-ai-search-if-my-business-data-and-documentatio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do about schema for AI search if my business data and documentation are a mess or incomplete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your documentation is thin or outdated, start by aligning schema with whatever verifiable data you do have, then gradually improve both content and markup together.\nSchema should never contradict reality; missing details are safer than fabricated ones.\n\nKey factors:\n- Use Organization and basic LocalBusiness fields that you can confirm (name, address, phone, URL).\n- Avoid filling in advanced properties (founder, aggregateRating, priceRange) unless you have reliable sources.\n- Make sure on-page content and schema say the same thing, even if that content is brief.\n- Plan a content and schema refresh cycle as you gather better data.\n\nPractically, create a simple internal data source (spreadsheet or CMS fields) that becomes your “single source of truth” for schema values, then update both pages and markup from there.\nFocus initial effort on cleaning up NAP consistency across cities like San Diego, Denver, and Austin.\nIt’s better to have minimal but accurate schema than rich markup built on shaky information.\n\nshort_answer:\"When documentation is weak, keep schema simple and strictly accurate—start with core Organization and LocalBusiness fields, ensure they match visible content, and gradually enrich markup as you improve your underlying data.\"",
+        "description": "When documentation is weak, keep schema simple and strictly accurate—start with core Organization and LocalBusiness fields, ensure they match visible content, and gradually enrich markup as you improve your underlying data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

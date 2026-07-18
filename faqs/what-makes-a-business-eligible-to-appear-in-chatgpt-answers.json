@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes a business eligible to appear in ChatGPT answers?",
+  "description": "Your site must be crawlable, your answers must be clear, and your business must look trustworthy across multiple sources.",
+  "url": "aeoptimizer.com/faq/what-makes-a-business-eligible-to-appear-in-chatgpt-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes a business eligible to appear in ChatGPT answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You usually need three things: crawlable content, clear answers, and evidence of authority. ChatGPT is more likely to mention businesses it can easily read, understand, and trust, especially when the same facts appear across your site, directories, and third-party mentions.",
+        "description": "Your site must be crawlable, your answers must be clear, and your business must look trustworthy across multiple sources."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

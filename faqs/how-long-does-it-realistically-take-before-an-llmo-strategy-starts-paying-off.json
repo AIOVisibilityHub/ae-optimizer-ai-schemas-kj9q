@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it realistically take before an LLMO strategy starts paying off?",
+  "description": "Expect initial LLMO wins in 4–8 weeks on existing content but plan for 3–9 months to see reliable, repeatable visibility across your target prompts. Timelines d",
+  "url": "aeoptimizer.com/faq/how-long-does-it-realistically-take-before-an-llmo-strategy-starts-paying-off",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it realistically take before an LLMO strategy starts paying off?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementation can start showing small wins in 4–8 weeks for existing content, but meaningful, defensible visibility often takes 3–9 months. LLMs need time to crawl, incorporate, and start trusting new signals and citations.\n\nTimelines also depend on how competitive your niche is and how quickly you can ship updated content and offsite mentions. Highly fragmented or technical markets can move slower.\n\nKey factors:\n- Speed of content updates and structured data deployment.\n- Frequency of external mentions (PR, podcasts, reviews, community posts).\n- How often major LLMs refresh their training and retrieval sources.\n- Competitive activity in your target prompt space.\n\nPlan for a phased view: early directional signals (e.g., “we appear occasionally”) at 1–2 months, measurable share-of-voice gains at 3–6 months, and stronger defensibility beyond 6 months. Choose partners who are explicit about timelines and milestones instead of promising overnight results.",
+        "description": "Expect initial LLMO wins in 4–8 weeks on existing content but plan for 3–9 months to see reliable, repeatable visibility across your target prompts. Timelines depend on how fast you ship content and offsite signals and how competitive your niche is."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

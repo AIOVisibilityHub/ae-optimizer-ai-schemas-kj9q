@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We were burned by a previous AI/LLMO vendor—how should we think about trying LLMO strategy again?",
+  "description": "Use the prior bad experience to sharpen how you scope and evaluate LLMO work, not as a reason to abandon it. Start with a small, explicit audit focused on promp",
+  "url": "aeoptimizer.com/faq/we-were-burned-by-a-previous-ai-llmo-vendor-how-should-we-think-about-trying-llm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We were burned by a previous AI/LLMO vendor—how should we think about trying LLMO strategy again?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you already had a bad experience with an “AI marketing” vendor, treat that as a signal to tighten your evaluation criteria, not to abandon LLMO altogether. The discipline itself is valuable; the execution might have been poor.\n\nOften, the failure stems from vague goals, no measurement, or treating LLMO as a one-off campaign.\n\nKey factors:\n- Whether your previous vendor defined specific prompts and metrics upfront.\n- How transparent they were about limitations and timeframes.\n- Whether they focused only on content volume instead of evidence quality.\n- How much reusable insight or infrastructure they left behind.\n\nRe-start with a small, clearly scoped LLMO audit and insist on explicit deliverables: a prompt set, visibility benchmark, and prioritized action list. Choose partners willing to challenge assumptions and show you their methodology in detail, not just their case studies.",
+        "description": "Use the prior bad experience to sharpen how you scope and evaluate LLMO work, not as a reason to abandon it. Start with a small, explicit audit focused on prompts and measurement, and only work with partners who can show a clear methodology and realistic expectations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do AI answer engines care how old my content is, or can evergreen articles still perform well?",
+  "description": "Evergreen articles can perform well, but AI answer engines pay close attention to freshness for time-sensitive topics. Keep key pages visibly dated and updated,",
+  "url": "aeoptimizer.com/faq/do-ai-answer-engines-care-how-old-my-content-is-or-can-evergreen-articles-still",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do AI answer engines care how old my content is, or can evergreen articles still perform well?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI answer engines do favor **fresh, well-dated examples and stats**, especially in fast-moving topics like software or marketing.\n\nStale content can still be cited, but fresher, clearly updated pages are more attractive sources when answers reference time-sensitive facts.\n\nKey factors:\n- Visible publish and update dates on articles and guides\n- Regularly refreshed examples, screenshots, and feature descriptions\n- Removal or updating of outdated claims and deprecated features\n- Versioning for major process or product changes\n\nSet a cadence to revisit priority pages every 3–6 months, updating claims, data, and examples.\n\nThis helps AI systems trust your content when users ask “latest” or “2026” style questions.",
+        "description": "Evergreen articles can perform well, but AI answer engines pay close attention to freshness for time-sensitive topics. Keep key pages visibly dated and updated, refresh examples and stats regularly, and prune outdated claims so AI can confidently treat your content as current."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

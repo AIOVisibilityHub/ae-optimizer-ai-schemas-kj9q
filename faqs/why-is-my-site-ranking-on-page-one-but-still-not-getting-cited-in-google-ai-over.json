@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is my site ranking on page one but still not getting cited in Google AI Overviews, and what should I fix first?",
+  "description": "If you rank but aren’t cited in AI Overviews, your content likely isn’t structured or trusted enough for Google’s AI. Add clear question headings and short answ",
+  "url": "aeoptimizer.com/faq/why-is-my-site-ranking-on-page-one-but-still-not-getting-cited-in-google-ai-over",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is my site ranking on page one but still not getting cited in Google AI Overviews, and what should I fix first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your site is ranking but not being cited in Google AI Overviews, it usually means your content isn’t in the format or depth the AI prefers, or competitors show stronger expertise signals. You’re close—you just haven’t become the “best source” yet.\n\nAI Overviews frequently pull from pages that answer the exact question in a concise, structured way. If your ranking pages are generic, lack FAQs, or don’t clearly spell out the answer, Google may favor someone else even if you’re nearby in the results.\n\nKey factors:\n- Missing question headings and short answers\n- Insufficient E‑E‑A‑T and author information\n- Weak or absent schema markup\n- Competitors offering clearer, more comprehensive coverage\n\nPractically, audit the pages AI Overviews currently cite for your target query, compare them to yours, and upgrade your content structure, schema, and expertise signals accordingly. Aim to match or exceed the clarity and completeness of those pages.\n\nSoft positioning: Treat “rank but not cited” as a sign that you’re on the right track, and AI Overview optimization is the lever to close the gap.",
+        "description": "If you rank but aren’t cited in AI Overviews, your content likely isn’t structured or trusted enough for Google’s AI. Add clear question headings and short answers, strengthen author and expertise signals, implement FAQ/HowTo schema, and make your coverage deeper and more explicit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

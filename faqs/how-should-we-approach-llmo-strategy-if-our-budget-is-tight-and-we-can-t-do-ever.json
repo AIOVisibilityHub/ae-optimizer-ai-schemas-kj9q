@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should we approach LLMO strategy if our budget is tight and we can’t do everything at once?",
+  "description": "On a tight budget, narrow your LLMO strategy to a small set of high-intent prompts and a handful of key pages. Deeply optimize existing content, secure a few st",
+  "url": "aeoptimizer.com/faq/how-should-we-approach-llmo-strategy-if-our-budget-is-tight-and-we-can-t-do-ever",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should we approach LLMO strategy if our budget is tight and we can’t do everything at once?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With a limited budget, focus your LLMO strategy on a small set of high-intent prompts and the content you already own, rather than trying to “boil the ocean.” The goal is depth on a narrow slice, not shallow coverage everywhere.\n\nYou can still make meaningful progress with targeted updates and smart offsite moves if you’re disciplined about scope.\n\nKey factors:\n- Prioritize bottom-of-funnel prompts tied to demos, trials, or sales calls.\n- Refresh and structure 5–10 existing high-traffic pages instead of writing 50 new ones.\n- Pursue a few high-quality third-party mentions rather than broad PR.\n- Use simple tracking (spreadsheets, manual checks) before investing in tools.\n\nDefine a 90-day micro-plan around 10–20 prompts and a short list of pages to improve. Reassess after that sprint before committing more budget. If needed, bring in a consultant for strategy and do execution in-house to control costs.",
+        "description": "On a tight budget, narrow your LLMO strategy to a small set of high-intent prompts and a handful of key pages. Deeply optimize existing content, secure a few strong offsite mentions, and track results manually before investing in larger programs or tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

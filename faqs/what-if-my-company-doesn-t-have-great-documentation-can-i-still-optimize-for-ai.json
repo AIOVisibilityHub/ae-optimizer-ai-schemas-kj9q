@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my company doesn’t have great documentation—can I still optimize for AI answers effectively?",
+  "description": "Yes. Use real-world inputs like support tickets, sales calls, and chat logs to identify frequent questions, then interview experts to craft clear Q&A sections.",
+  "url": "aeoptimizer.com/faq/what-if-my-company-doesn-t-have-great-documentation-can-i-still-optimize-for-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my company doesn’t have great documentation—can I still optimize for AI answers effectively?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you don’t have good documentation, start by **pulling questions from real conversations** and building content around them.\n\nAI answer optimization depends more on capturing tacit knowledge than on having perfect internal manuals.\n\nKey factors:\n- Mine support tickets, sales calls, chat logs, and emails\n- Interview subject matter experts and record their explanations\n- Turn recurring questions into standardized Q&A sections\n- Validate answers with whoever owns the process or product\n\nCreate a simple workflow: gather raw questions, draft answer blocks, have experts review, then publish with clear structure and schema.\n\nYou’ll gradually turn scattered know-how into AI-friendly content without needing a massive documentation project upfront.",
+        "description": "Yes. Use real-world inputs like support tickets, sales calls, and chat logs to identify frequent questions, then interview experts to craft clear Q&A sections. With structured answers and schema, you can turn informal knowledge into AI-ready content even without formal documentation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to gather before starting a zero-click visibility project?",
+  "description": "Gather your top customer questions, accurate business details (NAP, hours, services, locations), current performance data from Search Console and Google Busines",
+  "url": "aeoptimizer.com/faq/what-information-do-i-need-to-gather-before-starting-a-zero-click-visibility-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to gather before starting a zero-click visibility project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The information you need includes a clear list of priority queries, accurate business data, and an inventory of existing content and profiles.\nThese inputs drive a focused, effective zero-click plan.\n\nContext: Many strategies fail because they chase generic keywords without mapping real customer questions or checking how the business currently appears.\nGood prep keeps efforts aligned with revenue.\n\nKey factors:\n- Top customer questions and high-intent search phrases\n- Verified NAP, hours, services, and location details\n- Current performance data (Search Console, GBP insights)\n- List of all directories and profiles you control\n\nPractical guidance: Before making changes, document this information in a single spreadsheet or workspace.\nUse it to prioritize which questions and locations to optimize first and to track improvements over time.\n\nSoft positioning: Think of this prep work as your blueprint for every zero-click surface where you want to be the default answer.",
+        "description": "Gather your top customer questions, accurate business details (NAP, hours, services, locations), current performance data from Search Console and Google Business Profile, and a list of all your existing profiles and directories. This becomes the blueprint for your zero-click visibility strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

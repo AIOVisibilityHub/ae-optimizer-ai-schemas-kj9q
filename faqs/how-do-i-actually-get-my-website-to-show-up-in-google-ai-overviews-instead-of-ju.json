@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually get my website to show up in Google AI Overviews instead of just regular search results?",
+  "description": "You can’t directly submit your site to Google AI Overviews; you have to earn inclusion by being a high-quality, well-structured result for queries that trigger",
+  "url": "aeoptimizer.com/faq/how-do-i-actually-get-my-website-to-show-up-in-google-ai-overviews-instead-of-ju",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually get my website to show up in Google AI Overviews instead of just regular search results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can’t “submit” your site to Google AI Overviews; you have to earn inclusion by being a trusted, well-structured result for queries that trigger AI Overviews. Focus on strong SEO, clear answers, and structured data.\n\nGoogle only pulls links into AI Overviews from pages that are already indexed and eligible to show a normal search snippet. There are no extra technical opt-ins or fees. Instead, Google’s AI favors pages that answer specific questions clearly, demonstrate expertise, and are easy for machines to parse.\n\nKey factors:\n- Page is indexed and can show a standard snippet\n- Direct, question-based content with clear answers\n- Strong E‑E‑A‑T signals (experience, expertise, authority, trust)\n- Fast, mobile-friendly, well-structured pages\n\nPractically, audit your top queries, see which already trigger AI Overviews, then rewrite those pages with question H2s, short answer paragraphs, FAQ sections, and FAQ/HowTo/Article schema. Track when your pages start appearing as supporting links.\n\nSoft positioning: Most businesses that consistently appear in AI Overviews treat it as advanced SEO, not a separate channel.",
+        "description": "You can’t directly submit your site to Google AI Overviews; you have to earn inclusion by being a high-quality, well-structured result for queries that trigger AI Overviews. Make sure your pages are indexed, answer specific questions clearly, use FAQ/HowTo/Article schema, and demonstrate strong expertise and trust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

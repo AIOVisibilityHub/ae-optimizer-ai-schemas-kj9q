@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the easiest page to fix first for ChatGPT visibility?",
+  "description": "Start with your top service page and put the direct answer at the top.",
+  "url": "aeoptimizer.com/faq/what-s-the-easiest-page-to-fix-first-for-chatgpt-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the easiest page to fix first for ChatGPT visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good quick win is to rewrite your top service page with a direct 40 to 60 word answer at the top, then add question headings and a short FAQ. That single page can tell you a lot about whether your content is ready for ChatGPT-style answers.",
+        "description": "Start with your top service page and put the direct answer at the top."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the biggest content mistakes that cause AI overviews to choose my competitors instead of me?",
+  "description": "AI overviews favor pages with deeper, fresher, and better-structured content. If your pages are thin, outdated, missing key subtopics, or lack clear expertise s",
+  "url": "aeoptimizer.com/faq/what-are-the-biggest-content-mistakes-that-cause-ai-overviews-to-choose-my-compe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the biggest content mistakes that cause AI overviews to choose my competitors instead of me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your site has thin, outdated, or generic content, AI overviews are more likely to pull from competitors that show deeper expertise, fresher data, and better structure.\n\nYou manage this risk by systematically upgrading your content and proving topical authority over time.\n\nKey factors:\n- Incomplete coverage: only answering basic questions while competitors dive deeper.\n- Staleness: old stats, outdated screenshots, or obsolete processes.\n- Weak authority: no author bios, few external mentions, minimal internal linking.\n- Technical issues: slow pages or crawl barriers that reduce trust.\n\nStart with a content audit focused on your most important topics, comparing your pages to those already cited in AI overviews. Close gaps by adding missing sections, updating information, and strengthening internal links across related pieces.\n\nA structured, long-term content plan is often the safest way to catch up and stay competitive in AI-driven search.",
+        "description": "AI overviews favor pages with deeper, fresher, and better-structured content. If your pages are thin, outdated, missing key subtopics, or lack clear expertise signals and internal links, competitors’ content will usually be chosen instead of yours."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

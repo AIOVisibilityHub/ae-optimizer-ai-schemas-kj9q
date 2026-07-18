@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the real downsides or risks of my business appearing in Perplexity answers if I don’t manage it carefully?",
+  "description": "Main risks are stale or vague content leading Perplexity to repeat outdated prices, services, or positioning, and competitors being cited as more credible sourc",
+  "url": "aeoptimizer.com/faq/what-are-the-real-downsides-or-risks-of-my-business-appearing-in-perplexity-answ",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the real downsides or risks of my business appearing in Perplexity answers if I don’t manage it carefully?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are being misrepresented, out-of-date, or overshadowed by competitors that Perplexity sees as more credible. It can also surface old branding or offers if you don’t keep your information current.\n\nPerplexity isn’t trying to harm you, but if your published facts are stale or unclear, its synthesis can miss important nuances or caveats.\n\nKey factors:\n- Stale content (old prices, outdated services, previous locations)\n- Weak author and expertise signals compared to competitors\n- Incomplete local and business details in schema and profiles\n- Lack of monitoring, so you don’t notice inaccurate mentions\n\nMitigate these risks by keeping a core set of pages rigorously up to date, implementing clear schema, and periodically checking how you’re described in answers. Where you see inaccuracies, adjust your content and supporting evidence.\n\nAppearing in answers is powerful, but it’s safest when you actively curate your “public record” instead of leaving old pages floating around.",
+        "description": "Main risks are stale or vague content leading Perplexity to repeat outdated prices, services, or positioning, and competitors being cited as more credible sources. Reduce this by keeping key pages current, strengthening schema and author signals, and regularly checking how you’re described in Perplexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

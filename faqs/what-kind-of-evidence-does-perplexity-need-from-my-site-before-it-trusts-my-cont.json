@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of “evidence” does Perplexity need from my site before it trusts my content enough to quote it in answers?",
+  "description": "Perplexity favors pages that read like evidence packets: specific numbers, named entities, tables, and claims backed by visible sources and credible authors. Up",
+  "url": "aeoptimizer.com/faq/what-kind-of-evidence-does-perplexity-need-from-my-site-before-it-trusts-my-cont",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of “evidence” does Perplexity need from my site before it trusts my content enough to quote it in answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perplexity looks for concrete, verifiable evidence: specific numbers, named entities, referenced sources, and structured facts it can quote without guessing. The more your page “shows its work,” the safer it is for Perplexity to cite.\n\nVague claims or unbacked superlatives are rarely lifted into answers because they’re hard to verify and easy to dispute.\n\nKey factors:\n- Clear data points (percentages, counts, dates) tied to reputable sources\n- Transparent citations or references for claims on your pages\n- Author credentials and bios with relevant experience\n- Comparisons, tables, and FAQs that break complex topics into facts\n\nPractically, upgrade your key pages so every major claim either links to a source, references a study, or shows methodology. Use tables for pricing, feature sets, and timelines so Perplexity can quote them directly.\n\nThink of each page as an evidence packet: anything you’d hesitate to defend publicly probably won’t be trusted by the answer engine either.",
+        "description": "Perplexity favors pages that read like evidence packets: specific numbers, named entities, tables, and claims backed by visible sources and credible authors. Upgrade key pages so every important statement is transparent, verifiable, and easy to quote, rather than vague marketing or unbacked opinions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

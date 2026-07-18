@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I do AI SEO on a small budget, or does it only work for big brands?",
+  "description": "You can start small. Focus on priority pages and high-value questions first, because those usually produce the best return on a limited budget.",
+  "url": "aeoptimizer.com/faq/can-i-do-ai-seo-on-a-small-budget-or-does-it-only-work-for-big-brands",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I do AI SEO on a small budget, or does it only work for big brands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can start with one or two priority pages and improve them first, so a limited budget is not a blocker. The best early wins usually come from pages that already get attention, answer common questions, or drive revenue.",
+        "description": "You can start small. Focus on priority pages and high-value questions first, because those usually produce the best return on a limited budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

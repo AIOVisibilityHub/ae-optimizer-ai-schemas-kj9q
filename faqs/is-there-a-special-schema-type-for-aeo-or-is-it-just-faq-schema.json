@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there a special schema type for AEO, or is it just FAQ schema?",
+  "description": "There is no special AEO-only schema. Use standard schema types like FAQPage, Service, Article, or HowTo as appropriate.",
+  "url": "aeoptimizer.com/faq/is-there-a-special-schema-type-for-aeo-or-is-it-just-faq-schema",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there a special schema type for AEO, or is it just FAQ schema?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no special ‘AEO schema’ type. In practice, you use standard schema.org types like FAQPage, Article, HowTo, Service, or Organization depending on the page content. The important part is matching the markup to what users can actually see.",
+        "description": "There is no special AEO-only schema. Use standard schema types like FAQPage, Service, Article, or HowTo as appropriate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

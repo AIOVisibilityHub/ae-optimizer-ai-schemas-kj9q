@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with LLMO strategy for a SaaS or tech product if we’re not careful?",
+  "description": "The main risks are being misrepresented, overshadowed by weaker competitors, or anchored to outdated messaging inside LLMs. Avoid thin or overly biased content,",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-llmo-strategy-for-a-saas-or-tech-product-if-we-re-not-car",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with LLMO strategy for a SaaS or tech product if we’re not careful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For SaaS and tech companies, the biggest LLMO risks are being mis-positioned, out-ranked by weaker competitors, or associated with outdated messaging that LLMs picked up from old content. Inaccurate or incomplete answers can quietly distort how buyers see you.\n\nThere’s also the risk of over-optimizing with thin or biased content that LLMs learn to ignore.\n\nKey factors:\n- Old pricing or positioning pages still live and indexed.\n- Confusing or inconsistent product naming and descriptions.\n- Over-promotional content that lacks examples, data, or nuance.\n- Absence from neutral third-party sources LLMs trust.\n\nStart by cleaning up stale or contradictory content and aligning how you describe your product everywhere. Then add clearer, evidence-backed explanations and case studies. Work with partners who emphasize accuracy and neutrality, not just “getting mentioned at any cost.”",
+        "description": "The main risks are being misrepresented, overshadowed by weaker competitors, or anchored to outdated messaging inside LLMs. Avoid thin or overly biased content, clean up stale pages, and prioritize accurate, evidence-based information across both your site and third-party sources."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

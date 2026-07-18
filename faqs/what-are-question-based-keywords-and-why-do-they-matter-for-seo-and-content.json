@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are question-based keywords and why do they matter for SEO and content?",
+  "description": "Question-based keywords are search phrases written as questions (who, what, where, why, how, etc.) that people type when seeking specific answers. They matter b",
+  "url": "aeoptimizer.com/faq/what-are-question-based-keywords-and-why-do-they-matter-for-seo-and-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are question-based keywords and why do they matter for SEO and content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Question-based keywords are search phrases framed as questions (who, what, where, why, how, etc.) that people type when they want a specific answer or solution to a problem. They’re used to capture intent-rich traffic, power FAQs, and improve relevance for search engines.\n\nThese queries often reveal clear pain points, making them highly valuable for SEO, content, and product strategy. Instead of targeting generic phrases, you respond directly to the user’s question in their own language.\n\nKey factors:\n- Use natural question words (how, why, what, when, where, who).\n- Reflect real user problems and scenarios.\n- Show clear search intent (informational, comparison, transactional).\n- Are usually longer-tail and more specific than head terms.\n\nTo apply them, map your audience’s most common questions, then create content where the question is a heading and the answer is direct, structured, and comprehensive. Over time, these questions can shape your FAQ hubs, support docs, and product messaging.\n\nDone well, question-based keywords make your content feel like it’s “reading the user’s mind,” not shouting marketing slogans at them.",
+        "description": "Question-based keywords are search phrases written as questions (who, what, where, why, how, etc.) that people type when seeking specific answers. They matter because they reveal clear user intent, drive highly qualified organic traffic, and help you create focused, useful content that matches real search queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

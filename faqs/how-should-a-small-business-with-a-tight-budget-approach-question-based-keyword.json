@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a small business with a tight budget approach question-based keyword SEO?",
+  "description": "Focus on a small set of high-impact questions directly tied to your main offer—pricing, results, implementation, and risks. Use free tools to find real queries,",
+  "url": "aeoptimizer.com/faq/how-should-a-small-business-with-a-tight-budget-approach-question-based-keyword",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a small business with a tight budget approach question-based keyword SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a small business with limited budget, start with a short list of high-impact question-based keywords tied directly to your main offer (pricing, results, implementation, risks). Build one FAQ hub and a few detailed guides instead of a massive content library.\n\nDepth on the right questions beats breadth on random topics when money and time are tight.\n\nKey factors:\n- Prioritize questions that prospects ask before buying.\n- Use free tools (Autocomplete, People Also Ask, forums) for research.\n- Write answers yourself or with affordable freelance help.\n- Track simple KPIs: organic visits, leads, and support deflection.\n\nPractically, aim to fully answer 20–40 core questions over a quarter, then iterate based on performance. Don’t worry about complex technical SEO until you have consistent, helpful content.\n\nTreat it like building a “self-serve salesperson” in content form, one question at a time.",
+        "description": "Focus on a small set of high-impact questions directly tied to your main offer—pricing, results, implementation, and risks. Use free tools to find real queries, build one strong FAQ hub plus a few in‑depth guides, and measure basic outcomes like organic visits, leads, and reduced support volume."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

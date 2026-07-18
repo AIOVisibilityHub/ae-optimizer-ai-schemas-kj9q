@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If my company has multiple locations (like Denver, Salt Lake City, Austin), how should I structure things so each city can appear in Perplexity answers?",
+  "description": "Create distinct city pages (Denver, Salt Lake City, Austin) with unique content and FAQs, add LocalBusiness schema for each location, and keep NAP data consiste",
+  "url": "aeoptimizer.com/faq/if-my-company-has-multiple-locations-like-denver-salt-lake-city-austin-how-shoul",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If my company has multiple locations (like Denver, Salt Lake City, Austin), how should I structure things so each city can appear in Perplexity answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In cities like Salt Lake City, Denver, and Austin, multi‑location businesses need to make each location legible as a distinct entity to answer engines. One generic “locations” page usually isn’t enough.\n\nPerplexity looks for clear city-level details when answering “who should I use in Los Angeles?” style prompts.\n\nKey factors:\n- Individual city pages with unique content, FAQs, and examples\n- LocalBusiness schema per location, tied to accurate addresses and hours\n- Consistent NAP across local directories and maps for each office\n- Internal links from global pages into each city hub\n\nBuild dedicated pages for Salt Lake City, Denver, Austin, etc., describing local team strengths, industries served, and typical projects, then wrap them in city-specific schema. Test Perplexity queries that mention each city by name.\n\nTreat each location as a mini-brand online; the clearer its footprint, the more likely Perplexity is to surface it in answers.",
+        "description": "Create distinct city pages (Denver, Salt Lake City, Austin) with unique content and FAQs, add LocalBusiness schema for each location, and keep NAP data consistent across directories. Link global pages into each city hub and test city‑named prompts in Perplexity to confirm which locations are being cited."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

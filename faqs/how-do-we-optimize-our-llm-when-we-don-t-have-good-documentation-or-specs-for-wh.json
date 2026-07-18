@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do we optimize our LLM when we don’t have good documentation or specs for what “correct” looks like?",
+  "description": "Without solid documentation, build your LLM optimization around real usage: mine chat logs, tickets, and emails, label a subset as good/bad, and use those examp",
+  "url": "aeoptimizer.com/faq/how-do-we-optimize-our-llm-when-we-don-t-have-good-documentation-or-specs-for-wh",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do we optimize our LLM when we don’t have good documentation or specs for what “correct” looks like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With no documentation, you can still optimize your LLM by mining real usage: chat logs, tickets, emails, and spreadsheets become your de‑facto spec and evaluation set. The key is to turn messy reality into structured examples.\n\nThis is slower but often reveals what people actually need more accurately than outdated docs.\n\nKey factors:\n- Access to historical conversations and interactions.\n- Willingness to label a subset as “good” vs. “bad” outcomes.\n- Domain experts who can clarify the right behavior.\n- Simple tools for tagging and organizing examples.\n\nPractically, export recent interactions, cluster them by theme, and pick representative examples for each. Use these to design prompts and test improvements, iterating with domain experts to refine expectations.\n\nIf you later create documentation, base it on this real‑world usage so future optimization cycles start from a stronger foundation.",
+        "description": "Without solid documentation, build your LLM optimization around real usage: mine chat logs, tickets, and emails, label a subset as good/bad, and use those examples as your evaluation set. Iterate prompts and workflows against this reality instead of guessing from idealized specs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

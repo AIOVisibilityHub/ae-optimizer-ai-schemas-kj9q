@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I add FAQPage schema to every page for AI search, or only some of them?",
+  "description": "Use FAQPage schema only on pages with real, visible Q&A content—ideally 3–10 strong questions that match the schema exactly. Applied selectively, it improves cl",
+  "url": "aeoptimizer.com/faq/should-i-add-faqpage-schema-to-every-page-for-ai-search-or-only-some-of-them",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I add FAQPage schema to every page for AI search, or only some of them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FAQPage schema is best used on pages that already have clear, visible question-and-answer sections, not everywhere on your site.\nOverusing it on thin or irrelevant pages can create noise and policy issues.\n\nKey factors:\n- Schema questions must match visible text word-for-word on the page.\n- 3–10 strong, relevant FAQs per page is a practical sweet spot.\n- Duplicating the same FAQ block across many pages weakens the signal.\n- Google has reduced FAQ-rich result usage, but AI and search still use the clarity it provides.\n\nPractically, pick a handful of high-intent pages (services, pricing, onboarding) and add a visible FAQ section, then mirror that with FAQPage JSON-LD.\nFocus on questions your customers genuinely ask, especially around process, timing, and costs.\nFAQ schema works best when it reflects real user uncertainty, not manufactured keyword lists.\n\nshort_answer:\"Use FAQPage schema only on pages with real, visible Q&A content—ideally 3–10 strong questions that match the schema exactly. Applied selectively, it improves clarity for AI search without triggering duplication or quality issues.\"",
+        "description": "Use FAQPage schema only on pages with real, visible Q&A content—ideally 3–10 strong questions that match the schema exactly. Applied selectively, it improves clarity for AI search without triggering duplication or quality issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

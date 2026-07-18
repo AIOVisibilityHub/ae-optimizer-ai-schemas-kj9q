@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my LLMO strategy is actually working or just a vanity project?",
+  "description": "Track how often and how prominently LLMs cite your brand for a fixed set of priority prompts, then tie those changes to branded traffic, leads, and revenue. If",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-llmo-strategy-is-actually-working-or-just-a-vanity-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my LLMO strategy is actually working or just a vanity project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Success is measured by how often and how favorably you’re cited by LLMs for your target prompts, plus the downstream traffic, leads, and revenue those mentions drive. Unlike SEO, there’s no single “ranking,” so you rely on structured testing and tracking.\n\nYou’ll want a repeatable way to query models, log answers, and monitor shifts over time. Pair that with analytics on branded searches, direct visits, and assisted conversions.\n\nKey factors:\n- Share-of-voice in LLM answers for your target prompt set.\n- Citation quality (are you the primary recommendation or a side mention?).\n- Changes in branded traffic and direct/demo requests.\n- Assisted impact on pipeline (e.g., “heard about you from ChatGPT”).\n\nCreate a quarterly test panel of 50–100 prompts and run them in 2–3 major LLMs, storing answers in a spreadsheet or internal tool. Track changes alongside your content and PR efforts so you can see which activities correlate with improved visibility. Specialized LLMO tools can automate much of this tracking.",
+        "description": "Track how often and how prominently LLMs cite your brand for a fixed set of priority prompts, then tie those changes to branded traffic, leads, and revenue. If share-of-voice in answers and downstream conversions are rising, your LLMO strategy is working."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

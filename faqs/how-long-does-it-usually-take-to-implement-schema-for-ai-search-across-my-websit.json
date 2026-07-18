@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it usually take to implement schema for AI search across my website?",
+  "description": "A well-planned schema rollout typically takes 2–6 weeks for most businesses, plus a month or two of monitoring. The biggest time factors are page volume, data g",
+  "url": "aeoptimizer.com/faq/how-long-does-it-usually-take-to-implement-schema-for-ai-search-across-my-websit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it usually take to implement schema for AI search across my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most small and mid-sized teams, a solid schema implementation across priority pages takes 2–6 weeks, depending on site size and coordination.\nThe work itself is straightforward; delays usually come from gathering accurate data and getting changes deployed.\n\nKey factors:\n- Time varies with the number of page templates and locations you need to cover.\n- Content parity checks (schema vs. visible text) add necessary QA time.\n- Developer availability and release cycles often slow deployment more than the schema work.\n- Validation and monitoring should continue for at least 1–2 months after launch.\n\nPractically, start with a scoped plan: define which templates get Organization, LocalBusiness, Article, FAQPage, and Service schema, then implement in batches.\nUse a shared spreadsheet or tracking tool so marketing and dev stay aligned on properties and testing.\nExpect schema to be an ongoing maintenance task as you add pages, not a one‑and‑done project.\n\nshort_answer:\"A well-planned schema rollout typically takes 2–6 weeks for most businesses, plus a month or two of monitoring. The biggest time factors are page volume, data gathering, dev cycles, and validating that markup matches visible content.\"",
+        "description": "A well-planned schema rollout typically takes 2–6 weeks for most businesses, plus a month or two of monitoring. The biggest time factors are page volume, data gathering, dev cycles, and validating that markup matches visible content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

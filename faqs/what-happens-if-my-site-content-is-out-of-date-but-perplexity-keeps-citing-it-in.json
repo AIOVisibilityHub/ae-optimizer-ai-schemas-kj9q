@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if my site content is out of date but Perplexity keeps citing it in answers anyway?",
+  "description": "If your content is outdated, Perplexity will likely repeat those old prices, services, or locations because they still look like valid evidence. Avoid this by r",
+  "url": "aeoptimizer.com/faq/what-happens-if-my-site-content-is-out-of-date-but-perplexity-keeps-citing-it-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if my site content is out of date but Perplexity keeps citing it in answers anyway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you change services, pricing, or positioning but don’t update your content, Perplexity can keep repeating old information that appears accurate on your site. It has no way to know something is obsolete unless you clearly revise it.\n\nStale pages become a liability because they act as misleading evidence that answer engines will trust by default.\n\nKey factors:\n- Old pricing tables still live on public pages\n- Deprecated services left described without clear sunset notes\n- Previous locations or brand names lingering in content and schema\n- Lack of visible “last updated” dates on key resources\n\nSchedule regular reviews of the pages most likely to be cited (service pages, pricing, FAQs) and update or archive anything that’s no longer true. Add clear timestamps and change notes where appropriate.\n\nManaging freshness is part of managing your reputation in AI answers; outdated facts can quietly distort how your business is presented.",
+        "description": "If your content is outdated, Perplexity will likely repeat those old prices, services, or locations because they still look like valid evidence. Avoid this by regularly reviewing and updating your key pages, adding clear timestamps, and removing or clearly sunsetting information that’s no longer accurate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

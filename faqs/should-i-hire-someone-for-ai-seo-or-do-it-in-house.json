@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I hire someone for AI SEO or do it in-house?",
+  "description": "Either can work. Choose based on your content maturity, technical setup, budget, and how much control you want over publishing.",
+  "url": "aeoptimizer.com/faq/should-i-hire-someone-for-ai-seo-or-do-it-in-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I hire someone for AI SEO or do it in-house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, especially if you are comparing agencies, tools, or internal approaches. The right choice usually depends on your content maturity, technical setup, budget, and how much hands-on control you want over publishing.",
+        "description": "Either can work. Choose based on your content maturity, technical setup, budget, and how much control you want over publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

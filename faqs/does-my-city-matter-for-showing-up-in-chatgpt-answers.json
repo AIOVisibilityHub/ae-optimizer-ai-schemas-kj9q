@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does my city matter for showing up in ChatGPT answers?",
+  "description": "Yes, for local services your city and service-area signals can strongly affect whether you appear.",
+  "url": "aeoptimizer.com/faq/does-my-city-matter-for-showing-up-in-chatgpt-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does my city matter for showing up in ChatGPT answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, location matters when people search for local services, because ChatGPT often relies on clear local signals. If you serve Los Angeles, San Diego, Austin, Denver, or Salt Lake City, your location pages, listings, and service-area details should match exactly.",
+        "description": "Yes, for local services your city and service-area signals can strongly affect whether you appear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

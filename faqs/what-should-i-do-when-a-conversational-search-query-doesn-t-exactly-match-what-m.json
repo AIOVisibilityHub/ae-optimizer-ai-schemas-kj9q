@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when a conversational search query doesn’t exactly match what my product or content can answer?",
+  "description": "Answer the underlying intent honestly, even if you can’t address every detail. Provide the best general guidance you can, explain what may vary or is unknown, a",
+  "url": "aeoptimizer.com/faq/what-should-i-do-when-a-conversational-search-query-doesn-t-exactly-match-what-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when a conversational search query doesn’t exactly match what my product or content can answer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When a conversational search query doesn’t match your public content perfectly, your safest move is to answer the core intent as best you can and acknowledge limits transparently. Avoid bluffing or over‑promising.\n\nUsers trust clear partial answers more than confident but wrong ones.\n\nKey factors:\n- Identify the underlying need behind the specific wording\n- Offer what you can: principles, ranges, or next steps\n- Be explicit about unknowns or variables you can’t control\n- Suggest how the user can refine their query or data\n\nIn practice, respond: “Here’s what generally applies, but X may vary based on Y; here’s how to check.” This keeps the conversation honest and useful.\n\nYou’re aiming for constructive guidance, not perfect precision in every case.",
+        "description": "Answer the underlying intent honestly, even if you can’t address every detail. Provide the best general guidance you can, explain what may vary or is unknown, and suggest how the user can refine their question or gather missing information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

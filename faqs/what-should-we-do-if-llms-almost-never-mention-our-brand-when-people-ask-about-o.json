@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should we do if LLMs almost never mention our brand when people ask about our category?",
+  "description": "Start by auditing key prompts in several LLMs to see where you’re absent and which competitors or sources are cited. Then build a targeted plan to fix content,",
+  "url": "aeoptimizer.com/faq/what-should-we-do-if-llms-almost-never-mention-our-brand-when-people-ask-about-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should we do if LLMs almost never mention our brand when people ask about our category?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If LLMs rarely mention your brand today, the first move is understanding *why*—which prompts you’re missing, who is being cited instead, and what evidence they have that you don’t. Visibility gaps are often fixable with targeted content and authority work.\n\nIgnoring the problem lets competitors “own” the narrative in AI answers, even if you rank decently in search.\n\nKey factors:\n- Whether you have content that directly answers buyer questions in clear sections.\n- Presence of structured data, entities, and consistent naming across platforms.\n- Strength and recency of third-party mentions and reviews.\n- Alignment of your content with how customers actually phrase prompts.\n\nRun a focused audit across key LLMs for your top use cases, then categorize issues into content, technical, and offsite buckets. Build a 3–6 month plan around those gaps. A specialist can accelerate the diagnosis so you spend your time on fixes, not guesswork.",
+        "description": "Start by auditing key prompts in several LLMs to see where you’re absent and which competitors or sources are cited. Then build a targeted plan to fix content, technical signals, and offsite authority so LLMs have credible reasons to include your brand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

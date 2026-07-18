@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does it realistically cost to target question-based keywords, and is it worth the effort?",
+  "description": "The main cost of targeting question-based keywords is time and content creation, not direct ad spend. You invest in research, writing, and occasional updates, b",
+  "url": "aeoptimizer.com/faq/what-does-it-realistically-cost-to-target-question-based-keywords-and-is-it-wort",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does it realistically cost to target question-based keywords, and is it worth the effort?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Question-based keywords typically cost time and content resources rather than direct ad spend, but their ROI can be high because they attract highly qualified, intent-rich traffic. The main “cost” is research, writing, and maintenance.\n\nYou can start small—targeting a handful of key questions—without needing a huge budget or a full content team.\n\nKey factors:\n- Research tools (may be free or subscription-based).\n- Content creation (in-house, freelance, or agency fees).\n- Design/formatting for readability and snippets (minimal but helpful).\n- Ongoing updates as answers change or new questions appear.\n\nIf budget is tight, focus on a simple FAQ hub plus a few deeper guides for your top questions, and revisit them quarterly. Track metrics like organic traffic, conversions, and support deflection to judge value.\n\nThink of question-based SEO as a compounding asset: each strong answer can keep paying off for years with only minor upkeep.",
+        "description": "The main cost of targeting question-based keywords is time and content creation, not direct ad spend. You invest in research, writing, and occasional updates, but the payoff can be significant because these questions attract intent‑rich traffic and can generate leads and reduce support over the long term."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

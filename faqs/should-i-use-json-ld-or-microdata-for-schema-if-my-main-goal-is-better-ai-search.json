@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use JSON-LD or microdata for schema if my main goal is better AI search visibility?",
+  "description": "Use JSON-LD for schema in the AI search era. It’s the format most platforms expect, keeps markup separate from HTML, and is far easier to maintain than microdat",
+  "url": "aeoptimizer.com/faq/should-i-use-json-ld-or-microdata-for-schema-if-my-main-goal-is-better-ai-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use JSON-LD or microdata for schema if my main goal is better AI search visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "JSON-LD is the preferred format for schema in the AI search era because it keeps structured data separate from your HTML content and is widely supported.\nInline microdata still works technically, but it’s harder to maintain and scale.\n\nKey factors:\n- JSON-LD lives in script tags, making it easy to edit without touching design.\n- AI and search platforms expect JSON-LD for most modern implementations.\n- Microdata often breaks when templates change or content gets updated.\n- Developers and SEOs can collaborate more easily around isolated JSON-LD blocks.\n\nPractically, standardize on JSON-LD for Organization, LocalBusiness, Article, FAQPage, Product, and Service schema across your site.\nUse a shared pattern or generator to reduce human error and speed updates.\nPlanning around one format simplifies training and documentation for your internal team.\n\nshort_answer:\"Use JSON-LD for schema in the AI search era. It’s the format most platforms expect, keeps markup separate from HTML, and is far easier to maintain than microdata as your site and templates evolve.\"",
+        "description": "Use JSON-LD for schema in the AI search era. It’s the format most platforms expect, keeps markup separate from HTML, and is far easier to maintain than microdata as your site and templates evolve."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

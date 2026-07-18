@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to add FAQ schema for AEO?",
+  "description": "A simple implementation can be fast, but a strong FAQ usually takes time for research, writing, approval, and validation.",
+  "url": "aeoptimizer.com/faq/how-long-does-it-take-to-add-faq-schema-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to add FAQ schema for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small FAQ section can be published quickly if the questions are already known, but a stronger AEO FAQ usually takes longer because the questions need research and review. The bigger delay is often approving the wording and making sure the schema matches the final page content.",
+        "description": "A simple implementation can be fast, but a strong FAQ usually takes time for research, writing, approval, and validation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

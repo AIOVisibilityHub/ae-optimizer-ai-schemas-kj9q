@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which schema types matter most for AI search for a multi-location service business?",
+  "description": "Focus on Organization, LocalBusiness, Service, Article, and FAQPage schema. These types, applied consistently across locations, give AI search a clear picture o",
+  "url": "aeoptimizer.com/faq/which-schema-types-matter-most-for-ai-search-for-a-multi-location-service-busine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which schema types matter most for AI search for a multi-location service business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For multi-location service businesses, the most critical schema types for AI search are Organization, LocalBusiness, Service, Article, and FAQPage.\nTogether, they explain who you are, where you operate, what you offer, and how you answer customer questions.\n\nKey factors:\n- Organization and LocalBusiness form your identity and geographic footprint.\n- Service schema clarifies specific offerings, pricing, and areas served.\n- Article schema defines topical expertise and authorship.\n- FAQPage schema captures common pre-sales and support questions.\n\nPractically, build a schema map: assign Organization to your root, LocalBusiness and Service to location or offer pages, and Article + FAQPage to content and FAQ hubs.\nImplement consistently across cities like Los Angeles, Austin, and Denver so your brand looks unified to AI systems.\nThis layered approach gives AI search multiple, reinforcing signals about your relevance.\n\nshort_answer:\"Focus on Organization, LocalBusiness, Service, Article, and FAQPage schema. These types, applied consistently across locations, give AI search a clear picture of your identity, services, expertise, and customer Q&A.\"",
+        "description": "Focus on Organization, LocalBusiness, Service, Article, and FAQPage schema. These types, applied consistently across locations, give AI search a clear picture of your identity, services, expertise, and customer Q&A."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

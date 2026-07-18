@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you have to be a big, authoritative site to get listed in Google AI Overviews, or can smaller niche sites show up too?",
+  "description": "Smaller niche sites can absolutely appear in Google AI Overviews. If you provide the clearest, most structured answers on specific topics and show real expertis",
+  "url": "aeoptimizer.com/faq/do-you-have-to-be-a-big-authoritative-site-to-get-listed-in-google-ai-overviews",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you have to be a big, authoritative site to get listed in Google AI Overviews, or can smaller niche sites show up too?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need to be a major brand to appear in Google AI Overviews; smaller sites can win if they specialize, structure content well, and demonstrate clear expertise. Topic focus often beats sheer size.\n\nGoogle’s AI looks for the best answer, not just the biggest domain. Niche businesses and blogs that cover a subject comprehensively, with strong E‑E‑A‑T and good technical hygiene, frequently show up alongside large players—especially on long-tail queries.\n\nKey factors:\n- Clear topical focus and content clusters\n- High-quality, well-structured answers\n- Authentic expertise and experience\n- Clean technical SEO and reasonable speed\n\nPractically, choose specific topics where you can be the best explainer, build deep content around those, and format everything in question-and-answer style with schema. Target longer, more specific queries first—they’re less dominated by big brands.\n\nSoft positioning: In AI Overviews, being the smartest niche voice often matters more than being the loudest generalist.",
+        "description": "Smaller niche sites can absolutely appear in Google AI Overviews. If you provide the clearest, most structured answers on specific topics and show real expertise, Google’s AI will often cite you even alongside larger brands."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

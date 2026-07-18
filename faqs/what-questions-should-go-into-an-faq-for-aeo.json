@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What questions should go into an FAQ for AEO?",
+  "description": "Use buying questions: pricing, timeline, setup, results, requirements, and common objections.",
+  "url": "aeoptimizer.com/faq/what-questions-should-go-into-an-faq-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What questions should go into an FAQ for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best questions are the ones people ask before they buy, not generic SEO phrases. Good examples include pricing, timelines, setup requirements, what results to expect, and what happens if they already have content in place. Those questions often drive real conversion decisions.",
+        "description": "Use buying questions: pricing, timeline, setup, results, requirements, and common objections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

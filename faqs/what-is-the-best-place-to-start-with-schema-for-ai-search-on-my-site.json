@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the best place to start with schema for AI search on my site?",
+  "description": "Begin with Organization and LocalBusiness schema, then add Article and FAQPage to key content and FAQ pages. These core types establish your brand, locations, a",
+  "url": "aeoptimizer.com/faq/what-is-the-best-place-to-start-with-schema-for-ai-search-on-my-site",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best place to start with schema for AI search on my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should start by implementing **Organization** and **LocalBusiness** schema, then layer in Article and FAQPage on your main content pages and service FAQs.\nThese core types give AI systems clear signals about who you are, where you operate, and what each page is about.\n\nKey factors:\n- Organization schema on your homepage establishes your brand entity and ownership.\n- LocalBusiness schema for each city you serve (Los Angeles, San Diego, Austin, Denver, Salt Lake City) clarifies locations, hours, and geo data.\n- Article schema on every content page defines topics, authorship, and dates.\n- FAQPage schema on pages with visible Q&A improves machine-readable clarity.\n\nPractically, audit your site for pages that describe your business, locations, and FAQs, then add JSON-LD blocks with accurate, visible-matching data, validating them with a rich-results testing tool.\nStart with a simple, correct implementation before adding more advanced types like Service or Product.\nThoughtful, staged schema rollout is usually more effective than trying to mark up everything at once.\n\nshort_answer:\"Begin with Organization and LocalBusiness schema, then add Article and FAQPage to key content and FAQ pages. These core types establish your brand, locations, and topics so AI search can understand and surface your site more reliably.\"",
+        "description": "Begin with Organization and LocalBusiness schema, then add Article and FAQPage to key content and FAQ pages. These core types establish your brand, locations, and topics so AI search can understand and surface your site more reliably."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I need this done fast. What is the minimum viable FAQ schema setup for AEO?",
+  "description": "Publish a small set of accurate, high-value FAQs first, then expand them later based on data.",
+  "url": "aeoptimizer.com/faq/i-need-this-done-fast-what-is-the-minimum-viable-faq-schema-setup-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I need this done fast. What is the minimum viable FAQ schema setup for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are short on time, publish the most important FAQs first and keep them simple. It is better to launch a small, accurate section than to delay for a perfect but unfinished one. Later, you can expand based on search data and customer questions.",
+        "description": "Publish a small set of accurate, high-value FAQs first, then expand them later based on data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

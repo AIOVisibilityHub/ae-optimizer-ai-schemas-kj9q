@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should we do if our LLMO efforts aren’t working or results are much slower than promised?",
+  "description": "Diagnose whether the issue is with target prompts, content quality, or offsite authority instead of abandoning LLMO. Re-audit key prompts in LLMs, compare resul",
+  "url": "aeoptimizer.com/faq/what-should-we-do-if-our-llmo-efforts-aren-t-working-or-results-are-much-slower",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should we do if our LLMO efforts aren’t working or results are much slower than promised?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delayed or disappointing LLMO results usually point to one of three issues: weak or misaligned prompts, shallow or fragmented content, or insufficient offsite authority. Sometimes the work was good but expectations were unrealistic for the timeframe.\n\nInstead of throwing everything out, isolate which piece is failing.\n\nKey factors:\n- Were target prompts clearly defined and tied to revenue?\n- Do you have single, strong canonical pages per topic—or scattered blog posts?\n- Are you cited anywhere neutral and authoritative, or only on your own site?\n- How rigorously are you measuring share-of-voice and changes over time?\n\nRun a brief postmortem: re-check key prompts in LLMs, compare to your roadmap, and identify specific breakdowns. Then refine the strategy rather than abandoning it—possibly with help from someone who can diagnose gaps objectively.",
+        "description": "Diagnose whether the issue is with target prompts, content quality, or offsite authority instead of abandoning LLMO. Re-audit key prompts in LLMs, compare results to your plan, and adjust scope and tactics—possibly with an external review to pinpoint gaps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

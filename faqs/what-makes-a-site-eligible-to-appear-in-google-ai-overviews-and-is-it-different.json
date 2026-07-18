@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes a site eligible to appear in Google AI Overviews, and is it different from normal SEO eligibility?",
+  "description": "Eligibility for Google AI Overviews is basically the same as normal Google search: your pages must be indexed and able to show a snippet. Beyond that, Google’s",
+  "url": "aeoptimizer.com/faq/what-makes-a-site-eligible-to-appear-in-google-ai-overviews-and-is-it-different",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes a site eligible to appear in Google AI Overviews, and is it different from normal SEO eligibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no separate eligibility program for AI Overviews; if your pages can appear in normal Google search with snippets, they’re already technically eligible. The real difference is whether Google’s AI considers your content authoritative and extractable for a given query.\n\nGoogle uses AI Overviews to synthesize answers from pages it already trusts for a topic. That means you must first rank or at least be visible for the intent in regular search. From there, Google prefers content that’s well-structured, clearly answers questions, and shows strong signals of expertise.\n\nKey factors:\n- Indexed pages with clean technical SEO\n- Topic relevance and organic visibility for the query\n- Clear question-and-answer structure\n- Demonstrable expertise and trust signals\n\nPractically, start by confirming your pages are indexed, then build topic clusters and Q&A sections around the queries that currently show AI Overviews. Over time, as you gain visibility and authority, your eligibility turns into actual citations.\n\nSoft positioning: Think of AI Overview eligibility as “advanced organic search,” not a separate feature you apply for.",
+        "description": "Eligibility for Google AI Overviews is basically the same as normal Google search: your pages must be indexed and able to show a snippet. Beyond that, Google’s AI favors pages that already rank or are visible for the query, have clear Q&A structure, and demonstrate strong expertise and trust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

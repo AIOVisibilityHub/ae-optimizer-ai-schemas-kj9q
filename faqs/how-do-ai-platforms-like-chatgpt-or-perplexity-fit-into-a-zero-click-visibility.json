@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do AI platforms like ChatGPT or Perplexity fit into a zero-click visibility strategy?",
+  "description": "AI platforms like ChatGPT and Perplexity are new answer engines. If your content is authoritative and well-structured, they can cite or mention your brand in re",
+  "url": "aeoptimizer.com/faq/how-do-ai-platforms-like-chatgpt-or-perplexity-fit-into-a-zero-click-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do AI platforms like ChatGPT or Perplexity fit into a zero-click visibility strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI platforms like ChatGPT and Perplexity matter because they’re becoming answer engines where your brand can be cited without a traditional search.\nBeing mentioned there is another form of zero-click visibility.\n\nContext: These tools pull from the open web, trusted sources, and structured data to craft responses.\nIf your brand is an authority, you can be referenced or linked as a source even when users never open a browser.\n\nKey factors:\n- High-quality, citable content on your site\n- Entity clarity (consistent names, descriptions, schema)\n- Presence on reputable third-party sites and directories\n- Monitoring for brand mentions and citation accuracy\n\nPractical guidance: Publish comprehensive guides and FAQs on topics where you want authority, and ensure your organization schema and profiles are clean.\nPeriodically test AI tools with your core queries to see if and how you’re mentioned.\n\nSoft positioning: Consider AI platforms as new “front doors” for your brand’s expertise, not just a threat to website traffic.",
+        "description": "AI platforms like ChatGPT and Perplexity are new answer engines. If your content is authoritative and well-structured, they can cite or mention your brand in responses, giving you zero-click visibility and influence even when users never visit your website."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

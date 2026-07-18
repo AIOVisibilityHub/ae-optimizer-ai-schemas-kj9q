@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can optimizing for AI overviews backfire and hurt my regular SEO or user experience?",
+  "description": "Yes. Over-optimizing—like cramming in artificial Q&As, over-chunking text, or sacrificing depth—can make content feel spammy and hurt both rankings and engageme",
+  "url": "aeoptimizer.com/faq/can-optimizing-for-ai-overviews-backfire-and-hurt-my-regular-seo-or-user-experie",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can optimizing for AI overviews backfire and hurt my regular SEO or user experience?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it’s possible to overdo AI overview optimization and end up with content that feels robotic, repetitive, or over-chunked, which can hurt both user experience and overall rankings.\n\nAI systems increasingly reward genuinely helpful, readable content—not just pages stuffed with FAQs and bolded one-liners.\n\nKey factors:\n- Over-optimization: forcing every sentence into Q&A format or keyword-stuffed headings.\n- Fragmentation: splitting ideas into too many micro-sections, breaking narrative flow.\n- Neglecting depth: focusing on snippets instead of substantive explanations and examples.\n- Ignoring intent: answering questions your audience doesn’t really care about.\n\nUse Q&A structures to organize content, but keep natural explanations, stories, and visuals that help humans understand. Review pages on mobile to ensure they still read smoothly end to end.\n\nIf you engage a specialist, make sure they talk about user experience and depth, not just schema and bullet points.",
+        "description": "Yes. Over-optimizing—like cramming in artificial Q&As, over-chunking text, or sacrificing depth—can make content feel spammy and hurt both rankings and engagement. Aim for answer-friendly structure that still reads naturally and thoroughly for humans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

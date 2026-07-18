@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a serious zero-click visibility program usually cost for a multi-city business?",
+  "description": "For a mid-sized multi-city business, a serious zero-click visibility program commonly runs from the low four- to mid five-figure range over several months, depe",
+  "url": "aeoptimizer.com/faq/how-much-does-a-serious-zero-click-visibility-program-usually-cost-for-a-multi-c",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a serious zero-click visibility program usually cost for a multi-city business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a mid-sized local or B2B business, an initial zero-click visibility program often falls in the low four- to mid five-figure range, spread over several months.\nOngoing maintenance is typically a smaller, steady investment.\n\nContext: Costs depend on how many locations, services, and content gaps you have.\nMultiple cities (like Los Angeles, San Diego, or Denver) and complex offerings require more auditing, content, and profile work.\n\nKey factors:\n- Number of locations and profiles to optimize\n- Existing content quality and technical issues\n- Need for custom schema and analytics setup\n- In-house capabilities vs. outside help\n\nPractical guidance: Start with a scoped pilot: a single city or service line, plus core FAQs and AI visibility tracking.\nUse that to benchmark impact, then decide whether to expand investment.\n\nSoft positioning: Think of the cost as funding durable brand visibility rather than just short-term traffic spikes.",
+        "description": "For a mid-sized multi-city business, a serious zero-click visibility program commonly runs from the low four- to mid five-figure range over several months, depending on locations, content gaps, and in‑house capabilities. After the initial build, ongoing maintenance is a smaller recurring cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

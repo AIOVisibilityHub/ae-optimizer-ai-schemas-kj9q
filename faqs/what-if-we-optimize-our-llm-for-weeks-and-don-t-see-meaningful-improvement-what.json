@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if we optimize our LLM for weeks and don’t see meaningful improvement—what should we check next?",
+  "description": "If LLM optimization isn’t moving the needle, re‑examine your metrics and evaluation set, validate input data quality, and consider structural changes like addin",
+  "url": "aeoptimizer.com/faq/what-if-we-optimize-our-llm-for-weeks-and-don-t-see-meaningful-improvement-what",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if we optimize our LLM for weeks and don’t see meaningful improvement—what should we check next?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your optimized LLM isn’t improving, it usually means either you’re measuring the wrong things, your evaluation set doesn’t reflect real usage, or changes are too small relative to the problem. Sometimes upstream issues—like bad input data—are the real bottleneck.\n\nIt’s also common to hit diminishing returns after basic optimization; beyond that, only structural changes (like RAG or fine‑tuning) move the needle.\n\nKey factors:\n- Misaligned metrics vs. user perception of “good.”\n- Evaluation sets that are too small or synthetic.\n- Optimizing parameters without fixing data or workflow design.\n- Underpowered models for the complexity of the task.\n\nPractically, revisit your definition of success with stakeholders and expand your test set from real user queries. Check for data quality issues and consider whether you need retrieval or a stronger base model.\n\nIf progress stalls, pause incremental tweaks and run a focused diagnostic to identify the biggest remaining constraint.",
+        "description": "If LLM optimization isn’t moving the needle, re‑examine your metrics and evaluation set, validate input data quality, and consider structural changes like adding retrieval or upgrading the base model. Often the issue is misaligned goals or upstream data, not the fine details of parameters."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

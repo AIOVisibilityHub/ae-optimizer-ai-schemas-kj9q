@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is showing up in ChatGPT answers even worth it, or is it just hype?",
+  "description": "It is worth it when your buyers ask conversational questions, because the work is still practical web visibility.",
+  "url": "aeoptimizer.com/faq/is-showing-up-in-chatgpt-answers-even-worth-it-or-is-it-just-hype",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is showing up in ChatGPT answers even worth it, or is it just hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common objection is that this sounds like a vague AI trend, but the practical work is still ordinary web visibility work. The difference is that you are optimizing for questions people ask conversationally, not just short keyword phrases.",
+        "description": "It is worth it when your buyers ask conversational questions, because the work is still practical web visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

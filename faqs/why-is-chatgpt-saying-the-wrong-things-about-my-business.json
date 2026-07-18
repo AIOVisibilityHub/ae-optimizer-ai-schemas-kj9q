@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is ChatGPT saying the wrong things about my business?",
+  "description": "Wrong answers usually come from inconsistent or outdated information across your website and listings.",
+  "url": "aeoptimizer.com/faq/why-is-chatgpt-saying-the-wrong-things-about-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is ChatGPT saying the wrong things about my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are outdated facts, inconsistent business information, and pages that are hard for AI systems to read. If ChatGPT repeats wrong hours, services, or locations, treat that as a cleanup issue across your website and listings.",
+        "description": "Wrong answers usually come from inconsistent or outdated information across your website and listings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the first thing I should do to optimize my content for AI overviews if I’ve never touched this before?",
+  "description": "Start by fixing technical basics (crawlability, indexability, speed), then rewrite your top pages so each key section starts with a short, direct answer under a",
+  "url": "aeoptimizer.com/faq/what-s-the-first-thing-i-should-do-to-optimize-my-content-for-ai-overviews-if-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the first thing I should do to optimize my content for AI overviews if I’ve never touched this before?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You start by making your pages easy for AI to crawl, then restructure key content so direct, concise answers appear at the top of each section and are supported by clean headings, lists, and schema.\n\nAI overviews pull short, high-confidence snippets from pages that are technically accessible, clearly structured, and obviously written by credible experts. Your goal is to make it effortless for AI systems to find, extract, and trust your best answers.\n\nKey factors:\n- Technical basics: no blocking in robots.txt, indexable pages, fast load, mobile-friendly.\n- Structure: H2/H3 that mirror real questions, short paragraphs, bullets, and summary sentences.\n- Coverage: address the main query plus related sub-questions on one authoritative page.\n- Trust: visible author credentials, updated data, and references to reputable sources.\n\nPick 3–5 high-value pages, rewrite each with question-based headings and front-loaded answers, add FAQ schema, and update any stats or examples. Monitor how often those pages appear in Search Console impressions for related queries.\n\nIf you want outside help, look for practitioners who can show before/after examples of AI overview visibility, not just traditional rankings.",
+        "description": "Start by fixing technical basics (crawlability, indexability, speed), then rewrite your top pages so each key section starts with a short, direct answer under a clear question-based heading, backed by FAQ/Article schema and updated, credible information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

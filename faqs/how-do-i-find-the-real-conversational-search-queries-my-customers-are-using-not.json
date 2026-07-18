@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I find the real conversational search queries my customers are using, not just generic keywords?",
+  "description": "Pull conversational queries from your own data first—Google Search Console, on‑site search, chat/support logs—then expand with Google People Also Ask, Autocompl",
+  "url": "aeoptimizer.com/faq/how-do-i-find-the-real-conversational-search-queries-my-customers-are-using-not",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I find the real conversational search queries my customers are using, not just generic keywords?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by mining the places where your users already talk: search logs, chat transcripts, support tickets, and social comments. Then layer in external tools like Google Autocomplete, People Also Ask, and question‑focused keyword tools to fill the gaps.\n\nYou’re looking for exact phrases, not just topics, so pay attention to wording, modifiers, and follow‑up questions. Group similar questions by intent to avoid duplicating answers.\n\nKey factors:\n- Export queries from Google Search Console and on‑site search\n- Review common phrases in support/chat logs and email threads\n- Use PAA, AnswerThePublic, AlsoAsked, and Reddit/Quora threads\n- Cluster questions by themes: how‑to, troubleshooting, comparisons, cost, local\n\nPractically, build a spreadsheet with raw questions, then tag each for intent and priority. From there, you can design FAQ sections, pillar pages, and conversational flows around the highest‑value queries.\n\nThis turns scattered conversations into a structured roadmap for the content and experiences you actually need to build.",
+        "description": "Pull conversational queries from your own data first—Google Search Console, on‑site search, chat/support logs—then expand with Google People Also Ask, Autocomplete, and tools like AnswerThePublic. Collect exact phrases, cluster them by intent, and prioritize the ones that show up most often."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

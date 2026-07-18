@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I systematically find good question-based keywords for my niche?",
+  "description": "To find strong question-based keywords, list your core topics, then use keyword tools’ “Questions” filters, Google Autocomplete and People Also Ask, plus Reddit",
+  "url": "aeoptimizer.com/faq/how-do-i-systematically-find-good-question-based-keywords-for-my-niche",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I systematically find good question-based keywords for my niche?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by listing your core topics, then plug them into keyword tools with a “Questions” filter, and layer that with real-world questions from Google Autocomplete, People Also Ask, Reddit, and Quora. Then cluster and prioritize those questions by relevance, search volume, and business value.\n\nThe goal is to capture what your audience genuinely asks in their own words, not what you wish they’d ask. Combining tools with community listening gives you both scale and nuance.\n\nKey factors:\n- Use tools that surface question formats (Questions tab, filters).\n- Mine Google “People Also Ask” for related follow-up questions.\n- Scan forums, reviews, and support tickets for real phrasing.\n- Group similar questions into topics (clusters) to avoid duplication.\n\nPractically, start with 5–10 core topics, collect 20–50 question keywords for each, then trim down to those that match your product, stage of funnel, and capacity to answer thoroughly. Revisit this research quarterly as new questions emerge.\n\nThink of this process as building a living map of your audience’s doubts, not a one-off spreadsheet exercise.",
+        "description": "To find strong question-based keywords, list your core topics, then use keyword tools’ “Questions” filters, Google Autocomplete and People Also Ask, plus Reddit, Quora, reviews, and support logs to collect real questions. Cluster similar questions, then prioritize by relevance, search volume, and business value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

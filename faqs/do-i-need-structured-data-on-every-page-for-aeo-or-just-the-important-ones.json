@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need structured data on every page for AEO, or just the important ones?",
+  "description": "Prioritize structured data on high‑impact pages—FAQ, guides, how‑tos, and core service/product pages—plus Organization and Person on trust pages. You don’t need",
+  "url": "aeoptimizer.com/faq/do-i-need-structured-data-on-every-page-for-aeo-or-just-the-important-ones",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need structured data on every page for AEO, or just the important ones?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t have to mark every page on your site with structured data for AEO; you should prioritize the pages that matter most for your key journeys and revenue. Over-marking low‑value pages can add noise without any real benefit.\n\nAnswer engines are selective. They tend to favor content that clearly addresses specific questions, decisions, or tasks. Mapping your markup to those journeys is more important than hitting 100% coverage.\n\nKey factors:\n- Focus on FAQs, in‑depth guides, how‑tos, and core service/product pages.\n- Include Organization and Person/Author schema on key trust and brand pages.\n- Leave thin, low-value or near-duplicate pages unmarked or consolidate them.\n- Use ItemList when you have genuine comparison or hub pages.\n\nStart by listing your top 20–50 pages by business impact and question volume, then decide which schema each truly warrants. Implement in phases, validating as you go, and monitor how often those pages surface in answer engines and rich results.\n\nA targeted approach to schema typically delivers more AEO lift than attempting blanket coverage.",
+        "description": "Prioritize structured data on high‑impact pages—FAQ, guides, how‑tos, and core service/product pages—plus Organization and Person on trust pages. You don’t need every URL marked up; focused coverage on the most important journeys is far more effective for AEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

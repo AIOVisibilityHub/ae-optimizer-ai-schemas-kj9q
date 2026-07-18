@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should success look like when trying to show up in ChatGPT answers?",
+  "description": "Success means accurate mentions for the right questions, not just random visibility.",
+  "url": "aeoptimizer.com/faq/what-should-success-look-like-when-trying-to-show-up-in-chatgpt-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should success look like when trying to show up in ChatGPT answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The outcome you want is not just being mentioned, but being mentioned accurately and for the right customer questions. Businesses that do well tend to have clear positioning, answer-first pages, and consistent references elsewhere on the web.",
+        "description": "Success means accurate mentions for the right questions, not just random visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

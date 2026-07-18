@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my zero-click visibility efforts are actually working?",
+  "description": "Track impressions, branded search volume, calls, messages, and direction requests alongside AI and snippet appearances. If your brand shows up more often in SER",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-zero-click-visibility-efforts-are-actually-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my zero-click visibility efforts are actually working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should track both visibility metrics and business actions to know if your zero-click strategy is working.\nClicks alone won’t tell the full story.\n\nContext: In a zero-click world, impressions, branded searches, calls, and direction requests often rise before you see big traffic changes.\nAI and SERP presence is about influence that later converts via direct or branded visits.\n\nKey factors:\n- Impressions and appearances in snippets, PAA, AI Overviews\n- Branded search volume and brand-name queries\n- Calls, messages, bookings, and route requests from Google\n- AI citations and brand mentions in major LLMs\n\nPractical guidance: Build a simple dashboard that combines Search Console, GBP insights, and any AI monitoring you have.\nReview trends monthly and tie changes back to specific content or profile optimizations.\n\nSoft positioning: Measuring the right signals keeps you focused on visibility that truly moves revenue, not just vanity rankings.",
+        "description": "Track impressions, branded search volume, calls, messages, and direction requests alongside AI and snippet appearances. If your brand shows up more often in SERPs and AI answers and you see more direct actions (calls, bookings, routes), your zero-click visibility strategy is working."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

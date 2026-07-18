@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will FAQ schema for AEO get me cited by AI search?",
+  "description": "It can help, but it does not guarantee citations. Strong, visible answers and relevant page content matter most.",
+  "url": "aeoptimizer.com/faq/will-faq-schema-for-aeo-get-me-cited-by-ai-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will FAQ schema for AEO get me cited by AI search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good FAQ schema can improve how clearly your page is understood by search and AI systems, but it does not guarantee citations or traffic. The best outcomes usually come from pairing schema with concise, genuinely helpful answers and a page that already satisfies the search intent.",
+        "description": "It can help, but it does not guarantee citations. Strong, visible answers and relevant page content matter most."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

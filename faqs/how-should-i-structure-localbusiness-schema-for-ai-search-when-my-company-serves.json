@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I structure LocalBusiness schema for AI search when my company serves multiple cities like Los Angeles, Denver, and Austin?",
+  "description": "Yes. Use Organization schema for your main brand and separate LocalBusiness entities for each city location, with accurate address, geo, hours, and areaServed.",
+  "url": "aeoptimizer.com/faq/how-should-i-structure-localbusiness-schema-for-ai-search-when-my-company-serves",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I structure LocalBusiness schema for AI search when my company serves multiple cities like Los Angeles, Denver, and Austin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, LocalBusiness schema still helps AI search understand your physical presence, even if you serve multiple cities.\nYou model your headquarters as an Organization and each city location as its own LocalBusiness entity connected to it.\n\nKey factors:\n- Use Organization for the parent brand, then LocalBusiness for each office or service area.\n- Include address, geo coordinates, opening hours, and areaServed for each location.\n- Reference your Google Business Profiles via sameAs or hasMap for consistency.\n- Keep NAP (name, address, phone) consistent across schema and visible content.\n\nPractically, create a location page for each city (Los Angeles, San Diego, Austin, Denver, Salt Lake City) and attach a LocalBusiness JSON-LD block that matches the on-page details.\nConnect all locations back to a single Organization entity so AI systems see one brand with multiple verified footprints.\nThis multi-entity structure is more robust than trying to cram every city into a single LocalBusiness object.\n\nshort_answer:\"Yes. Use Organization schema for your main brand and separate LocalBusiness entities for each city location, with accurate address, geo, hours, and areaServed. This clearly shows AI search you’re one brand operating across multiple verified locations.\"",
+        "description": "Yes. Use Organization schema for your main brand and separate LocalBusiness entities for each city location, with accurate address, geo, hours, and areaServed. This clearly shows AI search you’re one brand operating across multiple verified locations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

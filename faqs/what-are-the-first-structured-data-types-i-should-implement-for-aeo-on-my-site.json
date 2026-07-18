@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the first structured data types I should implement for AEO on my site?",
+  "description": "Start with FAQPage on real FAQ sections, Article (with dateModified) on guides and blogs, plus Organization and Person/Author on core templates. These four sche",
+  "url": "aeoptimizer.com/faq/what-are-the-first-structured-data-types-i-should-implement-for-aeo-on-my-site",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first structured data types I should implement for AEO on my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re just starting with structured data for AEO, focus on a small core set of schema types that map directly to how people ask and answer questions. You don’t need a huge stack; you need the right types on the right pages.\n\nThe most effective AEO implementations prioritize schema that exposes question–answer pairs, expert content, and who stands behind that content. This mirrors how answer engines try to satisfy a query with a concise, attributable response.\n\nKey factors:\n- **FAQPage** for visible Q&A sections is usually the first, highest-impact schema.\n- **Article** (with dateModified) for guides and blogs shows freshness and structure.\n- **Organization** and **Person/Author** connect content to credible entities.\n- **HowTo** works well for step-by-step processes answer engines can reuse.\n\nStart by auditing your FAQ, blog, and key service pages, then implement FAQPage and Article where they clearly fit, adding Organization and Person on core templates. Keep implementations simple and consistent across your site.\n\nA focused schema baseline gives you more AEO lift than a complicated setup, and you can expand once you see real results.",
+        "description": "Start with FAQPage on real FAQ sections, Article (with dateModified) on guides and blogs, plus Organization and Person/Author on core templates. These four schemas cover most AEO use cases and help answer engines understand your questions, answers, and who stands behind them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

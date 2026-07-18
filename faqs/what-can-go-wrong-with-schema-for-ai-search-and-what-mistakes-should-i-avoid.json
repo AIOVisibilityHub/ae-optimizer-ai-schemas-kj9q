@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with schema for AI search, and what mistakes should I avoid?",
+  "description": "Avoid mismatching schema with visible content, faking ratings or details, and copy-pasting the same markup everywhere. Use the right types, fill required fields",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-schema-for-ai-search-and-what-mistakes-should-i-avoid",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with schema for AI search, and what mistakes should I avoid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common schema mistakes include using the wrong types, stuffing in unrealistic data, and letting markup drift away from what’s actually on the page.\nThese issues can cause search engines to ignore or even distrust your structured data.\n\nKey factors:\n- Mismatched FAQs and FAQPage schema violate guidelines and weaken signals.\n- Fake or exaggerated ratings, prices, or properties can trigger penalties.\n- Copy-pasting identical schema across many unrelated pages confuses AI.\n- Omitting required fields or nesting incorrectly leads to validation errors.\n\nPractically, keep schema honest, specific, and tied to visible elements—if users can’t see it, think twice about including it.\nUse validators and spot checks to find and fix problems before they scale.\nA conservative, accurate schema implementation is far safer than an aggressive one full of shortcuts.\n\nshort_answer:\"Avoid mismatching schema with visible content, faking ratings or details, and copy-pasting the same markup everywhere. Use the right types, fill required fields, and validate regularly so AI search treats your structured data as trustworthy.\"",
+        "description": "Avoid mismatching schema with visible content, faking ratings or details, and copy-pasting the same markup everywhere. Use the right types, fill required fields, and validate regularly so AI search treats your structured data as trustworthy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

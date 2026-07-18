@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my local business in Los Angeles, San Diego, Austin, Denver, or Salt Lake City realistically show up in Google AI Overviews, or will big national brands always outrank me?",
+  "description": "Yes, local businesses in cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City can appear in AI Overviews. You’ll need a strong Google Business",
+  "url": "aeoptimizer.com/faq/can-my-local-business-in-los-angeles-san-diego-austin-denver-or-salt-lake-city-r",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my local business in Los Angeles, San Diego, Austin, Denver, or Salt Lake City realistically show up in Google AI Overviews, or will big national brands always outrank me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google AI Overviews already surface local businesses for certain city-specific queries, and local SEO signals heavily influence which companies appear. In cities like Los Angeles or San Diego, competition and reviews matter a lot.\n\nFor local intent queries such as “best HVAC company in Denver” or “SEO consultant in Austin,” AI Overviews often cite businesses with strong Google Business Profiles, consistent NAP information, and robust local content. Big-brand dominance is real, but smaller firms that invest in local authority can still be cited.\n\nKey factors:\n- Verified, complete Google Business Profile\n- Local reviews volume and rating\n- City-specific service and FAQ pages\n- Consistent citations across major directories\n\nPractically, focus on local queries where you truly excel, build city-targeted content (e.g., “How we handle X in Salt Lake City’s climate”), and keep your GBP and review strategy strong. Check those queries monthly to see if AI Overviews start pulling you in.\n\nSoft positioning: In competitive metros, local AI Overview visibility rewards businesses that treat local SEO as core infrastructure, not an add-on.",
+        "description": "Yes, local businesses in cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City can appear in AI Overviews. You’ll need a strong Google Business Profile, city‑specific content, consistent local citations, and solid reviews to compete with national brands."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

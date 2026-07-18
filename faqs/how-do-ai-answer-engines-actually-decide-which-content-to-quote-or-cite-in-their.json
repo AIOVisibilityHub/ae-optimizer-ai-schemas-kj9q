@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do AI answer engines actually decide which content to quote or cite in their responses?",
+  "description": "AI answer engines favor content that looks like clean Q&A blocks: question-style headings, a concise direct answer, clear structure, relevant schema, and credib",
+  "url": "aeoptimizer.com/faq/how-do-ai-answer-engines-actually-decide-which-content-to-quote-or-cite-in-their",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do AI answer engines actually decide which content to quote or cite in their responses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI answer engines look for **clear question–answer pairs**, strong structure, and trustworthy signals so they can quote you safely.\n\nThey don’t “rank pages” the way classic search does; they assemble answers from concise, well-marked sections that match user prompts.\n\nKey factors:\n- Question-form headings that mirror natural queries\n- Short, declarative answers at the top of each section\n- Schema markup (FAQPage, HowTo, Article, Product, Organization)\n- Evidence: data, examples, and consistent brand/entity details\n\nIn practice, write each section like a standalone Q&A card: one question, one direct answer, then supporting proof.\n\nYou’re essentially designing content so AI systems can understand, verify, and reuse it without guessing what you mean.",
+        "description": "AI answer engines favor content that looks like clean Q&A blocks: question-style headings, a concise direct answer, clear structure, relevant schema, and credible evidence. If a section reads like a standalone answer card, it’s much more likely to be quoted or cited in AI-generated responses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

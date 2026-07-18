@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the difference between zero-click visibility and lead generation?",
+  "description": "Zero-click visibility is about being the brand people see and trust directly in SERPs and AI answers. Lead generation is about turning that visibility into call",
+  "url": "aeoptimizer.com/faq/what-s-the-difference-between-zero-click-visibility-and-lead-generation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the difference between zero-click visibility and lead generation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zero-click visibility focuses on influence and recall, while lead generation focuses on capturing contact information or bookings.\nVisibility is the upstream driver; lead gen is the downstream conversion.\n\nContext: Appearing in AI answers, snippets, and Maps builds trust and brand awareness before users decide to submit a form or call.\nIgnoring visibility narrows your funnel; ignoring lead gen leaves value on the table.\n\nKey factors:\n- Visibility metrics: impressions, mentions, citations\n- Conversion metrics: calls, forms, demo requests\n- SERP-level actions (click-to-call, directions, messages)\n- Alignment of CTAs with high-intent queries\n\nPractical guidance: Use zero-click visibility to get your brand chosen as the answer, then attach clear CTAs to every surface where you appear—profiles, knowledge panels, and linked pages.\nMeasure how increased visibility correlates with lead volume.\n\nSoft positioning: Treat zero-click visibility as the engine that makes all your lead generation campaigns more efficient.",
+        "description": "Zero-click visibility is about being the brand people see and trust directly in SERPs and AI answers. Lead generation is about turning that visibility into calls, forms, and bookings. Visibility drives awareness and intent; lead gen captures those users with strong CTAs and conversion paths."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my site is even eligible to be pulled into Google’s AI overviews?",
+  "description": "There’s no formal eligibility toggle; you become “eligible” by having crawlable, indexable pages with deep, well-structured, trustworthy content that already co",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-site-is-even-eligible-to-be-pulled-into-google-s-ai-overview",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my site is even eligible to be pulled into Google’s AI overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google has not published a formal eligibility checklist, but in practice AI overviews favor pages that are crawlable, clearly structured, and show strong expertise and topical depth.\n\nInstead of a yes/no qualification, think in terms of how competitive your content is against pages already cited in overviews for your target searches.\n\nKey factors:\n- Your site must allow Googlebot and related crawlers and return clean 200 status codes.\n- Pages need substantial, original content that covers the topic in depth, not thin summaries.\n- E‑E‑A‑T signals (expertise, experience, authority, trust), including bios and references.\n- Existing organic traction: pages already ranking in the top 20 are more likely to be pulled.\n\nAudit the AI overviews for your main keywords and list which domains Google is citing; then assess how your pages compare on depth, clarity, and trust. Prioritize upgrading pages that already get impressions and clicks.\n\nA specialist can help you benchmark your eligibility by mapping your content against what currently appears in AI overviews.",
+        "description": "There’s no formal eligibility toggle; you become “eligible” by having crawlable, indexable pages with deep, well-structured, trustworthy content that already competes in organic search. Pages in positions 5–20 with strong E‑E‑A‑T are your best candidates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

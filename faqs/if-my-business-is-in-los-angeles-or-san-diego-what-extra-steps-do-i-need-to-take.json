@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If my business is in Los Angeles or San Diego, what extra steps do I need to take to show up in Perplexity’s local-style answers?",
+  "description": "For LA and San Diego, build city‑specific pages with clear services, LocalBusiness schema, and FAQs that mention the city by name. Keep your NAP data consistent",
+  "url": "aeoptimizer.com/faq/if-my-business-is-in-los-angeles-or-san-diego-what-extra-steps-do-i-need-to-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If my business is in Los Angeles or San Diego, what extra steps do I need to take to show up in Perplexity’s local-style answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In cities like Los Angeles and San Diego, local signals matter because many Perplexity prompts are location-based (“best X in LA”). To appear on these, you need both strong local content and complete business data.\n\nPerplexity leans on what’s visible in your pages, schema, and broader local ecosystem when answering city-specific questions.\n\nKey factors:\n- Detailed city pages describing services, neighborhoods, and use cases\n- LocalBusiness schema with accurate NAP (name, address, phone)\n- Up-to-date profiles on major local directories and maps\n- Content that explicitly addresses “in Los Angeles”, “in San Diego”, etc.\n\nCreate focused pages for your key metros, each with FAQs answering city-specific questions (traffic, regulations, typical client types). Then test queries like “best [your service] in Los Angeles” and see which sites Perplexity cites.\n\nTreat each city as its own mini-topic cluster; generic national pages rarely win hyper-local prompts.",
+        "description": "For LA and San Diego, build city‑specific pages with clear services, LocalBusiness schema, and FAQs that mention the city by name. Keep your NAP data consistent across directories and maps, and test prompts like “best [service] in Los Angeles” to see which local sources Perplexity currently trusts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

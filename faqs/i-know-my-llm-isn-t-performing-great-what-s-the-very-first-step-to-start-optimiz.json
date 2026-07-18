@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I know my LLM isn’t performing great. What’s the very first step to start optimizing it without getting lost?",
+  "description": "First, instrument and measure: log real prompts and outputs, define clear metrics (accuracy, latency, cost), and build a small evaluation set. Use that set to t",
+  "url": "aeoptimizer.com/faq/i-know-my-llm-isn-t-performing-great-what-s-the-very-first-step-to-start-optimiz",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I know my LLM isn’t performing great. What’s the very first step to start optimizing it without getting lost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first thing you should do is instrument your current LLM usage: log prompts, responses, latency, and failure cases, then define what “better” looks like for your business. Without that, you’ll optimize blindly and waste time and money.\n\nMost teams jump into fine‑tuning too early, but high‑impact gains usually come from prompt and system changes. A clear baseline and success metrics let you test improvements and avoid regressions.\n\nKey factors:\n- Set metrics (accuracy, hallucination rate, latency, cost per request).\n- Collect a sample set of real queries and expected outputs.\n- Identify common errors: hallucinations, inconsistency, slowness.\n- Rank optimization ideas by impact vs. effort.\n\nPractically, assemble 50–200 real examples from your users or team, label them, and use this set to evaluate any change you make to prompts, parameters, or architecture. Document decisions so you can roll back if a change hurts important metrics.\n\nIf you’re short on time, start with a half‑day workshop to define metrics and build this evaluation set; everything else builds on that foundation.",
+        "description": "First, instrument and measure: log real prompts and outputs, define clear metrics (accuracy, latency, cost), and build a small evaluation set. Use that set to test changes to prompts, parameters, and architecture so you improve systematically instead of guessing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

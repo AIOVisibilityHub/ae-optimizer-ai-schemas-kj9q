@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of E‑E‑A‑T signals does Google look for before it will trust my content enough to include it in AI Overviews?",
+  "description": "To earn AI Overview citations, your pages should clearly show E‑E‑A‑T: named authors with real expertise, up‑to‑date information, transparent sources, and stron",
+  "url": "aeoptimizer.com/faq/what-kind-of-e-e-a-t-signals-does-google-look-for-before-it-will-trust-my-conten",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of E‑E‑A‑T signals does Google look for before it will trust my content enough to include it in AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google AI Overviews tend to favor content that demonstrates real-world experience, clear expertise, recognized authority, and trustworthiness (E‑E‑A‑T). You need to show both who is behind the content and why they’re credible.\n\nPages with named authors, relevant credentials, transparent sources, and up-to-date information are more likely to be considered reliable enough to cite in AI Overviews. This is especially true for sensitive topics like health, finance, and safety, but it helps in all niches.\n\nKey factors:\n- Named authors with bios and expertise\n- Clear sourcing and external references\n- Updated dates and content maintenance\n- Strong brand reputation, reviews, and consistency\n\nPractically, add author bios, include a brief “how we know this” explanation, keep pages updated, and reinforce your brand entity across your site and profiles. Make trust signals obvious to both users and search engines.\n\nSoft positioning: Treat every AI Overview–targeted page as if a skeptical reader is asking “Why should I trust you?” and answer that visibly.",
+        "description": "To earn AI Overview citations, your pages should clearly show E‑E‑A‑T: named authors with real expertise, up‑to‑date information, transparent sources, and strong brand trust signals like consistent profiles and positive reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

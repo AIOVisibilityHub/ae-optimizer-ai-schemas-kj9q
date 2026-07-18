@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with FAQ schema for AEO?",
+  "description": "The biggest mistakes are hidden content, mismatched markup, repetitive FAQs, and answers that are too generic to help users.",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-faq-schema-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with FAQ schema for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risk is marking up content that is not visible, not useful, or not matched exactly to the page. That can weaken trust and create validation problems. Another risk is repeating the same FAQ block on every page just to add more schema.",
+        "description": "The biggest mistakes are hidden content, mismatched markup, repetitive FAQs, and answers that are too generic to help users."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

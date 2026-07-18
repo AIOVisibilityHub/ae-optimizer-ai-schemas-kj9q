@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve been burned by SEO agencies before—how should I approach AI overview optimization differently this time?",
+  "description": "Treat it as a measured experiment: start with a small pilot, demand transparent audits and changes, agree on clear KPIs, and only scale once you see real improv",
+  "url": "aeoptimizer.com/faq/i-ve-been-burned-by-seo-agencies-before-how-should-i-approach-ai-overview-optimi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve been burned by SEO agencies before—how should I approach AI overview optimization differently this time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad SEO experience before, treat AI overview optimization as a structured, testable project rather than a leap of faith, with clear audits, hypotheses, and success metrics.\n\nYou’re looking for partners who explain tradeoffs and show their work—not just sell “AI magic.”\n\nKey factors:\n- Transparency: shared checklists, roadmaps, and change logs.\n- Metrics: agreed KPIs like impressions, AI citations, and conversions, not just rankings.\n- Experimentation: small pilots with pre/post comparisons.\n- Education: guidance that helps your team understand what’s being done and why.\n\nStart with a limited-scope engagement focused on a few URLs and insist on seeing the specific content and structural changes. Only expand once you’re confident the approach is working for your business.\n\nThe right expert will actively involve you in decisions instead of hiding behind jargon.",
+        "description": "Treat it as a measured experiment: start with a small pilot, demand transparent audits and changes, agree on clear KPIs, and only scale once you see real improvements. Avoid anyone promising instant AI dominance without showing their process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does “large language model optimization” actually mean in practice and where should I start?",
+  "description": "Large language model optimization means tuning prompts, model settings, data access, and infrastructure so your LLM is more accurate, faster, and cheaper for yo",
+  "url": "aeoptimizer.com/faq/what-does-large-language-model-optimization-actually-mean-in-practice-and-where",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does “large language model optimization” actually mean in practice and where should I start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You optimize a large language model (LLM) by combining careful prompt design, targeted fine‑tuning, and system‑level performance tweaks like quantization, caching, and retrieval‑augmented generation (RAG). Done well, this improves quality, speed, and cost at the same time.\n\nLLM optimization is about getting the best possible output for your specific use case while minimizing latency and compute spend. It usually starts with understanding your workflows and bottlenecks, then layering lighter‑weight techniques before touching the core model weights.\n\nKey factors:\n- Clarify target tasks, quality metrics, and failure modes.\n- Start with prompt engineering and sampling‑parameter tuning (temperature, top‑k/top‑p).\n- Add RAG and guardrails to improve accuracy and control.\n- Use quantization, batching, and caching to cut latency and cost.\n\nPractically, start by logging prompts and outputs, then iterate prompts and sampling settings, add retrieval where your data matters, and only move to fine‑tuning or PEFT when you’ve hit the limits of configuration‑level changes. Keep one owner responsible for measuring uplift.\n\nIf it feels overwhelming, a specialist can help you prioritize low‑effort, high‑impact changes before touching complex model training.",
+        "description": "Large language model optimization means tuning prompts, model settings, data access, and infrastructure so your LLM is more accurate, faster, and cheaper for your specific use case. Start with logging and prompt tuning, then add retrieval and performance optimizations before considering fine‑tuning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

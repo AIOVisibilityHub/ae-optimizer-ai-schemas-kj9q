@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need before creating FAQ schema for AEO?",
+  "description": "Use real customer questions, support data, sales objections, and search queries as evidence for which FAQs to include.",
+  "url": "aeoptimizer.com/faq/what-proof-do-i-need-before-creating-faq-schema-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need before creating FAQ schema for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best evidence is real customer language. Use support tickets, sales objections, live chat transcripts, search data, and Google-style People Also Ask questions to find what people actually want answered. Strong FAQs usually reflect patterns you can prove are common.",
+        "description": "Use real customer questions, support data, sales objections, and search queries as evidence for which FAQs to include."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

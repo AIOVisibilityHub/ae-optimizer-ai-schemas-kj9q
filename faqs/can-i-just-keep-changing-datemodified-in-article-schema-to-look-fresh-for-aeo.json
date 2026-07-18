@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I just keep changing dateModified in Article schema to look fresh for AEO?",
+  "description": "No. Only update dateModified when you make real content changes and keep it consistent with what users see. Artificially bumping dateModified without edits can",
+  "url": "aeoptimizer.com/faq/can-i-just-keep-changing-datemodified-in-article-schema-to-look-fresh-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I just keep changing dateModified in Article schema to look fresh for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should treat dateModified in your Article schema as a real signal of meaningful updates, not a trick to look fresh. Faking this field or updating it without real changes can erode trust with answer engines.\n\nAEO systems cross-check multiple freshness indicators—on-page content changes, crawl patterns, and external references. If dateModified keeps changing while the content doesn’t, it looks manipulative.\n\nKey factors:\n- Update dateModified only when you’ve made substantive content changes.\n- Make sure the visible “last updated” date matches the structured data.\n- Avoid automated daily updates to dateModified with no real edits.\n- Use Article schema on pages where recency genuinely matters.\n\nPractically, align your editorial workflow with schema updates: when a guide is revised, update both the content and dateModified together. Document this in your CMS or change log.\n\nHonest freshness signals help answer engines trust and reuse your content in AI responses.",
+        "description": "No. Only update dateModified when you make real content changes and keep it consistent with what users see. Artificially bumping dateModified without edits can damage trust with answer engines and undermine your AEO efforts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

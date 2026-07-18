@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first when building FAQ schema for AEO?",
+  "description": "Start with real customer questions, write the visible FAQ content first, and then add FAQPage schema that matches it exactly.",
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-when-building-faq-schema-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first when building FAQ schema for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the real questions people ask before you write any code. For AEO, the FAQ content should be visible on the page, written in plain language, and then marked up with FAQPage schema as a supporting layer. The schema should match the on-page Q&A exactly.",
+        "description": "Start with real customer questions, write the visible FAQ content first, and then add FAQPage schema that matches it exactly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

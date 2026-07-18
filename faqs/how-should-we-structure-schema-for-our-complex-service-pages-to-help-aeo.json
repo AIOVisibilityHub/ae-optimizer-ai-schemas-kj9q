@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should we structure schema for our complex service pages to help AEO?",
+  "description": "Use a pattern: Service (or Product) schema for the core offering, FAQPage for visible Q&A on implementation and pricing, and BreadcrumbList for hierarchy. Ensur",
+  "url": "aeoptimizer.com/faq/how-should-we-structure-schema-for-our-complex-service-pages-to-help-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should we structure schema for our complex service pages to help AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get structured data right on complex service pages, you should combine WebPage/Service schema with FAQPage and clear hierarchy markers like BreadcrumbList. This helps answer engines understand both the service and the specific questions users ask about it.\n\nService pages often try to do too much; schema can clarify the main offer and its supporting information.\n\nKey factors:\n- Use Service (or Product) schema to describe the core offering, price range, and key features.\n- Add FAQPage for implementation, pricing, and comparison questions on the page.\n- Implement BreadcrumbList to show where the service sits in your site structure.\n- Keep properties aligned with visible headings, bullets, and sections.\n\nMap out each service page’s main outcome, then design a schema pattern that reflects it across similar pages. Validate and replicate consistently.\n\nA structured, repeatable approach makes even complex service pages much more legible to answer engines for AEO.",
+        "description": "Use a pattern: Service (or Product) schema for the core offering, FAQPage for visible Q&A on implementation and pricing, and BreadcrumbList for hierarchy. Ensure all properties reflect real headings and content on the page. This makes complex service pages clearer to answer engines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

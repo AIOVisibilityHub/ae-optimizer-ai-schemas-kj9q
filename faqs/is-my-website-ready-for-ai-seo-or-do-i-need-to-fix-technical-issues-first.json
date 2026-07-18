@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is my website ready for AI SEO, or do I need to fix technical issues first?",
+  "description": "Fix crawl and content issues first if your site is weak technically. AI systems cannot cite pages they cannot access or understand well.",
+  "url": "aeoptimizer.com/faq/is-my-website-ready-for-ai-seo-or-do-i-need-to-fix-technical-issues-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is my website ready for AI SEO, or do I need to fix technical issues first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your site has weak crawlability, blocked pages, or thin content, fix that before expecting AI visibility. AI systems can only use pages they can access, understand, and trust.",
+        "description": "Fix crawl and content issues first if your site is weak technically. AI systems cannot cite pages they cannot access or understand well."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

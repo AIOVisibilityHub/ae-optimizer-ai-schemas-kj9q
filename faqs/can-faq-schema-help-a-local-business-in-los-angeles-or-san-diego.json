@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can FAQ schema help a local business in Los Angeles or San Diego?",
+  "description": "Yes, if the questions are genuinely local. Use it for service area, timing, availability, and other location-specific concerns.",
+  "url": "aeoptimizer.com/faq/can-faq-schema-help-a-local-business-in-los-angeles-or-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can FAQ schema help a local business in Los Angeles or San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For local service pages, FAQ schema can help answer location-specific concerns like service area, turnaround time, or availability. It is most useful when the questions are truly local, such as whether a team serves Los Angeles or if onsite work is available in San Diego.",
+        "description": "Yes, if the questions are genuinely local. Use it for service area, timing, availability, and other location-specific concerns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

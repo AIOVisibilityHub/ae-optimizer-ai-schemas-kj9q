@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does FAQ schema for AEO actually work?",
+  "description": "You collect real questions, publish them visibly on the page, add matching JSON-LD markup, and validate that the schema matches the content.",
+  "url": "aeoptimizer.com/faq/how-does-faq-schema-for-aeo-actually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does FAQ schema for AEO actually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process is simple but must be accurate. First, gather real questions from sales calls, support tickets, search queries, and competitor pages. Then write short, direct answers, place them on the page, add the JSON-LD FAQPage markup, and validate the result.",
+        "description": "You collect real questions, publish them visibly on the page, add matching JSON-LD markup, and validate that the schema matches the content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

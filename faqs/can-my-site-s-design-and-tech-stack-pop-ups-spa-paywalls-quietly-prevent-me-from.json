@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my site’s design and tech stack (pop-ups, SPA, paywalls) quietly prevent me from appearing in Perplexity answers?",
+  "description": "Yes. If your core information is buried in pop‑ups, single‑page app interactions, or paywalls, Perplexity may not be able to read or quote it. Ensure key facts",
+  "url": "aeoptimizer.com/faq/can-my-site-s-design-and-tech-stack-pop-ups-spa-paywalls-quietly-prevent-me-from",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my site’s design and tech stack (pop-ups, SPA, paywalls) quietly prevent me from appearing in Perplexity answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pop‑ups, heavy scripts, and gated content can quietly block Perplexity from reading your most important information or make it too messy to quote. Even if humans can eventually see it, answer engines often struggle.\n\nIf your key claims live inside modals, PDF downloads, or JS-only components, they are effectively invisible evidence.\n\nKey factors:\n- Core facts (pricing, features, locations) hidden behind interactions\n- Single-page apps that don’t expose content in raw HTML\n- Paywalls or login walls around critical informational content\n- Anti‑bot rules in CDNs or security tools\n\nWork with your dev team to ensure essential information appears in crawlable HTML, with minimal dependency on complex interactions. Where you must gate content, provide a high‑quality public summary page.\n\nTechnical cleanliness doesn’t mean boring design; it means your most important facts are easy for both humans and crawlers to see and quote.",
+        "description": "Yes. If your core information is buried in pop‑ups, single‑page app interactions, or paywalls, Perplexity may not be able to read or quote it. Ensure key facts are exposed in simple, crawlable HTML and that your CDNs and security tools allow PerplexityBot and Bingbot access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

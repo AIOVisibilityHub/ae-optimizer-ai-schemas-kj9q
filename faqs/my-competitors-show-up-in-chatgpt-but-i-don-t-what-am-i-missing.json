@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My competitors show up in ChatGPT but I don’t. What am I missing?",
+  "description": "Competitors usually have better source coverage, clearer pages, or stronger third-party mentions.",
+  "url": "aeoptimizer.com/faq/my-competitors-show-up-in-chatgpt-but-i-don-t-what-am-i-missing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My competitors show up in ChatGPT but I don’t. What am I missing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your competitors show up and you do not, study the sources they are being pulled from and build similar credibility signals. That usually means stronger answer-first pages, better directories, and more third-party mentions in the places AI systems already trust.",
+        "description": "Competitors usually have better source coverage, clearer pages, or stronger third-party mentions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

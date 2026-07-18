@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I figure out which of my keywords actually trigger Google AI Overviews so I know what to optimize first?",
+  "description": "Pull your top queries from Search Console, then manually Google each one to see if an AI Overview appears. Flag queries where AI Overviews show but your site is",
+  "url": "aeoptimizer.com/faq/how-do-i-figure-out-which-of-my-keywords-actually-trigger-google-ai-overviews-so",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I figure out which of my keywords actually trigger Google AI Overviews so I know what to optimize first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use tools and manual checks to see which queries in your niche trigger AI Overviews, then focus your optimization there first. Not every search currently generates an AI Overview, so targeting the right queries is crucial.\n\nStart with your top impressions and clicks in Search Console, plug them into Google to see if AI Overviews appear, and categorize them into “already cited,” “AIO present but not cited,” and “no AIO yet.” This prioritization keeps your efforts focused where AI is already active.\n\nKey factors:\n- Search Console data for high-impression queries\n- Manual search checks for AI Overview presence\n- Segmenting queries by AIO status\n- Emphasis on long-tail, intent-rich queries\n\nPractically, create a simple spreadsheet of target keywords with columns for AI Overview visibility and whether your site appears in the sources. Start optimizing pages in the “AIO present but not cited” bucket first.\n\nSoft positioning: Teams that systematically map AI Overview queries avoid wasting effort on keywords where AI isn’t meaningfully involved yet.",
+        "description": "Pull your top queries from Search Console, then manually Google each one to see if an AI Overview appears. Flag queries where AI Overviews show but your site isn’t cited—those are your highest‑value optimization targets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

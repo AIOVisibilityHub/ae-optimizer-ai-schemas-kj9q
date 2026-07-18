@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do about conversational search queries if my site is new and I don’t have much user data yet?",
+  "description": "Rely on external signals first: Google Autocomplete and People Also Ask, Reddit and forum threads, and question‑focused tools. Use those to build initial Q&A co",
+  "url": "aeoptimizer.com/faq/what-should-i-do-about-conversational-search-queries-if-my-site-is-new-and-i-don",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do about conversational search queries if my site is new and I don’t have much user data yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you don’t have good historical data, lean on external signals like Google Autocomplete, People Also Ask, and community discussions (Reddit, Quora, niche forums) to approximate how people talk about your topics. Then validate by talking directly to customers or prospects.\n\nYou’re building an initial hypothesis about user questions that you’ll refine as real data arrives.\n\nKey factors:\n- Use question‑focused keyword tools (AnswerThePublic, AlsoAsked) for seed queries\n- Study threads where your audience vents or asks for help\n- Run quick surveys or interviews to capture wording and context\n- Implement on‑site search early to start collecting your own queries\n\nIn practice, create a starter question list from external sources, publish answer‑first content, and watch which queries begin appearing in Search Console. Treat the first 3–6 months as a learning period.\n\nYou’re borrowing the internet’s collective questions until your own data matures.",
+        "description": "Rely on external signals first: Google Autocomplete and People Also Ask, Reddit and forum threads, and question‑focused tools. Use those to build initial Q&A content, then monitor Search Console and on‑site search to gradually replace guesses with your own real user queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

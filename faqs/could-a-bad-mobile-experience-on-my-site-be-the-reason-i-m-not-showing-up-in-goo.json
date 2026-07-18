@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Could a bad mobile experience on my site be the reason I’m not showing up in Google AI Overviews?",
+  "description": "Yes. Since Google is mobile‑first, a slow or hard‑to‑use mobile site can significantly reduce your chances of appearing in AI Overviews. Fix responsiveness, spe",
+  "url": "aeoptimizer.com/faq/could-a-bad-mobile-experience-on-my-site-be-the-reason-i-m-not-showing-up-in-goo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Could a bad mobile experience on my site be the reason I’m not showing up in Google AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Poor mobile experience can seriously hurt your chances of being cited in Google AI Overviews, because most searches and AI usage happen on mobile and Google favors mobile-friendly pages. If your site is hard to use on a phone, it’s a risk factor.\n\nIssues like tiny text, slow load times, intrusive pop-ups, and broken layouts make your content less accessible both to users and to Google’s mobile-first indexing. AI Overviews are built on pages that deliver solid experience across devices.\n\nKey factors:\n- Responsive design that works on small screens\n- Fast mobile load times and optimized images\n- Minimal intrusive interstitials and pop-ups\n- Easy-to-tap navigation and clear headings\n\nPractically, test your key pages on multiple phones, use Google’s mobile-friendly and speed tools, and fix issues before investing heavily in AI Overview optimization. Good content won’t be fully rewarded if the mobile experience is poor.\n\nSoft positioning: Treat mobile usability as a gatekeeper—without clearing it, AI Overview visibility is much harder to achieve.",
+        "description": "Yes. Since Google is mobile‑first, a slow or hard‑to‑use mobile site can significantly reduce your chances of appearing in AI Overviews. Fix responsiveness, speed, and usability issues before expecting strong AI Overview visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

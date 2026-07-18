@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I find the actual questions I should be answering to show up in AI overviews?",
+  "description": "Mine real user data: pull long-tail queries from Search Console, review support and sales conversations, and scan Reddit/Quora for recurring questions. Group th",
+  "url": "aeoptimizer.com/faq/how-do-i-find-the-actual-questions-i-should-be-answering-to-show-up-in-ai-overvi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I find the actual questions I should be answering to show up in AI overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You gather real questions by mining your own data (support tickets, sales calls, search queries) and external sources (Reddit, Quora, forums), then turn those into headings and FAQ sections that AI overviews can easily reuse.\n\nThe goal is to pre-answer the exact follow-ups people ask after the main query.\n\nKey factors:\n- Export Search Console queries and group similar long-tails.\n- Review email threads, chat logs, and helpdesk tickets for recurring phrasing.\n- Check community platforms in your niche for common confusions and objections.\n- Organize questions into clusters and map them to specific pages.\n\nBuild a simple spreadsheet of questions, grouping by topic, then design each core page to address a cluster: main question in the H1, follow-ups as H2/H3 and FAQs. Keep answers concise, then link to deeper resources when needed.\n\nSpecialists can accelerate this research by combining your internal data with broader market question mining.",
+        "description": "Mine real user data: pull long-tail queries from Search Console, review support and sales conversations, and scan Reddit/Quora for recurring questions. Group them into clusters and design each key page to answer a whole cluster, not just one keyword."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

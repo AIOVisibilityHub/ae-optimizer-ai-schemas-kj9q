@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if Perplexity literally never cites my site for anything I search that’s related to my business?",
+  "description": "If Perplexity never cites you, first confirm its bots and Bingbot can crawl your site and your key pages are indexed. Then pick one topic cluster, rewrite pages",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-perplexity-literally-never-cites-my-site-for-anything-i-sear",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if Perplexity literally never cites my site for anything I search that’s related to my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Perplexity isn’t citing you at all, start by confirming that it can see you technically, then narrow your focus to a single topic cluster rather than trying to fix everything at once. Lack of citations usually means your content isn’t the clearest or most trusted answer yet.\n\nYou want to systematically remove technical blockers and build one area of standout expertise.\n\nKey factors:\n- Robots.txt and CDN rules blocking or allowing PerplexityBot and Bingbot\n- Presence of sitemaps, IndexNow, and llms.txt or similar\n- Quality and structure of existing content around key questions\n- Absence of schema or fragmented topic coverage\n\nRun a basic technical audit, fix crawl issues, and define 20–30 prompts that represent your ideal customer questions. Then build or overhaul pages to answer those questions directly, with evidence and schema, and track results monthly.\n\nOnce you see your first few citations in one domain, you can replicate that pattern across other topics.",
+        "description": "If Perplexity never cites you, first confirm its bots and Bingbot can crawl your site and your key pages are indexed. Then pick one topic cluster, rewrite pages around specific questions with answer‑first sections, add FAQ + business schema, and track 20–30 related prompts monthly to see when citations start."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

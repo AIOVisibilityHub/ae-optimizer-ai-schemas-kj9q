@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to build a real LLMO strategy instead of random experiments?",
+  "description": "Start by mapping and logging the actual prompts where you want visibility, then benchmark how often you’re mentioned and who is cited instead. Use that insight",
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-want-to-build-a-real-llmo-strategy-instead-of-random",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to build a real LLMO strategy instead of random experiments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is to identify the exact prompts and questions where you want your brand to appear, then benchmark how often (if at all) you’re mentioned today. From there you prioritize gaps and build or revise content and offsite signals to support those answers.\n\nMost teams skip straight to content creation and miss the discovery and benchmarking work, which leads to scattered results. A deliberate starting point keeps your effort tied to revenue-related queries, not vanity visibility.\n\nKey factors:\n- Export or manually log real prompts from tools like ChatGPT, Gemini, and Perplexity.\n- Group prompts by intent (research, comparison, purchase, troubleshooting).\n- Note which competitors and sources are cited for each.\n- Tie each cluster to funnel stages and potential revenue.\n\nBegin with 20–50 high-intent prompts (e.g., “best [category] for [use case]”) and document current LLM answers. Then create a simple roadmap: which pages to update, which new resources to create, and which offsite mentions you need. If this feels heavy, a one-time LLMO audit can jumpstart the process.",
+        "description": "Start by mapping and logging the actual prompts where you want visibility, then benchmark how often you’re mentioned and who is cited instead. Use that insight to prioritize specific content updates and offsite authority-building around the highest-intent prompts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

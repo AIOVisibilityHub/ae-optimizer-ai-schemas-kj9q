@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should we try to optimize our LLM ourselves or is that too risky compared to using outside experts?",
+  "description": "You can safely do DIY LLM optimization for prompts, parameters, and basic retrieval if you have technically curious staff and low‑risk workloads. Once you need",
+  "url": "aeoptimizer.com/faq/should-we-try-to-optimize-our-llm-ourselves-or-is-that-too-risky-compared-to-usi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should we try to optimize our LLM ourselves or is that too risky compared to using outside experts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DIY LLM optimization is feasible for modest use cases if you have technically curious staff, but it becomes risky once you touch complex infra, custom training, or high‑stakes workflows. The decision is less about size and more about risk and complexity.\n\nYou want in‑house ownership of goals regardless, but not necessarily full technical execution.\n\nKey factors:\n- Internal expertise in ML, data engineering, and DevOps.\n- Criticality of the workflows (customer‑facing vs. internal).\n- Tolerance for delays and missteps.\n- Access to trusted partners when needed.\n\nPractically, start with DIY on prompt design, sampling settings, and simple retrieval. If you hit performance walls, fine‑tuning needs, or governance challenges, bring in external support for those specific layers.\n\nView optimization as a shared journey: your team owns direction and evaluation, while specialists help with tricky technical terrain.",
+        "description": "You can safely do DIY LLM optimization for prompts, parameters, and basic retrieval if you have technically curious staff and low‑risk workloads. Once you need complex infra, fine‑tuning, or tight governance for critical workflows, it’s wise to involve external experts for those parts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

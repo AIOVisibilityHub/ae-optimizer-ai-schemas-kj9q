@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’re a small team—how can we realistically optimize for AI overviews without burning out?",
+  "description": "Start with one high-value topic cluster and create templates for AI-friendly structure (intros, headings, FAQs, summaries). Optimize 3–10 key pages well instead",
+  "url": "aeoptimizer.com/faq/we-re-a-small-team-how-can-we-realistically-optimize-for-ai-overviews-without-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’re a small team—how can we realistically optimize for AI overviews without burning out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you have limited internal resources, focus on a small, high-impact content cluster (3–10 pages) and build repeatable templates so future optimization is faster and less resource-intensive.\n\nTrying to optimize your entire site at once usually leads to half-done work everywhere.\n\nKey factors:\n- Prioritization: pick pages tied to revenue, sign-ups, or core expertise.\n- Templates: standard structures for intros, FAQs, headings, and summaries.\n- Workflow: clear roles between subject matter experts, writers, and editors.\n- Documentation: checklists for AI overview-friendly formatting and schema.\n\nRun an initial pilot on one cluster, document what worked, then scale that pattern to new clusters as capacity allows. Use easy wins like FAQ sections and better headings before tackling large rewrites.\n\nA consultant can help you design these templates and playbooks so your small team can execute consistently over time.",
+        "description": "Start with one high-value topic cluster and create templates for AI-friendly structure (intros, headings, FAQs, summaries). Optimize 3–10 key pages well instead of the whole site, then reuse those templates as your team has capacity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

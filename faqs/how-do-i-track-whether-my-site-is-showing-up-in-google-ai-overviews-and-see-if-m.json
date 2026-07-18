@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I track whether my site is showing up in Google AI Overviews and see if my optimization efforts are working?",
+  "description": "Set up a list of target queries and manually check them on a regular schedule, recording whether an AI Overview appears and if your site is cited. Track which U",
+  "url": "aeoptimizer.com/faq/how-do-i-track-whether-my-site-is-showing-up-in-google-ai-overviews-and-see-if-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I track whether my site is showing up in Google AI Overviews and see if my optimization efforts are working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monitoring your presence in Google AI Overviews is still manual and experimental, but you can create a reliable routine. Check target queries regularly, document when your pages appear, and watch for changes over time.\n\nUnlike traditional rankings, there’s no standardized “AI Overview position” metric yet. Instead, track whether your site is cited in the carousel for specific queries and note which pages Google is pulling. This helps you see which formats and topics are working.\n\nKey factors:\n- A fixed set of tracked queries tied to your business\n- Weekly or monthly manual checks for AI Overview presence\n- Recording whether your site is cited and which URL\n- Correlating content changes with citation shifts\n\nPractically, build a simple tracking sheet, search each query incognito, and capture screenshots or notes about AI Overviews and sources. Over time, you’ll see patterns you can act on.\n\nSoft positioning: Teams that treat AI Overview visibility as a measurable KPI can adjust their content strategy much more effectively than those who only spot-check casually.",
+        "description": "Set up a list of target queries and manually check them on a regular schedule, recording whether an AI Overview appears and if your site is cited. Track which URLs show up and compare changes over time to the content updates you’ve made."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

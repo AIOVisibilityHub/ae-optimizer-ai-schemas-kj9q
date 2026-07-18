@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main techniques used to optimize large language models, and how do they fit together?",
+  "description": "Key LLM optimization techniques include prompt engineering, retrieval‑augmented generation, tuning sampling parameters, quantization and caching for performance",
+  "url": "aeoptimizer.com/faq/what-are-the-main-techniques-used-to-optimize-large-language-models-and-how-do-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main techniques used to optimize large language models, and how do they fit together?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common optimization techniques include prompt engineering, retrieval‑augmented generation (RAG), sampling‑parameter tuning, quantization, response caching, and parameter‑efficient fine‑tuning (PEFT) like LoRA or adapters. You combine these rather than picking just one.\n\nEach technique tackles a different bottleneck: quality, control, latency, or cost. Effective optimization stacks multiple techniques with clear evaluation at each step.\n\nKey factors:\n- Prompt patterns that reduce ambiguity and constrain outputs.\n- RAG to ground answers in your data and reduce hallucinations.\n- Quantization, batching, and streaming to improve performance.\n- PEFT to specialize behavior without retraining full models.\n\nPractically, start by tightening prompts and adjusting temperature/top‑p, then add RAG where domain knowledge matters. Introduce quantization and caching if latency or spend is an issue, and only move to PEFT for specialized tasks.\n\nA good optimization plan chooses the minimum set of techniques needed to meet your metrics, not every technique you’ve heard of.",
+        "description": "Key LLM optimization techniques include prompt engineering, retrieval‑augmented generation, tuning sampling parameters, quantization and caching for performance, and parameter‑efficient fine‑tuning for specialization. You layer these strategically to improve quality, latency, and cost for your specific workflows."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

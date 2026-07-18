@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if my FAQ schema does not match the page content?",
+  "description": "Mismatch can weaken trust and cause validation issues. Keep the visible FAQ and JSON-LD in sync.",
+  "url": "aeoptimizer.com/faq/what-happens-if-my-faq-schema-does-not-match-the-page-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if my FAQ schema does not match the page content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mismatch is one of the biggest implementation problems. The question text, answer text, and visible page content should line up closely, ideally exactly. If you edit the FAQ on the page, update the schema too.",
+        "description": "Mismatch can weaken trust and cause validation issues. Keep the visible FAQ and JSON-LD in sync."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my schema for AI search is actually working or just adding noise?",
+  "description": "Track rich result and AI citation metrics before and after you add schema, and compare similar pages with and without markup. Use 30–90 day windows to see wheth",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-schema-for-ai-search-is-actually-working-or-just-adding-nois",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my schema for AI search is actually working or just adding noise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by measuring rich result impressions and clicks, then track AI citation or overview mentions before and after your schema changes.\nYou’re looking for patterns in visibility and user engagement, not a single magic metric.\n\nKey factors:\n- Use search performance data to see if pages with schema gain more impressions or improved CTR.\n- Monitor tools that track AI answers citing or linking to your site.\n- Check error and warning logs from schema validators regularly.\n- Compare performance across similar pages with and without markup.\n\nPractically, set a baseline for your most important pages, implement schema, and review metrics at 30-, 60-, and 90-day intervals.\nDocument any notable changes in visibility or engagement alongside technical updates.\nTreat schema like any optimization: test, measure, adjust rather than assuming one‑time success.\n\nshort_answer:\"Track rich result and AI citation metrics before and after you add schema, and compare similar pages with and without markup. Use 30–90 day windows to see whether structured data is improving visibility and engagement.\"",
+        "description": "Track rich result and AI citation metrics before and after you add schema, and compare similar pages with and without markup. Use 30–90 day windows to see whether structured data is improving visibility and engagement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

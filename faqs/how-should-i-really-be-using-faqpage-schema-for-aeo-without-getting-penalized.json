@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I really be using FAQPage schema for AEO without getting penalized?",
+  "description": "Use FAQPage schema only on visible, high‑quality question-and-answer sections, keep answers concise, and avoid stuffing weak or hidden FAQs. Done carefully, FAQ",
+  "url": "aeoptimizer.com/faq/how-should-i-really-be-using-faqpage-schema-for-aeo-without-getting-penalized",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I really be using FAQPage schema for AEO without getting penalized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For AEO, you should treat FAQPage schema as a strategic asset and deploy it on pages where you truly have clear, visible question-and-answer pairs. It’s often the single strongest schema for getting cited in AI answers.\n\nAnswer engines love FAQ structures because they tightly map user questions to concise responses, reducing their need to guess the intent of your content. However, misuse or overuse can backfire.\n\nKey factors:\n- Only mark questions and answers that users can see on the page (no hidden FAQs).\n- Keep each FAQ answer direct, preferably in the first sentence or two.\n- Avoid stuffing dozens of low-quality questions just to “have more schema.”\n- Pair FAQPage with helpful headings and logical on-page structure.\n\nPractically, start with FAQs that align to your highest-value queries—implementation questions, pricing fundamentals, and key how‑to topics—then measure changes in AI citations and rich results. Expand coverage in sprints rather than marking your entire site at once.\n\nThoughtful FAQPage implementation can become one of your most reliable AEO levers when done honestly and consistently.",
+        "description": "Use FAQPage schema only on visible, high‑quality question-and-answer sections, keep answers concise, and avoid stuffing weak or hidden FAQs. Done carefully, FAQPage is one of the strongest structured-data tools for AEO and can significantly increase your likelihood of being cited in AI answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

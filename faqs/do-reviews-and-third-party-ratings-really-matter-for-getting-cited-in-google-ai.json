@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do reviews and third-party ratings really matter for getting cited in Google AI Overviews, especially for local and e‑commerce queries?",
+  "description": "Yes. Strong reviews, ratings, and verified profiles help Google’s AI see your site as trustworthy, which boosts your chances of being cited in AI Overviews—espe",
+  "url": "aeoptimizer.com/faq/do-reviews-and-third-party-ratings-really-matter-for-getting-cited-in-google-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do reviews and third-party ratings really matter for getting cited in Google AI Overviews, especially for local and e‑commerce queries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "User-generated signals like reviews and third-party ratings can influence whether your site is trusted enough to be cited in Google AI Overviews, especially for product and service queries. They’re part of your broader trust footprint.\n\nAI Overviews often pull from sites that show strong reputation via aggregated ratings, testimonials, and verified business profiles. For local and e-commerce queries, these external trust cues can be as important as on-page content quality.\n\nKey factors:\n- Volume and quality of online reviews\n- Aggregate rating schema on key pages\n- Verified business profiles (e.g., Google Business Profile)\n- Consistency between claims on your site and user feedback\n\nPractically, invest in earning genuine reviews, mark them up with appropriate schema, and keep your profiles accurate. For service businesses in cities like Austin, Denver, or Los Angeles, this can be a significant differentiator in AI Overview inclusion.\n\nSoft positioning: Think of reviews as “off-page E‑E‑A‑T”—they complement your content and help Google’s AI trust your brand in competitive spaces.",
+        "description": "Yes. Strong reviews, ratings, and verified profiles help Google’s AI see your site as trustworthy, which boosts your chances of being cited in AI Overviews—especially for local services and products where reputation is a key signal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

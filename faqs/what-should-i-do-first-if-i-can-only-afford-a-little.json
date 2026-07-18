@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I can only afford a little?",
+  "description": "Fix your top pages and core profiles first; a few strong pages are usually better than many weak ones.",
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-can-only-afford-a-little",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I can only afford a little?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have limited budget, start with the pages that answer your highest-intent customer questions and clean up your core business profiles. A small number of well-structured pages usually beats a large content project that never gets cited.",
+        "description": "Fix your top pages and core profiles first; a few strong pages are usually better than many weak ones."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

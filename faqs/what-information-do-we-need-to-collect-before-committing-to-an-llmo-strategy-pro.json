@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do we need to collect before committing to an LLMO strategy project?",
+  "description": "You’ll need real customer questions, a benchmark of current LLM answers for your priority prompts, an inventory of your existing content, and a list of offsite",
+  "url": "aeoptimizer.com/faq/what-information-do-we-need-to-collect-before-committing-to-an-llmo-strategy-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do we need to collect before committing to an LLMO strategy project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The information you need spans customer language, current visibility, and your owned content inventory. Without these, LLMO work becomes guesswork.\n\nGathering this upfront lets you prioritize efforts by impact rather than opinions.\n\nKey factors:\n- Real customer questions from sales calls, support tickets, and interviews.\n- A log of LLM answers for your top 50–100 prompts.\n- A map of your existing content, including which pages cover which topics.\n- A list of current third-party mentions, reviews, and media.\n\nStart by creating a single shared workspace (sheet or Notion) that consolidates this information. Use it to spot obvious gaps—topics you care about that have no strong, structured content or offsite support. An experienced strategist can help you turn this raw data into a prioritized roadmap.",
+        "description": "You’ll need real customer questions, a benchmark of current LLM answers for your priority prompts, an inventory of your existing content, and a list of offsite mentions. This foundation lets you design an LLMO roadmap based on evidence instead of guesswork."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

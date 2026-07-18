@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I already paid an SEO agency that promised AI Overview results and nothing happened. How should I approach this differently so I don’t get burned again?",
+  "description": "No one can guarantee AI Overview placement. Next time, focus on specific deliverables—better Q&A content, schema, query mapping—and track AI Overview visibility",
+  "url": "aeoptimizer.com/faq/i-already-paid-an-seo-agency-that-promised-ai-overview-results-and-nothing-happe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I already paid an SEO agency that promised AI Overview results and nothing happened. How should I approach this differently so I don’t get burned again?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with an SEO vendor who overpromised AI Overview results, approach the next phase with clear expectations and transparent metrics. No one can guarantee AI Overview placement, but they can improve your odds.\n\nUse your prior experience to refine what you ask for: focus on specific deliverables like content restructuring, schema implementation, and query mapping rather than vague “AI optimization.” Insist on before-and-after documentation and honest discussions about uncertainty.\n\nKey factors:\n- Realistic understanding that AI Overview inclusion can’t be guaranteed\n- Clear scope around content and technical work\n- Shared tracking of target queries and citations\n- Open communication about what is and isn’t working\n\nPractically, whether you go DIY or hire a new partner, define success as improved AI Overview visibility across a set of queries, not universal inclusion. Evaluate progress over months, not weeks.\n\nSoft positioning: Good practitioners treat AI Overviews as an experimental, data-driven area of SEO and will be upfront about the limits of what anyone can promise.",
+        "description": "No one can guarantee AI Overview placement. Next time, focus on specific deliverables—better Q&A content, schema, query mapping—and track AI Overview visibility across defined keywords over several months. Judge partners on transparency and measurable improvements, not promises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

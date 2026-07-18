@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We had a bad LLM optimization experience before. How do we avoid repeating the same mistakes with a new approach?",
+  "description": "Avoid repeating past LLM optimization failures by owning the evaluation framework yourself—clear metrics, real test cases, and reversible changes—and demanding",
+  "url": "aeoptimizer.com/faq/we-had-a-bad-llm-optimization-experience-before-how-do-we-avoid-repeating-the-sa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We had a bad LLM optimization experience before. How do we avoid repeating the same mistakes with a new approach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with a previous LLM vendor or optimization project, start by rebuilding trust through clearer goals, transparent metrics, and small, reversible experiments. Don’t jump straight into another big, opaque engagement.\n\nOften the failure was more about process and expectations than the technology itself.\n\nKey factors:\n- Misaligned success criteria and communication in past projects.\n- Lack of visibility into what was changed and why.\n- Overpromised outcomes without realistic constraints.\n- No shared evaluation set owned by your team.\n\nPractically, own your evaluation framework internally this time: define tests, metrics, and acceptance thresholds before any changes. Require regular demos on real data and insist that every optimization be explainable and reversible.\n\nA good optimization approach should feel collaborative and auditable, not like a black box.",
+        "description": "Avoid repeating past LLM optimization failures by owning the evaluation framework yourself—clear metrics, real test cases, and reversible changes—and demanding transparency about every tweak. Start with small, auditable experiments rather than another large, opaque project with vague promises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

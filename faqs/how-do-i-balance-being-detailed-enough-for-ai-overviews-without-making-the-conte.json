@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I balance being detailed enough for AI overviews without making the content too long or bloated?",
+  "description": "Cover the whole topic, but make each subtopic start with a short, clear summary. Think in modules: comprehensive overall, concise per section. Use headings, bul",
+  "url": "aeoptimizer.com/faq/how-do-i-balance-being-detailed-enough-for-ai-overviews-without-making-the-conte",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I balance being detailed enough for AI overviews without making the content too long or bloated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In AI overviews, depth means thoroughly covering the main topic and its likely follow-up questions, while concision refers to how clearly and briefly each individual answer is written.\n\nYou need both: comprehensive topic coverage expressed in modular, tight answer blocks.\n\nKey factors:\n- Depth: address definitions, how‑tos, pros/cons, comparisons, edge cases, and examples.\n- Concision: lead each section with a 2–4 sentence summary before elaborating.\n- Structure: use headings and bullets to keep longer explanations scannable.\n- Redundancy: avoid repeating the same answer in multiple sections.\n\nWhen writing, outline everything you should cover, then ensure each subtopic begins with a concise takeaway before you dig into details. Edit aggressively for clarity and remove filler.\n\nContent strategists experienced with AI overviews can help you calibrate this balance so pages are both comprehensive and snippet-friendly.",
+        "description": "Cover the whole topic, but make each subtopic start with a short, clear summary. Think in modules: comprehensive overall, concise per section. Use headings, bullets, and tight paragraphs so AI can lift answers while humans can still skim or dive deep."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

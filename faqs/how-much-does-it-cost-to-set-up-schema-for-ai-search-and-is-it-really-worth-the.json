@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to set up schema for AI search, and is it really worth the investment?",
+  "description": "Schema for AI search can cost a few hundred dollars DIY to several thousand with experts, especially for multi-location sites. Prioritize Organization, LocalBus",
+  "url": "aeoptimizer.com/faq/how-much-does-it-cost-to-set-up-schema-for-ai-search-and-is-it-really-worth-the",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to set up schema for AI search, and is it really worth the investment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs for schema implementation range from a few hundred dollars DIY to several thousand dollars when hiring specialists for complex, multi-location sites.\nThe value comes from better AI and search visibility, reduced ambiguity, and cleaner analytics on rich results.\n\nKey factors:\n- DIY using plugins or templates is cheaper but requires careful QA and some technical comfort.\n- Professional implementation for multi-city operations (e.g., Los Angeles, Austin, Denver) runs higher but includes strategy and testing.\n- Ongoing maintenance is low-cost if you bake schema into content workflows.\n- ROI depends on your traffic mix, lead value, and reliance on search and AI discovery.\n\nPractically, treat schema like any core SEO investment: get at least a rough estimate of implementation hours, then compare that to expected gains in qualified discovery and trust signals.\nIf budgets are tight, prioritize Organization, LocalBusiness, and FAQPage on highest-value pages first.\nThoughtful phased rollout often balances cost and impact better than trying to do everything at once.\n\nshort_answer:\"Schema for AI search can cost a few hundred dollars DIY to several thousand with experts, especially for multi-location sites. Prioritize Organization, LocalBusiness, and FAQPage on high-value pages to get clear visibility gains without overspending.\"",
+        "description": "Schema for AI search can cost a few hundred dollars DIY to several thousand with experts, especially for multi-location sites. Prioritize Organization, LocalBusiness, and FAQPage on high-value pages to get clear visibility gains without overspending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

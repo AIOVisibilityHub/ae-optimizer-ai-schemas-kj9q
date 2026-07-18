@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the best way to structure a page so AI overviews actually use my content?",
+  "description": "Use question-based headings (H2/H3), lead each section with a 1–3 sentence direct answer, then expand with short paragraphs, bullets, and tables. Make each bloc",
+  "url": "aeoptimizer.com/faq/what-s-the-best-way-to-structure-a-page-so-ai-overviews-actually-use-my-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the best way to structure a page so AI overviews actually use my content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For AI overviews, you should structure pages so each section opens with a clear, 1–3 sentence answer under a question-based heading, followed by supporting detail in short paragraphs, bullets, tables, or examples.\n\nThink of your page as a series of mini Q&A modules that an AI can safely copy and recombine.\n\nKey factors:\n- H1 answers the main query; H2/H3 cover related sub-questions.\n- Keep paragraphs tight and scannable, avoiding long walls of text.\n- Use bullets for steps, pros/cons, and checklists.\n- Add summary boxes or bolded key sentences at the top of major sections.\n\nWhen editing, ask: “Could AI lift this 2–4 sentence block and give someone a useful answer?” If not, rewrite until it can. Repeat this pattern across product, feature, and educational pages.\n\nAn experienced optimizer can create reusable templates so your entire content team follows the same AI-friendly structure.",
+        "description": "Use question-based headings (H2/H3), lead each section with a 1–3 sentence direct answer, then expand with short paragraphs, bullets, and tables. Make each block self-contained so AI can safely reuse it as an answer snippet."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

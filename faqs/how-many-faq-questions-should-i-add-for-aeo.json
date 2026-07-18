@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many FAQ questions should I add for AEO?",
+  "description": "Usually 5 to 7 focused questions are enough. Quality matters more than volume.",
+  "url": "aeoptimizer.com/faq/how-many-faq-questions-should-i-add-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many FAQ questions should I add for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need a huge FAQ block. In many cases, 5 to 7 strong questions are better than a long list of weak ones. The goal is to cover the most important objections and decision points without making the page feel bloated.",
+        "description": "Usually 5 to 7 focused questions are enough. Quality matters more than volume."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

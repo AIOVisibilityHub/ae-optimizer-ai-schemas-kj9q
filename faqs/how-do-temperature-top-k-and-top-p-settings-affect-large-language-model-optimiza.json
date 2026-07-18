@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do temperature, top‑k, and top‑p settings affect large language model optimization, and how should we tune them?",
+  "description": "Temperature, top‑k, and top‑p directly shape how creative or predictable an LLM is. For factual, high‑trust tasks, use lower temperature and conservative top‑p/",
+  "url": "aeoptimizer.com/faq/how-do-temperature-top-k-and-top-p-settings-affect-large-language-model-optimiza",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do temperature, top‑k, and top‑p settings affect large language model optimization, and how should we tune them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Configuring temperature, top‑k, and top‑p is central to LLM optimization because these parameters control the balance between creativity and reliability. Lower values generally yield safer, more deterministic outputs; higher values increase variety but risk nonsense.\n\nYou should tune them per use case rather than globally.\n\nKey factors:\n- Task type: factual QA vs. brainstorming vs. content generation.\n- Tolerance for errors vs. need for originality.\n- Desired consistency across repeated calls.\n- Interaction with prompt constraints (e.g., strict instructions).\n\nPractically, run small experiments varying one parameter at a time on your evaluation set and pick profiles (e.g., “safe,” “creative”) for different workflows. Document chosen settings so future changes are intentional.\n\nIf your LLM feels unpredictable, start by lowering temperature and narrowing top‑p before attempting more complex changes.",
+        "description": "Temperature, top‑k, and top‑p directly shape how creative or predictable an LLM is. For factual, high‑trust tasks, use lower temperature and conservative top‑p/top‑k; for brainstorming, loosen them. Tune one parameter at a time against a fixed test set and define profiles per workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should we do when our optimized LLM still occasionally hallucinates in production and we can’t afford wrong answers?",
+  "description": "Tackle residual hallucinations by grounding the LLM with retrieval‑augmented generation, tightening prompts to discourage speculation, lowering sampling creativ",
+  "url": "aeoptimizer.com/faq/what-should-we-do-when-our-optimized-llm-still-occasionally-hallucinates-in-prod",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should we do when our optimized LLM still occasionally hallucinates in production and we can’t afford wrong answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your LLM is intermittently hallucinating in production, you need to both tighten prompts and ground responses in reliable data using retrieval‑augmented generation. You should also add guardrails that detect and block obviously unsupported claims.\n\nRandom hallucinations often arise when the model is forced to answer without context or under too‑creative sampling settings.\n\nKey factors:\n- Prompts that encourage speculation (“make something up”).\n- Lack of access to your actual knowledge base or policies.\n- High temperature or aggressive top‑p sampling.\n- Absence of post‑processing checks for critical domains.\n\nPractically, rework prompts to require citing sources or admitting uncertainty, wire the model to search your data before answering, and lower temperature for high‑risk use cases. Add lightweight validation rules for key fields.\n\nIf the domain is sensitive, consider specialized fine‑tuning on your policies and FAQs to reinforce correct behavior.",
+        "description": "Tackle residual hallucinations by grounding the LLM with retrieval‑augmented generation, tightening prompts to discourage speculation, lowering sampling creativity, and adding guardrails that validate or block risky outputs. For sensitive domains, reinforce behavior via targeted fine‑tuning on trusted content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use question-based keywords instead of traditional keywords, or together with them?",
+  "description": "Use question-based keywords together with traditional keywords. Core phrases define your main topics, while question keywords capture specific, intent‑rich quer",
+  "url": "aeoptimizer.com/faq/should-i-use-question-based-keywords-instead-of-traditional-keywords-or-together",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use question-based keywords instead of traditional keywords, or together with them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Question-based keywords don’t replace traditional keywords; they complement them by capturing longer-tail, intent-rich queries around your main topics. You still need core phrases, but questions help you own the “why,” “how,” and “which” conversations.\n\nThink of head terms as categories and question keywords as the real conversations happening inside those categories.\n\nKey factors:\n- Use traditional keywords for broad topic relevance and category pages.\n- Use question keywords for detailed guides, FAQs, and comparison content.\n- Interlink between them to create strong topical clusters.\n- Measure both broad traffic and question-driven conversions.\n\nIn practice, start with your existing keyword strategy and layer question keywords on top as a second dimension of intent. Align them so every major keyword has associated “how/why/which” questions answered.\n\nDone right, you end up owning not just what your topic is, but the way people think and decide about it.",
+        "description": "Use question-based keywords together with traditional keywords. Core phrases define your main topics, while question keywords capture specific, intent‑rich queries like “how,” “why,” and “which.” Interlink them so each major keyword has associated questions answered through detailed guides and FAQs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

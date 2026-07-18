@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there some special ‘AEO schema’ I’m supposed to use, or just normal Schema.org types?",
+  "description": "There’s no unique “AEO schema.” Use standard Schema.org types—FAQPage, Article, HowTo, Organization, Person, Product/Service—in clean JSON-LD that matches your",
+  "url": "aeoptimizer.com/faq/is-there-some-special-aeo-schema-i-m-supposed-to-use-or-just-normal-schema-org-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there some special ‘AEO schema’ I’m supposed to use, or just normal Schema.org types?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no special “AEO schema”; you should use the same Schema.org types that match your content and make it easier for answer engines to understand what’s on the page. The value comes from how you use them, not from a secret vocabulary.\n\nFor AEO, what matters is clear mapping between user questions and the structured, trustworthy answers you provide, reinforced by entity and context markup.\n\nKey factors:\n- Use FAQPage for real Q&A, Article for guides, HowTo for step-by-step processes.\n- Implement Organization and Person schemas to establish brand and authorship.\n- Keep markup in JSON-LD and embed it in the initial HTML where possible.\n- Ensure every schema type aligns closely with visible content and user intent.\n\nPractically, design a schema pattern per page type (FAQ page, solution page, blog post) and stick to it site-wide, updating as your content evolves. Avoid chasing obscure types unless they genuinely fit your use case.\n\nTreat AEO as a strategic way of using standard schema types, not as a separate technical standard.",
+        "description": "There’s no unique “AEO schema.” Use standard Schema.org types—FAQPage, Article, HowTo, Organization, Person, Product/Service—in clean JSON-LD that matches your visible content. AEO is about how strategically you use normal schema, not a different vocabulary."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

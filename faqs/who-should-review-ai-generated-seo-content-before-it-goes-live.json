@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who should review AI-generated SEO content before it goes live?",
+  "description": "A human editor should always review AI-generated SEO content before publishing. That is especially important for pricing, trust, and conversion pages.",
+  "url": "aeoptimizer.com/faq/who-should-review-ai-generated-seo-content-before-it-goes-live",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who should review AI-generated SEO content before it goes live?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The safest approach is to have humans own what gets published, especially on pages that affect trust, pricing, or conversions. AI can speed up production, but editorial oversight is what keeps mistakes, hallucinations, and off-brand claims from going live.",
+        "description": "A human editor should always review AI-generated SEO content before publishing. That is especially important for pricing, trust, and conversion pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

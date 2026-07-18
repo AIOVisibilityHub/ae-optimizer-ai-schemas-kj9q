@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I focus on first if I want to show up in Google AI Overviews but I have a really limited SEO budget?",
+  "description": "With a small budget, pick 5–20 high‑value queries and optimize only those pages for AI Overviews: add clear question headings, short direct answers, FAQs, and s",
+  "url": "aeoptimizer.com/faq/what-should-i-focus-on-first-if-i-want-to-show-up-in-google-ai-overviews-but-i-h",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I focus on first if I want to show up in Google AI Overviews but I have a really limited SEO budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re on a limited budget, prioritize a handful of high-value queries and make those pages AI-Overview friendly instead of trying to optimize your whole site at once. Focus beats breadth when resources are tight.\n\nYou don’t need expensive tools to start: use Search Console, manual searches, basic schema plugins, and smart content rewrites. Even a small number of well-structured, high-intent pages can earn you citations in AI Overviews for those topics.\n\nKey factors:\n- Selection of 5–20 core queries tied to revenue or leads\n- Low-cost schema implementation via plugins\n- DIY content restructuring into Q&A format\n- Ongoing monitoring without over-engineering\n\nPractically, pick your most valuable services or products, rewrite their main pages with clear questions, short answers, and FAQ sections, and add schema using free or inexpensive tools. Reassess performance quarterly and refine.\n\nSoft positioning: On tight budgets, the businesses that win in AI Overviews are the ones that make deliberate, high-impact changes instead of chasing every possible keyword.",
+        "description": "With a small budget, pick 5–20 high‑value queries and optimize only those pages for AI Overviews: add clear question headings, short direct answers, FAQs, and simple schema via plugins. This targeted approach can earn citations without large-scale spending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

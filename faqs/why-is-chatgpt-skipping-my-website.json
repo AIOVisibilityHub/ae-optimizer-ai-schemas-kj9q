@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is ChatGPT skipping my website?",
+  "description": "Check crawlability first, then rewrite key pages so the answer is easy to find and understand.",
+  "url": "aeoptimizer.com/faq/why-is-chatgpt-skipping-my-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is ChatGPT skipping my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first thing to check is whether your pages can be crawled and read easily. Then make sure key facts are on the page in plain language, because even strong brands can be ignored if the answer is buried under marketing copy.",
+        "description": "Check crawlability first, then rewrite key pages so the answer is easy to find and understand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

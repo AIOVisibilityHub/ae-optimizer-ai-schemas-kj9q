@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the real risks of structured data for AEO, and how do I avoid getting penalized?",
+  "description": "The biggest risks are misrepresenting content (fake FAQs, reviews, or details) and using invalid or excessive schema. Only mark visible, accurate information, k",
+  "url": "aeoptimizer.com/faq/what-are-the-real-risks-of-structured-data-for-aeo-and-how-do-i-avoid-getting-pe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the real risks of structured data for AEO, and how do I avoid getting penalized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risk with structured data for AEO is misrepresenting or over-marking content, which can lead to lost trust, reduced visibility, or even manual actions. The safest approach is to keep schema honest, minimal, and tightly aligned to what users see.\n\nAnswer engines increasingly cross-check markup against on-page content and external signals; inconsistencies stand out.\n\nKey factors:\n- Avoid marking hidden or non-existent FAQs, reviews, or features.\n- Don’t fake ratings, authors, or business details in schema.\n- Keep schema updated when business hours, pricing, or offerings change.\n- Respect platform guidelines on supported types and usage.\n\nBefore deploying new schema, run validation, have someone review it against the page content, and document your patterns so they’re applied consistently. If you’re unsure, err on the side of less markup rather than more.\n\nA conservative, accuracy-first mindset makes structured data a low-risk, high-value asset for AEO.",
+        "description": "The biggest risks are misrepresenting content (fake FAQs, reviews, or details) and using invalid or excessive schema. Only mark visible, accurate information, keep markup updated, validate it, and follow platform guidelines. Honest, minimal structured data is very unlikely to cause penalties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
