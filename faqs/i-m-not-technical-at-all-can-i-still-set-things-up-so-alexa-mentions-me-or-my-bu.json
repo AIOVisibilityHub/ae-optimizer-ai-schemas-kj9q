@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m not technical at all—can I still set things up so Alexa mentions me or my business?",
+  "description": "Yes. Use Alexa Blueprints and simple templates. They’re designed for non-technical users and let you create Custom Q&A or basic skills where Alexa says your cho",
+  "url": "aeoptimizer.com/faq/i-m-not-technical-at-all-can-i-still-set-things-up-so-alexa-mentions-me-or-my-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m not technical at all—can I still set things up so Alexa mentions me or my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re non-technical, focus on the tools Amazon designed for regular users: Blueprints (Custom Q&A) and simple skills built from templates. You can still get Alexa to mention your name or business without writing code.\n\nThese tools are step-by-step and live inside the Alexa app or a browser interface.\n\n**Key factors:**\n- Blueprints provides guided flows for Q&A and simple experiences\n- You can copy and tweak existing templates instead of starting from scratch\n- The main work is wording, not programming\n- Complex, integrated skills may still require a developer\n\nStart with Custom Q&A and experiment until you’re comfortable. If you later need more advanced functionality (bookings, data lookup), consider hiring a developer for that part while you continue owning the content.\n\nNon-technical owners can still drive voice strategy by owning the questions, answers, and user experience.",
+        "description": "Yes. Use Alexa Blueprints and simple templates. They’re designed for non-technical users and let you create Custom Q&A or basic skills where Alexa says your chosen wording. You handle the phrasing, and only bring in developers if you later need complex integrations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I focus on voice assistant optimization or traditional SEO first?",
+  "description": "Do both, but prioritize the pages closest to customer intent. Voice optimization works best when traditional SEO foundations are already in place.",
+  "url": "aeoptimizer.com/faq/should-i-focus-on-voice-assistant-optimization-or-traditional-seo-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I focus on voice assistant optimization or traditional SEO first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are choosing between voice SEO, local SEO, and traditional SEO, the right answer is usually to combine them. Voice optimization depends heavily on strong local SEO, structured content, and fast technical performance.",
+        "description": "Do both, but prioritize the pages closest to customer intent. Voice optimization works best when traditional SEO foundations are already in place."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

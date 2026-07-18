@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire someone or use a specialist tool to handle AI share of voice tracking?",
+  "description": "Once you go beyond a small manual pilot and AI share of voice starts informing real content and authority decisions, assign a dedicated owner or use specialized",
+  "url": "aeoptimizer.com/faq/when-should-i-hire-someone-or-use-a-specialist-tool-to-handle-ai-share-of-voice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire someone or use a specialist tool to handle AI share of voice tracking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most teams, it’s smart to bring in a specialist or dedicated owner once your AI share of voice program moves beyond a small manual pilot. Complexity grows quickly as you add prompts, engines, and nuance like positioning and citations.\n\nContext: Early on, a marketer or analyst can manage a lightweight spreadsheet. At scale, you need someone responsible for methodology, tooling, and translating findings into content and authority actions.\n\nKey factors:\n- Number of prompts and AI engines in scope\n- Need for consistent, defensible reporting\n- Integration with SEO, content, and PR workflows\n- Strategic importance of AI visibility to the business\n\nPractical guidance: Start small, but define who will own AI SOV before it becomes \"everyone’s part-time project.\" When decisions or budgets hinge on these metrics, having a specialist or partner is worth the investment.\n\nSoft positioning: Treat the decision to hire help as a signal that AI share of voice has become a core, not experimental, metric.",
+        "description": "Once you go beyond a small manual pilot and AI share of voice starts informing real content and authority decisions, assign a dedicated owner or use specialized tools. Complexity and the need for consistent, defensible reporting grow quickly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

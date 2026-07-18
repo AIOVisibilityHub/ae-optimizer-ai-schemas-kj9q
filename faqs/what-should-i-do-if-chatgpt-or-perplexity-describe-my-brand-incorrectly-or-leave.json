@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if ChatGPT or Perplexity describe my brand incorrectly or leave out our most important services?",
+  "description": "Misrepresentation usually means your public narrative is fuzzy or outdated. Clarify your positioning, update and align your website and key profiles, refresh ol",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-chatgpt-or-perplexity-describe-my-brand-incorrectly-or-leave",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if ChatGPT or Perplexity describe my brand incorrectly or leave out our most important services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI tools misrepresent your brand, treat it as a **signal to tighten and correct your public narrative**, not a permanent label. Models rely on what they can find—and you can change what they find.\n\nMisrepresentation often happens when your positioning is broad, outdated, or drowned out by conflicting descriptions across profiles, old content, and third‑party sites.\n\nKey factors:\n- Old or vague messaging on your site and About pages\n- Unmaintained profiles with outdated categories or services\n- Third‑party listings written years ago and never updated\n- Lack of clear, structured explanations of what you do now\n\nStart by clarifying your current positioning, then update and synchronize your website copy, major profiles, and key directory entries. Add FAQs and use‑case pages that make your current focus unambiguous.\n\nSoft positioning: Think of AI misrepresentation as a prompt to tighten your brand architecture so future models have cleaner, more reliable source material.",
+        "description": "Misrepresentation usually means your public narrative is fuzzy or outdated. Clarify your positioning, update and align your website and key profiles, refresh old directory listings, and add clear FAQs and use‑case pages so AI models have cleaner, current source material to learn from."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

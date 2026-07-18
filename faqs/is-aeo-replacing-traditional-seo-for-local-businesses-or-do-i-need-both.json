@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AEO replacing traditional SEO for local businesses or do I need both?",
+  "description": "You need both. SEO gives you the technical and content foundation; AEO builds on that by focusing on question-based content, schema markup, and local trust sign",
+  "url": "aeoptimizer.com/faq/is-aeo-replacing-traditional-seo-for-local-businesses-or-do-i-need-both",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AEO replacing traditional SEO for local businesses or do I need both?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, AEO doesn’t replace SEO—you still need SEO foundations—but it shifts your focus from ranking pages to answering specific questions so AI systems can feature you.\n\nThink of AEO as a specialized layer on top of solid technical and local SEO.\n\n**Key factors**\n- You still need crawlable, fast, mobile-friendly pages (SEO basics).\n- AEO adds question-first content and schema markup.\n- Local citations and reviews matter more for AEO than for traditional SEO.\n- Voice search and AI assistants rely heavily on structured, conversational answers.\n\nIf your SEO is weak, fix that first while gradually layering AEO tactics like FAQ content and LocalBusiness schema. If SEO is strong, refine it by focusing on the real questions people ask and labeling answers clearly.\n\nYou’re aiming to win in both worlds: traditional results and AI-driven answers.",
+        "description": "You need both. SEO gives you the technical and content foundation; AEO builds on that by focusing on question-based content, schema markup, and local trust signals so AI and voice assistants select your business as a direct answer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

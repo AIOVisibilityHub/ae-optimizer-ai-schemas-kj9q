@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if Alexa still doesn’t mention my Salt Lake City business even after I set up a skill?",
+  "description": "If Alexa ignores your Salt Lake City business, check your skill’s invocation name and utterances, fix any inconsistent business data, and expand your content wi",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-alexa-still-doesn-t-mention-my-salt-lake-city-business-even",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if Alexa still doesn’t mention my Salt Lake City business even after I set up a skill?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Alexa still isn’t mentioning your Salt Lake City business after you launch a skill or optimize listings, it usually means Alexa doesn’t see your content as the best fit—or can’t reliably match user phrasing to you yet. That’s fixable.\n\nVoice systems are picky about phrasing, intent coverage, and data consistency.\n\n**Key factors:**\n- Whether your invocation name matches how users actually speak\n- Gaps in intents (common questions you didn’t model)\n- Conflicting or outdated business data across platforms\n- Weak or sparse reviews and descriptions\n\nStart by listening to how real customers talk and adjust your skill’s sample utterances accordingly. Clean up any mismatched addresses, names, or hours, and flesh out your descriptions and FAQs with natural language.\n\nThink of this as troubleshooting a voice UX issue, not a visibility “penalty.”",
+        "description": "If Alexa ignores your Salt Lake City business, check your skill’s invocation name and utterances, fix any inconsistent business data, and expand your content with natural-language descriptions and FAQs. Often the issue is that Alexa can’t confidently match real user phrasing to your skill yet."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

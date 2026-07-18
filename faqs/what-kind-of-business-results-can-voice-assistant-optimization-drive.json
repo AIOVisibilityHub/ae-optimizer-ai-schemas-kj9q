@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of business results can voice assistant optimization drive?",
+  "description": "It can drive calls, bookings, directions requests, and qualified visits when the content matches high-intent questions. The payoff is strongest for businesses w",
+  "url": "aeoptimizer.com/faq/what-kind-of-business-results-can-voice-assistant-optimization-drive",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of business results can voice assistant optimization drive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong outcome is being the answer for high-intent questions instead of just another search result. That can mean more calls, more directions requests, more bookings, or more qualified website visits depending on your business.",
+        "description": "It can drive calls, bookings, directions requests, and qualified visits when the content matches high-intent questions. The payoff is strongest for businesses with local or immediate needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

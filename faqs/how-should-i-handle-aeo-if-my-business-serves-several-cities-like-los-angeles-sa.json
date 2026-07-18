@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I handle AEO if my business serves several cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+  "description": "Create distinct location pages and schema for each city you serve, with city-specific content and FAQs. Pair those with accurate, city-level Google Business Pro",
+  "url": "aeoptimizer.com/faq/how-should-i-handle-aeo-if-my-business-serves-several-cities-like-los-angeles-sa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I handle AEO if my business serves several cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you serve multiple cities (like LA, San Diego, Austin, Denver, Salt Lake City), build separate, clearly targeted location pages and schema for each area instead of one generic “we serve everywhere” page.\n\nAnswer engines prefer precise, city-level relevance.\n\n**Key factors**\n- Unique pages with city-specific content, FAQs, and testimonials.\n- LocalBusiness or more specific business-type schema per location.\n- Consistent NAP for each office or main service hub.\n- City-focused Google Business Profiles where appropriate.\n\nOn each page, answer the most common local questions: neighborhoods covered, typical jobs, local regulations or conditions, and hours. Use schema to tag each page to its city.\n\nThis approach lets AI and search tools confidently match “near me” queries in each market to the correct location of your business.",
+        "description": "Create distinct location pages and schema for each city you serve, with city-specific content and FAQs. Pair those with accurate, city-level Google Business Profiles so answer engines can reliably match “near me” queries in each area to the right branch of your business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

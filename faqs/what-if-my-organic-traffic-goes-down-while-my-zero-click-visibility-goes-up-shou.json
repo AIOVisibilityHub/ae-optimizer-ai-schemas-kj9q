@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my organic traffic goes down while my zero-click visibility goes up—should I be worried?",
+  "description": "Not necessarily. In a zero-click environment, you might see fewer site visits but more SERP-level actions and influence. If impressions, branded searches, calls",
+  "url": "aeoptimizer.com/faq/what-if-my-organic-traffic-goes-down-while-my-zero-click-visibility-goes-up-shou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my organic traffic goes down while my zero-click visibility goes up—should I be worried?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your organic traffic drops while zero-click features increase, it doesn’t always mean your marketing is failing.\nYou may be shifting from clicks to SERP-level actions and influence.\n\nContext: Featured snippets, Maps, and AI Overviews often answer users’ basic questions on the results page.\nPeople might call, navigate, or remember your brand without visiting your site.\n\nKey factors:\n- Trends in impressions vs clicks\n- Calls, messages, bookings, and routes from Google\n- Branded search volume over time\n- Lead quality and pipeline, not just sessions\n\nPractical guidance: Compare traffic trends with visibility and action metrics.\nIf impressions, branded searches, and direct inquiries are up, your zero-click strategy may be working even as raw traffic declines.\n\nSoft positioning: Reframe success around business outcomes and visibility, not just pageview counts.",
+        "description": "Not necessarily. In a zero-click environment, you might see fewer site visits but more SERP-level actions and influence. If impressions, branded searches, calls, messages, and bookings are rising, your reduced traffic can still reflect a successful visibility strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

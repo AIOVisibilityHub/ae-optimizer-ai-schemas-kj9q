@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I optimize my homepage, FAQ page, or location page for Siri first?",
+  "description": "Start with the page that can answer the target question most clearly and accurately.",
+  "url": "aeoptimizer.com/faq/should-i-optimize-my-homepage-faq-page-or-location-page-for-siri-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I optimize my homepage, FAQ page, or location page for Siri first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should compare clarity, authority, and maintenance effort. A short, accurate page that gets updated regularly is usually more useful than a long page with broad claims. For local businesses, compare how consistently each option presents the same business facts across the web.",
+        "description": "Start with the page that can answer the target question most clearly and accurately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

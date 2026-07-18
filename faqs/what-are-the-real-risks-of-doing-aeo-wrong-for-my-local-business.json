@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the real risks of doing AEO wrong for my local business?",
+  "description": "The main AEO risk is spreading wrong or inconsistent business information—hours, location, services—across AI and map results. If your NAP, schema, and profiles",
+  "url": "aeoptimizer.com/faq/what-are-the-real-risks-of-doing-aeo-wrong-for-my-local-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the real risks of doing AEO wrong for my local business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest AEO risk for local businesses is feeding answer engines bad or inconsistent information, which can cause wrong hours, wrong locations, or mismatched services to be shown.\n\nMisleading or thin content can also hurt trust and visibility over time.\n\n**Key factors**\n- Inconsistent business name, address, and phone across platforms.\n- Outdated hours or services in schema or profiles.\n- Over-optimized, unnatural answers that feel like spam.\n- Ignoring negative reviews that affect AI trust signals.\n\nMitigate risk by creating a single source of truth for your business data and reviewing it quarterly across your site, Google Business Profile, and major directories. Keep schema updated when details change.\n\nThink of AEO as amplifying whatever information you publish—if it’s accurate and helpful, that’s good; if not, the mistakes can spread faster.",
+        "description": "The main AEO risk is spreading wrong or inconsistent business information—hours, location, services—across AI and map results. If your NAP, schema, and profiles aren’t accurate, answer engines can show outdated or incorrect details, hurting trust, reviews, and real-world visits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

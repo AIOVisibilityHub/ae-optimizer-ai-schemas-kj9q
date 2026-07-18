@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Siri decide what source to use?",
+  "description": "Siri favors clear, structured, reliable information, but Apple does not publish a simple public ranking formula.",
+  "url": "aeoptimizer.com/faq/how-does-siri-decide-what-source-to-use",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Siri decide what source to use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Siri does not work like a traditional citation engine with a public list of ranking factors. In practice, it answers from Apple’s assistants and connected sources, so the strongest signals are clear language, structured information, and reliable third-party mentions that match your official details. The more unambiguous your page is, the easier it is for Siri to associate your brand with the right answer.",
+        "description": "Siri favors clear, structured, reliable information, but Apple does not publish a simple public ranking formula."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

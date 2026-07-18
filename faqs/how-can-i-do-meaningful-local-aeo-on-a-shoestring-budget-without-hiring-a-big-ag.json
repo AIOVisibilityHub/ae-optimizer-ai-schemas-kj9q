@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I do meaningful local AEO on a shoestring budget without hiring a big agency?",
+  "description": "On a tight budget, focus local AEO on **high-impact basics**: clean and complete Google Business Profile, consistent listings, steady review generation, and a f",
+  "url": "aeoptimizer.com/faq/how-can-i-do-meaningful-local-aeo-on-a-shoestring-budget-without-hiring-a-big-ag",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I do meaningful local AEO on a shoestring budget without hiring a big agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a **limited budget**, prioritize high‑impact local AEO basics that don’t require big retainers: clean profiles, reviews, and a few strong answer-ready pages. Avoid trying to optimize everything at once.\n\nTime is your main leverage; tools and agencies should amplify what you’ve already improved, not substitute for the basics.\n\n**Key factors** \n- Fix Google Business Profile and a handful of key directories first. \n- Ask every happy customer for a review with locality mentioned when appropriate. \n- Write concise FAQs that match how people actually ask questions. \n- Track leads from “discovery” searches separately from branded ones.\n\nIn practice, spend a few hours per week: one block on listings and reviews, one on content and FAQs, and one on checking how AI tools respond to common queries. Only then consider paid software to automate monitoring.\n\nA modest but consistent cadence will beat a short, expensive burst every time.",
+        "description": "On a tight budget, focus local AEO on **high-impact basics**: clean and complete Google Business Profile, consistent listings, steady review generation, and a few answer-rich FAQs on your main pages. Invest time weekly and add tools or services only after the foundation is solid."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire someone instead of doing this myself?",
+  "description": "Hire help when the basics are already strong but Siri still misses you, or when you need technical cleanup fast.",
+  "url": "aeoptimizer.com/faq/when-should-i-hire-someone-instead-of-doing-this-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire someone instead of doing this myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A local SEO specialist, technical SEO partner, or content strategist can help if your site already has traffic but still fails to surface in voice answers. If you are starting from zero, fix the basics yourself first: page clarity, structured answers, and accurate local information. Hiring too early often wastes budget on tactics before the foundation is ready.",
+        "description": "Hire help when the basics are already strong but Siri still misses you, or when you need technical cleanup fast."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

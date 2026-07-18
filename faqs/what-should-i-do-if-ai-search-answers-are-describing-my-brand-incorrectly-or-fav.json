@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI search answers are describing my brand incorrectly or favoring a competitor unfairly?",
+  "description": "You can’t directly edit AI answers, but you can fix the evidence they draw from: update and clarify your own content, correct key third‑party listings, publish",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-search-answers-are-describing-my-brand-incorrectly-or-fav",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI search answers are describing my brand incorrectly or favoring a competitor unfairly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When AI search answers misrepresent your brand or recommend a competitor unfairly, your response should balance content correction, authority-building, and iterative monitoring. You can’t \"force\" models, but you can improve the evidence they rely on.\n\nContext: Models synthesize from the web and structured data; if that data is incomplete, outdated, or biased, answers will reflect it. Fixing the source ecosystem is your leverage.\n\nKey factors:\n- Correcting inaccuracies on your own site and profiles\n- Requesting updates on key third‑party listings and review sites\n- Publishing clear explanations or comparisons on disputed topics\n- Tracking misrepresentations and re-checking after changes\n\nPractical guidance: Document specific problematic answers, then map them to the missing or misleading inputs you can fix. After updates, re-run those prompts over time to see whether AI output improves.\n\nSoft positioning: Treat misrepresentation as a prompt to harden your brand’s factual footprint across the web.",
+        "description": "You can’t directly edit AI answers, but you can fix the evidence they draw from: update and clarify your own content, correct key third‑party listings, publish clear comparisons, and then re-test those prompts over time to see whether outputs improve."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

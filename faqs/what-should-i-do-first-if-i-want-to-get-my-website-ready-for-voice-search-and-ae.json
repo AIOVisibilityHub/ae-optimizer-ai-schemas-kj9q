@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to get my website ready for voice search and AEO?",
+  "description": "Start by auditing your site for real user questions, featured snippet opportunities, and mobile speed. Then pick 20–50 priority queries, turn them into Q&A sect",
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-want-to-get-my-website-ready-for-voice-search-and-ae",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to get my website ready for voice search and AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by auditing your existing content for question-based headings, featured snippet opportunities, and any existing schema. Then identify the top 20–50 spoken queries your customers use and design Q&A sections around them with concise, conversational answers.\n\nYour first goal is to make your site “answer-ready” before adding advanced schema and tracking. That means clean structure, clear questions, and short direct responses.\n\nKey factors:\n- Review Search Console for “what,” “how,” “where,” “near me” queries\n- Map People Also Ask and auto-suggest questions to your topics\n- Check page speed, mobile usability, and local business info accuracy\n- Decide which core pages will host Q&A blocks and schema\n\nPractically, pick one or two flagship pages (like your main service page and a cornerstone guide), turn each into a Q&A hub, and add FAQPage/HowTo schema. Validate with rich result testing before scaling.\n\nIf you’re unsure where to begin, a one-time AEO audit can give you a prioritized roadmap for your team to execute.",
+        "description": "Start by auditing your site for real user questions, featured snippet opportunities, and mobile speed. Then pick 20–50 priority queries, turn them into Q&A sections with short, conversational answers, and implement FAQPage/HowTo schema on one or two flagship pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

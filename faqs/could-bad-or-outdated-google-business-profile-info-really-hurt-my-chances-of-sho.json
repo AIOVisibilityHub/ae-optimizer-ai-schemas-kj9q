@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Could bad or outdated Google Business Profile info really hurt my chances of showing up in voice search?",
+  "description": "Yes. Since voice assistants heavily rely on Google Business Profile data, wrong or outdated info about your name, address, phone, or hours can stop you from bei",
+  "url": "aeoptimizer.com/faq/could-bad-or-outdated-google-business-profile-info-really-hurt-my-chances-of-sho",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Could bad or outdated Google Business Profile info really hurt my chances of showing up in voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice search results are heavily influenced by your Google Business Profile, so if that’s wrong or incomplete, you’ll often be skipped. Fix this immediately by claiming your profile, correcting your name, address, phone, and hours, and adding a clear description and real photos.\n\nMost assistants use this data as a primary source for local answers. Inconsistent or outdated info can cause you to be misread, mislocated, or not read at all.\n\nKey factors:\n- Claim and verify your Google Business Profile\n- Correct NAP and hours, including holiday or seasonal changes\n- Pick accurate categories and add services\n- Answer Q&A and encourage fresh reviews\n\nSet a recurring reminder to review your profile monthly and after any change—moving, new phone number, different hours. Make sure all other listings match what Google shows.\n\nIf you’re unsure what’s wrong, search your business name and “near me” on a phone and see which details show up and where they disagree.",
+        "description": "Yes. Since voice assistants heavily rely on Google Business Profile data, wrong or outdated info about your name, address, phone, or hours can stop you from being read out as a result. Claim your profile, fix all details, and keep them synced with other listings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

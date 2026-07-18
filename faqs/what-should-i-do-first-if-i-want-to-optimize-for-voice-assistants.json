@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to optimize for voice assistants?",
+  "description": "Start with your highest-traffic pages, rewrite answers in natural language, and add the right schema markup. Then check mobile speed and keep answers short and",
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-want-to-optimize-for-voice-assistants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to optimize for voice assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the pages people already use most, then rewrite the key answers in plain, spoken language. Add FAQ, HowTo, and LocalBusiness schema where relevant, and make sure the page loads fast on mobile so assistants can surface it more easily.",
+        "description": "Start with your highest-traffic pages, rewrite answers in natural language, and add the right schema markup. Then check mobile speed and keep answers short and direct."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

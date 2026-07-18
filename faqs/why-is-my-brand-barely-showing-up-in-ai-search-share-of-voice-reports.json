@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is my brand barely showing up in AI search share of voice reports?",
+  "description": "You likely lack strong, trustworthy, and well-structured evidence for AI engines to use. Thin content, weak third‑party citations, and inconsistent information",
+  "url": "aeoptimizer.com/faq/why-is-my-brand-barely-showing-up-in-ai-search-share-of-voice-reports",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is my brand barely showing up in AI search share of voice reports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Low share of voice in AI search usually means AI engines don’t have enough trustworthy, structured, or prominent evidence to justify including your brand in answers. It’s a visibility problem, not necessarily a product problem.\n\nContext: Models favor brands with clear, authoritative content, strong external signals, and consistent, verifiable data. If that’s missing or weaker than competitors, you’ll be under-represented.\n\nKey factors:\n- Thin or generic on-site content around key buyer questions\n- Lack of credible third-party mentions, reviews, and citations\n- Outdated or inconsistent brand information across the web\n- Weak topical authority relative to competitors\n\nPractical guidance: Diagnose where you’re missing: map prompts to pages, check which answers cite competitors and why, then upgrade your content and external authority to close those gaps. Track changes in AI SOV over time.\n\nSoft positioning: Treat low AI share of voice as a diagnostic signal telling you exactly where to strengthen your brand’s footprint.",
+        "description": "You likely lack strong, trustworthy, and well-structured evidence for AI engines to use. Thin content, weak third‑party citations, and inconsistent information make models favor competitors, which shows up as low AI share of voice."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

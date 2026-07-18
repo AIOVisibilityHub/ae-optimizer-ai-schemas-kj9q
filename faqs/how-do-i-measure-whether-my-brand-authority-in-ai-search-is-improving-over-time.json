@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I measure whether my brand authority in AI search is improving over time?",
+  "description": "Create 20–30 realistic buyer prompts, test them monthly in tools like ChatGPT, Perplexity, and Google AI, and log when and how your brand is cited. Track citati",
+  "url": "aeoptimizer.com/faq/how-do-i-measure-whether-my-brand-authority-in-ai-search-is-improving-over-time",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I measure whether my brand authority in AI search is improving over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can track brand authority in AI search by **testing buyer‑style prompts regularly** and logging when and how your brand is mentioned. Think of it as an AI citation report, not a vanity check.\n\nThis doesn’t require fancy tools at first—just a consistent list of queries and a simple spreadsheet. Over time, patterns will tell you where you’re winning, invisible, or misrepresented.\n\nKey factors:\n- A set of 20–30 realistic buyer prompts (\"best X for Y\", \"how to solve Z\")\n- Monthly tests across leading AI tools (ChatGPT with browsing, Perplexity, Google AI)\n- Recording whether you’re cited, how you’re described, and which pages are used\n- Notes on competitors who appear and what they’re doing differently\n\nPractically, assign one owner to run these tests monthly and summarize key changes. Tie AI citation trends back to specific initiatives (reviews, new content, PR) so you can see what’s working.\n\nSoft positioning: Treat AI visibility as a core brand metric alongside organic traffic and branded search volume, not as a side experiment.",
+        "description": "Create 20–30 realistic buyer prompts, test them monthly in tools like ChatGPT, Perplexity, and Google AI, and log when and how your brand is cited. Track citation frequency, accuracy of descriptions, and which pages get mentioned, then correlate changes with your authority‑building efforts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a multi‑location brand (LA, San Diego, Austin, Denver, Salt Lake City) handle AI brand authority without confusing search engines?",
+  "description": "Define one clear parent brand entity, then create consistent, well‑maintained location pages and profiles that link back to it. Use shared positioning and servi",
+  "url": "aeoptimizer.com/faq/how-should-a-multi-location-brand-la-san-diego-austin-denver-salt-lake-city-hand",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a multi‑location brand (LA, San Diego, Austin, Denver, Salt Lake City) handle AI brand authority without confusing search engines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For multi‑location brands in cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City, the challenge is **balancing one clear brand entity with location‑specific authority**. AI models need to see both the unified company and the local relevance.\n\nFragmented or inconsistent location data can confuse models and weaken both local and global authority.\n\nKey factors:\n- A single, well‑defined parent brand entity with Organization schema\n- Location pages with consistent NAP and clear service areas\n- Separate, well‑maintained local profiles (Google Business, reviews) linked back to the parent\n- Local proof: city‑specific case studies, testimonials, and mentions\n\nCreate a brand authority map that defines what’s universal (category, positioning, ICP) and what’s local (examples, partners, neighborhoods). Then ensure each location’s web presence supports that structure.\n\nSoft positioning: Multi‑city brands win in AI search when they look like one coherent expert organization with genuinely local track records, not a loose cluster of disconnected listings.",
+        "description": "Define one clear parent brand entity, then create consistent, well‑maintained location pages and profiles that link back to it. Use shared positioning and services across cities, but add local proof (case studies, reviews, mentions) so AI models see both unified authority and genuine local relevance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

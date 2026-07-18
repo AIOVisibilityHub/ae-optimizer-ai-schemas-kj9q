@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I technically implement speakable schema on my website?",
+  "description": "You implement speakable by adding a `speakable` property inside your Article or WebPage JSON-LD, pointing to specific elements via `SpeakableSpecification` and",
+  "url": "aeoptimizer.com/faq/how-do-i-technically-implement-speakable-schema-on-my-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I technically implement speakable schema on my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To implement speakable schema, you add a `speakable` property to your existing Article or WebPage JSON-LD, pointing to the specific elements that contain your audio-ready text.\n\nPractically, that means giving IDs or predictable selectors to the 2–3 sentence summary on the page, then referencing those selectors in a `SpeakableSpecification` block. The speakable property doesn’t change your layout; it’s just an annotation layer for machines. Testing in structured data tools is essential before deployment.\n\n**Key factors:**\n- Use JSON-LD within Article or WebPage schema\n- Reference elements via `cssSelector` or `xpath`\n- Keep snippets short, clear, and visible to users\n- Validate with schema testing tools and fix errors\n\nStart with one high-traffic, information-rich page, add IDs to the summary paragraph, implement speakable in JSON-LD, and run it through Google’s Rich Results Test. Once that works, you can roll out to more pages using the same pattern.\n\nIf this feels too technical, ask a developer or SEO specialist to set up a reusable template for your CMS.",
+        "description": "You implement speakable by adding a `speakable` property inside your Article or WebPage JSON-LD, pointing to specific elements via `SpeakableSpecification` and `cssSelector` or `xpath`. Mark a short summary on the page, give it stable selectors, then validate the markup with schema testing tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

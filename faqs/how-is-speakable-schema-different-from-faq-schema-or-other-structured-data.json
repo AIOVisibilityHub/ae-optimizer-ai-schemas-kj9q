@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is speakable schema different from FAQ schema or other structured data?",
+  "description": "Speakable schema marks a few specific sentences for text-to-speech and voice use, while FAQ schema structures full question‑answer lists for visual rich results",
+  "url": "aeoptimizer.com/faq/how-is-speakable-schema-different-from-faq-schema-or-other-structured-data",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is speakable schema different from FAQ schema or other structured data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Speakable schema is different from FAQ schema: speakable marks *which* sentences to read aloud, while FAQ schema structures a *list of question‑answer pairs* for rich results.\n\nFAQ schema is designed for on-page FAQs and may show your questions and answers directly in search. Speakable, by contrast, points to a few audio-friendly sentences anywhere in your content for voice assistants and AI to quote. They’re complementary: you can use both on the same page if the content warrants it.\n\n**Key factors:**\n- Speakable targets specific snippets; FAQ models Q&A lists\n- FAQ impacts visual SERP features; speakable impacts audio/voice\n- Both use JSON-LD but different types and properties\n- Can be combined strategically when content fits\n\nDecide based on the page’s format: FAQ pages should have FAQ schema; narrative or article pages benefit more from speakable. On hybrid pages, you might use both, marking a spoken summary plus structured FAQs below.\n\nTreat each schema as serving a distinct user experience—visual vs audio.",
+        "description": "Speakable schema marks a few specific sentences for text-to-speech and voice use, while FAQ schema structures full question‑answer lists for visual rich results. Speakable mainly influences audio and AI citations; FAQ mainly affects how FAQs appear directly in search. You can use both when appropriate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to get noticed by Siri?",
+  "description": "Usually not instantly; it depends on how quickly your content is indexed and how clearly Siri can understand it.",
+  "url": "aeoptimizer.com/faq/how-long-does-it-take-to-get-noticed-by-siri",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to get noticed by Siri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you need faster visibility, focus on pages that answer one question directly and completely. Siri is more likely to use information that is easy to parse, so short headings, simple wording, and obvious entity details help. Make sure your contact and location information is easy to find without scrolling.",
+        "description": "Usually not instantly; it depends on how quickly your content is indexed and how clearly Siri can understand it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

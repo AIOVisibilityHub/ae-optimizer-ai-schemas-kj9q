@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I handle local AEO for multiple locations across cities like Los Angeles, Austin, and Denver?",
+  "description": "For multi-location local AEO, give each city its own **distinct LocalBusiness footprint**: a dedicated location page with city-specific content and FAQs, separa",
+  "url": "aeoptimizer.com/faq/how-should-i-handle-local-aeo-for-multiple-locations-across-cities-like-los-ange",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I handle local AEO for multiple locations across cities like Los Angeles, Austin, and Denver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With multiple locations, treat each one as a **distinct local entity** within a unified brand. Local AEO means giving each city its own LocalBusiness signals, proof, and answer-ready content, while keeping core brand data consistent.\n\nYou’re balancing global organization clarity with genuinely localized pages and profiles.\n\n**Key factors** \n- Separate, well-structured location pages with city-specific content and FAQs. \n- Individual Google/Bing profiles, categories, and NAP for each physical location. \n- Shared Organization schema and brand guidelines across all sites. \n- Local proof per city: reviews, photos, partners, case stories.\n\nStart by standardizing brand name and core messaging, then build a lightweight “local AEO pack” for each location: one strong page, one FAQ set, one review plan, and a few local mentions.\n\nMulti-location AEO success comes from depth and consistency, not just spinning up more thin city pages.",
+        "description": "For multi-location local AEO, give each city its own **distinct LocalBusiness footprint**: a dedicated location page with city-specific content and FAQs, separate local profiles, and local proof (reviews, partners, photos), all tied back to a consistent parent brand entity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

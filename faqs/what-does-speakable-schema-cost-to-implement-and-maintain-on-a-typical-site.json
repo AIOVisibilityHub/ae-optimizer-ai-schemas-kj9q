@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does speakable schema cost to implement and maintain on a typical site?",
+  "description": "Speakable schema is free to use; you only pay for the time and expertise required to plan, code, test, and maintain it. For small sites, it’s usually a few hour",
+  "url": "aeoptimizer.com/faq/what-does-speakable-schema-cost-to-implement-and-maintain-on-a-typical-site",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does speakable schema cost to implement and maintain on a typical site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Speakable schema itself is free; the only costs are your time and any developer or SEO resources you use to implement and maintain it.\n\nMost sites can add speakable using existing schema patterns, so there’s no licensing or platform fee. Where costs appear is in planning, coding, QA, and periodic updates when layouts change. For small sites, that might be a few hours of work; for large news or content properties, it can become an ongoing line item.\n\n**Key factors:**\n- No direct fee for using speakable or schema.org\n- Implementation cost depends on internal skills\n- Maintenance needed after design or template changes\n- ROI tied to voice and AI visibility, not guaranteed\n\nEstimate the effort for selecting snippets, editing templates, and testing, then decide whether that investment aligns with your voice-search strategy. Start with a pilot on a subset of URLs to gauge impact before scaling.\n\nIf you’re on a tight budget, prioritize the few pages most likely to benefit from voice answers.",
+        "description": "Speakable schema is free to use; you only pay for the time and expertise required to plan, code, test, and maintain it. For small sites, it’s usually a few hours of work, while larger publishers may treat it as an ongoing optimization expense tied to voice-search strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

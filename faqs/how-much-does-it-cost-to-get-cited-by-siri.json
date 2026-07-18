@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to get cited by Siri?",
+  "description": "There is no direct Siri citation fee, but you may pay for content, SEO, or local data cleanup.",
+  "url": "aeoptimizer.com/faq/how-much-does-it-cost-to-get-cited-by-siri",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to get cited by Siri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You typically do not pay Siri directly to be cited. The real cost is in creating and maintaining accurate content, technical optimization, and local listings management if you want consistent results. For small businesses, the best value usually comes from fixing data quality before spending on anything advanced.",
+        "description": "There is no direct Siri citation fee, but you may pay for content, SEO, or local data cleanup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

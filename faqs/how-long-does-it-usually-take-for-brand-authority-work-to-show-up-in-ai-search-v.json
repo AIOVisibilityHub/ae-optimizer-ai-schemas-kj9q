@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it usually take for brand authority work to show up in AI search visibility, and what if results are slow?",
+  "description": "Expect 3–6 months for substantial AI authority changes. Models need time to see new content, reviews, and mentions and fold them into answers. Keep testing buye",
+  "url": "aeoptimizer.com/faq/how-long-does-it-usually-take-for-brand-authority-work-to-show-up-in-ai-search-v",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it usually take for brand authority work to show up in AI search visibility, and what if results are slow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delays between authority work and visible AI results are normal; most brands see **meaningful changes in 3–6 months**, not days. AI systems need time to crawl, retrain, and reweight signals.\n\nIf you’ve made solid improvements but don’t see immediate changes, that doesn’t mean the work isn’t compounding—it just means you’re on algorithm time, not campaign time.\n\nKey factors:\n- Crawl and indexing delays for new or updated content\n- Slow accumulation of reviews, mentions, and behavioral signals\n- Periodic model updates that incorporate new training data\n- Competitive landscape (others may be improving at the same time)\n\nKeep running your monthly AI prompt tests, track branded search and review growth, and resist the urge to pivot every few weeks. Adjust tactically, but stay strategically consistent.\n\nSoft positioning: Brand authority behaves more like reputation than advertising—it builds slowly, then shows up everywhere at once once the signals pass a threshold.",
+        "description": "Expect 3–6 months for substantial AI authority changes. Models need time to see new content, reviews, and mentions and fold them into answers. Keep testing buyer‑style prompts monthly, track branded search and review growth, and stay consistent rather than constantly changing strategies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

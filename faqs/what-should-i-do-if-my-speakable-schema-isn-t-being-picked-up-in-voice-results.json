@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if my speakable schema isn’t being picked up in voice results?",
+  "description": "Confirm your speakable markup is valid and indexed, then adjust your snippets to better match real voice queries and give platforms time to adopt them. Speakabl",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-my-speakable-schema-isn-t-being-picked-up-in-voice-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my speakable schema isn’t being picked up in voice results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If Google Assistant or other platforms aren’t using your speakable snippets, the usual causes are limited feature availability, indexing delays, or snippets that don’t match real voice queries.\n\nSpeakable remains a niche, sometimes beta-like feature, so not every site or query triggers it. Even with correct markup, assistants may choose other sources or rely on general algorithms. Also, if your chosen text doesn’t answer the intents users are actually speaking, it may be ignored.\n\n**Key factors:**\n- Platform support can be limited or experimental\n- Requires proper crawl, indexing, and eligibility\n- Snippet relevance to query intent is critical\n- Competing content may be favored instead\n\nFirst, verify the markup is recognized and error-free. Then compare your speakable text against actual queries in Search Console or analytics; adjust wording and topics to better match spoken questions. Give it time—results can be sporadic.\n\nExpect speakable to be one input among many, not a guaranteed way to control every spoken answer.",
+        "description": "Confirm your speakable markup is valid and indexed, then adjust your snippets to better match real voice queries and give platforms time to adopt them. Speakable is still limited and competitive, so even correct markup won’t guarantee your content is used for every spoken answer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

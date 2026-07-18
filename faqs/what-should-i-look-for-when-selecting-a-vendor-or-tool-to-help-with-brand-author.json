@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when selecting a vendor or tool to help with brand authority in AI search?",
+  "description": "Start with your own authority strategy, then choose vendors that focus on positioning, ICP clarity, and proof—not just content volume. Look for the ability to t",
+  "url": "aeoptimizer.com/faq/what-should-i-look-for-when-selecting-a-vendor-or-tool-to-help-with-brand-author",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when selecting a vendor or tool to help with brand authority in AI search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing vendors or tools for AI brand authority should start with **your own strategy**, not their feature list. You need clarity on what you want to be known for before anyone can help you amplify it.\n\nMany teams in tech‑heavy cities like Austin or Denver buy tools before they’ve defined their categories, ICP, and proof story, which leads to scattered execution.\n\nKey factors:\n- Whether the vendor emphasizes authority architecture (positioning, ICP, proof), not just content volume\n- Ability to measure AI citations and brand narrative accuracy over time\n- Experience with multi‑location or niche brands similar to yours\n- Fit with your internal capabilities (who will own implementation?)\n\nBefore signing anything, map your authority goals and gaps, then interview vendors on how they’d close those specific gaps. For tools, prioritize those that help you monitor AI mentions and unify your brand data.\n\nSoft positioning: The right partner amplifies a clear strategy; no tool can fix a brand story that’s still fuzzy or undecided.",
+        "description": "Start with your own authority strategy, then choose vendors that focus on positioning, ICP clarity, and proof—not just content volume. Look for the ability to track AI citations and narrative accuracy, experience with brands like yours, and a realistic plan for who will own implementation internally."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

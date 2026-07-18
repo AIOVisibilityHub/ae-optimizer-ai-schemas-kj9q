@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the smartest way to do AEO for my local business if I barely have any marketing budget?",
+  "description": "With a limited budget, focus AEO on high-impact basics: fully optimize your Google Business Profile, fix NAP consistency, and build one strong FAQ or service pa",
+  "url": "aeoptimizer.com/faq/what-s-the-smartest-way-to-do-aeo-for-my-local-business-if-i-barely-have-any-mar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the smartest way to do AEO for my local business if I barely have any marketing budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re on a tight budget, focus AEO on a few high-impact actions: fully optimize Google Business Profile, fix NAP consistency, and build one excellent FAQ or service page with schema.\n\nYou don’t need to do everything at once to see benefits.\n\n**Key factors**\n- Prioritize free or low-cost assets: GBP, basic schema tools, on-site content.\n- Target a small set of high-intent local questions (emergency, “near me,” pricing).\n- Avoid spreading resources thin across too many pages or platforms.\n- Reinvest early wins into more content and review generation.\n\nMap your top 10–20 questions and answer them on one or two strong pages, then monitor calls and visits from those queries. Expand gradually as revenue grows.\n\nAEO can be very efficient when you’re selective about which questions and locations you optimize first.",
+        "description": "With a limited budget, focus AEO on high-impact basics: fully optimize your Google Business Profile, fix NAP consistency, and build one strong FAQ or service page with schema around your top local questions. Track results, then reinvest gains into more Q&A content and reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

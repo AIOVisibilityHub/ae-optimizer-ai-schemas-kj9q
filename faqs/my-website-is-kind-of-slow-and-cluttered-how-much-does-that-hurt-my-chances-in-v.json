@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My website is kind of slow and cluttered—how much does that hurt my chances in voice search?",
+  "description": "Slow, cluttered sites hurt voice search performance because assistants favor fast, mobile‑friendly pages with clear, scannable answers. If your site loads in mo",
+  "url": "aeoptimizer.com/faq/my-website-is-kind-of-slow-and-cluttered-how-much-does-that-hurt-my-chances-in-v",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My website is kind of slow and cluttered—how much does that hurt my chances in voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Slow, poorly optimized mobile sites struggle in voice search because assistants prefer answers they can load and understand quickly. If your pages are bloated or hard to read, you’re less likely to be chosen as the spoken response.\n\nVoice users are often on the go; they won’t wait for a slow site, and search engines know this. Performance and clarity are part of the ranking equation.\n\nKey factors:\n- Page load time on 4G connections (aim under 3–4 seconds)\n- Mobile‑friendly layout and readable text\n- Simple, scannable structure with short paragraphs and headings\n- Images and scripts compressed and minimized\n\nRun speed tests and fix obvious issues: huge images, unnecessary scripts, and complex layouts. Then rewrite key sections to use short sentences and bullet points.\n\nIf your platform limits performance, consider a lightweight theme or a developer who can streamline your setup.",
+        "description": "Slow, cluttered sites hurt voice search performance because assistants favor fast, mobile‑friendly pages with clear, scannable answers. If your site loads in more than a few seconds or is hard to read on phones, you’re less likely to be picked as the spoken result. Fix speed and simplicity first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

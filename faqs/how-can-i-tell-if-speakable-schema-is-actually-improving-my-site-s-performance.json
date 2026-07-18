@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if speakable schema is actually improving my site’s performance?",
+  "description": "Measure speakable’s impact by tracking performance changes on the pages where you’ve implemented it, focusing on question-style queries and any voice or assista",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-speakable-schema-is-actually-improving-my-site-s-performance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if speakable schema is actually improving my site’s performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure speakable’s impact, you’ll rely on a mix of structured data reports, search analytics, and any available voice or assistant metrics rather than a single, perfect dashboard.\n\nLook for changes in impressions and clicks on pages where speakable is implemented, especially for queries that sound like spoken questions. Monitor structured data errors and whether the speakable property is consistently detected. Some ecosystems offer assistant-specific metrics; if you have those, watch them for upticks after implementation.\n\n**Key factors:**\n- Track per-page performance before and after implementation\n- Segment by question-style queries where possible\n- Monitor structured data health and detection\n- Use any available voice or assistant analytics\n\nSet clear, realistic expectations: you’re looking for modest improvements in visibility or engagement, not dramatic ranking jumps. Compare speakable pages to similar non-speakable pages to get a feel for relative impact.\n\nThis measurement approach turns speakable from a blind experiment into a managed optimization.",
+        "description": "Measure speakable’s impact by tracking performance changes on the pages where you’ve implemented it, focusing on question-style queries and any voice or assistant metrics you have. Also monitor structured data detection and errors to ensure the speakable property remains healthy over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

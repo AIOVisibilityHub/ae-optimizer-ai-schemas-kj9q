@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I check if I’ve been working on local AEO for months and still don’t see much improvement?",
+  "description": "If AEO progress is slow, audit four things: NAP consistency, whether your content clearly answers real local questions, whether your schema is valid, and how st",
+  "url": "aeoptimizer.com/faq/what-should-i-check-if-i-ve-been-working-on-local-aeo-for-months-and-still-don-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I check if I’ve been working on local AEO for months and still don’t see much improvement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your AEO efforts seem stalled, it’s usually because either your business data is inconsistent, your content isn’t actually answering real questions, or your changes haven’t been crawled and trusted yet.\n\nYou need to diagnose, not randomly add more keywords.\n\n**Key factors**\n- Check NAP consistency across your site, GBP, and directories.\n- Audit whether your pages clearly answer specific, searched-for questions.\n- Verify that schema is valid and attached to the right pages.\n- Review competition: others may have more content, reviews, or authority.\n\nRun a simple audit: list your core questions, where they’re answered, and how clearly. Test key queries in incognito or different devices to see who’s winning and why.\n\nAdjust your strategy based on those gaps, and remember that AI trust builds over months, not days.",
+        "description": "If AEO progress is slow, audit four things: NAP consistency, whether your content clearly answers real local questions, whether your schema is valid, and how strong your competitors’ reviews and content are. Fix gaps and allow time for answer engines to crawl and trust your updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

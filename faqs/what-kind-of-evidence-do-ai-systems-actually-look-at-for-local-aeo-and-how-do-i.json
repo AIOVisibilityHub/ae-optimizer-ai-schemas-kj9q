@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of “evidence” do AI systems actually look at for local AEO, and how do I build it?",
+  "description": "For local AEO, AI systems favor **consistent entity data and local proof**: matching NAP across profiles, real reviews and photos, local citations (chamber, par",
+  "url": "aeoptimizer.com/faq/what-kind-of-evidence-do-ai-systems-actually-look-at-for-local-aeo-and-how-do-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of “evidence” do AI systems actually look at for local AEO, and how do I build it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evidence for local AEO comes from **entity clarity and local proof**: consistent listings, verified profiles, real reviews, local mentions, and answer-ready content that AI tools can quote. These create a web of trust around your business.\n\nAI systems look for patterns, not single signals, so you need multiple, corroborating sources that match your business details and services.\n\n**Key factors** \n- Clean NAP across Google Business Profile, Bing Places, Apple, major directories. \n- A steady flow of genuine customer reviews and photos. \n- Local citations: chamber of commerce, community groups, local blogs, partner pages. \n- Short, well-structured answers on your site with relevant schema markup.\n\nPractically, build a simple “evidence checklist” and work it monthly: add one local partner mention, one helpful Q&A article, and a small batch of new reviews. Over time, this signal stack makes you more attractive to AI answer engines.\n\nTreat every credible local footprint as a piece of evidence in your favor, not just “another profile to fill out.”",
+        "description": "For local AEO, AI systems favor **consistent entity data and local proof**: matching NAP across profiles, real reviews and photos, local citations (chamber, partners, blogs), and short, quotable answers on your site. Build this evidence stack gradually and keep it updated."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

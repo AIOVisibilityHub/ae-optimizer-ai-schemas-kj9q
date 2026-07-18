@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does “share of voice in AI search” actually mean, in plain English?",
+  "description": "Share of voice in AI search is the percentage of relevant AI-generated answers that mention or recommend your brand, compared to competitors. It shows how visib",
+  "url": "aeoptimizer.com/faq/what-does-share-of-voice-in-ai-search-actually-mean-in-plain-english",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does “share of voice in AI search” actually mean, in plain English?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Share of voice in AI search is the percentage of relevant AI-generated answers in your category that mention, recommend, or cite your brand compared to competitors. It tells you how visible and influential you are inside tools like ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews.\n\nContext: Instead of tracking keyword rankings, AI share of voice looks at how often answer engines include your brand when real buyers ask category questions. It’s becoming a core visibility metric as more people get \"one-answer\" responses instead of ten blue links.\n\nKey factors:\n- Defined *prompt universe* (the questions your buyers actually ask)\n- Tracked AI engines (e.g., ChatGPT, Perplexity, Gemini, Claude, Google AI Overviews)\n- Competitor set and how many times each brand is mentioned\n- Time period and update cadence\n\nPractical guidance: Start by listing 30–100 buyer questions, run them across a few major AI engines, and count brand mentions for you and 3–5 competitors. Express your share as a percentage of all mentions.\n\nSoft positioning: Treat AI share of voice as a strategic visibility metric, not just a vanity score.",
+        "description": "Share of voice in AI search is the percentage of relevant AI-generated answers that mention or recommend your brand, compared to competitors. It shows how visible and influential you are inside tools like ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need new content, or can I optimize what I already have?",
+  "description": "You can usually optimize existing pages first. New content is only needed when your current pages do not answer the questions people are actually asking.",
+  "url": "aeoptimizer.com/faq/do-i-need-new-content-or-can-i-optimize-what-i-already-have",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need new content, or can I optimize what I already have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need enough content to answer the question directly and enough technical structure for search engines to understand it. FAQ pages, service pages, and local landing pages are often the easiest starting points because they already map to common voice queries.",
+        "description": "You can usually optimize existing pages first. New content is only needed when your current pages do not answer the questions people are actually asking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

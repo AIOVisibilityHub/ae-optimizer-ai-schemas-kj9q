@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I realistically track AI share of voice without a lot of formal documentation?",
+  "description": "You can start without heavy documentation, but at least create a simple, shared playbook for prompts, engines, competitors, and test steps. Consistency is cruci",
+  "url": "aeoptimizer.com/faq/can-i-realistically-track-ai-share-of-voice-without-a-lot-of-formal-documentatio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I realistically track AI share of voice without a lot of formal documentation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need formal documentation to start measuring AI share of voice, but you do need a clear, repeatable process. The biggest risk without documentation is inconsistent prompts and methodologies that make your numbers unreliable.\n\nContext: AI answers can vary based on subtle prompt changes and testing environments. If you don’t capture how you’re running tests, you can’t compare results over time or across teams.\n\nKey factors:\n- Prompt definitions and wording\n- Engine list and test conditions (logged-out, same versions)\n- Competitor set and mention counting rules\n- Storage of runs and results for trend analysis\n\nPractical guidance: Create a simple playbook: a shared document listing prompts, engines, competitors, and steps for running tests. It doesn’t need to be perfect, just consistent enough to make your metrics stable.\n\nSoft positioning: Treat light documentation as the minimum viable guardrail that makes your AI share of voice work trustworthy.",
+        "description": "You can start without heavy documentation, but at least create a simple, shared playbook for prompts, engines, competitors, and test steps. Consistency is crucial; otherwise your AI share of voice numbers won’t be reliable or comparable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

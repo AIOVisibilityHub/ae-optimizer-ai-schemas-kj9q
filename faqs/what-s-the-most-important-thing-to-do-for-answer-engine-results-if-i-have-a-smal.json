@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the most important thing to do for answer engine results if I have a small budget and can’t rebuild my whole site?",
+  "description": "With a small budget, focus on 10–20 key customer questions and build clean, FAQ-style pages that answer them directly in natural language. Add basic schema mark",
+  "url": "aeoptimizer.com/faq/what-s-the-most-important-thing-to-do-for-answer-engine-results-if-i-have-a-smal",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the most important thing to do for answer engine results if I have a small budget and can’t rebuild my whole site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a small business with a limited budget, the most important thing for answer engine results is to create a handful of highly targeted, question-led pages that directly match what your customers ask. You don’t need a huge content library; you need a few extremely clear, authoritative answers.\n\nAnswer engines reward focus and clarity more than volume. A small, well-structured FAQ that reflects real customer language can outperform larger sites that still write like brochures.\n\nKey factors:\n- Start with 10–20 core customer questions\n- Use simple FAQ formatting and natural language\n- Add basic schema markup (FAQPage, Organization)\n- Keep pages fast, clean, and mobile-first\n\nPractically, listen to your calls, emails, and chat logs, then turn those exact questions into pages or FAQ entries with direct answers. Revisit them quarterly to improve clarity and depth.\n\nOn a tight budget, investing in a compact, question-driven content hub is often the highest-impact path to answer engine visibility.",
+        "description": "With a small budget, focus on 10–20 key customer questions and build clean, FAQ-style pages that answer them directly in natural language. Add basic schema markup and keep pages fast and mobile-friendly. A compact, clear question hub is more valuable for answer engines than lots of generic content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

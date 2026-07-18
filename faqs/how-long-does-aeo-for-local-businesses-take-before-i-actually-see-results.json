@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does AEO for local businesses take before I actually see results?",
+  "description": "Basic AEO implementation (schema, FAQs, profiles, citations) usually takes 2–6 weeks, with visible results often appearing in 2–3 months. You’re building trust",
+  "url": "aeoptimizer.com/faq/how-long-does-aeo-for-local-businesses-take-before-i-actually-see-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does AEO for local businesses take before I actually see results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most local businesses, basic AEO setup takes 2–6 weeks, and noticeable results often show up within 2–3 months, depending on your starting point and competition.\n\nYou’re building trust signals, which answer engines need to see repeatedly before featuring you.\n\n**Key factors**\n- Time to clean and standardize business data and citations.\n- How quickly you can create high-quality, answer-first content.\n- Crawl and indexing cycles for Google and other platforms.\n- Local competition in your niche and city.\n\nPlan a short implementation sprint (schema, FAQs, profiles) in the first month, then allow another few weeks for search and AI systems to pick up changes. Track query impressions, AI overview presence, and local rankings so you see momentum instead of guessing.\n\nTreat AEO as an ongoing practice: you’ll usually see early wins in a few months and stronger, more stable visibility over 6–12 months.",
+        "description": "Basic AEO implementation (schema, FAQs, profiles, citations) usually takes 2–6 weeks, with visible results often appearing in 2–3 months. You’re building trust signals for answer engines, so improvements grow over time, especially over the first 6–12 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

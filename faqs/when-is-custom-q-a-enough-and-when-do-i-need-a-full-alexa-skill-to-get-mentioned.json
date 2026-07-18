@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is Custom Q&A enough, and when do I need a full Alexa skill to get mentioned the way I want?",
+  "description": "Use Custom Q&A when you only need Alexa to give fixed, scripted answers to a handful of questions. You need a full Alexa skill once you want dynamic data, perso",
+  "url": "aeoptimizer.com/faq/when-is-custom-q-a-enough-and-when-do-i-need-a-full-alexa-skill-to-get-mentioned",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is Custom Q&A enough, and when do I need a full Alexa skill to get mentioned the way I want?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get Alexa to mention you in response to specific questions (like FAQs), Custom Q&A via Blueprints is usually enough. If you need dynamic data, account linking, or complex flows, that’s when full Alexa Skills development becomes necessary.\n\nThink of Blueprints as static scripts and skills as interactive apps.\n\n**Key factors:**\n- Static answers vs. dynamic or personalized content\n- Number of different intents and edge cases\n- Need for integrations (CRMs, booking, databases)\n- Your comfort level with ongoing maintenance\n\nStart with Blueprints to see if simple scripted responses meet your needs. If you outgrow that, plan a properly scoped skill, ideally with analytics and logging so you can keep improving.\n\nHiring professional help makes sense once your Alexa presence becomes business-critical, not just experimental.",
+        "description": "Use Custom Q&A when you only need Alexa to give fixed, scripted answers to a handful of questions. You need a full Alexa skill once you want dynamic data, personalized responses, integrations, or lots of different intents that go beyond simple question→answer pairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

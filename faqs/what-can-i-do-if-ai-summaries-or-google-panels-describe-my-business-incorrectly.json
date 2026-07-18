@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can I do if AI summaries or Google panels describe my business incorrectly?",
+  "description": "You can’t directly edit AI answers, but you can fix their inputs. Update your website’s About and services pages, clean up organization schema and NAP, correct",
+  "url": "aeoptimizer.com/faq/what-can-i-do-if-ai-summaries-or-google-panels-describe-my-business-incorrectly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can I do if AI summaries or Google panels describe my business incorrectly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI tools or Google summaries mischaracterize your brand, you should correct the underlying signals and then monitor changes.\nYou can’t directly edit AI answers, but you can influence their inputs.\n\nContext: Misstatements often come from outdated content, ambiguous descriptions, or third-party sites with incorrect data.\nCleaning up the ecosystem helps realign how systems describe you.\n\nKey factors:\n- Accuracy of your website’s About and services pages\n- Consistency in organization schema and NAP\n- Data quality on major directories and profiles\n- Ability to claim and refine knowledge panels where available\n\nPractical guidance: Update your core pages with clear positioning and correct data, then fix key directories and your Google Business Profile.\nPeriodically re-check AI and SERP descriptions and keep iterating.\n\nSoft positioning: Treat mischaracterizations as a signal to strengthen your narrative and data, not as something you’re powerless to change.",
+        "description": "You can’t directly edit AI answers, but you can fix their inputs. Update your website’s About and services pages, clean up organization schema and NAP, correct major directories and your Google Business Profile, and claim any knowledge panels so future summaries reflect accurate data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

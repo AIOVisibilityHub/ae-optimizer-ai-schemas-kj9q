@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve been burned by SEO agencies before—how can I try AEO for my local business without wasting money again?",
+  "description": "Start AEO with a tight, transparent scope: optimize your Google Business Profile, fix NAP consistency, build one strong FAQ page, and add schema to a few key pa",
+  "url": "aeoptimizer.com/faq/i-ve-been-burned-by-seo-agencies-before-how-can-i-try-aeo-for-my-local-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve been burned by SEO agencies before—how can I try AEO for my local business without wasting money again?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you already tried “SEO” and got burned, start AEO small, transparent, and measurable: fix data consistency, build one great FAQ page, and track specific metrics, not vague promises.\n\nAEO should feel practical, not mystical.\n\n**Key factors**\n- Choose limited, high-impact actions (GBP, FAQs, schema on key pages).\n- Demand clear reporting on calls, bookings, and local query visibility.\n- Avoid tactics that focus solely on rankings without question intent.\n- Be wary of anyone promising instant AI dominance.\n\nSet realistic goals, like “more calls from ‘near me’ searches in 90 days,” and tie work directly to those outcomes. If you hire help, insist on seeing exactly which questions they’re optimizing and how.\n\nAEO done right rebuilds trust by connecting specific actions to specific results, not generic traffic charts.",
+        "description": "Start AEO with a tight, transparent scope: optimize your Google Business Profile, fix NAP consistency, build one strong FAQ page, and add schema to a few key pages. Track calls, bookings, and local question-based queries so you can clearly see whether AEO is paying off."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

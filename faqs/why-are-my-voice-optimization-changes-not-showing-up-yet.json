@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why are my voice optimization changes not showing up yet?",
+  "description": "It can take time for search engines to recrawl and re-evaluate the page. If the content is new or competitive, results often lag behind the edits.",
+  "url": "aeoptimizer.com/faq/why-are-my-voice-optimization-changes-not-showing-up-yet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why are my voice optimization changes not showing up yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small improvements can happen quickly if the page already has search visibility. New pages or heavily competitive topics usually take longer because they need time to earn trust, indexing, and query relevance.",
+        "description": "It can take time for search engines to recrawl and re-evaluate the page. If the content is new or competitive, results often lag behind the edits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

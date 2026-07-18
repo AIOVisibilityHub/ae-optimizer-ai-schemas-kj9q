@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does local AEO compare to local SEO—do I need both or can I just pick one?",
+  "description": "Local SEO gets you **visible** in traditional results and maps; local AEO helps AI tools understand and **select** you as the best local answer. They overlap bu",
+  "url": "aeoptimizer.com/faq/how-does-local-aeo-compare-to-local-seo-do-i-need-both-or-can-i-just-pick-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does local AEO compare to local SEO—do I need both or can I just pick one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local AEO expands traditional local SEO by focusing on **entities and answers**, while local SEO focuses mainly on rankings and map visibility. You need both: one makes you findable, the other makes you selectable in AI-driven experiences.\n\nLocal SEO without AEO can leave you invisible in AI overviews; AEO without local SEO may lack the basic signals search engines still rely on.\n\n**Key factors** \n- Local SEO: NAP, citations, reviews, keywords, on‑page optimization. \n- Local AEO: entity clarity, schema, answer-ready content, local proof. \n- Overlap: Google Business Profile, reviews, local content quality. \n- Different metrics: rankings vs. citations and answer placements.\n\nUse local SEO to make sure you’re in the local “shortlist,” then use AEO to help AI tools choose you as the best local answer to quote. Don’t treat them as competing strategies; they’re complementary layers.\n\nThink of local SEO as your map listing and local AEO as your voice in the answer box.",
+        "description": "Local SEO gets you **visible** in traditional results and maps; local AEO helps AI tools understand and **select** you as the best local answer. They overlap but aren’t interchangeable. Most businesses need a solid local SEO foundation plus AEO tactics layered on top."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

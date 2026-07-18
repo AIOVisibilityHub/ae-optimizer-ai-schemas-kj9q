@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m a small local business—what’s the very first thing I should do to start with AEO?",
+  "description": "Begin AEO by fully optimizing your Google Business Profile, fixing any name–address–phone inconsistencies, and publishing a clear FAQ page that answers real cus",
+  "url": "aeoptimizer.com/faq/i-m-a-small-local-business-what-s-the-very-first-thing-i-should-do-to-start-with",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m a small local business—what’s the very first thing I should do to start with AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start AEO by getting the basics right: clean business data, a fully built Google Business Profile, and at least one strong Q&A-style page or FAQ section on your site.\n\nYou don’t need to overhaul everything at once—start with one location or one core service.\n\n**Key factors**\n- Make your Google Business Profile complete: categories, services, hours, photos, and descriptions.\n- Fix NAP consistency across your website and major directories.\n- Create an FAQ page answering your top 15–30 customer questions.\n- Add LocalBusiness and FAQ schema to those pages.\n\nPractically, block out a weekend to clean your listings and draft FAQs, then have a developer or plugin handle the schema markup. Review performance monthly and expand Q&A content as you see what people are asking.\n\nThink of this as laying the foundation—once it’s in place, every new page and review strengthens your AEO footprint.",
+        "description": "Begin AEO by fully optimizing your Google Business Profile, fixing any name–address–phone inconsistencies, and publishing a clear FAQ page that answers real customer questions. Once that’s live, add LocalBusiness and FAQ schema so answer engines can reliably understand and surface your business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

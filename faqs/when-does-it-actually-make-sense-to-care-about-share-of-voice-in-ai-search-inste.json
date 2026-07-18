@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When does it actually make sense to care about share of voice in AI search instead of just SEO?",
+  "description": "You should prioritize AI share of voice once your buyers start using AI tools (ChatGPT, Perplexity, Gemini, Claude) to research your category. It reveals whethe",
+  "url": "aeoptimizer.com/faq/when-does-it-actually-make-sense-to-care-about-share-of-voice-in-ai-search-inste",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does it actually make sense to care about share of voice in AI search instead of just SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Share of voice in AI search is worth prioritizing when AI answers are influencing discovery and consideration in your category—which is already true in most B2B and consumer tech spaces. If your buyers are asking ChatGPT or Perplexity questions instead of just Google, AI SOV is critical.\n\nContext: Traditional SEO tells you how your URLs rank; AI SOV tells you whether you’re present in the single synthesized answers people increasingly trust. Falling behind here can quietly shrink your funnel.\n\nKey factors:\n- Buyer behavior: Are customers using AI tools during research?\n- Category maturity: Are competitors already appearing in AI answers?\n- Revenue impact: Are high-intent prompts AI-heavy (e.g., \"best\", \"vs\", \"alternatives\")?\n- Brand strategy: Need to defend or grow share in crowded markets\n\nPractical guidance: Interview recent buyers about their research process and run a sample of your key prompts in AI tools. If you rarely appear, it’s time to bake AI SOV into your core marketing metrics.\n\nSoft positioning: Treat AI share of voice as an early-warning system for your future visibility.",
+        "description": "You should prioritize AI share of voice once your buyers start using AI tools (ChatGPT, Perplexity, Gemini, Claude) to research your category. It reveals whether you appear in the single synthesized answers they see, which traditional SEO alone cannot show."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

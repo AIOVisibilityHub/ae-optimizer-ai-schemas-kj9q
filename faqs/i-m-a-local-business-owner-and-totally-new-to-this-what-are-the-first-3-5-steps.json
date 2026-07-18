@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m a local business owner and totally new to this—what are the first 3–5 steps I should take to optimize for voice search?",
+  "description": "Start by claiming and fully optimizing your Google Business Profile, making your name/address/phone identical on all listings, and adding a clear FAQ section wi",
+  "url": "aeoptimizer.com/faq/i-m-a-local-business-owner-and-totally-new-to-this-what-are-the-first-3-5-steps",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m a local business owner and totally new to this—what are the first 3–5 steps I should take to optimize for voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by fixing your local listings (Google Business Profile, Apple Maps, Yelp) and creating a simple FAQ section that answers the exact questions people say into their phones. Then improve your site’s speed and mobile experience, and add basic schema markup so assistants can parse your info.\n\nYou don’t need advanced tools at first—just focus on the few things that move the needle most for voice queries. Most local businesses can meaningfully improve voice visibility in a few focused weeks.\n\nKey factors:\n- Claim and fully complete your Google Business Profile\n- Ensure name, address, phone, hours are identical everywhere\n- Write 10–20 common Q&As in natural language (“How late are you open?”)\n- Test site speed and mobile usability with free tools and fix obvious issues\n\nBlock off a weekend to clean up your listings, then another to build or improve your FAQ pages with short, direct answers. Revisit monthly to add new questions you’re hearing from customers.\n\nIf you’re overwhelmed, hire help for the technical setup and keep the ongoing FAQ content in‑house since you know your customers best.",
+        "description": "Start by claiming and fully optimizing your Google Business Profile, making your name/address/phone identical on all listings, and adding a clear FAQ section with conversational Q&As. Then improve site speed and mobile usability and add simple schema markup so voice assistants can read your info."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

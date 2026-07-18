@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’re a niche brand in places like Denver and Salt Lake City—can we realistically build brand authority in AI search against bigger competitors?",
+  "description": "Yes. Niche brands can win by clearly owning a specific problem and audience. Define a sharp ICP, publish proof‑rich niche content and case studies, earn reviews",
+  "url": "aeoptimizer.com/faq/we-re-a-niche-brand-in-places-like-denver-and-salt-lake-city-can-we-realisticall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’re a niche brand in places like Denver and Salt Lake City—can we realistically build brand authority in AI search against bigger competitors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need to be the biggest player to rank as a **trusted niche authority** in AI search. In cities like Boulder or Salt Lake City, focused expertise often beats broad generalists.\n\nAI tools look for brands that are clearly the right fit for specific problems, not just the largest by revenue. Niche clarity is an advantage if you document it well.\n\nKey factors:\n- Sharply defined ICP (industry, size, role, use case)\n- Content and case studies that speak directly to that niche\n- Mentions and reviews from the specific ecosystem you serve\n- Consistent messaging that reinforces your niche position everywhere\n\nLean into being specific: build a small but deep library of niche resources, show real outcomes, and ensure your profiles and schema emphasize that focus. Test prompts that match your niche rather than broad “best in city” queries.\n\nSoft positioning: Niche brands can earn outsized AI authority when they commit to owning a well‑defined category instead of chasing every possible keyword.",
+        "description": "Yes. Niche brands can win by clearly owning a specific problem and audience. Define a sharp ICP, publish proof‑rich niche content and case studies, earn reviews and mentions in your ecosystem, and keep messaging consistent so AI tools see you as the best fit for targeted prompts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

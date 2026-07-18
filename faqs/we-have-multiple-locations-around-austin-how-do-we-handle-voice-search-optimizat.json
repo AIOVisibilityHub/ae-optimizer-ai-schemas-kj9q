@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We have multiple locations around Austin—how do we handle voice search optimization so each one shows up correctly?",
+  "description": "Create a separate, fully optimized Google Business Profile and unique location page for each Austin branch, with precise NAP, nearby streets, and landmarks. Kee",
+  "url": "aeoptimizer.com/faq/we-have-multiple-locations-around-austin-how-do-we-handle-voice-search-optimizat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We have multiple locations around Austin—how do we handle voice search optimization so each one shows up correctly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For multi‑location businesses in Austin, create a separate, fully optimized Google Business Profile and location page for each branch, and treat them as distinct entities for voice search. Assistants tend to answer based on proximity, so each location needs clear, accurate data.\n\nYour site should reinforce these distinctions with unique FAQs and content per location, not a single generic “We serve Austin” page. That helps with queries like “best Answer Engine Optimization (AEO) software near South Congress” vs. “near The Domain.”\n\nKey factors:\n- Individual profiles for each Austin location with precise addresses\n- Location‑specific pages mentioning nearby streets and landmarks\n- Consistent NAP for each branch across all directories\n- Reviews tied to the correct location, not mixed together\n\nMap out your customers’ neighborhoods and build content around those, especially for areas like South Congress, East Austin, or The Domain. Include parking, transit, and busy‑hour FAQs per location.\n\nIf it’s hard to manage, consider a simple system or tool to keep all locations’ data synced, as incorrect information can confuse voice assistants.",
+        "description": "Create a separate, fully optimized Google Business Profile and unique location page for each Austin branch, with precise NAP, nearby streets, and landmarks. Keep data consistent across directories and build location‑specific FAQs so voice assistants can match each “near me” query to the right location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

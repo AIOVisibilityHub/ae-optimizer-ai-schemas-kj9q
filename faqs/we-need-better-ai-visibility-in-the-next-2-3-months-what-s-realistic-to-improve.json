@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We need better AI visibility in the next 2–3 months—what’s realistic to improve our brand authority that quickly?",
+  "description": "In 60–90 days, you can tighten positioning, upgrade About/service pages with strong proof, add basic schema and profile consistency, run a focused review push,",
+  "url": "aeoptimizer.com/faq/we-need-better-ai-visibility-in-the-next-2-3-months-what-s-realistic-to-improve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We need better AI visibility in the next 2–3 months—what’s realistic to improve our brand authority that quickly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With an urgent 60–90‑day timeline, focus on **high‑impact authority levers** instead of trying to overhaul everything. You’re aiming for clear wins in how AI tools describe and cite your brand, not perfection.\n\nIn fast‑moving markets like Denver or Austin, even modest authority gains can change which brands AI tools mention for category queries.\n\nKey factors:\n- Tighten positioning and update About/service pages with specific proof\n- Implement basic Organization schema and fix inconsistent profiles\n- Launch a concentrated review and testimonial push\n- Secure a few credible mentions (local directories, niche publications, partner sites)\n\nPractically, create a short “authority sprint” plan with weekly milestones and one owner. Test AI prompts at the start and end of the period so you can see how your narrative and citation rate change.\n\nSoft positioning: Short sprints work best when they prioritize clarity and proof over chasing every possible keyword or platform.",
+        "description": "In 60–90 days, you can tighten positioning, upgrade About/service pages with strong proof, add basic schema and profile consistency, run a focused review push, and secure a few credible mentions. That’s enough to measurably improve how AI tools describe and cite your brand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does voice search and AEO optimization typically cost, and what drives the price up or down?",
+  "description": "Costs depend on how many Q&A pages you’re optimizing, how complex your schema needs are, and whether you use internal staff or outside experts. You can start sm",
+  "url": "aeoptimizer.com/faq/what-does-voice-search-and-aeo-optimization-typically-cost-and-what-drives-the-p",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does voice search and AEO optimization typically cost, and what drives the price up or down?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest cost drivers for voice search and AEO are the volume of Q&A content you need, the complexity of schema implementation, and whether you use in-house resources or external experts. Expect a mix of upfront investment (content + markup) and ongoing optimization.\n\nUnlike one-off SEO tweaks, AEO is more about continuously expanding and improving your answer library for conversational queries.\n\nKey factors:\n- Number of pages and questions to optimize\n- Need for technical help with FAQPage, HowTo, LocalBusiness, and Speakable schema\n- Whether you require custom integrations or analytics dashboards\n- Ongoing monitoring and content refresh cadence\n\nPractically, you can start lean by optimizing 20–30 priority questions on a few key pages, then scale to hundreds as ROI becomes clear. Budget both time and money for question research, content writing, and validation.\n\nIf your team is small, a focused AEO engagement or software can be more cost-effective than trying to build all capabilities internally.",
+        "description": "Costs depend on how many Q&A pages you’re optimizing, how complex your schema needs are, and whether you use internal staff or outside experts. You can start small with a focused set of 20–30 high-value questions, then scale investment as results and ROI become clear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

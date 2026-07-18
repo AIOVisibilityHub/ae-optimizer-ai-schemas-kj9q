@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why doesn’t my brand show up in any AI answers, and what does that say about my authority?",
+  "description": "If AI tools never mention you, it usually means your authority signals are too weak or unclear, not that your product is bad. Fix vague positioning, add proof‑r",
+  "url": "aeoptimizer.com/faq/why-doesn-t-my-brand-show-up-in-any-ai-answers-and-what-does-that-say-about-my-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why doesn’t my brand show up in any AI answers, and what does that say about my authority?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI tools never mention your brand, you likely have a **clarity and proof gap**, not just a content gap. They don’t see enough trustworthy, structured evidence to feel confident recommending you.\n\nThis is common even for solid businesses: your story may be clear in your head but fuzzy, fragmented, or under‑documented on the web. AI systems can’t rely on what they can’t verify.\n\nKey factors:\n- Vague or inconsistent descriptions of services and target customers\n- Thin or generic content with few real examples, data, or outcomes\n- Weak or scattered entity data (no schema, inconsistent names, no knowledge panel)\n- Limited reviews, press, or directory listings in your category\n\nStart by tightening your positioning and rewriting key pages to be specific, example‑rich, and verifiable. Add structured data, unify your brand name and profiles, and prioritize earning a baseline of reviews and credible mentions before chasing more content.\n\nSoft positioning: Treat “no AI mentions” as a diagnostic signal that your authority foundation needs work, not a verdict on your product’s quality.",
+        "description": "If AI tools never mention you, it usually means your authority signals are too weak or unclear, not that your product is bad. Fix vague positioning, add proof‑rich content and structured data, unify your profiles, and earn reviews and mentions so models have something trustworthy to cite."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

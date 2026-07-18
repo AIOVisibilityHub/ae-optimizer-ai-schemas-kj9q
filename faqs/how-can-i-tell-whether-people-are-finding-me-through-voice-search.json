@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell whether people are finding me through voice search?",
+  "description": "Track question-based impressions, local visibility, and conversions from pages built for conversational queries. Direct voice attribution is limited, so you nee",
+  "url": "aeoptimizer.com/faq/how-can-i-tell-whether-people-are-finding-me-through-voice-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell whether people are finding me through voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best evidence is a combination of Search Console query data, local ranking changes, and engagement on pages rewritten for conversational intent. If you see more impressions on question phrases and more assisted conversions, the work is helping.",
+        "description": "Track question-based impressions, local visibility, and conversions from pages built for conversational queries. Direct voice attribution is limited, so you need multiple signals together."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

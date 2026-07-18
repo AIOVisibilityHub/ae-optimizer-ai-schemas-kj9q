@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I adjust my AEO strategy if my local business is in San Diego with lots of tourists and distinct neighborhoods?",
+  "description": "In San Diego, tailor AEO around clear service areas, neighborhood-focused pages, and seasonal FAQs. Use schema to specify locations, hours, and services so answ",
+  "url": "aeoptimizer.com/faq/how-should-i-adjust-my-aeo-strategy-if-my-local-business-is-in-san-diego-with-lo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I adjust my AEO strategy if my local business is in San Diego with lots of tourists and distinct neighborhoods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego, prioritize AEO tactics that clarify your service areas (coastal vs. inland), tourist vs. local intent, and seasonal demand.\n\nAnswer engines need to know *where* you’re relevant and *who* you serve.\n\n**Key factors**\n- Distinct neighborhoods (Pacific Beach, La Jolla, North Park, Chula Vista).\n- Seasonal spikes for tourism, events, and outdoor services.\n- Cross-border and military-related searches in some niches.\n- Strong use of map results for “near beach” or “near downtown” queries.\n\nCreate location-specific pages and FAQs explaining coverage, parking, proximity to landmarks, and busy seasons. Add LocalBusiness and Service schema with clear geo and hours so AI can match you to “open now near [area]” queries.\n\nSan Diego businesses that explain context clearly tend to win more AI-driven tourists and locals who ask very specific place-based questions.",
+        "description": "In San Diego, tailor AEO around clear service areas, neighborhood-focused pages, and seasonal FAQs. Use schema to specify locations, hours, and services so answer engines can match you to “near the beach,” “near downtown,” and tourist-heavy queries accurately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

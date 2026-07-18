@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my voice search optimization is actually working if I can’t see “voice” data directly?",
+  "description": "You infer voice search performance by watching question‑style and “near me” queries in Search Console, monitoring calls and directions from your Google Business",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-voice-search-optimization-is-actually-working-if-i-can-t-see",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my voice search optimization is actually working if I can’t see “voice” data directly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can measure voice search effectiveness indirectly by tracking more question‑style and “near me” queries in Search Console, increases in calls and direction requests from your Google profile, and changes in local rankings for conversational phrases. There’s no perfect “voice only” report, but these patterns are strong signals.\n\nLook for longer, natural‑language queries that start with “who,” “what,” “where,” “when,” or “how”—these often reflect voice behavior.\n\nKey factors:\n- Search Console query data for question and location phrases\n- Google Business Profile insights (calls, directions, website clicks)\n- Changes in local pack positions for conversational terms\n- Review volume and quality trends\n\nSet baseline metrics before you optimize, then compare after 2–3 months. Tag key phone numbers and track call volume where possible.\n\nIf you need more detailed analysis, an SEO partner can help interpret patterns and separate voice‑like behavior from traditional search.",
+        "description": "You infer voice search performance by watching question‑style and “near me” queries in Search Console, monitoring calls and directions from your Google Business Profile, and tracking local rankings for conversational phrases. Rising metrics in these areas usually indicate your voice optimization is working."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

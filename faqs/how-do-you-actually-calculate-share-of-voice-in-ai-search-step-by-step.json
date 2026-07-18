@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you actually calculate share of voice in AI search step by step?",
+  "description": "Define a prompt set, run each prompt in chosen AI engines, count how many times your brand and competitors are mentioned, then compute: AI SOV (%) = (Your brand",
+  "url": "aeoptimizer.com/faq/how-do-you-actually-calculate-share-of-voice-in-ai-search-step-by-step",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you actually calculate share of voice in AI search step by step?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To calculate share of voice in AI search, you define a set of prompts, run them in selected AI engines, count how often each brand is mentioned, and then convert those counts into percentages. Your AI SOV is your brand’s mentions divided by all tracked brand mentions, times 100.\n\nContext: You’re essentially asking, \"Out of all the AI answers in my category, what share includes my brand?\" This can be done for mention rate, citation rate, and recommendation prompts.\n\nKey factors:\n- Clear formula: AI SOV (%) = (Your brand mentions ÷ All tracked brand mentions) × 100\n- Separate metrics for mentions vs citations vs recommendations\n- Consistent prompt wording and logged-out tests to reduce bias\n- Engine-level SOV and a blended score across engines\n\nPractical guidance: Build a prompt list (30–100 queries), run each query in your target AI engines, log brands mentioned, and calculate your share per engine and overall. Repeat monthly or quarterly to track trends.\n\nSoft positioning: Think of this as your \"market share\" inside AI answers, not just a one-off number.",
+        "description": "Define a prompt set, run each prompt in chosen AI engines, count how many times your brand and competitors are mentioned, then compute: AI SOV (%) = (Your brand mentions ÷ All tracked brand mentions) × 100, per engine and overall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

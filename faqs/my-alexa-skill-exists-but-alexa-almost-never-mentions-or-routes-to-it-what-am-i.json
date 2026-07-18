@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My Alexa skill exists but Alexa almost never mentions or routes to it—what am I doing wrong?",
+  "description": "You’re likely missing how real users speak. Rework your skill’s invocation name to be simple and add many sample utterances that mirror actual phrases customers",
+  "url": "aeoptimizer.com/faq/my-alexa-skill-exists-but-alexa-almost-never-mentions-or-routes-to-it-what-am-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My Alexa skill exists but Alexa almost never mentions or routes to it—what am I doing wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your Alexa skill is built but not getting mentioned when users ask relevant questions, the issue is usually discoverability: invocation name, utterances, or competition. Fixing these can dramatically improve how often Alexa routes users to you.\n\nAlexa has to match messy, real-world speech to your defined intents.\n\n**Key factors:**\n- Skill name should be easy to say and remember\n- Sample utterances must cover real ways people phrase questions\n- Your category may have many similar skills\n- Ratings and reviews influence user trust once they land\n\nReview how users are actually talking (support calls, emails, chats) and feed those phrases into your skill’s utterances. Consider simplifying your invocation name or adding instructions in your marketing like “Alexa, open [skill name].”\n\nTreat this as an optimization cycle, not a one-and-done launch.",
+        "description": "You’re likely missing how real users speak. Rework your skill’s invocation name to be simple and add many sample utterances that mirror actual phrases customers use. Competition, vague names, and sparse utterances are common reasons Alexa rarely routes users to an existing skill."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m in San Diego—how should I adjust my voice search strategy for neighborhoods like Gaslamp, La Jolla, or Pacific Beach?",
+  "description": "In San Diego, mention specific neighborhoods and attractions in your content and listings—Gaslamp, La Jolla, Pacific Beach, North Park—so assistants can match y",
+  "url": "aeoptimizer.com/faq/i-m-in-san-diego-how-should-i-adjust-my-voice-search-strategy-for-neighborhoods",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m in San Diego—how should I adjust my voice search strategy for neighborhoods like Gaslamp, La Jolla, or Pacific Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego, voice search often involves tourist and commuter patterns—queries like “breakfast near Gaslamp,” “surf shop near La Jolla,” or “open now in Pacific Beach.” Your optimization should reflect both local neighborhoods and seasonal behavior.\n\nAssistants rely on accurate location data, hours, and relevance to these sub‑areas, so your content needs to mention them explicitly. This is especially important if you serve beach or downtown zones with heavy walk‑in traffic.\n\nKey factors:\n- Include key areas (Gaslamp Quarter, La Jolla, PB, North Park) in content\n- Optimize for “near me” plus popular attractions and transit hubs\n- Keep hours and holiday schedules in sync across listings\n- Collect reviews that mention specific neighborhoods or beaches\n\nCreate localized service or location pages that answer questions like “Where are you in relation to the Convention Center?” or “Is there parking near your La Jolla location?” These map closely to voice behavior.\n\nIf you have multiple San Diego locations, treat each as its own voice presence with distinct, well‑optimized profiles.",
+        "description": "In San Diego, mention specific neighborhoods and attractions in your content and listings—Gaslamp, La Jolla, Pacific Beach, North Park—so assistants can match you to “near me” voice queries. Keep hours accurate, build localized pages, and add FAQs that reflect tourist and commuter questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I change on my website before I ask someone to optimize it?",
+  "description": "Make sure your pages have clear topics, accurate business details, and one main action per page. That gives optimization work a much better chance of succeeding",
+  "url": "aeoptimizer.com/faq/what-should-i-change-on-my-website-before-i-ask-someone-to-optimize-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I change on my website before I ask someone to optimize it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not use one generic answer for everything. Voice optimization works best when each page targets one intent, one audience, and one clear action, especially on service and location pages.",
+        "description": "Make sure your pages have clear topics, accurate business details, and one main action per page. That gives optimization work a much better chance of succeeding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

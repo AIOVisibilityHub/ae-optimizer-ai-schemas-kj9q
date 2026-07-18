@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is voice assistant optimization really worth it for a small business?",
+  "description": "Yes, if your customers ask questions or search locally. It is especially useful for service businesses, appointment-based businesses, and mobile-first audiences",
+  "url": "aeoptimizer.com/faq/is-voice-assistant-optimization-really-worth-it-for-a-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is voice assistant optimization really worth it for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A common objection is that voice search is too small to matter, but many voice queries overlap with mobile and local intent. If your audience asks questions, searches near me, or wants fast answers, voice optimization can still support visibility and conversions.",
+        "description": "Yes, if your customers ask questions or search locally. It is especially useful for service businesses, appointment-based businesses, and mobile-first audiences."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

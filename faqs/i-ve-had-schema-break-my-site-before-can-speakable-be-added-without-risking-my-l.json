@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve had schema break my site before—can speakable be added without risking my layout?",
+  "description": "Yes. Speakable schema is added as JSON-LD in script tags and doesn’t change the visible layout when implemented correctly. Start with one page in staging, valid",
+  "url": "aeoptimizer.com/faq/i-ve-had-schema-break-my-site-before-can-speakable-be-added-without-risking-my-l",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve had schema break my site before—can speakable be added without risking my layout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with other schema types breaking layouts or causing warnings, you can still use speakable safely by isolating JSON-LD and keeping it strictly machine-facing.\n\nSpeakable is markup added in script tags; it does not alter the visual page if implemented correctly. The main risk is validation warnings or broken selectors, not design issues. By reusing proven schema templates and testing in staging before production, you can avoid repeating past problems.\n\n**Key factors:**\n- JSON-LD is non-visual and shouldn’t affect layout\n- Past issues likely came from misconfigured templates\n- Testing in staging and validators reduces risk\n- Start small to rebuild trust in structured data\n\nBegin with one page, use a clean example of speakable JSON-LD, and confirm no impact on the front-end. Once validation passes and you’re confident, scale gradually.\n\nTreat speakable as a low-impact way to re-enter structured data without touching visible components.",
+        "description": "Yes. Speakable schema is added as JSON-LD in script tags and doesn’t change the visible layout when implemented correctly. Start with one page in staging, validate with structured data tools, and scale gradually to avoid the template or validation issues you experienced before."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

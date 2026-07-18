@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can we realistically handle brand authority for AI search in‑house, or should we hire a specialist agency or consultant?",
+  "description": "Handle the basics in‑house: clarify positioning, upgrade core pages, and systematize reviews. Consider specialists when you need help with authority architectur",
+  "url": "aeoptimizer.com/faq/can-we-realistically-handle-brand-authority-for-ai-search-in-house-or-should-we",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can we realistically handle brand authority for AI search in‑house, or should we hire a specialist agency or consultant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DIY can work up to a point, especially for clarifying your positioning and upgrading your core pages. But you should consider **outside help when you hit data, PR, or architecture constraints** that your team isn’t equipped to solve.\n\nIn complex markets like Los Angeles or New York, competition and fragmented signals often require more specialized authority work than a small team can manage solo.\n\nKey factors:\n- Whether you have internal expertise in positioning and entity/structure\n- Your capacity to manage reviews, PR, and profile consistency over time\n- Need for technical support (schema, analytics, AI citation tracking)\n- Ambition level: local niche vs multi‑city category leader\n\nStart DIY on the basics—authority audit, key page rewrites, review systems—then bring in help for architecture and amplification once the foundation is clear.\n\nSoft positioning: The most effective mix is usually a clear in‑house strategy supported by targeted specialist help, not full outsourcing of your brand narrative.",
+        "description": "Handle the basics in‑house: clarify positioning, upgrade core pages, and systematize reviews. Consider specialists when you need help with authority architecture, structured data, PR/mentions, or multi‑city complexity. Keep strategy internal and use experts for targeted amplification."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

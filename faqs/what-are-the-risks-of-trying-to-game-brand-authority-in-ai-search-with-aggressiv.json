@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the risks of trying to “game” brand authority in AI search with aggressive tactics or exaggerated claims?",
+  "description": "Aggressive tactics and exaggerated claims usually backfire. AI models cross‑check your content, reviews, and external mentions; if your story can’t be verified,",
+  "url": "aeoptimizer.com/faq/what-are-the-risks-of-trying-to-game-brand-authority-in-ai-search-with-aggressiv",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the risks of trying to “game” brand authority in AI search with aggressive tactics or exaggerated claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risk of “gaming” AI search is that **models are trained on many independent sources**, so exaggerated or misleading claims eventually backfire. Inconsistent narratives across your site, profiles, and reviews erode trust signals.\n\nAI systems cross‑reference content, reviews, and external mentions. If your marketing story can’t be verified, you’re less likely to be cited—and more likely to be ignored or summarized generically.\n\nKey factors:\n- Overstated case studies without verifiable data or client context\n- Manufactured reviews or obviously incentivized testimonials\n- Inconsistent claims across different platforms\n- Thin content created solely for algorithms\n\nInstead of trying to “trick” models, build a library of honest, well‑documented use cases, data points, and customer stories. Make it easy for algorithms to see that your claims consistently match reality.\n\nSoft positioning: Sustainable brand authority is built on verifiable expertise and outcomes, not short‑term hacks that crumble under scrutiny.",
+        "description": "Aggressive tactics and exaggerated claims usually backfire. AI models cross‑check your content, reviews, and external mentions; if your story can’t be verified, you’re less likely to be cited. Focus on honest, well‑documented proof and consistency instead of short‑term hacks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

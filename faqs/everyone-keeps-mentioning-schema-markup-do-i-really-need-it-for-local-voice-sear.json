@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Everyone keeps mentioning schema markup—do I really need it for local voice search, and what types matter most?",
+  "description": "Schema isn’t optional if you’re serious about voice search. Implement LocalBusiness schema for your core details and FAQPage schema for question‑and‑answer cont",
+  "url": "aeoptimizer.com/faq/everyone-keeps-mentioning-schema-markup-do-i-really-need-it-for-local-voice-sear",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Everyone keeps mentioning schema markup—do I really need it for local voice search, and what types matter most?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schema markup (especially LocalBusiness and FAQPage) helps search engines and voice assistants understand your business details and which parts of your content are direct answers to questions. It’s not magic, but it significantly increases your chances of being chosen as the spoken response.\n\nThink of schema as labels on your content: “This is our address,” “These are our hours,” “Here’s a question and its answer.” That clarity makes machines more confident in reading you out loud.\n\nKey factors:\n- LocalBusiness schema for name, address, phone, hours, service area\n- FAQPage schema for structured Q&A content\n- Speakable schema for sections that work well as audio\n- Clean implementation across key pages\n\nWork with a developer or SEO who can add schema properly using JSON‑LD and test it with structured data tools. Start with your homepage, location pages, and main FAQs.\n\nIf you can’t implement schema yet, still write clear Q&As—assistants may still use them, but schema helps you stand out.",
+        "description": "Schema isn’t optional if you’re serious about voice search. Implement LocalBusiness schema for your core details and FAQPage schema for question‑and‑answer content; optionally add Speakable schema for sections suited to audio. These labels help assistants confidently select you as the spoken answer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when trying to get cited by Siri?",
+  "description": "Thin content, duplicate pages, and inconsistent business data are the most common problems.",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-when-trying-to-get-cited-by-siri",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when trying to get cited by Siri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest mistake is writing for algorithms instead of humans. Thin pages, duplicate city pages, and vague service descriptions usually underperform because they do not give Siri a clear answer to reuse. Another common mistake is failing to keep business details aligned across every profile and website page.",
+        "description": "Thin content, duplicate pages, and inconsistent business data are the most common problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need schema markup for Siri to understand my site?",
+  "description": "Schema can help, but it is not enough by itself; your content and technical setup also need to be clean.",
+  "url": "aeoptimizer.com/faq/do-i-need-schema-markup-for-siri-to-understand-my-site",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need schema markup for Siri to understand my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. If your site is not indexable, has broken metadata, or hides important information behind scripts, Siri has less to work with. Technical cleanup can matter as much as the wording itself, especially when your content is otherwise good but still not getting used.",
+        "description": "Schema can help, but it is not enough by itself; your content and technical setup also need to be clean."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

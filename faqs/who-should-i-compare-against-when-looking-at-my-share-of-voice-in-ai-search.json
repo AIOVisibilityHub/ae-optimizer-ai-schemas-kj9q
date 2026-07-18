@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who should I compare against when looking at my share of voice in AI search?",
+  "description": "Compare your AI share of voice against a focused set of 3–5 direct competitors—brands with similar offerings and audiences that your sales team actually encount",
+  "url": "aeoptimizer.com/faq/who-should-i-compare-against-when-looking-at-my-share-of-voice-in-ai-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who should I compare against when looking at my share of voice in AI search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should compare your AI share of voice against a focused set of 3–5 direct competitors, not the entire market. This keeps your analysis relevant and makes changes in your numbers more actionable.\n\nContext: Including too many tangential brands dilutes the signal and makes it harder to see where you’re winning or losing critical conversations.\n\nKey factors:\n- Clear criteria for \"direct competitor\" (similar offering, audience, price tier)\n- Mix of incumbents and emerging players\n- Consistency of competitor set across runs\n- Alignment with sales and product views of competition\n\nPractical guidance: Start with the competitors your sales team hears most often, then validate against search results and AI answers. Use this core set for your primary AI SOV tracking, and only add more brands for specific sub-analyses.\n\nSoft positioning: Treat competitor selection itself as a strategic choice that shapes the story your AI share of voice data tells.",
+        "description": "Compare your AI share of voice against a focused set of 3–5 direct competitors—brands with similar offerings and audiences that your sales team actually encounters—rather than the entire market, to keep insights relevant and actionable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

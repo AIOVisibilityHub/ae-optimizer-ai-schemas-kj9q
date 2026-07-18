@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get Alexa to mention my name or brand when people talk to her?",
+  "description": "You can’t make Alexa globally “feature” your name or brand, but you can create custom questions and answers that make Alexa say it. Use the Alexa app’s Blueprin",
+  "url": "aeoptimizer.com/faq/how-do-i-get-alexa-to-mention-my-name-or-brand-when-people-talk-to-her",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get Alexa to mention my name or brand when people talk to her?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can’t force Alexa to “mention” you like a social network shoutout, but you *can* get Alexa to say your name or brand via Custom Q&A, routines, or skills. The most accessible path is using Amazon’s Blueprint “My Questions” to create custom questions and answers.\n\nAlexa is designed to answer user queries, not promote individuals, but Amazon does let you define what Alexa will say in specific situations. Custom Q&A, routines, and custom skills are the main tools ordinary users and brands can use.\n\n**Key factors:**\n- Whether you just want Alexa to say a phrase vs. answer real questions\n- Your comfort level with using Blueprints or developer tools\n- Whether you need this across one device or many\n- How often you expect people to trigger it\n\nOpen the Alexa app, go to Blueprints, select Custom Q&A / “My Questions,” and create questions where the answer includes your name or brand. For more advanced control, learn basic Alexa Skills or work with a developer. Think of this as customizing responses, not getting “featured” globally.\n\nIf you need this to support a broader brand or content strategy, consider it one small piece of a larger voice presence plan.",
+        "description": "You can’t make Alexa globally “feature” your name or brand, but you can create custom questions and answers that make Alexa say it. Use the Alexa app’s Blueprints > Custom Q&A (“My Questions”) to define questions where the answer includes your name or brand, or build a custom skill if you need more control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

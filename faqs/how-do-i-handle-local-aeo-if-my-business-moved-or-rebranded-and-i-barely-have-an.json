@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I handle local AEO if my business moved or rebranded and I barely have any clean documentation left?",
+  "description": "Focus local AEO on **current reality**: make your website the source of truth, then update Google, Bing, Apple, and major listings to match. Use fresh reviews a",
+  "url": "aeoptimizer.com/faq/how-do-i-handle-local-aeo-if-my-business-moved-or-rebranded-and-i-barely-have-an",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I handle local AEO if my business moved or rebranded and I barely have any clean documentation left?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With limited or no historical documentation, start by **rebuilding your local footprint from present reality**: current address, phone, services, and team. AI tools care more about consistent current data than a perfect history.\n\nYou may need to reclaim or correct old listings to prevent confusion.\n\n**Key factors** \n- Create or update a canonical source of truth on your website first. \n- Claim and fix Google/Bing/Apple profiles with the new data. \n- Use fresh reviews and local content to reinforce the updated entity. \n- Gradually clean up outdated citations, redirecting where possible.\n\nDocument your changes in a simple spreadsheet so you stay consistent as you update platforms. Communicate clearly in any “About” sections if you’ve moved or rebranded, but don’t overcomplicate the story.\n\nFor local AEO, today’s clarity matters more than yesterday’s chaos, as long as you stop the contradictions.",
+        "description": "Focus local AEO on **current reality**: make your website the source of truth, then update Google, Bing, Apple, and major listings to match. Use fresh reviews and local content to reinforce the new entity and gradually clean up old citations to reduce confusion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

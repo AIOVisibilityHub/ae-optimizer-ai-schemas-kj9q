@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which pages on my site should I prioritize for speakable schema?",
+  "description": "Prioritize pages that can be summarized in 2–3 sentences and already attract informational or news-style traffic—think explainers, how‑tos, and articles people",
+  "url": "aeoptimizer.com/faq/which-pages-on-my-site-should-i-prioritize-for-speakable-schema",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which pages on my site should I prioritize for speakable schema?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Speakable schema is most effective on pages where a short spoken summary or answer matches how users actually search, like news articles, explainers, and evergreen guides.\n\nYou want content where a two- or three-sentence snippet captures the main point and can safely be read aloud without extra context. Pages with unclear intent or long, nuanced arguments are poor candidates. Start with your top informational URLs and any content that already surfaces via Google News or voice queries.\n\n**Key factors:**\n- Clear topic and question-focused content\n- Existing search or news traffic\n- A concise on-page summary near the top\n- Stable layout where selectors won’t change often\n\nIn practice, audit your analytics to find pages already answering “what,” “how,” or “why” questions, then add speakable snippets to those first. Over time, expand to other content types if you see engagement from voice assistants.\n\nPrioritizing pages this way avoids wasting effort on low-impact or ambiguous content.",
+        "description": "Prioritize pages that can be summarized in 2–3 sentences and already attract informational or news-style traffic—think explainers, how‑tos, and articles people might ask about via voice. Avoid complex or ambiguous pages where no single snippet cleanly answers a user’s question."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

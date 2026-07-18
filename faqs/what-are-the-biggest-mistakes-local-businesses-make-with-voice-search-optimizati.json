@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the biggest mistakes local businesses make with voice search optimization that quietly kill their results?",
+  "description": "Major voice search mistakes include inconsistent name/address/phone, incomplete Google Business profiles, vague or promotional FAQs that don’t answer real quest",
+  "url": "aeoptimizer.com/faq/what-are-the-biggest-mistakes-local-businesses-make-with-voice-search-optimizati",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the biggest mistakes local businesses make with voice search optimization that quietly kill their results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common mistakes include treating voice search as just more keywords, ignoring Google Business Profile details, writing FAQs that are too vague or promotional, and forgetting to keep hours and NAP updated everywhere. Many businesses also skip schema markup and mobile speed fixes.\n\nThese errors make it hard for assistants to trust and understand your information, so they choose competitors instead.\n\nKey factors:\n- Inconsistent name, address, phone, or hours\n- Thin, generic content that doesn’t answer real questions\n- No LocalBusiness or FAQ schema\n- Slow, non‑mobile‑friendly pages\n\nAudit your setup for these pitfalls before investing in new tactics. Fixing them often yields more improvement than adding trendy features.\n\nIf you work with vendors, ask them to show exactly what they’ve changed and where—lack of transparency can hide persistent mistakes.",
+        "description": "Major voice search mistakes include inconsistent name/address/phone, incomplete Google Business profiles, vague or promotional FAQs that don’t answer real questions, no LocalBusiness or FAQ schema, and slow mobile pages. Fixing these basics often delivers bigger gains than chasing advanced tactics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

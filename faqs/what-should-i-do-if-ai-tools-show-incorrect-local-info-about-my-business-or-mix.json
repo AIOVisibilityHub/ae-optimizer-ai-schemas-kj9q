@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI tools show incorrect local info about my business or mix me up with another company?",
+  "description": "Run a **correction campaign**: fix your website and key profiles first, then clean old listings and add clear FAQs that address the confusion (old name, address",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-tools-show-incorrect-local-info-about-my-business-or-mix",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI tools show incorrect local info about my business or mix me up with another company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI tools surface wrong or outdated information about your business, you need a **correction campaign**: update your canonical data, fix major profiles, and publish clear, answer-ready content that reflects the current reality.\n\nThen monitor and keep nudging the ecosystem until the new signals dominate.\n\n**Key factors** \n- Identify the sources AI may be pulling from (site, profiles, old listings). \n- Correct those sources with accurate NAP, services, and hours. \n- Add FAQs that explicitly clarify common confusions (old name, old address). \n- Watch AI responses over weeks to confirm changes propagate.\n\nYou may also want to use structured data (schema) to highlight official details and add “sameAs” links to authoritative profiles. Avoid deleting everything old; instead, redirect or update where possible.\n\nCleaning up misinformation is part of ongoing local AEO maintenance, not a one-time fix.",
+        "description": "Run a **correction campaign**: fix your website and key profiles first, then clean old listings and add clear FAQs that address the confusion (old name, address, services). Use schema and consistent “sameAs” links. Monitor AI answers over time to ensure the updated signals take hold."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

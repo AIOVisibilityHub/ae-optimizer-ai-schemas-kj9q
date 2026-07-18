@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I check first if I’ve done some voice optimization but still don’t seem to appear in voice search results?",
+  "description": "First, verify your name, address, phone, and hours match across Google, Apple, Yelp, and other directories, and that your Google Business Profile is fully compl",
+  "url": "aeoptimizer.com/faq/what-should-i-check-first-if-i-ve-done-some-voice-optimization-but-still-don-t-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I check first if I’ve done some voice optimization but still don’t seem to appear in voice search results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve improved your site and listings but still don’t show up in voice results, check for inconsistencies in your name, address, phone, or hours and gaps in your Google Business Profile. Thin FAQ content and weak reviews are also common blockers.\n\nVoice assistants prioritize trustworthy, clearly structured, and well‑reviewed businesses. Missing or conflicting data makes them favor someone else.\n\nKey factors:\n- NAP mismatches across directories\n- Unclaimed or partially filled profiles\n- Generic, non‑question‑based content\n- Few or poor quality reviews\n\nRun a quick audit: search your business name plus phone and address to find mismatches; then compare your profile quality against top competitors. Strengthen FAQs and start a review campaign.\n\nIf issues persist, get a professional audit—sometimes technical issues like crawl problems or incorrect categories are harder to spot from the outside.",
+        "description": "First, verify your name, address, phone, and hours match across Google, Apple, Yelp, and other directories, and that your Google Business Profile is fully completed. Then improve FAQ content and reviews. Inconsistencies, thin Q&As, and weak reputations are common reasons voice assistants skip your business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

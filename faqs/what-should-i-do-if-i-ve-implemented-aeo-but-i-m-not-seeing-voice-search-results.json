@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’ve implemented AEO but I’m not seeing voice search results yet?",
+  "description": "If AEO results are slow, re‑validate your schema, confirm your pages are indexed, and align your question wording with real “People Also Ask” and voice queries.",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-ve-implemented-aeo-but-i-m-not-seeing-voice-search-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’ve implemented AEO but I’m not seeing voice search results yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When answers are delayed, it’s usually because search engines haven’t fully recrawled your content, your schema has errors, or your Q&A isn’t clearly aligned with how people actually speak their queries. Voice and AEO wins often arrive in batches, not day by day.\n\nYou may also be competing with entrenched pages already owning key snippets.\n\nKey factors:\n- Crawl/index lag, especially after big content changes\n- Schema validation issues or incomplete properties\n- Misalignment between your question phrasing and user language\n- Strong competitors with long-standing featured snippets\n\nPractically, re‑validate your schema, compare your headings to “People Also Ask” language, and check Search Console for indexing status. You may need to refine questions or shorten answers.\n\nIf you’re stuck after 2–3 months, an external AEO review can quickly surface technical or content gaps you’re missing.",
+        "description": "If AEO results are slow, re‑validate your schema, confirm your pages are indexed, and align your question wording with real “People Also Ask” and voice queries. Shorten and clarify answers, then give search engines time—voice and snippet gains often arrive in 1–3 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

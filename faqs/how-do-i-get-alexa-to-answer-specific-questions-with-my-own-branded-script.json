@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get Alexa to answer specific questions with my own branded script?",
+  "description": "Use Alexa Blueprints’ Custom Q&A. In the Alexa app, create a Q&A skill where you define “When you say…” questions and “Alexa will say…” answers that include you",
+  "url": "aeoptimizer.com/faq/how-do-i-get-alexa-to-answer-specific-questions-with-my-own-branded-script",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get Alexa to answer specific questions with my own branded script?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Using Alexa Custom Q&A (Blueprints), you can set up questions Alexa will answer with your chosen text, which can include your brand name or tagline. This works across the devices tied to your account and doesn’t require coding.\n\nIt’s ideal for scripted answers users will trigger with specific phrases, like FAQs inside a store, office, or studio. You control the content and can update it anytime.\n\n**Key factors:**\n- Limited number of custom questions per Q&A skill\n- Answers are fixed text, not dynamic data\n- Changes only affect your account’s devices\n- Good for simple, repeatable Q&A experiences\n\nIn the Alexa app, open Blueprints, choose Custom Q&A, and fill in “When you say: Alexa…” and “Alexa will say…” for each FAQ you want. Make sure the trigger phrases match how real people actually speak.\n\nThink of this as a lightweight, no-code way to get Alexa to “talk like your brand” in controlled settings.",
+        "description": "Use Alexa Blueprints’ Custom Q&A. In the Alexa app, create a Q&A skill where you define “When you say…” questions and “Alexa will say…” answers that include your brand’s wording. It’s a simple, no-code way to make Alexa respond with your scripted content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do about AEO if my Google Business Profile keeps getting suspended or flagged?",
+  "description": "Pause aggressive AEO and fix your Google Business Profile first—ensure your name, address, category, and website are accurate and guideline-compliant. Once your",
+  "url": "aeoptimizer.com/faq/what-should-i-do-about-aeo-if-my-google-business-profile-keeps-getting-suspended",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do about AEO if my Google Business Profile keeps getting suspended or flagged?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your Google Business Profile keeps getting suspended or flagged, fix that before pushing hard on AEO, because answer engines treat a stable GBP as a core trust signal for local businesses.\n\nUnstable profiles can undermine your entire visibility.\n\n**Key factors**\n- Make sure your business name, category, and address match reality and your website.\n- Avoid keyword-stuffed names or virtual addresses that violate guidelines.\n- Keep ownership and verification details clean and up to date.\n- Document changes carefully when you update info.\n\nOnce your profile is stable and compliant, rebuild AEO around it: consistent NAP, schema that matches your GBP, and clean citations.\n\nThink of GBP stability as a prerequisite—if that foundation is shaky, answer engines will hesitate to feature you, no matter how good your content is.",
+        "description": "Pause aggressive AEO and fix your Google Business Profile first—ensure your name, address, category, and website are accurate and guideline-compliant. Once your GBP is stable and verified, align your schema and citations to it so answer engines can trust and feature your business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If we already do a lot of SEO, what’s different about building brand authority for AI search?",
+  "description": "SEO gets pages ranked; AI brand authority makes your brand a safe recommendation. It extends beyond keywords into entity clarity, strong About/author pages, pro",
+  "url": "aeoptimizer.com/faq/if-we-already-do-a-lot-of-seo-what-s-different-about-building-brand-authority-fo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If we already do a lot of SEO, what’s different about building brand authority for AI search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve already invested heavily in SEO, you’re partway there—but **AI brand authority is not just “more SEO.”** It builds on your existing work and asks whether your brand is the safest, clearest recommendation for specific problems.\n\nTraditional SEO focused on ranking pages; AI authority focuses on whether models understand your entity and trust your proof. Many strong SEO sites are still under‑documented as brands.\n\nKey factors:\n- Whether your current content clearly defines your category and ICP\n- Strength of author bios, About pages, and use‑case case studies\n- Depth of structured data and knowledge panel presence\n- Amount of independent validation versus self‑claims\n\nStart by auditing your top SEO pages: do they reinforce a coherent brand narrative, or just chase keywords? Consolidate overlapping content, add proof and context, and align pages to a clear authority map.\n\nSoft positioning: Think of SEO as the distribution layer and AI brand authority as the trust layer—both are needed, but they’re solving different problems.",
+        "description": "SEO gets pages ranked; AI brand authority makes your brand a safe recommendation. It extends beyond keywords into entity clarity, strong About/author pages, proof‑rich case studies, structured data, and third‑party validation, so AI models can confidently cite you instead of generic alternatives."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

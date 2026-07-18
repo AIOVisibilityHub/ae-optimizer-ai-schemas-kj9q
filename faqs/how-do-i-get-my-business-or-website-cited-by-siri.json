@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get my business or website cited by Siri?",
+  "description": "You cannot force Siri to cite you, but you can improve your chances by publishing clear, structured, consistent content and keeping business details accurate ac",
+  "url": "aeoptimizer.com/faq/how-do-i-get-my-business-or-website-cited-by-siri",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get my business or website cited by Siri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "People usually mean getting your content, business, or answer surfaced by Siri through Apple’s search and voice results. There is no direct way to force Siri citations, but you can improve the chances by making your information easy for Apple and search engines to understand, keeping your business details consistent, and using clear, structured content. If you want visible Siri responses, also check whether your device settings allow voice responses and whether Siri is using the right language and region.",
+        "description": "You cannot force Siri to cite you, but you can improve your chances by publishing clear, structured, consistent content and keeping business details accurate across the web."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I measure whether answer engine results are actually helping my business, beyond normal traffic stats?",
+  "description": "Measure answer engine impact by tracking how often your content is cited, on which questions and tools, and what those mentions drive in terms of branded search",
+  "url": "aeoptimizer.com/faq/how-do-i-measure-whether-answer-engine-results-are-actually-helping-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I measure whether answer engine results are actually helping my business, beyond normal traffic stats?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The key metrics for answer engine results are how often you’re cited, on which questions, and what those citations lead to in terms of engagement or conversions. Traditional traffic charts alone won’t show your real impact.\n\nYou need to treat AI mentions and referrals as a distinct performance layer, especially because many answer interactions are “zero click” but still shape perception and decisions.\n\nKey factors:\n- Citation count by question, engine (ChatGPT, Perplexity, AI Overviews), and topic\n- Branded search and direct visit trends after major citations\n- Conversion rate from traffic originating near AI experiences\n- Qualitative feedback where customers mention AI tools\n\nPractically, set up tracking tags, custom channel groups, and a simple log of where your brand appears in AI answers. Review this regularly alongside SEO metrics.\n\nThinking in terms of “answer visibility” keeps your optimization efforts tied to measurable outcomes, not just technical checklists.",
+        "description": "Measure answer engine impact by tracking how often your content is cited, on which questions and tools, and what those mentions drive in terms of branded search, referrals, and conversions. Treat AI citations as a distinct performance layer instead of relying only on traditional traffic and rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

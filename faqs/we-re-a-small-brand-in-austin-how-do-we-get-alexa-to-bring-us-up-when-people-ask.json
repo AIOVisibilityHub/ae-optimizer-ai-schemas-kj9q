@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’re a small brand in Austin—how do we get Alexa to bring us up when people ask for businesses like ours?",
+  "description": "You can’t force Alexa to name you, but you can increase the odds by creating a useful Alexa skill, keeping your Austin business details clean and current, and e",
+  "url": "aeoptimizer.com/faq/we-re-a-small-brand-in-austin-how-do-we-get-alexa-to-bring-us-up-when-people-ask",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’re a small brand in Austin—how do we get Alexa to bring us up when people ask for businesses like ours?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you want Alexa to mention your Austin brand when people talk about a category (coffee shop, studio, etc.), focus on building a useful Alexa skill and strong local signals rather than chasing tricks. Alexa favors clarity and reliability over hype.\n\nTreat voice as part of your local presence—just like maps, search, and reviews.\n\n**Key factors:**\n- Skill and listing names that mirror how Austinites actually speak\n- Clean, up-to-date hours, address, and contact info\n- Authentic reviews using natural, conversational language\n- Clear explanations of what makes you relevant to a query\n\nCreate an Alexa skill that answers the questions customers constantly ask you, and keep your business data aligned on Amazon and major directories. Make sure your descriptions are conversational, not buzzword-heavy.\n\nIf Austin is competitive in your niche, consider ongoing voice optimization as part of your marketing rhythm, not a one-time project.",
+        "description": "You can’t force Alexa to name you, but you can increase the odds by creating a useful Alexa skill, keeping your Austin business details clean and current, and earning natural, detailed reviews. Voice-friendly, relevant content is what helps Alexa connect your brand to local user requests."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

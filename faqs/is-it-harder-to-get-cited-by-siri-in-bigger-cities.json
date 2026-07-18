@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it harder to get cited by Siri in bigger cities?",
+  "description": "Usually yes, because larger markets have more competition and more confusing local signals.",
+  "url": "aeoptimizer.com/faq/is-it-harder-to-get-cited-by-siri-in-bigger-cities",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it harder to get cited by Siri in bigger cities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are in a competitive market like New York or Dallas-Fort Worth, the bar for clear entity signals is higher because more businesses are competing for the same query. Clean local relevance, precise service wording, and well-maintained listings become more important. Siri is more likely to surface the source that is easiest to match with the user’s intent.",
+        "description": "Usually yes, because larger markets have more competition and more confusing local signals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

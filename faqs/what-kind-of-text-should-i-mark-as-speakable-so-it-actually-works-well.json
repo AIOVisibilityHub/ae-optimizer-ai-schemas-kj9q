@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of text should I mark as speakable so it actually works well?",
+  "description": "Mark 2–3 plain-language sentences that clearly summarize the page or answer a common voice question, written to sound natural when spoken aloud. Avoid visual re",
+  "url": "aeoptimizer.com/faq/what-kind-of-text-should-i-mark-as-speakable-so-it-actually-works-well",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of text should I mark as speakable so it actually works well?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Speakable content should be written for the ear: short, clear sentences that summarize the page or directly answer a likely voice query, without jargon or visual references.\n\nAim for two or three sentences that make sense if someone hears them in isolation—no “see above” language, no tables or lists, and avoid heavy technical detail unless your audience expects it. Include the key entity and context so listeners know what they’re hearing. You can reuse your on-page summary, but often it needs a light rewrite for audio.\n\n**Key factors:**\n- 2–3 concise sentences\n- Self-contained; no visual cues or references\n- Plain-language explanations and clear entities\n- Matches how people verbally ask the question\n\nDraft sample spoken answers for your top pages, read them aloud, and refine anything that sounds awkward or confusing. Once you’re confident in the wording, mark those exact sentences with speakable selectors.\n\nThis copywriting step is where most of the real value of speakable schema comes from.",
+        "description": "Mark 2–3 plain-language sentences that clearly summarize the page or answer a common voice question, written to sound natural when spoken aloud. Avoid visual references, partial sentences, or heavy jargon—your speakable text should stand on its own as a short, clear audio answer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

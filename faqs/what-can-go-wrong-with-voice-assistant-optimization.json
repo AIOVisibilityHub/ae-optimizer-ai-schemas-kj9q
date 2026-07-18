@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with voice assistant optimization?",
+  "description": "The main risk is optimizing for machines so aggressively that the content stops sounding natural. Keep answers clear, accurate, and aligned with the page conten",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-voice-assistant-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with voice assistant optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are overstuffing keywords, writing robotic answers, and adding schema that does not match the page content. Those mistakes can make content harder to trust, harder to parse, or less useful to real users.",
+        "description": "The main risk is optimizing for machines so aggressively that the content stops sounding natural. Keep answers clear, accurate, and aligned with the page content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

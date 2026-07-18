@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a “brand authority map” for AI search and how do I build one for my company?",
+  "description": "A brand authority map defines the category, ICP, core use cases, buyer prompts, competitors, proof points, and source‑of‑truth pages you want AI tools to associ",
+  "url": "aeoptimizer.com/faq/what-is-a-brand-authority-map-for-ai-search-and-how-do-i-build-one-for-my-compan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a “brand authority map” for AI search and how do I build one for my company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your brand authority map is a **living blueprint** of what you want to be known for in AI search: category, ICP, core use cases, key competitors, proof points, and source‑of‑truth pages. It’s the anchor for all your authority work.\n\nWithout a map, content and PR decisions become reactive and scattered, which weakens your signals.\n\nKey factors:\n- Primary category and 1–2 secondary categories you’ll own\n- Ideal customer profile (role, industry, size, problem)\n- Top 20–30 buyer prompts you want to be cited for\n- The specific pages and external sources that should answer each prompt\n\nBuild the map collaboratively, then use it to prioritize which pages to strengthen, which proof to publish, and which mentions to pursue. Revisit it quarterly as your market and services evolve.\n\nSoft positioning: A well‑defined brand authority map turns AI search from a guessing game into a focused, trackable strategy.",
+        "description": "A brand authority map defines the category, ICP, core use cases, buyer prompts, competitors, proof points, and source‑of‑truth pages you want AI tools to associate with your brand. Document these, then use the map to guide which content, proof, and mentions you build and track."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

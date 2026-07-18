@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with local AEO—can I actually hurt my visibility if I do this wrong?",
+  "description": "Yes, sloppy local AEO can **hurt visibility**. Inconsistent business data, spammy content, fake reviews, or unmanaged Q&A can confuse AI systems and erode trust",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-local-aeo-can-i-actually-hurt-my-visibility-if-i-do-this",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with local AEO—can I actually hurt my visibility if I do this wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks of local AEO come from **bad or conflicting data**, over‑optimized content that feels spammy, and automations that create low‑quality entity footprints. These can confuse AI systems or damage trust.\n\nTrying to “game” AI answers with manipulative tactics often backfires and is increasingly filtered out as models improve.\n\n**Key factors** \n- Inconsistent names, addresses, or categories across platforms. \n- Thin, keyword‑stuffed content that doesn’t genuinely help users. \n- Fake reviews or manufactured local mentions. \n- Uncontrolled Q&A sections where inaccurate answers are left unmonitored.\n\nMitigate risk by prioritizing clarity and usefulness over volume: correct old listings, keep answers factual and concise, and monitor public Q&A on profiles and forums. Avoid vendors who promise guaranteed AI placements with secret tricks.\n\nLocal AEO should feel like codifying reality, not inventing it; if a tactic wouldn’t stand up to human scrutiny, it’s risky for AI too.",
+        "description": "Yes, sloppy local AEO can **hurt visibility**. Inconsistent business data, spammy content, fake reviews, or unmanaged Q&A can confuse AI systems and erode trust. Focus on clean, accurate profiles and genuinely helpful answers to stay on the right side of both search and users."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is speakable schema and why would my site need it?",
+  "description": "Speakable schema is structured data that marks specific sentences on a page as ideal for text-to-speech, so voice assistants and AI know what to read aloud. It’",
+  "url": "aeoptimizer.com/faq/what-exactly-is-speakable-schema-and-why-would-my-site-need-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is speakable schema and why would my site need it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Speakable schema is structured data that tells voice assistants and AI which specific sentences on a page should be read aloud, usually as a short, clear summary or answer.\n\nIt works by pointing to a few well-written snippets in your article or page using CSS selectors or XPath inside JSON-LD. Those snippets become the \"audio-ready\" version that Google Assistant and similar systems can quote. For most sites, speakable is added to Article or WebPage schema.\n\n**Key factors:**\n- Only marks *sections*, not entire pages\n- Best for 2–3 sentence summaries or answers\n- Implemented with `SpeakableSpecification` and `cssSelector`/`xpath`\n- Used mainly by voice assistants and AI citation systems\n\nStart by identifying the one or two paragraphs per page that cleanly answer a likely voice query, give them stable IDs, and reference those IDs in JSON-LD speakable markup. Then test in Google’s Rich Results tools and monitor performance.\n\nIf you’re not comfortable with structured data, this is a good task to hand off to a technical SEO or developer familiar with schema.org.",
+        "description": "Speakable schema is structured data that marks specific sentences on a page as ideal for text-to-speech, so voice assistants and AI know what to read aloud. It’s useful if you want your content to be the short spoken answer for voice queries or cited summaries in AI results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

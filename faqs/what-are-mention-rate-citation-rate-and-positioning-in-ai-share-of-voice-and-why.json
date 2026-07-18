@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are mention rate, citation rate, and positioning in AI share of voice, and why do they matter?",
+  "description": "Mention rate is how often your brand appears; citation rate is how often you’re referenced or linked as a source; positioning is how prominently you’re recommen",
+  "url": "aeoptimizer.com/faq/what-are-mention-rate-citation-rate-and-positioning-in-ai-share-of-voice-and-why",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are mention rate, citation rate, and positioning in AI share of voice, and why do they matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mention rate counts how often your brand appears in AI answers; citation rate tracks how often you’re linked or referenced as a source; positioning measures how prominently you’re recommended versus competitors. Together, they give a richer view of AI share of voice.\n\nContext: A brand might appear frequently but only in low-importance contexts, or be cited but not clearly recommended. Looking at all three metrics helps you understand real influence, not just presence.\n\nKey factors:\n- Mention rate: frequency of brand name appearing\n- Citation rate: links or explicit source references\n- Positioning: where and how you’re recommended vs rivals\n- Comparative share: your proportion of all mentions in your sector\n\nPractical guidance: Track mention rate first, then add citation and positioning scoring as you mature your program. Use mismatches (e.g., high mentions, low citations) to prioritize next improvements.\n\nSoft positioning: Treat these metrics as layers that turn raw AI presence into an actionable visibility profile.",
+        "description": "Mention rate is how often your brand appears; citation rate is how often you’re referenced or linked as a source; positioning is how prominently you’re recommended versus competitors. Tracking all three gives a fuller picture of your influence in AI answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

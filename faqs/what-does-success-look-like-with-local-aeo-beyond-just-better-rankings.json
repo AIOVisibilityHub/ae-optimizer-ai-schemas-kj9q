@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does success look like with local AEO, beyond just “better rankings”?",
+  "description": "Successful local AEO means becoming the **go-to local answer**: AI tools start citing you, your profiles show up more for non‑branded queries, and you get more",
+  "url": "aeoptimizer.com/faq/what-does-success-look-like-with-local-aeo-beyond-just-better-rankings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does success look like with local AEO, beyond just “better rankings”?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When local AEO works, you become the **default local answer**: AI tools cite your business in responses, your Google Business Profile appears more often for discovery queries, and you see more high‑intent calls, bookings, and form fills from non‑branded searches.\n\nYou may not notice a huge jump in raw traffic, but you should see better‑qualified leads and more “we found you when asking X” comments.\n\n**Key factors** \n- Increased impressions and interactions on local profiles. \n- Mentions or citations in AI answers for your main services. \n- More leads from queries that don’t include your brand name. \n- Improved review volume and quality as more people find and use you.\n\nTrack outcomes by listening to how new customers say they found you, sampling AI tools with common queries, and watching lead metrics, not just rankings. Adjust your content and entity data based on what shows up.\n\nThe best outcome is simple: when someone in your area asks an AI tool for what you do, your name comes up without them needing to know it first.",
+        "description": "Successful local AEO means becoming the **go-to local answer**: AI tools start citing you, your profiles show up more for non‑branded queries, and you get more qualified calls and bookings from “I asked about X in my area and it recommended you,” not just higher rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

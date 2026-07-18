@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens to speakable schema when I redesign my site or change templates?",
+  "description": "Speakable schema depends on CSS or XPath selectors, so redesigns or template changes can break its references if IDs or structures change. After updates, revali",
+  "url": "aeoptimizer.com/faq/what-happens-to-speakable-schema-when-i-redesign-my-site-or-change-templates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens to speakable schema when I redesign my site or change templates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you change your site design or templates, your speakable schema can silently break if the CSS selectors or IDs you reference no longer exist or move to different content.\n\nBecause speakable relies on `cssSelector` or `xpath`, any restructuring of headings, summaries, or components must be accompanied by schema updates. Testing after redesigns is crucial; otherwise assistants may stop seeing your intended snippets or, in rare cases, read unintended text.\n\n**Key factors:**\n- Speakable is tightly bound to DOM structure and selectors\n- Template changes can invalidate selectors\n- Regression testing after updates is essential\n- Using semantic, stable IDs reduces maintenance\n\nInclude speakable checks in your deployment process: after major changes, run structured data tests and manually confirm that selectors still point to the correct summary paragraphs.\n\nPlanning for this in advance keeps speakable from becoming a hidden casualty of redesigns.",
+        "description": "Speakable schema depends on CSS or XPath selectors, so redesigns or template changes can break its references if IDs or structures change. After updates, revalidate your schema and confirm selectors still point to the intended summary text, updating them where necessary."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

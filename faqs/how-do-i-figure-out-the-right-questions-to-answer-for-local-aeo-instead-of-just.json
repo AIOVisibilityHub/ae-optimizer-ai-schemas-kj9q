@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I figure out the right questions to answer for local AEO instead of just guessing keywords?",
+  "description": "Use **real customer language** to drive local AEO FAQs: mine sales calls, chats, intake forms, Google “People Also Ask,” and autocomplete. Turn those into speci",
+  "url": "aeoptimizer.com/faq/how-do-i-figure-out-the-right-questions-to-answer-for-local-aeo-instead-of-just",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I figure out the right questions to answer for local AEO instead of just guessing keywords?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local AEO questions should come from **real customer language**, not keyword tools. Ask your team what people say on calls and in emails, and review Google’s “People Also Ask,” autocomplete, and support threads to capture genuine phrasing.\n\nThen shape those into short, quotable questions and answers, avoiding jargon and marketing fluff.\n\n**Key factors** \n- Pull from sales calls, chats, and intake forms (exact wording). \n- Check PAA boxes and autocomplete for your services + city. \n- Include scenario-based questions (urgent, budget, prior bad experience). \n- Keep questions specific and answers 2–3 sentences with a direct lead sentence.\n\nBuild a simple FAQ hub where each answer follows a consistent pattern: direct answer, context, key steps. Over time, update it as new customer questions surface.\n\nIf your FAQs read like something a worried person would type at 11pm, you’re on the right track for local AEO.",
+        "description": "Use **real customer language** to drive local AEO FAQs: mine sales calls, chats, intake forms, Google “People Also Ask,” and autocomplete. Turn those into specific, scenario-based questions with short, direct answers that sound like something a worried person would type late at night."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

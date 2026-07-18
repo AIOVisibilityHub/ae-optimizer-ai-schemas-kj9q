@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is considered a “good” share of voice in AI search for a brand?",
+  "description": "Benchmarks vary, but around 40% citation-based SOV on informational prompts and roughly one‑third on recommendation prompts generally indicates strong visibilit",
+  "url": "aeoptimizer.com/faq/what-is-considered-a-good-share-of-voice-in-ai-search-for-a-brand",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered a “good” share of voice in AI search for a brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A \"good\" share of voice in AI search depends on your category, but rough benchmarks help: around 40% citation-based SOV on informational prompts and roughly one‑third entity-based SOV on recommendation prompts usually signals strong recall. Below ~20% should trigger investigation.\n\nContext: These thresholds come from emerging industry studies and early tooling benchmarks, not rigid rules. The key is relative performance versus your core competitors and your strategic goals.\n\nKey factors:\n- Segment by prompt type (informational, comparison, recommendation)\n- Compare against your main 3–5 competitors, not the whole web\n- Track trends over time, not just single snapshots\n- Consider engine mix: some markets skew to particular tools\n\nPractical guidance: Set initial target ranges per prompt type, then focus on closing gaps where you’re far behind competitors. Refine goals as you see how changes in content and authority move the numbers.\n\nSoft positioning: Treat benchmarks as guardrails to prioritize work, not as pass/fail grades.",
+        "description": "Benchmarks vary, but around 40% citation-based SOV on informational prompts and roughly one‑third on recommendation prompts generally indicates strong visibility. Consistently below ~20% versus key competitors is a warning sign worth investigating."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

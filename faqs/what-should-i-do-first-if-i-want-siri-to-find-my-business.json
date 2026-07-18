@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want Siri to find my business?",
+  "description": "Fix your core business information first: name, address, phone, hours, and service area should match everywhere online.",
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-want-siri-to-find-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want Siri to find my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the basics: make sure your business name, address, phone number, hours, and service areas are consistent everywhere they appear. Siri relies on Apple’s ecosystem and connected sources, so clean data and concise pages are more likely to be interpreted correctly. For local businesses in places like Los Angeles, San Diego, Austin, Denver, or Salt Lake City, location consistency matters even more because users often ask Siri for nearby answers.",
+        "description": "Fix your core business information first: name, address, phone, hours, and service area should match everywhere online."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

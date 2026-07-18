@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why isn’t my site showing up in ChatGPT or Perplexity answer engine results, even though I rank in Google?",
+  "description": "Your site may not appear in answer engine results because your content isn’t structured as clear question-and-answer material, lacks schema markup, or doesn’t l",
+  "url": "aeoptimizer.com/faq/why-isn-t-my-site-showing-up-in-chatgpt-or-perplexity-answer-engine-results-even",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why isn’t my site showing up in ChatGPT or Perplexity answer engine results, even though I rank in Google?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re not seeing your site in answer engine results, the usual issues are weak question alignment, unclear answers, missing schema, or low perceived authority. AI systems may simply find better-structured, more trustworthy content to cite.\n\nBecause answer engines synthesize multiple sources, they will skip anything that looks promotional, vague, or hard to parse. Even strong expertise can be invisible if it’s buried in marketing copy or PDFs.\n\nKey factors:\n- Content that doesn’t start with a direct answer\n- Lack of FAQ, HowTo, or Article schema markup\n- Thin or generic pages covering broad topics instead of specific questions\n- Few external mentions, links, or corroborating sources\n\nPractically, audit a small set of priority questions and compare your pages to the ones answer engines are citing. Revise your content to be clearer, more specific, and better structured.\n\nTreat “not being cited” as feedback: it tells you where your content isn’t yet meeting answer engines’ standards for clarity and authority.",
+        "description": "Your site may not appear in answer engine results because your content isn’t structured as clear question-and-answer material, lacks schema markup, or doesn’t look authoritative enough compared to other sources. Answer engines favor concise, well-structured, corroborated answers over traditional keyword-led SEO pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I don’t have much budget—what’s the cheapest way to get Alexa to mention my brand at all?",
+  "description": "Use free tools first. Alexa Blueprints and basic skills cost nothing, and you can optimize your existing Amazon listings and profiles yourself. Start with a sim",
+  "url": "aeoptimizer.com/faq/i-don-t-have-much-budget-what-s-the-cheapest-way-to-get-alexa-to-mention-my-bran",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I don’t have much budget—what’s the cheapest way to get Alexa to mention my brand at all?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re on a tight budget, the best way to get Alexa to mention you is to use free tools: Alexa Blueprints, basic skills, and careful optimization of existing listings and profiles. You don’t need a big spend to start.\n\nThe trade-off is your time and learning curve, not subscription fees.\n\n**Key factors:**\n- Blueprints and the developer console are free to use\n- You can launch simple skills without paid infrastructure\n- Voice SEO work is mostly about editing and consistency\n- Paid help becomes valuable when complexity rises\n\nStart with a simple Custom Q&A or lightweight skill focusing on your top questions or services. Clean up your Amazon and online listings, making them conversational and complete. Then iterate based on what users actually ask Alexa.\n\nOnce your budget grows, you can invest in more advanced skills or dedicated voice UX support.",
+        "description": "Use free tools first. Alexa Blueprints and basic skills cost nothing, and you can optimize your existing Amazon listings and profiles yourself. Start with a simple Q&A or informational skill, polish your content for voice, and only pay for help once your needs become more complex."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

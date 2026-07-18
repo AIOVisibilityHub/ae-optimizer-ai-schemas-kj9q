@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need that Siri is using my content?",
+  "description": "Look for consistent matching answers and clean business data across multiple trusted sources.",
+  "url": "aeoptimizer.com/faq/what-proof-do-i-need-that-siri-is-using-my-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need that Siri is using my content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best evidence is consistency: if your business details are identical across your site, profiles, and listings, Siri has a better chance of matching them correctly. You can also watch whether Siri reads the same facts from your pages when users ask common questions. If the answer keeps changing, your source data is probably too weak or conflicting.",
+        "description": "Look for consistent matching answers and clean business data across multiple trusted sources."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

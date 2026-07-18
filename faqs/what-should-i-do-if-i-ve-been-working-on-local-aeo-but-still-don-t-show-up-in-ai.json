@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’ve been working on local AEO but still don’t show up in AI answers?",
+  "description": "If you’re not showing up yet, you likely have a **signal gap**: inconsistent data, weak reviews, thin local proof, or vague answers. Audit who *is* appearing fo",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-ve-been-working-on-local-aeo-but-still-don-t-show-up-in-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’ve been working on local AEO but still don’t show up in AI answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI tools still ignore you after months of local AEO work, treat it as a **signal gap problem**, not a failure. Something about your entity, content, or local proof isn’t strong or unique enough yet.\n\nThe fix is usually better evidence and clearer answers, not more of the same tactics.\n\n**Key factors** \n- Are your NAP and categories truly consistent everywhere? \n- Do you have enough genuine reviews and local mentions to stand out? \n- Are your answers concise, specific, and aligned with common query phrasing? \n- Have you checked for stronger, more authoritative competitors in your niche?\n\nRun a focused diagnostic: search and ask AI about your service in your city, note who appears, and study their profiles, content, and reviews. Then level up your own signals to match or exceed them.\n\nPersistence matters; AI ecosystems are evolving, and you may need another iteration cycle before you’re consistently surfaced.",
+        "description": "If you’re not showing up yet, you likely have a **signal gap**: inconsistent data, weak reviews, thin local proof, or vague answers. Audit who *is* appearing for your key queries, strengthen your entity data and local evidence, and refine your FAQs to better match real question phrasing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I handle speakable schema on multilingual or translated pages?",
+  "description": "Implement speakable separately on each language version, marking short snippets that match the visible language and using correct language codes. Avoid mixing l",
+  "url": "aeoptimizer.com/faq/how-should-i-handle-speakable-schema-on-multilingual-or-translated-pages",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I handle speakable schema on multilingual or translated pages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your site serves multiple languages, you should implement speakable schema separately for each language version and ensure the marked snippets match the visible language on that page.\n\nEach localized page should have speakable text written naturally in that language, and the structured data should indicate the correct language code. Mixing languages within a single speakable snippet or pointing to translated text that doesn’t match on-page content can confuse assistants and harm UX.\n\n**Key factors:**\n- One speakable implementation per language version\n- Snippets must match the page’s visible language\n- Use proper language codes in structured data\n- Avoid cross-language selectors or mismatched content\n\nStart by adding speakable to your primary language pages, then mirror the approach in other languages only where you have strong localized content. Test each version in structured data tools to confirm detection.\n\nFor complex multilingual setups, involving someone familiar with international SEO and schema is wise.",
+        "description": "Implement speakable separately on each language version, marking short snippets that match the visible language and using correct language codes. Avoid mixing languages within a snippet or pointing to content that doesn’t match what users see, and validate each localized page’s structured data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

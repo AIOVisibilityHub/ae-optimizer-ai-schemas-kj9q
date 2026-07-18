@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I actually get Siri to mention my site or brand more often?",
+  "description": "Yes, but only by making your content clearer and more authoritative than competing sources.",
+  "url": "aeoptimizer.com/faq/can-i-actually-get-siri-to-mention-my-site-or-brand-more-often",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I actually get Siri to mention my site or brand more often?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only if your source is easier for Siri to understand than competing sources. That means concise answers, strong page titles, schema markup where appropriate, and consistent brand/entity data across your site and profiles. If Siri is repeatedly missing you, the issue is usually clarity or inconsistency rather than a single missing trick.",
+        "description": "Yes, but only by making your content clearer and more authoritative than competing sources."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do customer reviews affect AEO for my local business, and what should I be doing differently?",
+  "description": "Customer reviews are a key trust signal for AEO—answer engines use them to decide which local businesses to recommend. Focus on earning consistent, detailed rev",
+  "url": "aeoptimizer.com/faq/how-do-customer-reviews-affect-aeo-for-my-local-business-and-what-should-i-be-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do customer reviews affect AEO for my local business, and what should I be doing differently?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your business relies heavily on reviews (restaurants, home services, healthcare), those reviews are central to AEO because answer engines use them to gauge trust and quality.\n\nStrong, consistent reviews increase your odds of being the recommended answer.\n\n**Key factors**\n- Volume, recency, and average rating of reviews.\n- Detailed review text mentioning services, staff, and locations.\n- Response patterns to both positive and negative feedback.\n- Review schema on your site to reinforce credibility.\n\nEncourage happy customers to leave specific, descriptive reviews and respond thoughtfully to all feedback. Match your on-site content and schema to what reviewers highlight.\n\nOver time, this combination of structured data and authentic social proof tells AI systems you’re a safe and reliable answer for local searches.",
+        "description": "Customer reviews are a key trust signal for AEO—answer engines use them to decide which local businesses to recommend. Focus on earning consistent, detailed reviews, responding to feedback, and using review schema so your reputation is clear and machine-readable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

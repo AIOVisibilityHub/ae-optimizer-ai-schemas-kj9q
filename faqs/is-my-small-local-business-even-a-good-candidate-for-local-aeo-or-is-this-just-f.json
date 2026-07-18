@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is my small local business even a good candidate for local AEO, or is this just for big brands?",
+  "description": "If you serve customers in a specific area and have a consistent name, address, and phone online, you’re already a good candidate for local AEO. It’s designed fo",
+  "url": "aeoptimizer.com/faq/is-my-small-local-business-even-a-good-candidate-for-local-aeo-or-is-this-just-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is my small local business even a good candidate for local AEO, or is this just for big brands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’re likely **eligible for local AEO work** if you serve customers in a defined geographic area and can be clearly tied to that location online. Even home-based and service-area businesses can benefit as long as their entity data is consistent and credible.\n\nWhat matters is not size, but whether AI systems can trust that you’re a real, active local business. Pure online-only brands without local presence are less relevant.\n\n**Key factors** \n- You have a stable business name, address (or service area), and phone number. \n- You can show real local activity: reviews, jobs, projects, memberships, events. \n- Your category and services are clearly described and locally relevant. \n- You’re willing to keep profiles and content up to date.\n\nIf you’ve claimed your Google Business Profile and appear on at least a few local listings, you’re “eligible” to start local AEO optimization; you just need to strengthen proof and answers.\n\nThink of local AEO as amplifying what already exists rather than gatekeeping who can participate.",
+        "description": "If you serve customers in a specific area and have a consistent name, address, and phone online, you’re already a good candidate for local AEO. It’s designed for **ordinary local businesses**, not just big brands, as long as you can show real local activity and clear services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

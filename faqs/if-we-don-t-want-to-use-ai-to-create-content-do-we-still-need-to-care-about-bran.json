@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If we don’t want to use AI to create content, do we still need to care about brand authority in AI search?",
+  "description": "Yes. Even if all your content is human‑written, AI tools still summarize and recommend brands based on web signals. You need clear, proof‑rich content, strong A",
+  "url": "aeoptimizer.com/faq/if-we-don-t-want-to-use-ai-to-create-content-do-we-still-need-to-care-about-bran",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If we don’t want to use AI to create content, do we still need to care about brand authority in AI search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Even if you don’t create AI‑generated content, you still need **AI‑ready authority signals**, because your buyers use AI tools to research and shortlist options. Opting out of AI content doesn’t opt you out of AI search.\n\nYour brand is being summarized from existing web data whether you participate or not. The question is whether those summaries are accurate and favorable.\n\nKey factors:\n- Clear, human‑written content that explains your expertise and outcomes\n- Strong About and author pages with real experience\n- Reviews and third‑party mentions that feed AI training data\n- Structured data and consistent profiles for entity clarity\n\nFocus on making your human content deeply useful, verifiable, and easy for machines to parse. You can still keep production fully human while optimizing how AI systems understand and represent you.\n\nSoft positioning: Brand authority in AI search is about the quality and clarity of your signals, not the tools you use to write them.",
+        "description": "Yes. Even if all your content is human‑written, AI tools still summarize and recommend brands based on web signals. You need clear, proof‑rich content, strong About/author pages, reviews, and structured data so models can understand and accurately represent your brand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

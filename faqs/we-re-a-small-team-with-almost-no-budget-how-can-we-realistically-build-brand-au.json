@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’re a small team with almost no budget—how can we realistically build brand authority in AI search?",
+  "description": "Focus on high‑leverage basics: clarify what you’re known for, rewrite core pages with specific proof, optimize a few key profiles (site, Google Business, Linked",
+  "url": "aeoptimizer.com/faq/we-re-a-small-team-with-almost-no-budget-how-can-we-realistically-build-brand-au",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’re a small team with almost no budget—how can we realistically build brand authority in AI search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can strengthen brand authority in AI search on a **limited budget** by focusing on clarity, proof, and a few high‑leverage profiles rather than trying to “be everywhere.” Time and focus matter more than ad spend here.\n\nAI models care whether they can understand and verify you, not whether you bought the flashiest tools. Tight, proof‑backed positioning beats expensive but generic content.\n\nKey factors:\n- Clarify one primary category and 1–2 ideal customer profiles\n- Rewrite core pages with concrete examples, outcomes, and FAQs\n- Optimize a small set of key profiles (website, Google Business Profile, LinkedIn)\n- Systematically ask happy customers for public reviews\n\nPractically, set a 60–90‑day sprint: clean up positioning, upgrade your About/service pages, align your profiles, and run a disciplined review‑request process. Skip big content campaigns until your foundation is clearly authoritative.\n\nSoft positioning: Small teams often gain AI authority faster because they can make their message sharper and more consistent across fewer touchpoints.",
+        "description": "Focus on high‑leverage basics: clarify what you’re known for, rewrite core pages with specific proof, optimize a few key profiles (site, Google Business, LinkedIn), and consistently request public reviews. You don’t need a big budget—just clear positioning and verifiable signals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

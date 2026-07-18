@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it realistically cost to track my share of voice in AI search?",
+  "description": "You can start tracking AI share of voice almost free using manual prompt tests and spreadsheets, but costs rise with more prompts, engines, and rigor. Expect th",
+  "url": "aeoptimizer.com/faq/how-much-does-it-realistically-cost-to-track-my-share-of-voice-in-ai-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it realistically cost to track my share of voice in AI search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of measuring share of voice in AI search ranges from near-zero (DIY spreadsheets) to significant if you use specialized tools and external support. The real cost is in time, data discipline, and follow-through on what you learn.\n\nContext: You can start manually by testing prompts in major AI engines and logging mentions. As you scale to more prompts, more engines, and more nuance (positioning, citations), purpose-built software becomes valuable.\n\nKey factors:\n- DIY vs paid tools for prompt runs and mention tracking\n- Volume of prompts and engines (which drives effort)\n- Internal analyst/strategist time\n- Frequency of re-measurement and optimization work\n\nPractical guidance: Begin with a lean, manual pilot to prove value, then justify investment in tools once you’re confident AI SOV will be a core metric. Tie spend to clear outputs like content changes and authority campaigns.\n\nSoft positioning: Treat AI SOV measurement as an analytics layer that should pay for itself through better visibility and conversion.",
+        "description": "You can start tracking AI share of voice almost free using manual prompt tests and spreadsheets, but costs rise with more prompts, engines, and rigor. Expect the main investment to be analyst time and, later, specialized tools as you scale."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

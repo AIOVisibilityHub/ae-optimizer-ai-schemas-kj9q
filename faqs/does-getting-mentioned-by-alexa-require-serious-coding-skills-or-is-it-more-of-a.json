@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does getting mentioned by Alexa require serious coding skills, or is it more of a content thing?",
+  "description": "It’s mostly a content and UX challenge. Blueprints and simple skills focus on how people talk and what Alexa should say, not heavy coding. You only need develop",
+  "url": "aeoptimizer.com/faq/does-getting-mentioned-by-alexa-require-serious-coding-skills-or-is-it-more-of-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does getting mentioned by Alexa require serious coding skills, or is it more of a content thing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t have to write code, but you do need to understand how people talk and how Alexa interprets that speech. The work is mostly about language, structure, and consistency, not programming.\n\nMany Alexa tools are built so non-developers can contribute meaningfully to the experience.\n\n**Key factors:**\n- Blueprints and basic skills are more about content than code\n- Skills still require structured thinking about intents and utterances\n- Analytics help you see where users get stuck or misunderstood\n- Complex skills may need technical partners for integrations\n\nApproach “getting mentioned by Alexa” as a UX and content design challenge: map user questions, craft clear answers, and structure everything in the tools Amazon provides.\n\nBring in developers only when the functionality you want goes beyond what no-code or low-code paths can handle.",
+        "description": "It’s mostly a content and UX challenge. Blueprints and simple skills focus on how people talk and what Alexa should say, not heavy coding. You only need developers when you want complex features like integrations or dynamic data beyond what the no-code tools can do."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is share of voice in AI search different from normal SEO rankings?",
+  "description": "SEO tracks how your pages rank for keywords in search results; AI share of voice tracks how often AI tools mention, recommend, or cite your brand in their answe",
+  "url": "aeoptimizer.com/faq/how-is-share-of-voice-in-ai-search-different-from-normal-seo-rankings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is share of voice in AI search different from normal SEO rankings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Share of voice in AI search is not the same as classic SEO rankings; it’s closer to \"answer presence\" inside AI-generated responses. SEO tracks URLs in search results, while AI SOV tracks brand mentions, recommendations, and citations in synthesized answers.\n\nContext: With AI results, users often see one main answer, sometimes with sources. Your question is: \"Am I in that answer, and how do I compare to competitors?\" rather than \"What position is my page in?\"\n\nKey factors:\n- SEO = keyword rankings, organic traffic, snippets\n- AI SOV = mentions, recommendations, citations across prompts\n- Different optimization levers: authority, content clarity, structured data\n- Overlap: strong SEO usually helps, but doesn’t guarantee AI presence\n\nPractical guidance: Maintain traditional SEO, but add AI SOV tracking to see how that authority translates into actual presence in AI tools. Adjust strategy when high SEO visibility doesn’t produce AI visibility.\n\nSoft positioning: Think of AI SOV as the next layer on top of SEO, not a replacement.",
+        "description": "SEO tracks how your pages rank for keywords in search results; AI share of voice tracks how often AI tools mention, recommend, or cite your brand in their answers. Strong SEO helps, but it doesn’t automatically translate into high AI SOV."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

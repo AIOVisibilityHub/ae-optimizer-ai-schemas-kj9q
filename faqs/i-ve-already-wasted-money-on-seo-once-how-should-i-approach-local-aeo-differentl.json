@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve already wasted money on SEO once—how should I approach local AEO differently so it doesn’t burn me again?",
+  "description": "Treat local AEO as a **focused pilot, not a vague retainer**. Define specific questions and neighborhoods you want to own, require reporting on AI citations and",
+  "url": "aeoptimizer.com/faq/i-ve-already-wasted-money-on-seo-once-how-should-i-approach-local-aeo-differentl",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve already wasted money on SEO once—how should I approach local AEO differently so it doesn’t burn me again?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you tried an SEO agency before and saw little impact, approach local AEO with **tighter scoping and clearer metrics**. Focus less on generic keyword rankings and more on AI citations, local profile engagement, and qualified leads.\n\nYou may also want more transparency: see exactly which questions you’re being surfaced for and how entity data is being managed.\n\n**Key factors** \n- Set concrete goals: questions you want to own, neighborhoods you care about. \n- Demand reporting on citations, not just positions. \n- Avoid vague “traffic” promises; prioritize contact and conversion data. \n- Ensure you keep ownership of accounts, logins, and content.\n\nStart with a pilot on one service and one city rather than a sprawling, multi‑location rollout. Validate that you can gain real visibility for specific queries in AI tools before scaling.\n\nGood local AEO feels like a partnership; if a provider can’t show you how their work translates into answer placements and leads, keep looking.",
+        "description": "Treat local AEO as a **focused pilot, not a vague retainer**. Define specific questions and neighborhoods you want to own, require reporting on AI citations and local leads—not just rankings—and keep control of your logins and content. Scale only after you see concrete results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

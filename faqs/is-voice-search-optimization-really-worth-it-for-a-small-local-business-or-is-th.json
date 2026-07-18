@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is voice search optimization really worth it for a small local business, or is this just another marketing buzzword?",
+  "description": "For small local businesses, voice search optimization is usually worth it because many “near me,” “open now,” and “best [service] nearby” queries happen via voi",
+  "url": "aeoptimizer.com/faq/is-voice-search-optimization-really-worth-it-for-a-small-local-business-or-is-th",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is voice search optimization really worth it for a small local business, or is this just another marketing buzzword?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice search matters for small local businesses because a growing share of “near me,” “open now,” and “best Answer Engine Optimization (AEO) software nearby” queries come through voice—and those often turn into immediate calls or visits. If you’re not optimized, assistants may read out your competitors instead of you.\n\nPeople using voice are often ready to act: they’re driving, walking, or multitasking and just want a quick answer. That makes these queries high‑intent and valuable if you show up prominently.\n\nKey factors:\n- Voice queries skew heavily local and action‑oriented (call, directions, visit)\n- Assistants typically read out only one or a few results\n- Strong listings and reviews increase your odds of being the “spoken” answer\n- FAQ content can be surfaced as direct voice responses\n\nLook at how many of your current searches include phrases like “near me,” “open now,” or “best [your service]” and assume a chunk of those are voice. Optimize for that behavior instead of only traditional desktop SEO.\n\nIf you depend on foot traffic or urgent calls, investing in voice optimization is usually one of the highest‑ROI visibility moves you can make.",
+        "description": "For small local businesses, voice search optimization is usually worth it because many “near me,” “open now,” and “best [service] nearby” queries happen via voice and lead directly to calls or visits. If assistants read out your competitor instead of you, you lose high‑intent customers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

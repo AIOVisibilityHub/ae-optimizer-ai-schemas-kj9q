@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should a small local business realistically budget for AEO, and is it worth it?",
+  "description": "Many small local businesses start seeing AEO benefits with $300–$1,500 per month, depending on how much they DIY versus outsource. Focus first on Google Busines",
+  "url": "aeoptimizer.com/faq/how-much-should-a-small-local-business-realistically-budget-for-aeo-and-is-it-wo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should a small local business realistically budget for AEO, and is it worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a small local business, you can start seeing value from AEO with a monthly budget in the $300–$1,500 range, depending on whether you DIY or hire help.\n\nCosts scale with content volume, technical work, and review/reputation tools.\n\n**Key factors**\n- DIY vs. agency/consultant involvement.\n- Number of locations and services needing schema and content.\n- Extra tools (review platforms, call tracking, analytics upgrades).\n- Ongoing content creation (blogs, FAQs, local landing pages).\n\nOn a lean budget, prioritize Google Business Profile, NAP cleanup, and a strong FAQ page; add schema via plugins or generators to keep technical costs down. As results show, reinvest in more Q&A content and review management.\n\nTreat AEO as a marketing line item that should pay for itself through higher-quality leads, not a one-time expense.",
+        "description": "Many small local businesses start seeing AEO benefits with $300–$1,500 per month, depending on how much they DIY versus outsource. Focus first on Google Business Profile, citations, FAQs, and schema—then scale as you see more qualified calls and bookings from local question-based searches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

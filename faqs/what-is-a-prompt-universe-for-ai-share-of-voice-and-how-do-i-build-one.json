@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a “prompt universe” for AI share of voice and how do I build one?",
+  "description": "A prompt universe is the curated list of real buyer questions you use to test AI share of voice. Build it from customer research, search data, People Also Ask,",
+  "url": "aeoptimizer.com/faq/what-is-a-prompt-universe-for-ai-share-of-voice-and-how-do-i-build-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a “prompt universe” for AI share of voice and how do I build one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A \"prompt universe\" is the curated list of questions you use to measure your share of voice in AI search. It should mirror the real queries your buyers ask answer engines when they research your product or category.\n\nContext: If your prompt universe is off, your AI share of voice score will be meaningless because you’re measuring the wrong conversations. Good prompt sets combine branded, category, and comparison questions.\n\nKey factors:\n- Branded prompts (e.g., “Is [Brand] reliable?”, “[Brand] reviews”)\n- Category prompts (e.g., “best CRM for small business”) \n- Comparison prompts (e.g., “[Brand] vs [Competitor]”)\n- Sourcing from VOC, PAA, autocomplete, and support tickets\n\nPractical guidance: Start from customer interviews and search data, expand with People Also Ask and autocomplete, then narrow to 30–100 high-intent prompts. Review and refresh these as your product and market evolve.\n\nSoft positioning: Treat the prompt universe as a living research asset, not a one-time list.",
+        "description": "A prompt universe is the curated list of real buyer questions you use to test AI share of voice. Build it from customer research, search data, People Also Ask, autocomplete, and support tickets, mixing branded, category, and comparison prompts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do online reviews really matter for showing up as a spoken recommendation in voice search?",
+  "description": "Online reviews matter a lot. Voice assistants heavily weigh ratings, volume, and recency when choosing local businesses to recommend, especially for “best” or “",
+  "url": "aeoptimizer.com/faq/how-much-do-online-reviews-really-matter-for-showing-up-as-a-spoken-recommendati",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do online reviews really matter for showing up as a spoken recommendation in voice search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reviews strongly influence which local businesses voice assistants recommend, especially for “best,” “top,” or “near me” queries. A weak or sparse review profile can push you below competitors, even if your site is well optimized.\n\nAssistants look at rating averages, volume, and recency as trust signals. They’re more likely to read out a business with a strong, current reputation.\n\nKey factors:\n- Average star rating and number of reviews\n- Fresh reviews within the last few months\n- Review text that mentions services and location\n- Consistent reputation across Google, Yelp, and major platforms\n\nBuild a simple, repeatable process to ask happy customers for reviews, especially on Google. Reply to reviews thoughtfully—responses are visible and show that you’re active.\n\nIf your rating is dragging you down, prioritize service improvements and reputation work; voice optimization can’t fully compensate for poor reviews.",
+        "description": "Online reviews matter a lot. Voice assistants heavily weigh ratings, volume, and recency when choosing local businesses to recommend, especially for “best” or “near me” queries. A strong, fresh review profile can decide whether your business or a competitor gets read out as the answer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

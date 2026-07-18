@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I get my San Diego business to be the one Alexa mentions when customers ask for our type of service?",
+  "description": "You need to give Alexa solid, local data to work with: a clear Alexa skill, accurate San Diego business details, and strong reviews. There’s no shortcut, but we",
+  "url": "aeoptimizer.com/faq/how-can-i-get-my-san-diego-business-to-be-the-one-alexa-mentions-when-customers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I get my San Diego business to be the one Alexa mentions when customers ask for our type of service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego, Alexa will mention your business only if it has trustworthy, relevant info to use—typically from your own Alexa skill, Amazon listings, or other integrated data sources. There’s no “San Diego boost” button.\n\nFor local, service-based companies, the path is similar to any city: make it easy for Alexa to match user intent to your offering.\n\n**Key factors:**\n- Clear descriptions of services and service area in your content\n- Consistent NAP (name, address, phone) data across platforms\n- Good reviews that mention local context or neighborhoods\n- Voice-friendly wording that matches phrases San Diego users say\n\nCreate or refine an Alexa skill that answers practical questions (pricing ranges, availability, what you specialize in) and ensure your business info on Amazon and major directories is clean and current. Focus on how people actually talk when they ask Alexa.\n\nTreat “being mentioned by Alexa in San Diego” as a byproduct of being the most relevant, well-structured local option in your category.",
+        "description": "You need to give Alexa solid, local data to work with: a clear Alexa skill, accurate San Diego business details, and strong reviews. There’s no shortcut, but well-structured, voice-friendly content and consistent listings raise the odds that Alexa picks your business for relevant local queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

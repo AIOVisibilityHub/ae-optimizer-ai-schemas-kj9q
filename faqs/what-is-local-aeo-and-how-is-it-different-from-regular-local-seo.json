@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is “local AEO” and how is it different from regular local SEO?",
+  "description": "Local AEO is about making your business the **trusted local entity** AI search tools pick when people ask questions in your area. It goes beyond local SEO by fo",
+  "url": "aeoptimizer.com/faq/what-is-local-aeo-and-how-is-it-different-from-regular-local-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is “local AEO” and how is it different from regular local SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local AEO means optimizing your business so **AI search engines and answer tools** (like ChatGPT, Perplexity, Google’s AI overviews) recognize you as the best local answer for queries in your area. It’s an evolution of local SEO focused on entities, evidence, and answer-ready content.\n\nInstead of just chasing blue links, local AEO makes sure AI systems understand *who you are, where you are, and what you do*, then trust you enough to surface your answers. It’s especially important for service businesses in competitive cities.\n\n**Key factors** \n- Clear, consistent business entity data (name, address, phone, categories). \n- Strong local proof (reviews, photos, case stories, local partners). \n- Short, direct answers to common questions on your site and profiles. \n- Proper schema markup (LocalBusiness, Organization, FAQPage) and citations.\n\nPractically, you’ll audit your local profiles, tighten NAP consistency, add answer-focused FAQs to your main service and location pages, and build a few credible local mentions and reviews. Over time, you monitor which queries you get surfaced for and refine content.\n\nIf you care about being “the obvious local choice” when people ask AI for help, local AEO is now a core strategy, not a nice-to-have.",
+        "description": "Local AEO is about making your business the **trusted local entity** AI search tools pick when people ask questions in your area. It goes beyond local SEO by focusing on entity clarity, local proof, and answer-ready content so you get cited in AI-driven results, not just traditional search listings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

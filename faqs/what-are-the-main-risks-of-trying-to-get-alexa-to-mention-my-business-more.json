@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main risks of trying to get Alexa to mention my business more?",
+  "description": "The main risks are being seen as spammy or unreliable. Overly promotional or inaccurate content can get rejected, downvoted, or ignored, and a buggy skill frust",
+  "url": "aeoptimizer.com/faq/what-are-the-main-risks-of-trying-to-get-alexa-to-mention-my-business-more",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main risks of trying to get Alexa to mention my business more?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risk in trying to get mentioned by Alexa is damaging trust—either with Amazon or with users—by being spammy, misleading, or overly promotional. Alexa’s ecosystem is designed for utility first.\n\nIf your content feels like an ad instead of a helpful answer, it may be ignored, downvoted, or rejected.\n\n**Key factors:**\n- Over-promotion can trigger moderation issues or poor reviews\n- Inaccurate or outdated info frustrates users\n- Complex skills that aren’t tested can fail at key moments\n- Aggressive “SEO tricks” are usually short-lived\n\nFocus on being clear, honest, and genuinely useful. Update content whenever your services, hours, or offers change, and thoroughly test your skills and routines before relying on them.\n\nApproach Alexa as a long-term user experience channel, not a quick promotional blast.",
+        "description": "The main risks are being seen as spammy or unreliable. Overly promotional or inaccurate content can get rejected, downvoted, or ignored, and a buggy skill frustrates users. Staying helpful, honest, and well-tested keeps your Alexa presence an asset instead of a liability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

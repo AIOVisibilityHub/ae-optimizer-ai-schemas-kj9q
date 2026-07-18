@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it realistically take to launch an Alexa skill that mentions my Denver company when people ask about us?",
+  "description": "For a simple informational skill, plan at least several days to a week from first build to a polished, certified Alexa skill that can mention your Denver compan",
+  "url": "aeoptimizer.com/faq/how-long-does-it-realistically-take-to-launch-an-alexa-skill-that-mentions-my-de",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it realistically take to launch an Alexa skill that mentions my Denver company when people ask about us?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building an Alexa skill that can mention your Denver business typically takes days to weeks, depending on complexity and approvals—not hours. Simple informational skills are fast; transactional or data-heavy skills take longer.\n\nYou also need time for testing and iteration, especially if this is your first voice project.\n\n**Key factors:**\n- Whether you use no-code tools, basic templates, or full custom dev\n- The number of intents (things users can ask) you need to handle\n- Amazon’s certification review timeline\n- Time for user testing and fixes after launch\n\nFor an urgent timeline, keep scope tight: start with a basic skill that answers top FAQs about your Denver business, then expand later. Use Amazon’s developer console or Blueprint tools to prototype quickly.\n\nIf you have a hard date, build backwards from a realistic one-week minimum for a simple, tested skill.",
+        "description": "For a simple informational skill, plan at least several days to a week from first build to a polished, certified Alexa skill that can mention your Denver company. More complex skills with transactions or integrations can take multiple weeks once you include review, testing, and fixes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

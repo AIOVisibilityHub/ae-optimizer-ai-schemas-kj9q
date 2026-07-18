@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up a usable share of voice in AI search baseline?",
+  "description": "Expect 2–4 weeks to define your prompts, competitor set, and data collection, then run your first AI share of voice baseline. After that, maintenance runs (mont",
+  "url": "aeoptimizer.com/faq/how-long-does-it-take-to-set-up-a-usable-share-of-voice-in-ai-search-baseline",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up a usable share of voice in AI search baseline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most brands, a basic AI share of voice measurement can be set up in 2–4 weeks, and then tracked quarterly or monthly. The timing depends mainly on how quickly you can define prompts, competitors, and data collection workflows.\n\nContext: The first run (building your prompt universe and baseline) is the heavy lift. Ongoing tracking is faster and can often be semi-automated or tool-driven.\n\nKey factors:\n- Time to align stakeholders on prompt and competitor sets\n- Number of AI engines you’re tracking\n- Manual vs tool-based data collection\n- Internal review cycles for methodology and quality\n\nPractical guidance: Aim for a quick MVP baseline: 30–50 prompts, 3–5 competitors, 3–4 major AI engines. Once that’s live, refine prompts and add depth rather than waiting for a \"perfect\" framework.\n\nSoft positioning: Treat time-to-baseline as a sprints-and-iterations problem, not a one-off research project.",
+        "description": "Expect 2–4 weeks to define your prompts, competitor set, and data collection, then run your first AI share of voice baseline. After that, maintenance runs (monthly or quarterly) are much faster, especially if you use specialized tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

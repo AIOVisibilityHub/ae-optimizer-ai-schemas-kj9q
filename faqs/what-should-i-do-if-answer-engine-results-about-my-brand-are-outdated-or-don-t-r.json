@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if answer engine results about my brand are outdated or don’t reflect recent changes?",
+  "description": "If answer engine results are outdated, publish clear Q&As about the changes, update older pages, and align external listings so multiple trusted sources reflect",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-answer-engine-results-about-my-brand-are-outdated-or-don-t-r",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if answer engine results about my brand are outdated or don’t reflect recent changes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When answer engine results about your brand are delayed or don’t reflect recent changes, it usually means your new content hasn’t been crawled, understood, or corroborated yet. AI ecosystems depend on both discovery and agreement.\n\nBig shifts—like pricing, positioning, or product features—require clear, repeated explanations across trusted touchpoints for models to update their understanding.\n\nKey factors:\n- How explicitly and prominently you’ve described the change\n- Whether multiple credible sources now reflect the new information\n- Crawl and index timing for your site and key platforms\n- Age and authority of older, conflicting information\n\nPractically, publish clear Q&As about the change, update older pages, and ensure external listings match. Monitor answer engines and note where outdated statements persist.\n\nAssume it takes time and repetition for AI systems to fully reflect new realities, and plan communications accordingly.",
+        "description": "If answer engine results are outdated, publish clear Q&As about the changes, update older pages, and align external listings so multiple trusted sources reflect the new information. Then monitor AI answers and expect a lag as models crawl, reconcile, and gradually replace old understandings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

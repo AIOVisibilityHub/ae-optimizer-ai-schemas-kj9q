@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the real risks of ignoring voice search and AEO, or doing it wrong?",
+  "description": "If you ignore voice search and AEO, AI assistants will keep quoting competitors instead of you. Doing it poorly can lead to wrong hours, locations, or offers be",
+  "url": "aeoptimizer.com/faq/what-are-the-real-risks-of-ignoring-voice-search-and-aeo-or-doing-it-wrong",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the real risks of ignoring voice search and AEO, or doing it wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risk is *being ignored*: if you don’t invest in voice search and AEO, AI assistants will keep pulling answers from competitors who do. There’s also a risk of misconfigured schema or outdated answers causing wrong information to be spoken about your brand.\n\nModern assistants increasingly rely on structured Q&A content and trusted sources, so “doing nothing” is becoming riskier each year.\n\nKey factors:\n- Loss of featured snippets and zero-click visibility to competitors\n- Voice assistants quoting old hours, locations, or offers\n- Schema mistakes leading to rich result or manual action issues\n- Fragmented NAP data across directories confusing local answers\n\nPractically, mitigate risk by keeping your core facts (hours, locations, services, pricing ranges) consistent and current everywhere, and validating schema before deployment. Start with conservative, accurate markup.\n\nIf your brand is sensitive, consider a controlled pilot on a few pages before rolling AEO sitewide.",
+        "description": "If you ignore voice search and AEO, AI assistants will keep quoting competitors instead of you. Doing it poorly can lead to wrong hours, locations, or offers being spoken, and schema mistakes can cause rich result issues. Start small, validate markup, and keep core facts current."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

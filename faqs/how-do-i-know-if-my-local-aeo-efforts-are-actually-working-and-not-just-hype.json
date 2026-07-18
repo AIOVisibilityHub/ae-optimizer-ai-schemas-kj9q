@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my local AEO efforts are actually working and not just hype?",
+  "description": "You’ll know AEO is working when you see more visibility in AI answers and map results AND more calls, bookings, and visits from question-style searches (“who,”",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-local-aeo-efforts-are-actually-working-and-not-just-hype",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my local AEO efforts are actually working and not just hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a local business, AEO success looks like more impressions and clicks from AI overviews, voice searches, and map results—and ultimately more calls, bookings, or store visits.\n\nYou measure it by tracking both visibility and real-world actions.\n\n**Key factors**\n- Growth in Google Business Profile views, calls, and direction requests.\n- Appearance in AI answer panels and “People also ask” style questions.\n- Organic traffic to FAQ and service pages tied to question keywords.\n- Increases in reviews and branded search volume.\n\nUse analytics plus call tracking or booking data to connect AEO changes to actual leads. Watch question-based queries (e.g., “who fixes…” “where can I…” “best near me”) and see how often your business appears.\n\nThe real sign AEO is working is simple: more people say “I found you when I searched for…” and those searches match the questions you optimized for.",
+        "description": "You’ll know AEO is working when you see more visibility in AI answers and map results AND more calls, bookings, and visits from question-style searches (“who,” “where,” “near me”). Track Google Business Profile stats, FAQ page traffic, and leads tied to those queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

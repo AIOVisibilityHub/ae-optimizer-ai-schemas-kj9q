@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up speakable schema and start seeing results?",
+  "description": "You can add speakable schema to a few pages in a day, but it usually takes several days to weeks for search engines and assistants to crawl, index, review, and",
+  "url": "aeoptimizer.com/faq/how-long-does-it-take-to-set-up-speakable-schema-and-start-seeing-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up speakable schema and start seeing results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a typical site, initial speakable implementation on a handful of priority pages can be done in a few hours, but seeing effects in voice or AI surfaces may take several days to weeks.\n\nThe coding itself is straightforward once you pick your snippets and selectors. The longer part of the timeline is crawling and eligibility review by platforms like Google Assistant, which may have onboarding delays before content is considered. You’ll usually see structured data recognition first, then gradual appearance in voice experiences if selected.\n\n**Key factors:**\n- Implementation time: hours for a small batch\n- Crawl and indexing: days to weeks\n- Assistant eligibility review where required\n- Ongoing refinement as you test snippets\n\nPlan a short sprint to implement and validate, then give it at least a couple of weeks before judging results. Track assistant-related metrics and any AI citation behavior during that period.\n\nIf you’re under an urgent deadline, focus on a tiny set of high-impact pages rather than trying to cover your whole site at once.",
+        "description": "You can add speakable schema to a few pages in a day, but it usually takes several days to weeks for search engines and assistants to crawl, index, review, and potentially use your snippets. Implementation is quick; observable impact in voice or AI experiences takes longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

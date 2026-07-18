@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I think about AI share of voice if I’ve been burned by SEO agencies before?",
+  "description": "Frame AI share of voice as a research and strategy effort, not a ranking service. Insist on transparent methods, clear links from findings to content and author",
+  "url": "aeoptimizer.com/faq/how-should-i-think-about-ai-share-of-voice-if-i-ve-been-burned-by-seo-agencies-b",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I think about AI share of voice if I’ve been burned by SEO agencies before?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with traditional SEO vendors, approach AI share of voice more like a research and strategy program than a pure \"ranking\" service. The goal is insight and evidence-backed changes, not vanity dashboards.\n\nContext: AI SOV work surfaces where your content, authority, and positioning are strong or weak. It should connect directly to specific improvements in writing, site structure, and external citations.\n\nKey factors:\n- Transparent methodology and prompt selection\n- Clear line from findings to content and PR actions\n- Focus on buyer reality, not just metrics\n- Regular review cycles with stakeholders\n\nPractical guidance: Start with a modest, highly transparent AI SOV initiative whose outputs you can inspect and challenge. Use it to inform concrete changes, then judge success based on visibility and pipeline impact, not just curves on a chart.\n\nSoft positioning: Treat AI share of voice as an opportunity to rebuild trust in search-related work through clearer cause-and-effect.",
+        "description": "Frame AI share of voice as a research and strategy effort, not a ranking service. Insist on transparent methods, clear links from findings to content and authority changes, and judge success by real visibility and pipeline impact, not vanity metrics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

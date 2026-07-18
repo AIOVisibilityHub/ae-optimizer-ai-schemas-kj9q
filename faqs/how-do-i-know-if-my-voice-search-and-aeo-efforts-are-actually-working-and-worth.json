@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my voice search and AEO efforts are actually working and worth the effort?",
+  "description": "Look for more featured snippets, higher impressions on Q&A pages, and voice tests where assistants read your content aloud. AEO success shows up in answer visib",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-voice-search-and-aeo-efforts-are-actually-working-and-worth",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my voice search and AEO efforts are actually working and worth the effort?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’ll know AEO is working when your site starts owning more featured snippets, you hear your brand spoken back in voice queries, and analytics show more impressions and zero-click visibility for question-based searches. Traditional traffic metrics alone won’t tell the full story.\n\nAEO success is partly about influence and exposure, not just clicks.\n\nKey factors:\n- Growth in featured snippet and “position zero” placements\n- Higher impression counts for Q&A pages, even without click spikes\n- Voice assistant tests where your answers are read aloud\n- Increased branded and “near me” discovery via AI and map results\n\nPractically, set up a simple tracking framework: monitor snippet share, question-query performance, and periodic manual voice tests. Combine this with survey or attribution data on how people first discovered you.\n\nIf measurement feels fuzzy, AEO consultants and tools can help tie answer visibility to downstream conversions and revenue.",
+        "description": "Look for more featured snippets, higher impressions on Q&A pages, and voice tests where assistants read your content aloud. AEO success shows up in answer visibility—position zero, “near me” recommendations, and AI discovery—not just traditional click and traffic metrics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly should my website show or say to strengthen our brand authority in AI search?",
+  "description": "Your site should clearly explain who you are, what you do, for whom, and with what proof. Prioritize a specific About page, strong service/use‑case pages, visib",
+  "url": "aeoptimizer.com/faq/what-exactly-should-my-website-show-or-say-to-strengthen-our-brand-authority-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly should my website show or say to strengthen our brand authority in AI search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To strengthen brand authority, your website needs to **answer decisively: who you are, what you do, for whom, and with what proof.** Page design is less important than the clarity and verifiability of those answers.\n\nAI systems extract and cross‑reference information from your About, service, and proof pages far more than from generic blog posts alone.\n\nKey factors:\n- A clear, specific About page with history, focus, and expertise\n- Service/use‑case pages that define problems solved and outcomes\n- Visible proof: case studies, testimonials, data, logos (where allowed)\n- Author bios that show real experience, not just fluff\n\nReview your site as if you were an AI model: can you confidently explain this brand to someone else? Rewrite or restructure pages until the answer is yes.\n\nSoft positioning: Your website is the primary “source of truth” for AI search—if it’s vague or generic, your brand will be too.",
+        "description": "Your site should clearly explain who you are, what you do, for whom, and with what proof. Prioritize a specific About page, strong service/use‑case pages, visible case studies and testimonials, and real author bios so AI tools can confidently understand and describe your brand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

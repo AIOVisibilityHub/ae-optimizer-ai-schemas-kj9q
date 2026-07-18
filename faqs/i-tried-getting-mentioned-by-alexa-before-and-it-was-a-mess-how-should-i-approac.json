@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I tried getting mentioned by Alexa before and it was a mess—how should I approach it differently now?",
+  "description": "Restart with a small, tightly scoped project. Pick one or two key questions, build a simple Q&A or informational skill around them, and test with real users bef",
+  "url": "aeoptimizer.com/faq/i-tried-getting-mentioned-by-alexa-before-and-it-was-a-mess-how-should-i-approac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I tried getting mentioned by Alexa before and it was a mess—how should I approach it differently now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with a previous Alexa project, start small and test-driven this time. Use a limited-scope Q&A or a simple informational skill, then validate with real users before scaling up.\n\nOften the past issues come from over-complexity or weak testing, not Alexa itself.\n\n**Key factors:**\n- Clarifying exactly what didn’t work last time\n- Choosing a single, clear success metric for the next attempt\n- Limiting scope to just a few high-value questions or flows\n- Building in feedback collection from early users\n\nBegin with one or two top questions you want Alexa to answer perfectly, and design your Q&A or skill solely around those. Invite a small group of trusted users to try it and report confusion points.\n\nTreat this iteration as rebuilding confidence in your voice strategy, step by step.",
+        "description": "Restart with a small, tightly scoped project. Pick one or two key questions, build a simple Q&A or informational skill around them, and test with real users before expanding. Most past problems come from trying to do too much too fast or skipping user testing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

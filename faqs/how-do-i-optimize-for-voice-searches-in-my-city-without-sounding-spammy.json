@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I optimize for voice searches in my city without sounding spammy?",
+  "description": "Use one clear city page, write naturally, and include real local details that help users. Avoid stuffing city names into every sentence.",
+  "url": "aeoptimizer.com/faq/how-do-i-optimize-for-voice-searches-in-my-city-without-sounding-spammy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I optimize for voice searches in my city without sounding spammy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For businesses in San Diego, Austin, Denver, or Salt Lake City, city pages should use local language, local landmarks where relevant, and accurate business details. That helps assistants connect your page to nearby queries instead of generic national searches.",
+        "description": "Use one clear city page, write naturally, and include real local details that help users. Avoid stuffing city names into every sentence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

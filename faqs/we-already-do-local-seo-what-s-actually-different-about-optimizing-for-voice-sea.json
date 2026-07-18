@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We already do local SEO—what’s actually different about optimizing for voice search compared to regular local search?",
+  "description": "Voice search optimization builds on local SEO but emphasizes conversational, question‑based content, concise answers, FAQ and LocalBusiness schema, and highly c",
+  "url": "aeoptimizer.com/faq/we-already-do-local-seo-what-s-actually-different-about-optimizing-for-voice-sea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We already do local SEO—what’s actually different about optimizing for voice search compared to regular local search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Even if your local SEO is decent, voice search adds requirements: more conversational content, stronger FAQ structure, and better alignment with “near me” and question‑style queries. Traditional keyword‑stuffed pages rarely perform well when read aloud.\n\nAssistants favor content that answers specific questions clearly in one short paragraph and profiles with complete, consistent local data. You may need to reshape how information appears, not just what keywords you target.\n\nKey factors:\n- Question‑based headings and concise 40–60 word answers\n- LocalBusiness and FAQ schema markup\n- Natural, spoken‑style text (not just keyword lists)\n- Consistent, rich profiles across Google, Apple, Yelp, Bing\n\nAudit your current SEO pages and ask: “If this were read aloud, would it sound helpful or awkward?” Rewrite key sections with a conversational tone and direct answers.\n\nIf your agency only reports rankings for typed keywords, push them to include voice‑style queries and FAQs or find someone who understands this layer.",
+        "description": "Voice search optimization builds on local SEO but emphasizes conversational, question‑based content, concise answers, FAQ and LocalBusiness schema, and highly consistent local profiles. It’s less about keyword lists and more about being the clearest spoken answer to “near me” and question‑style queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’ve been burned by SEO/content agencies before—how should we approach brand authority in AI search differently this time?",
+  "description": "Lead with strategy and proof instead of chasing rankings. Define clear positioning and non‑negotiable honesty, run small pilots focused on tightening key pages,",
+  "url": "aeoptimizer.com/faq/we-ve-been-burned-by-seo-content-agencies-before-how-should-we-approach-brand-au",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’ve been burned by SEO/content agencies before—how should we approach brand authority in AI search differently this time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with SEO or content vendors, approach AI brand authority with a **strategy‑first, transparency‑focused mindset.** You control the narrative; vendors should help you document and distribute it, not invent it.\n\nPast disappointment often came from chasing rankings instead of building verifiable expertise and clarity.\n\nKey factors:\n- Define your non‑negotiables: honesty in claims, proof for every major assertion\n- Start small with pilots that tighten positioning and improve key pages\n- Require clear measurement: AI citations, branded search, and review growth\n- Insist on reusable assets (case studies, FAQs) rather than disposable articles\n\nUse your prior experience as criteria: look for partners who talk about authority architecture, proof points, and AI narrative accuracy, not just traffic. Keep ownership of your brand voice and validation.\n\nSoft positioning: A disciplined, evidence‑driven approach to AI authority can turn a frustrating history with SEO into a more durable competitive advantage.",
+        "description": "Lead with strategy and proof instead of chasing rankings. Define clear positioning and non‑negotiable honesty, run small pilots focused on tightening key pages, measure AI citations and branded search, and insist on reusable proof‑based assets rather than disposable keyword articles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

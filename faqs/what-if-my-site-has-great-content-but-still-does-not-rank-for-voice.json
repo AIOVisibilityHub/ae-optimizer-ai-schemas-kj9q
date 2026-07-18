@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my site has great content but still does not rank for voice?",
+  "description": "Technical issues may be holding it back. Check mobile speed, page structure, schema, and whether the page actually answers the query in the first few lines.",
+  "url": "aeoptimizer.com/faq/what-if-my-site-has-great-content-but-still-does-not-rank-for-voice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my site has great content but still does not rank for voice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Weak mobile performance can block results even if the content is good. Voice-driven searches often happen on phones, so slow load times, cluttered layouts, and heavy scripts can reduce the chance of selection.",
+        "description": "Technical issues may be holding it back. Check mobile speed, page structure, schema, and whether the page actually answers the query in the first few lines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

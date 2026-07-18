@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When does it make sense to hire a voice search and AEO specialist instead of trying to DIY it?",
+  "description": "Hire an AEO specialist when your site is complex, you lack schema and analytics skills, or you need to coordinate efforts across multiple locations. DIY is fine",
+  "url": "aeoptimizer.com/faq/when-does-it-make-sense-to-hire-a-voice-search-and-aeo-specialist-instead-of-try",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does it make sense to hire a voice search and AEO specialist instead of trying to DIY it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should hire professional help when you lack in‑house schema skills, don’t have capacity to research questions deeply, or need to coordinate AEO across multiple locations and teams. DIY can work for small pilots, but complex sites benefit from expert planning.\n\nThe biggest value is often avoiding missteps and wasted effort, not just technical execution.\n\nKey factors:\n- Site size and number of services/locations\n- Internal comfort with JSON-LD, validation, and analytics\n- Need for custom reporting on voice and snippet performance\n- Strategic questions about positioning and content priorities\n\nPractically, start by defining what success looks like (snippets, voice queries, conversions) and then decide whether you can realistically deliver that internally. Use experts for architecture and implementation if the gap is large.\n\nIf you’re unsure, a limited-scope AEO audit or starter engagement can clarify where professional support adds the most value.",
+        "description": "Hire an AEO specialist when your site is complex, you lack schema and analytics skills, or you need to coordinate efforts across multiple locations. DIY is fine for small pilots, but experts help design scalable frameworks, avoid mistakes, and tie voice visibility to business outcomes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

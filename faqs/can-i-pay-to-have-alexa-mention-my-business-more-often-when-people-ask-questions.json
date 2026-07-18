@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I pay to have Alexa mention my business more often when people ask questions?",
+  "description": "No, you can’t pay Amazon to have Alexa casually name-drop your business in normal answers. Budget helps indirectly: build an Alexa skill, optimize your Amazon l",
+  "url": "aeoptimizer.com/faq/can-i-pay-to-have-alexa-mention-my-business-more-often-when-people-ask-questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I pay to have Alexa mention my business more often when people ask questions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There’s no way to pay Amazon to get Alexa to mention your business by name in regular answers, but you *can* invest in Alexa skills, optimized Amazon listings, and marketing that increase how often Alexa surfaces your brand. Paid voice ads exist, but they’re limited and controlled by Amazon.\n\nAlexa prioritizes helpful, relevant content and its own ecosystem (skills, Amazon shopping, music, etc.). Budget can help you build and optimize those assets, but not buy arbitrary mentions in general Q&A.\n\n**Key factors:**\n- No “pay to be mentioned” switch for normal Alexa queries\n- Budget helps with skill development, listing optimization, and promotion\n- Amazon tightly controls voice ad formats\n- Organic relevance and reviews still matter most\n\nIf you have budget, invest in a well-designed Alexa skill, high-quality and fully-optimized Amazon product listings, and gathering authentic reviews using natural language customers use with voice. Consider voice SEO as part of your broader marketing mix, not a standalone pay-for-mention solution.\n\nFor serious brand goals, it’s usually worth working with people experienced in voice UX and Alexa’s ecosystem.",
+        "description": "No, you can’t pay Amazon to have Alexa casually name-drop your business in normal answers. Budget helps indirectly: build an Alexa skill, optimize your Amazon listings, and grow real reviews so Alexa has good, relevant content to surface when users make related voice requests."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

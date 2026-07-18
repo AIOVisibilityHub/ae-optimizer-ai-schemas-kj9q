@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do answer engines decide which sources to cite in their results?",
+  "description": "Answer engines choose sources based on relevance to the question, authority and trust, corroboration across other sites, freshness of the content, and technical",
+  "url": "aeoptimizer.com/faq/how-do-answer-engines-decide-which-sources-to-cite-in-their-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do answer engines decide which sources to cite in their results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer engines decide which sources to cite in results by weighing relevance to the question, authority of the publisher, corroboration across other sites, freshness, and technical signals like schema markup and site performance. They aim to choose trustworthy, well-structured answers that match the user’s intent.\n\nInstead of just counting keywords, answer engines evaluate how well a page directly answers the query and whether other credible sites support that information. Machine-readable structure makes this easier and increases your chances of being selected.\n\nKey factors:\n- Clear question-and-answer formatting in natural language\n- Recognized schema types (FAQPage, HowTo, Organization, Article)\n- Demonstrated expertise and external validation (citations, mentions)\n- Fast, mobile-friendly pages with good UX\n\nPractically, write like you’re replying to a customer email, then mark up that content so machines can parse it. Review which pages currently get cited and double down on those patterns.\n\nIf your content looks trustworthy and answer-ready, answer engines are far more likely to feature it.",
+        "description": "Answer engines choose sources based on relevance to the question, authority and trust, corroboration across other sites, freshness of the content, and technical signals like schema markup and page performance. They favor clearly structured, conversational answers that directly match the user’s intent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

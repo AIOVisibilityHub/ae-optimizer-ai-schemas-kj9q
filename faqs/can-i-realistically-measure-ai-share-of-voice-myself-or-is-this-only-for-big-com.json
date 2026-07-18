@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I realistically measure AI share of voice myself, or is this only for big companies?",
+  "description": "You can absolutely start by measuring AI share of voice yourself. Use a small set of high-intent prompts, test them in a few AI engines, log mentions and citati",
+  "url": "aeoptimizer.com/faq/can-i-realistically-measure-ai-share-of-voice-myself-or-is-this-only-for-big-com",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I realistically measure AI share of voice myself, or is this only for big companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can absolutely start by measuring share of voice in AI search yourself. Manual testing across a handful of prompts and engines is enough to uncover whether you’re invisible, underrepresented, or competitive.\n\nContext: Specialized tools help with scale and nuance, but a DIY approach is valuable for learning the basics, aligning stakeholders, and proving the concept before investing heavily.\n\nKey factors:\n- Limited, well-chosen prompt set\n- Careful logging of brand mentions and citations\n- Clear competitor definitions\n- Time set aside for analysis and follow-through\n\nPractical guidance: Treat your first DIY run as a discovery project. Focus on what patterns you see—where you appear, how you’re described, and where competitors dominate—and derive 5–10 concrete improvements from that.\n\nSoft positioning: Think of DIY AI share of voice measurement as the on-ramp to a more mature, tool-assisted program later.",
+        "description": "You can absolutely start by measuring AI share of voice yourself. Use a small set of high-intent prompts, test them in a few AI engines, log mentions and citations in a spreadsheet, and focus on the patterns you uncover before investing in tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a small business compete for Siri results without a big SEO budget?",
+  "description": "Yes. Small businesses can win with accurate data and focused, high-quality answer pages.",
+  "url": "aeoptimizer.com/faq/can-a-small-business-compete-for-siri-results-without-a-big-seo-budget",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a small business compete for Siri results without a big SEO budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but the priorities are different. For a small business, accurate local data and a few strong answer pages often beat a large content project. If you are short on budget, focus on the pages and listings that directly answer customer questions in your target cities.",
+        "description": "Yes. Small businesses can win with accurate data and focused, high-quality answer pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

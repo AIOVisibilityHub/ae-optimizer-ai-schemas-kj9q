@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I structure AEO if my local business offers multiple services and some are online, some are in-person?",
+  "description": "Create separate, clearly named service pages and attach Service schema to each, linking them to your LocalBusiness data. Answer common questions per service—pri",
+  "url": "aeoptimizer.com/faq/how-should-i-structure-aeo-if-my-local-business-offers-multiple-services-and-som",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I structure AEO if my local business offers multiple services and some are online, some are in-person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you run a hybrid business (online plus local, or multiple service lines), define clear service pages and attach Service schema to each, so answer engines can match specific queries to the right offering.\n\nGeneric, blended pages confuse both users and AI.\n\n**Key factors**\n- Separate pages for major services, each with its own Q&A.\n- Service schema describing what, where, and for whom the service is.\n- Links between LocalBusiness schema and relevant services.\n- Consistent naming of services across your site and profiles.\n\nMap your top services and align content, schema, and GBP services fields to them. Answer common questions (pricing, timing, coverage, limitations) on each page.\n\nThis clarity lets answer engines recommend the right part of your business for each local question instead of lumping everything into one vague listing.",
+        "description": "Create separate, clearly named service pages and attach Service schema to each, linking them to your LocalBusiness data. Answer common questions per service—pricing, timing, coverage—so answer engines can route specific local queries to the correct offering instead of a generic page."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

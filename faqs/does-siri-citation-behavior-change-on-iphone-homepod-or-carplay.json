@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Siri citation behavior change on iPhone, HomePod, or CarPlay?",
+  "description": "Yes. Siri’s behavior depends on the device and its settings.",
+  "url": "aeoptimizer.com/faq/does-siri-citation-behavior-change-on-iphone-homepod-or-carplay",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Siri citation behavior change on iPhone, HomePod, or CarPlay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It can matter if your customers use Siri on iPhone, HomePod, CarPlay, or Apple Watch, because the interaction style changes by device. Apple supports Siri across those devices, and voice responses or typed interactions may differ depending on settings and platform. If your audience is mostly hands-free users, concise spoken answers matter more.",
+        "description": "Yes. Siri’s behavior depends on the device and its settings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

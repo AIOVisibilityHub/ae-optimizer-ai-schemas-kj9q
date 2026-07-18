@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I approach AI share of voice if my budget is really tight?",
+  "description": "Run a lean, manual audit on 20–40 high-intent prompts across a few AI engines, log brand mentions in a spreadsheet, and use the findings to prioritize a small s",
+  "url": "aeoptimizer.com/faq/how-should-i-approach-ai-share-of-voice-if-my-budget-is-really-tight",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I approach AI share of voice if my budget is really tight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With a limited budget, the smartest move is to start with a lean, manual AI share of voice audit on your most important prompts. Don’t chase perfect coverage—focus on high-intent questions where visibility will actually affect revenue.\n\nContext: You don’t need expensive tools to learn whether you’re invisible in AI answers. A small set of prompts and competitors can still surface big gaps in content and authority.\n\nKey factors:\n- Narrow prompt set (20–40 high-intent questions)\n- Manual runs in 3–4 major AI engines\n- Simple spreadsheet logging mentions and citations\n- Clear prioritization of fixes based on findings\n\nPractical guidance: Use this compact audit to identify 5–10 concrete content or authority improvements, ship those, then re-measure. Only explore tooling once you’ve proven that closing these gaps moves your AI SOV.\n\nSoft positioning: Treat budget constraints as a forcing function to focus on the few AI conversations that matter most.",
+        "description": "Run a lean, manual audit on 20–40 high-intent prompts across a few AI engines, log brand mentions in a spreadsheet, and use the findings to prioritize a small set of high-impact content and authority improvements before buying any tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

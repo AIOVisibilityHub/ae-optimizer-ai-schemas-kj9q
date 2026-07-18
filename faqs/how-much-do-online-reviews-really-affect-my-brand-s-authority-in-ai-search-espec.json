@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do online reviews really affect my brand’s authority in AI search, especially for local customers in LA or Austin?",
+  "description": "Reviews are critical: they provide independent, structured proof that people trust you. For local markets like LA and Austin, steady, specific reviews on key pl",
+  "url": "aeoptimizer.com/faq/how-much-do-online-reviews-really-affect-my-brand-s-authority-in-ai-search-espec",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do online reviews really affect my brand’s authority in AI search, especially for local customers in LA or Austin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reviews matter because they’re **independent, structured proof** that real people trust you—exactly the kind of signal AI systems want. It’s not just the star rating; it’s volume, recency, and specificity.\n\nIn cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City, local discovery still runs heavily through review platforms and Google profiles, which feed into AI models and knowledge graphs.\n\nKey factors:\n- Consistent profiles with matching name, address, and category\n- Steady review growth over time, not one big spike\n- Detailed reviews that mention outcomes, use cases, and locations\n- Active responses that show you engage and resolve issues\n\nMake review generation a weekly habit: ask after successful projects, make leaving a review simple, and gently prompt customers to be specific about the problem solved. Monitor how those reviews change the way AI tools describe you for local queries.\n\nSoft positioning: Treat reviews as an ongoing authority asset, not a one‑time campaign; they compound in both human trust and AI recognition.",
+        "description": "Reviews are critical: they provide independent, structured proof that people trust you. For local markets like LA and Austin, steady, specific reviews on key platforms heavily influence both human discovery and how AI tools rank and describe your brand in local‑style answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

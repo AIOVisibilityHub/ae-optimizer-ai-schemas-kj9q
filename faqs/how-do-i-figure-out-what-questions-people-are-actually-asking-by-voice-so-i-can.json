@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I figure out what questions people are actually asking by voice so I can write the right content?",
+  "description": "Listen to how your customers talk on the phone and in person and turn those questions into FAQs. Then use tools like AnswerThePublic or AlsoAsked to find longer",
+  "url": "aeoptimizer.com/faq/how-do-i-figure-out-what-questions-people-are-actually-asking-by-voice-so-i-can",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I figure out what questions people are actually asking by voice so I can write the right content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with your own customers: note how they ask questions on the phone and in person, and turn those into written FAQs. Then use tools like AnswerThePublic or AlsoAsked to find longer, question‑based phrases that match voice behavior.\n\nThe goal is to capture natural, conversational queries like “How much does it cost to…” rather than short keyword strings. The more your content mirrors real speech, the better assistants can match it to voice searches.\n\nKey factors:\n- Listen to actual phrasing customers use (record or write it down)\n- Look for “who, what, when, where, how” questions about your services\n- Use question‑finding tools to expand your list\n- Group similar questions and answer each clearly in 40–60 words\n\nSchedule a monthly review of customer emails, chats, and reviews to extract new questions and add them to your FAQ content. Aim for depth—20–50 solid Q&As over time beat a thin, generic page.\n\nIf you’re short on time, prioritize questions directly tied to buying decisions (pricing, availability, “near me,” and “open now”).",
+        "description": "Listen to how your customers talk on the phone and in person and turn those questions into FAQs. Then use tools like AnswerThePublic or AlsoAsked to find longer, question‑style phrases. Prioritize “who, what, when, where, how” questions and answer them clearly in 40–60 words."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

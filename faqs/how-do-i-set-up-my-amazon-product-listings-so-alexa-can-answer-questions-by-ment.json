@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I set up my Amazon product listings so Alexa can answer questions by mentioning my brand?",
+  "description": "Optimize your listings for voice: clear titles with brand and use case, full attributes, specific bullet points, and detailed customer reviews. Alexa pulls from",
+  "url": "aeoptimizer.com/faq/how-do-i-set-up-my-amazon-product-listings-so-alexa-can-answer-questions-by-ment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I set up my Amazon product listings so Alexa can answer questions by mentioning my brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you want Alexa to answer product questions by mentioning your brand, your Amazon listings need to be clean, complete, and aligned with the questions people ask. Alexa leans heavily on structured data and reviews when answering shopping-style queries.\n\nThink of your listing as a voice-friendly FAQ and spec sheet combined.\n\n**Key factors:**\n- Clear titles that include the product, brand, and key use case\n- Fully filled attributes (size, material, compatibility, etc.)\n- Bullet points that name specific problems solved\n- Reviews that mention the scenarios you care about\n\nRewrite your titles and bullets with real questions in mind (“Is this good for…?”) and avoid vague adjectives. Encourage customers to leave detailed, honest reviews that mention how they use the product.\n\nOver time, Alexa will have richer signals to match shopper questions to your brand.",
+        "description": "Optimize your listings for voice: clear titles with brand and use case, full attributes, specific bullet points, and detailed customer reviews. Alexa pulls from this data to answer shopping questions, so the clearer and more complete your listing, the more likely your brand is mentioned."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

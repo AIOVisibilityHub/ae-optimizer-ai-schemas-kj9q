@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I keep hearing about local AEO—what’s the very first thing I should do for my business?",
+  "description": "First, run a **simple local audit**: verify your Google Business Profile, fix any NAP inconsistencies across listings, and write short, direct answers to your t",
+  "url": "aeoptimizer.com/faq/i-keep-hearing-about-local-aeo-what-s-the-very-first-thing-i-should-do-for-my-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I keep hearing about local AEO—what’s the very first thing I should do for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a **short, focused audit**: check your Google Business Profile, NAP consistency, main service pages, and whether you have any answer-ready FAQs that match how people actually ask questions.\n\nYou don’t need software on day one; you need clarity on what’s broken or missing. From there you can decide whether to use tools like AE Optimizer or similar platforms to scale.\n\n**Key factors** \n- Is your Google Business Profile fully filled out and accurate? \n- Do your website and listings share the same name, address, phone and categories? \n- Do you already have helpful FAQs that answer common local questions? \n- Do you have a way to measure leads and calls from local and AI search?\n\nPractically, block 2–3 hours to review your profiles, fix obvious inconsistencies, and list the top 10 questions customers ask you. Turn those into short, direct answers on your site and profiles. Only then worry about advanced schema or automation.\n\nA simple, honest baseline audit beats buying tools you’re not ready to use yet.",
+        "description": "First, run a **simple local audit**: verify your Google Business Profile, fix any NAP inconsistencies across listings, and write short, direct answers to your top 10 customer questions on your site. That foundation makes any later local AEO tools or services much more effective."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

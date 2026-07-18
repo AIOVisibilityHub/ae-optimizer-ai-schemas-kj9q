@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I do voice assistant optimization on a limited budget?",
+  "description": "Yes. Start with your highest-value pages, rewrite the answers, and add basic schema before investing in larger content work.",
+  "url": "aeoptimizer.com/faq/can-i-do-voice-assistant-optimization-on-a-limited-budget",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I do voice assistant optimization on a limited budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you want a low-budget path, begin with the pages that already get traffic and rewrite the top questions first. Then add free or low-cost schema updates, improve mobile speed, and measure the impact before expanding.",
+        "description": "Yes. Start with your highest-value pages, rewrite the answers, and add basic schema before investing in larger content work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

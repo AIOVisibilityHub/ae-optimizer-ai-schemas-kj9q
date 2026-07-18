@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I run a local business in Los Angeles—how can I get Alexa to mention us when people nearby ask for what we do?",
+  "description": "You can’t force Alexa to promote you, but you can create a local-focused Alexa skill and keep your business data and Amazon listings fully optimized. Use a clea",
+  "url": "aeoptimizer.com/faq/i-run-a-local-business-in-los-angeles-how-can-i-get-alexa-to-mention-us-when-peo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I run a local business in Los Angeles—how can I get Alexa to mention us when people nearby ask for what we do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a local business in Los Angeles, the most realistic way to get mentioned by Alexa is through an Alexa skill plus fully optimized Amazon listings and profiles. Alexa doesn’t do city-specific shoutouts unless a skill or content requires it.\n\nYour goal is to be the best, most relevant result when LA users ask for something in your niche. That’s a mix of voice UX, local data, and solid reviews.\n\n**Key factors:**\n- Clear skill name that matches what LA customers actually say\n- Accurate location info and hours in your skill and listings\n- Rich reviews mentioning local use cases\n- Consistent data across Google, Amazon, and other platforms\n\nBuild an Alexa skill that answers local questions (hours, services, booking) and reference “Los Angeles” naturally where it matters. Keep your Amazon and maps data fully up to date so Alexa has reliable sources to draw from.\n\nIf LA is a major market, it can be worth partnering with someone who understands both local SEO and voice UX.",
+        "description": "You can’t force Alexa to promote you, but you can create a local-focused Alexa skill and keep your business data and Amazon listings fully optimized. Use a clear skill name, correct Los Angeles details, and strong reviews so Alexa has reliable, relevant info to surface for nearby voice queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

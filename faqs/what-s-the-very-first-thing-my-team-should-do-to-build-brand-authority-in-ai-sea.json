@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the very first thing my team should do to build brand authority in AI search without getting overwhelmed?",
+  "description": "Start with a brand authority audit, not new content. Define what you want to be known for, review your core pages for clarity and proof, check how AI tools curr",
+  "url": "aeoptimizer.com/faq/what-s-the-very-first-thing-my-team-should-do-to-build-brand-authority-in-ai-sea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the very first thing my team should do to build brand authority in AI search without getting overwhelmed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best place to start is a **brand authority audit**: clarify what you want to be known for, then check whether the web (and AI tools) currently support that story. You can do this in a week without buying new software.\n\nMost teams jump straight into new content, but AI search rewards clarity and proof more than volume. Fixing your positioning and existing signals usually moves the needle faster than publishing 50 new blog posts.\n\nKey factors:\n- Define your primary category, ideal customer, and top 5–10 buyer prompts\n- Audit your website’s About, service, and proof pages for clarity and evidence\n- Check how AI tools currently describe or ignore your brand\n- Identify missing third‑party validation (reviews, directories, mentions)\n\nPractically, block 2–3 short working sessions: one to map your desired authority, one to audit your site and external profiles, and one to list very specific fixes. Prioritize changes that make your brand easier to understand and verify. \n\nSoft positioning: You don’t need a full “AI strategy” to start—just a structured way to align what you claim with what the web can confirm.",
+        "description": "Start with a brand authority audit, not new content. Define what you want to be known for, review your core pages for clarity and proof, check how AI tools currently describe you, and identify missing reviews and third‑party validation. Fixing existing signals usually beats publishing more pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

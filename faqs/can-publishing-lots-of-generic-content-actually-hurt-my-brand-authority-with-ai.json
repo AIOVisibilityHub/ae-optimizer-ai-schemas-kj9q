@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can publishing lots of generic content actually hurt my brand authority with AI search engines?",
+  "description": "Yes. Low‑quality, generic content can weaken your brand authority by adding vague, unverified signals. AI models prefer clear, structured, proof‑rich pages. Aud",
+  "url": "aeoptimizer.com/faq/can-publishing-lots-of-generic-content-actually-hurt-my-brand-authority-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can publishing lots of generic content actually hurt my brand authority with AI search engines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long, generic blog posts can **hurt** brand authority in AI search if they dilute your expertise and introduce vague or unverified claims. Volume without clarity makes your brand harder for models to trust.\n\nAI engines prefer concise, structured, evidence‑backed explanations over sprawling, repetitive content. If most of your pages say similar things with little proof, they’re noise, not signals.\n\nKey factors:\n- Overlapping topics with no clear differentiation or buyer focus\n- Assertions without data, examples, or links to source material\n- Poor structure (no headings, tables, or FAQs) that’s hard to parse\n- Content written for algorithms, not real decision‑makers\n\nAudit your content library and flag pieces that don’t add unique, verifiable value. Merge, rewrite, or remove weak pages and concentrate authority into stronger, proof‑rich resources.\n\nSoft positioning: Treat every page as an authority asset that must earn its place by helping AI engines—and real buyers—confidently understand and trust you.",
+        "description": "Yes. Low‑quality, generic content can weaken your brand authority by adding vague, unverified signals. AI models prefer clear, structured, proof‑rich pages. Audit and consolidate weak content so each page genuinely helps buyers and reinforces a trustworthy, expert brand narrative."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

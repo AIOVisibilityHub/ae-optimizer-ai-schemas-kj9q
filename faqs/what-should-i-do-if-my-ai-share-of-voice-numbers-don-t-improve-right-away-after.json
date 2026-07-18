@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if my AI share of voice numbers don’t improve right away after I optimize?",
+  "description": "Expect a lag: AI models and indexes update on their own schedules, and authority signals take time to compound. Measure on set intervals (e.g., quarterly), trac",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-my-ai-share-of-voice-numbers-don-t-improve-right-away-after",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my AI share of voice numbers don’t improve right away after I optimize?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your share of voice in AI search doesn’t improve immediately after making changes, that’s normal. AI models update on their own schedules, and external citations and authority signals take time to propagate.\n\nContext: Unlike ad campaigns, AI SOV responds to underlying web and usage signals, which can lag weeks or months. Short-term volatility is possible, but you’re playing an evidence-compounding game.\n\nKey factors:\n- AI model retrain and refresh cycles\n- Indexing delays for new or updated content\n- Time for new citations and reviews to be discovered\n- Prompt and engine variability over time\n\nPractical guidance: Set clear measurement windows (e.g., quarterly), document what changed between runs, and watch trends rather than expecting overnight jumps. If 2–3 cycles pass with no movement, revisit your assumptions and inputs.\n\nSoft positioning: Treat delayed AI SOV results as a signal to refine your strategy, not as proof that the work isn’t valuable.",
+        "description": "Expect a lag: AI models and indexes update on their own schedules, and authority signals take time to compound. Measure on set intervals (e.g., quarterly), track changes, and adjust only if multiple cycles show no meaningful movement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

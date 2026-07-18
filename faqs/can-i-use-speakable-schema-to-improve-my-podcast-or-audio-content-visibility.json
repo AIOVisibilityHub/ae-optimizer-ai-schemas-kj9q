@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use speakable schema to improve my podcast or audio content visibility?",
+  "description": "Speakable schema doesn’t control podcast playback or feeds; it marks short text snippets on web pages for text-to-speech. You can use it on episode show notes t",
+  "url": "aeoptimizer.com/faq/can-i-use-speakable-schema-to-improve-my-podcast-or-audio-content-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use speakable schema to improve my podcast or audio content visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, speakable schema is not currently a way to mark entire podcasts or long-form audio; it’s meant to flag short text snippets on web pages for text-to-speech.\n\nIt can complement audio by pointing assistants to a concise textual summary of an episode or article that they can read before, after, or instead of playing full audio. But the schema itself doesn’t control podcast playback, feeds, or players—that’s handled by other standards and integrations.\n\n**Key factors:**\n- Designed for short textual snippets, not full audio streams\n- Doesn’t replace podcast-specific tags or feeds\n- Useful for episode summaries and show notes pages\n- May help voice assistants present context around your audio\n\nIf you have podcasts, consider using speakable on your episode show note pages to mark the best descriptive summary or key takeaways. Keep using podcast-specific standards (RSS tags, platform tools) for audio distribution.\n\nThink of speakable as an accessory to your audio strategy, not a replacement for it.",
+        "description": "Speakable schema doesn’t control podcast playback or feeds; it marks short text snippets on web pages for text-to-speech. You can use it on episode show notes to highlight a spoken summary or key takeaways, but you still need podcast-specific standards for audio distribution."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does a JavaScript-heavy site make speakable schema harder or riskier to use?",
+  "description": "JavaScript-heavy sites can safely use speakable schema, but you must ensure the JSON-LD appears in the fully rendered HTML and that your selectors stay stable.",
+  "url": "aeoptimizer.com/faq/does-a-javascript-heavy-site-make-speakable-schema-harder-or-riskier-to-use",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does a JavaScript-heavy site make speakable schema harder or riskier to use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your site uses a JavaScript-heavy framework, speakable schema must be added in a way that survives rendering and is visible in the final HTML seen by crawlers.\n\nThat usually means injecting JSON-LD in server-rendered templates or using trusted schema injection methods that ensure the markup appears in the DOM after rendering. You also need stable selectors for the speakable text—dynamic IDs or frequently changing components can break references. Testing with tools that fetch rendered HTML is essential.\n\n**Key factors:**\n- Prefer server-side or hybrid rendering for reliability\n- Ensure JSON-LD is visible in rendered DOM\n- Avoid dynamic, unstable selectors for speakable elements\n- Validate using tools that support JavaScript rendering\n\nCoordinate between your front-end developers and SEO team to choose where and how speakable JSON-LD is inserted. After deployment, run tests that fetch rendered pages, not just raw source.\n\nIn JS-heavy stacks, robust implementation matters more than in simple static sites.",
+        "description": "JavaScript-heavy sites can safely use speakable schema, but you must ensure the JSON-LD appears in the fully rendered HTML and that your selectors stay stable. Prefer server-side or hybrid rendering where possible, and test with tools that see the rendered DOM, not just the raw source."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

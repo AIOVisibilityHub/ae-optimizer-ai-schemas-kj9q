@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How important are reviews for local AEO, and what kind of reviews help the most?",
+  "description": "Reviews are **critical local AEO signals**. AI systems use them as proof of real, local usage and trust. The best reviews mention specific services, outcomes, a",
+  "url": "aeoptimizer.com/faq/how-important-are-reviews-for-local-aeo-and-what-kind-of-reviews-help-the-most",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How important are reviews for local AEO, and what kind of reviews help the most?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reviews affect local AEO because they’re **public, machine-readable proof** that real people use and trust you in a specific area. Quantity helps, but recency, detail, and locality cues matter more than raw volume.\n\nAI systems can parse review text for topics, sentiment, and place names, strengthening your entity profile.\n\n**Key factors** \n- Steady, ongoing review generation instead of rare bursts. \n- Mentions of specific services, outcomes, and cities or neighborhoods. \n- Balanced, authentic feedback (not obviously manufactured). \n- Your responses, which show attentiveness and clarify service details.\n\nBuild simple, repeatable review requests into your processes: after a successful job, send a link and ask for a few specifics (service, location, what went well). Never script reviews, but do guide what details are helpful.\n\nFor local AEO, reviews are both social proof and structured signals; treat them as core data, not just reputational icing.",
+        "description": "Reviews are **critical local AEO signals**. AI systems use them as proof of real, local usage and trust. The best reviews mention specific services, outcomes, and locations, arrive steadily over time, and prompt you to respond thoughtfully, reinforcing your entity’s clarity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

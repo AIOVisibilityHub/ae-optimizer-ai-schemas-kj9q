@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if my AI share of voice numbers look obviously wrong or skewed?",
+  "description": "Audit your setup first: re-check prompts, competitor coverage, and how you’re counting mentions and citations. Most strange AI share of voice results come from",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-my-ai-share-of-voice-numbers-look-obviously-wrong-or-skewed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my AI share of voice numbers look obviously wrong or skewed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When AI search share of voice results look wrong or surprising, first check your inputs—prompt universe, competitor list, and data collection—before assuming the models are \"broken.\" Most issues come from measurement design rather than the AI itself.\n\nContext: Narrow prompts, missing competitors, or inconsistent test conditions can skew results. So can counting only mentions without considering prominence or citations.\n\nKey factors:\n- Prompt bias (too many branded or low-intent queries)\n- Incomplete competitor coverage\n- Variability in test environment and model versions\n- Oversimplified metrics (mentions only, no positioning)\n\nPractical guidance: Run spot checks on surprising prompts, expand your competitor list, and add at least basic positioning and citation scoring. If anomalies persist after cleaning the inputs, then investigate AI behavior.\n\nSoft positioning: Treat weird AI SOV results as a nudge to tighten your methodology before questioning the whole concept.",
+        "description": "Audit your setup first: re-check prompts, competitor coverage, and how you’re counting mentions and citations. Most strange AI share of voice results come from flawed inputs or methods, not the underlying models themselves."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I make Alexa say my name on command on my Echo at home?",
+  "description": "Yes. Use Alexa Blueprints’ Custom Q&A or a routine with a custom response. In the Alexa app, create a question whose answer includes your name, or set a routine",
+  "url": "aeoptimizer.com/faq/can-i-make-alexa-say-my-name-on-command-on-my-echo-at-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I make Alexa say my name on command on my Echo at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The easiest way to get Alexa to say your name on your own devices is to use Custom Q&A (Blueprints) or a simple routine with a custom response. You don’t need coding skills for either.\n\nThis works on the Echo devices tied to your Amazon account and is perfect for fun shoutouts, reminders, or branded phrases at home or in an office. It won’t affect how Alexa answers other people globally.\n\n**Key factors:**\n- You must control the Alexa account for those devices\n- Blueprints Q&A lets you set fixed question→answer pairs\n- Routines let you trigger a custom phrase via voice or schedule\n- Changes only apply to your account’s devices\n\nIn the Alexa app, go to More > See More > Blueprints > Custom Q&A and create a question whose answer includes your name. Alternatively, set up a routine that triggers a “Custom phrase” response. Test by asking Alexa the exact question or running the routine.\n\nTreat this as a personalized experience, not public recognition by Amazon.",
+        "description": "Yes. Use Alexa Blueprints’ Custom Q&A or a routine with a custom response. In the Alexa app, create a question whose answer includes your name, or set a routine with a “Custom phrase” response so Alexa says your name whenever you trigger it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
