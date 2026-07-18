@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/where-in-my-codebase-should-i-handle-per-page-json-ld-generation-so-it-doesn-t-b",
+  "name": "Where in my codebase should I handle per-page JSON-LD generation so it doesn’t become a mess over time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Where in my codebase should I handle per-page JSON-LD generation so it doesn’t become a mess over time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanest approach is to centralize JSON-LD templates near each page’s metadata, usually in the `<head>` via your framework’s SEO or layout components. Keep generation logic in code, not in scattered HTML fragments.\n\nThis makes per-page schema easier to maintain, version, and test.\n\nKey factors:\n- **Framework conventions:** Use Next.js `Head`, React Helmet, or layout components.\n- **Single source of truth:** Derive schema from the same data powering titles and content.\n- **Environment safety:** Avoid injecting schema via client-only scripts when SSR is available.\n- **Debuggability:** Ensure rendered HTML shows the final JSON-LD without extra JS.\n\nAdd a simple utility function like `buildSchemaForPage(pageType, data)` and call it from each template, outputting a single `<script type=\"application/ld+json\">` block.\n\nThis keeps per-page JSON-LD scalable as your site and tech stack evolve.",
+        "@type": "Answer",
+        "description": "Centralize per-page JSON-LD in your layout/SEO components, usually rendering a single `<script type=\"application/ld+json\">` in the `<head>` that’s generated from page data. Avoid scattering hard-coded snippets in templates; instead, use a shared function that builds the right schema based on page type and content."
+      }
+    }
+  ],
+  "description": "Centralize per-page JSON-LD in your layout/SEO components, usually rendering a single `<script type=\"application/ld+json\">` in the `<head>` that’s generated fro"
+}

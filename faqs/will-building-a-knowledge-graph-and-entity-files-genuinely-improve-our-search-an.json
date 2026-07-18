@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will building a knowledge graph and entity files genuinely improve our search and AI results, or is this just hype?",
+  "description": "Yes, a well‑designed knowledge graph can dramatically improve search and AI by turning raw data into structured entities and relationships. That structure enabl",
+  "url": "aeoptimizer.com/faq/will-building-a-knowledge-graph-and-entity-files-genuinely-improve-our-search-an",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will building a knowledge graph and entity files genuinely improve our search and AI results, or is this just hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Knowledge graphs can materially improve both classic search and AI-driven retrieval by modeling entities and relationships explicitly, rather than just indexing text. This enables more precise answers, better recommendations, and richer contextual prompts for LLMs.\n\nInstead of “documents with matching words,” you get “entities connected in meaningful ways,” which AI systems can reason over more reliably.\n\n**Key factors:**\n- Structured representation of entities, attributes, and relationships\n- Support for hybrid retrieval (symbolic graph + vector search)\n- Ability to store provenance and confidence scores for facts\n- Interfaces for your AI stack (APIs, SPARQL, or custom services)\n\nPractically, start by mapping the questions your users or agents ask to graph queries, then feed those results into your LLM or search UI as structured context.\n\nThink of the knowledge graph as the “grounding layer” that keeps your AI answers consistent with your actual data.",
+        "description": "Yes, a well‑designed knowledge graph can dramatically improve search and AI by turning raw data into structured entities and relationships. That structure enables more precise answers, better recommendations, and more reliable grounding for LLMs than text‑only indexing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

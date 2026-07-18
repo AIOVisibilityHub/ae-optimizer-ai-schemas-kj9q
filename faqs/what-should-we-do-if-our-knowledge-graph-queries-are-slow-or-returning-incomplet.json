@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should we do if our knowledge graph queries are slow or returning incomplete answers, even though the data seems to be there?",
+  "description": "Investigate the model and pipelines first: check that entities are properly linked, entity files are updated frequently enough, and queries align with the ontol",
+  "url": "aeoptimizer.com/faq/what-should-we-do-if-our-knowledge-graph-queries-are-slow-or-returning-incomplet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should we do if our knowledge graph queries are slow or returning incomplete answers, even though the data seems to be there?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When results are slow or incomplete, the root causes are usually schema mismatches, missing relationships, or outdated entity files rather than the graph engine itself. Fixing the model and pipelines often helps more than throwing hardware at the problem.\n\nA knowledge graph is only as good as its structure and updates.\n\n**Key factors:**\n- Are key entities properly linked, or stranded in subgraphs?\n- Are pipelines updating entity files in near‑real time where needed?\n- Do queries match the ontology, or rely on ad‑hoc workarounds?\n- Is indexing and caching tuned for your most common questions?\n\nPractically, analyze a sample of “bad” queries end‑to‑end, trace them through the schema and data, and adjust relationships, indexes, or update schedules accordingly.\n\nSystematic tuning will improve reliability far more than one‑off fixes.",
+        "description": "Investigate the model and pipelines first: check that entities are properly linked, entity files are updated frequently enough, and queries align with the ontology. Then tune indexes and caching for common questions. Most issues stem from structure and freshness, not raw engine speed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

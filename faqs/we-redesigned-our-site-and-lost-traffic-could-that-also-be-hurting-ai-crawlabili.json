@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/we-redesigned-our-site-and-lost-traffic-could-that-also-be-hurting-ai-crawlabili",
+  "name": "We redesigned our site and lost traffic—could that also be hurting AI crawlability, and how do we recover without another redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "We redesigned our site and lost traffic—could that also be hurting AI crawlability, and how do we recover without another redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your last redesign “looked great” but tanked your organic traffic, it’s possible the new layout hurt both traditional crawlability and AI readability—by burying content, changing URLs, or overloading the site with scripts. Fixing that means restoring clear structure and signals.\n\nAI and search crawlers rely on predictable headings, stable URLs, and accessible text. Major design changes that ignore those foundations can make your site harder to parse, even if the visuals improved.\n\nKey factors:\n- **Content loss or relocation**: Important copy removed or hidden behind tabs.\n- **URL changes**: Redirects missing or misconfigured during the redesign.\n- **Navigation complexity**: Key paths buried in mega menus or carousels.\n- **Performance issues**: Slower load times after adding heavy assets.\n\nRun a focused audit on traffic-losing pages to see what changed structurally, then reintroduce clear headings, FAQs, and internal links where needed. Fix broken redirects and simplify layouts so content is visible in the raw HTML.\n\nOnce your basic crawlability is restored, layer on schema and AI-focused Q&A content to regain and grow visibility beyond where you were pre-redesign.",
+        "@type": "Answer",
+        "description": "Yes, a visual redesign can quietly damage AI crawlability by hiding content, changing URLs, or slowing the site. To recover, audit what changed, restore clear headings and internal links, fix redirects, and add structured FAQs and schema—without necessarily redoing the entire design."
+      }
+    }
+  ],
+  "description": "Yes, a visual redesign can quietly damage AI crawlability by hiding content, changing URLs, or slowing the site. To recover, audit what changed, restore clear h"
+}

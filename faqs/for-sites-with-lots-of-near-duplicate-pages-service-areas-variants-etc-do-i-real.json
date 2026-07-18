@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/for-sites-with-lots-of-near-duplicate-pages-service-areas-variants-etc-do-i-real",
+  "name": "For sites with lots of near-duplicate pages (service areas, variants, etc.), do I really need unique JSON-LD for each page?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "For sites with lots of near-duplicate pages (service areas, variants, etc.), do I really need unique JSON-LD for each page?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you should generate unique JSON-LD for each variant page when the content, offers, or location details materially differ. However, it’s best to do this via templates that pull dynamic values, not by manually creating hundreds of nearly identical snippets.\n\nSearch engines want each URL’s structured data to reflect that specific page, not the entire site.\n\nKey factors:\n- **Unique content:** Different products, services, cities, or languages need distinct markup.\n- **Templating:** Use CMS fields or components to automate per-page differences.\n- **Canonicalization:** Ensure schema reflects the canonical URL when duplicates exist.\n- **Maintenance:** Watch for drift when bulk-generating similar JSON-LD.\n\nImplement a schema “component” or include-file that reads page variables and outputs correct JSON for that URL.\n\nThis keeps per-page uniqueness high while minimizing manual work and errors.",
+        "@type": "Answer",
+        "description": "Yes, each URL should have JSON-LD that reflects its specific content and location details, but you should generate it via templates tied to CMS fields, not by hand. This preserves per-page uniqueness without manually managing hundreds of slightly different JSON snippets."
+      }
+    }
+  ],
+  "description": "Yes, each URL should have JSON-LD that reflects its specific content and location details, but you should generate it via templates tied to CMS fields, not by h"
+}

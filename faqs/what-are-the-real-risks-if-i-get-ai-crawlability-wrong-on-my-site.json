@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the real risks if I get AI crawlability wrong on my site?",
+  "description": "If you get AI crawlability wrong, AI systems may ignore your site, misinterpret your content, or quote outdated or conflicting information. Misconfigured access",
+  "url": "aeoptimizer.com/faq/what-are-the-real-risks-if-i-get-ai-crawlability-wrong-on-my-site",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the real risks if I get AI crawlability wrong on my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are AI systems misunderstanding your content, quoting outdated or partial information, or ignoring you entirely due to technical blocks. You can also inadvertently expose sensitive or low‑quality pages if you open everything without a plan.\n\nPoor AI crawlability doesn’t just mean “lower ranking”—it can mean wrong answers about your brand spreading widely.\n\n**Key factors:**\n- Over‑blocking or misconfiguring robots.txt, sitemaps, or llms.txt\n- Leaving legacy, conflicting pages that confuse attribution\n- Relying on JavaScript for critical content that bots never see\n- Failing to update schema and metadata when business details change\n\nBefore broadening AI access, decide which sections should be machine‑visible and which should remain limited, and document that policy. Then clean up duplicate or outdated content so AI has a clear, canonical source for each topic. Think of AI-crawlable website creation as risk management for your public information, not just “traffic growth.”",
+        "description": "If you get AI crawlability wrong, AI systems may ignore your site, misinterpret your content, or quote outdated or conflicting information. Misconfigured access, messy duplication, and JS‑hidden content are common causes, so you need a clear access policy and clean, canonical pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

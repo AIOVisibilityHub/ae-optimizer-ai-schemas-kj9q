@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the first thing I should do if I want to make my website AI-crawlable without getting overwhelmed?",
+  "description": "Begin with an AI crawlability audit on your top 20–50 pages, focusing on access, rendering, structure, and schema. Fix issues on high‑value URLs first (home, se",
+  "url": "aeoptimizer.com/faq/what-s-the-first-thing-i-should-do-if-i-want-to-make-my-website-ai-crawlable-wit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the first thing I should do if I want to make my website AI-crawlable without getting overwhelmed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by running a focused AI crawlability audit on your top 20–50 URLs, then fix access, rendering, and core structure before touching long‑tail pages. Trying to “AI‑optimize” everything at once tends to produce shallow, inconsistent changes.\n\nYour first priority is the pages AI systems are most likely to quote directly (home, key services, product, pricing, FAQs, policies).\n\n**Key factors:**\n- Identify your highest-value and most-frequently questioned topics\n- Confirm those URLs aren’t blocked, broken, or JS‑dependent for content\n- Tighten heading structure and add schema where appropriate\n- Ensure each page gives a complete, self-contained answer to its core question\n\nMake a simple spreadsheet of priority questions and map each to a specific URL; then design that page for both humans and AI, with clear Q&A sections, definitions, and canonical metadata. Once your core set is solid, scale patterns across similar pages using templates or CMS components.",
+        "description": "Begin with an AI crawlability audit on your top 20–50 pages, focusing on access, rendering, structure, and schema. Fix issues on high‑value URLs first (home, services, products, FAQs, policies) before scaling the same patterns across the rest of your site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

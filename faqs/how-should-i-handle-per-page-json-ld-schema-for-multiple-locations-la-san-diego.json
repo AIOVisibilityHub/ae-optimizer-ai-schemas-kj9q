@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I handle per-page JSON-LD schema for multiple locations (LA, San Diego, Austin) without messing up my local SEO?",
+  "description": "Create one Organization entity for your brand, then a distinct LocalBusiness entity for each location with its own `@id`, address, and phone. Attach each locati",
+  "url": "aeoptimizer.com/faq/how-should-i-handle-per-page-json-ld-schema-for-multiple-locations-la-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I handle per-page JSON-LD schema for multiple locations (LA, San Diego, Austin) without messing up my local SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For multi‑location businesses in Los Angeles, San Diego, and Austin, you typically want a LocalBusiness (or subtype) entity per physical location, each tied to its specific location page, plus a master Organization entity for the brand.\n\nDuplicating the same LocalBusiness on every page confuses Google about which address is primary for a given URL. Per‑location entities keep addresses, phones, and hours clearly scoped.\n\nKEY FACTORS\n- One master Organization entity shared site‑wide.\n- One LocalBusiness entity per office/store with unique `@id`.\n- Each location page links to its corresponding LocalBusiness.\n- Consistent NAP (name, address, phone) with your listings.\n\nMap each city or office page in your CMS to its own schema instance rather than reusing the same snippet everywhere. Use IDs and `sameAs` links to tie everything back to the brand.\n\nA location‑aware schema generator can automate this so adding a new office means filling a form, not hand‑coding JSON.",
+        "description": "Create one Organization entity for your brand, then a distinct LocalBusiness entity for each location with its own `@id`, address, and phone. Attach each location entity only to its matching location page instead of duplicating the same business schema on every URL."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

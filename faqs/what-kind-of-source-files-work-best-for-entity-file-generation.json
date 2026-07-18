@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-kind-of-source-files-work-best-for-entity-file-generation",
+  "name": "What kind of source files work best for entity file generation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What kind of source files work best for entity file generation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can start with CSVs, spreadsheets, database exports, content libraries, or CRM records as long as the key entities are identifiable. The more consistent the source fields are, the easier it is to produce a clean entity file with fewer manual corrections.",
+        "@type": "Answer",
+        "description": "Structured files like CSVs, spreadsheets, and database exports are the easiest starting point."
+      }
+    }
+  ],
+  "description": "Structured files like CSVs, spreadsheets, and database exports are the easiest starting point."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-ai-visibility-optimization-is-actually-working",
+  "name": "How do I know if AI visibility optimization is actually working?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if AI visibility optimization is actually working?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best proof is a baseline audit showing where your brand appears in AI answers today, plus a follow-up after optimization. Track brand mentions, citation accuracy, competitor presence, and whether your target questions trigger answers that include your site.",
+        "@type": "Answer",
+        "description": "Measure before-and-after visibility in AI answers, not just traditional rankings."
+      }
+    }
+  ],
+  "description": "Measure before-and-after visibility in AI answers, not just traditional rankings."
+}

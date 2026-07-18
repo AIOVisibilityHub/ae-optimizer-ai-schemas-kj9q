@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I make my site more AI-crawlable if my budget is really limited right now?",
+  "description": "On a tight budget, focus on a handful of high‑value pages and fix basic access, structure, and Q&A content. Clean robots/sitemaps, make core text visible withou",
+  "url": "aeoptimizer.com/faq/how-can-i-make-my-site-more-ai-crawlable-if-my-budget-is-really-limited-right-no",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I make my site more AI-crawlable if my budget is really limited right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a tight budget, focus on a small set of high-impact pages and the cheapest high‑leverage fixes: access, structure, and clear Q&A content. You don’t need every bell and whistle to be AI-visible where it matters.\n\nThink “minimum viable crawlability” rather than perfection across the whole site.\n\n**Key factors:**\n- Ensure robots.txt and sitemaps expose core pages correctly\n- Make content readable without complex JS or gating\n- Use simple schema (Organization, FAQ, Product) on a handful of URLs\n- Write direct, well‑structured answers to the most common questions\n\nPrioritize one city or service line if you operate in multiple locations like Los Angeles and San Diego, then expand as budget allows. Track whether AI assistants start quoting those priority pages before you invest in full‑site optimization.",
+        "description": "On a tight budget, focus on a handful of high‑value pages and fix basic access, structure, and Q&A content. Clean robots/sitemaps, make core text visible without complex JS, add simple schema to key URLs, and expand later once you see AI systems starting to surface your content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

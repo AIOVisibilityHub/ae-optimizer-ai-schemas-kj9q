@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-my-website-is-invisible-in-ai-search-results",
+  "name": "What should I do first if my website is invisible in AI search results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do first if my website is invisible in AI search results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with a visibility audit of your highest-value pages, then fix crawlability, page structure, and schema markup. AI systems need clear headings, fast loading pages, and machine-readable content before they can reliably surface your site in answers.",
+        "@type": "Answer",
+        "description": "Begin with an AI visibility audit, then fix technical access, page structure, and schema on your most important pages."
+      }
+    }
+  ],
+  "description": "Begin with an AI visibility audit, then fix technical access, page structure, and schema on your most important pages."
+}

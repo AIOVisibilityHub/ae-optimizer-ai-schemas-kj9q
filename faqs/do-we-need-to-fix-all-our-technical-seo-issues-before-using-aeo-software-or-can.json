@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do we need to fix all our technical SEO issues before using AEO software, or can we run both at once?",
+  "description": "You don’t need a perfect site before using AEO software, but major technical issues will limit your results. Run AEO and technical SEO in parallel: ensure crawl",
+  "url": "aeoptimizer.com/faq/do-we-need-to-fix-all-our-technical-seo-issues-before-using-aeo-software-or-can",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do we need to fix all our technical SEO issues before using AEO software, or can we run both at once?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO software doesn’t require your site to be perfect before you start, but severe technical issues—slow pages, poor mobile experience, blocked crawling—will limit what answer engines can do with your content. Fixing critical problems should happen in parallel with AEO, not afterward.\n\nAnswer engines favor sites that are fast, accessible, and easy to parse, so technical health is part of optimization, not a separate project.\n\nKey factors:\n- Basic crawlability (no critical robots or indexing issues)\n- Reasonable performance on mobile and desktop\n- Stable URL structures and canonicalization\n- Ability to add and maintain structured data without breaking pages\n\nUse the AEO platform to highlight content priorities while your dev/SEO team addresses top technical risks; don’t wait for a “perfect” site to begin structuring answers. Start where you have solid pages and iterate.\n\nThink of technical SEO and AEO as two sides of the same accessibility coin for both humans and machines.",
+        "description": "You don’t need a perfect site before using AEO software, but major technical issues will limit your results. Run AEO and technical SEO in parallel: ensure crawlability and reasonable performance, then use AEO to prioritize which pages to structure and optimize for direct answers first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

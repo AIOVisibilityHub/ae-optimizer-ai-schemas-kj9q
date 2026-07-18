@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I already do SEO, how does AI visibility optimization fit in—do I have to redo everything?",
+  "description": "You don’t have to redo everything. AI visibility optimization piggybacks on your existing SEO and refines it: clearer question‑led content, stronger FAQs, bette",
+  "url": "aeoptimizer.com/faq/if-i-already-do-seo-how-does-ai-visibility-optimization-fit-in-do-i-have-to-redo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I already do SEO, how does AI visibility optimization fit in—do I have to redo everything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve already invested in SEO, AI visibility optimization builds on that foundation but changes what you prioritize and how you structure content. You’ll focus more on clear Q&As, FAQs, schema, and authority patterns AI tools use to decide who to cite.\n\nGood SEO (crawlability, speed, topical authority) is still essential; AI visibility simply adds a new layer of testing and refinement.\n\nKey factors:\n- Reorienting content around user questions, not just keywords\n- Adding FAQ and HowTo structures and schema\n- Checking whether current “SEO wins” translate into AI citations\n- Adjusting meta data so it’s descriptive and easy to quote\n\nAudit your existing SEO content: does it provide a direct answer near the top and clear structure AIs can reuse? If not, you can usually adapt rather than rebuild.\n\nThink of AI visibility as the evolution of SEO, not a replacement—your prior work should make this easier, not redundant.",
+        "description": "You don’t have to redo everything. AI visibility optimization piggybacks on your existing SEO and refines it: clearer question‑led content, stronger FAQs, better schema, and explicit authority signals. Most of the work is restructuring and enhancing current pages so AI tools can confidently cite them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

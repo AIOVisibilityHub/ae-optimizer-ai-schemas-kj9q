@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a serious knowledge graph and entity file project usually cost, and what actually drives the price up or down?",
+  "description": "A focused first knowledge graph project is often in the low five figures, while complex, multi‑system graphs with ongoing maintenance can reach six figures annu",
+  "url": "aeoptimizer.com/faq/what-does-a-serious-knowledge-graph-and-entity-file-project-usually-cost-and-wha",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a serious knowledge graph and entity file project usually cost, and what actually drives the price up or down?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs range widely: a modest, well-scoped project might be in the low five figures, while a cross‑enterprise graph with ongoing maintenance can reach six figures annually. The main drivers are scope, data complexity, and how much ongoing support you need.\n\nTechnology itself is rarely the biggest line item—people and integration work are. Planning carefully avoids over‑engineering an expensive system you don’t fully use.\n\n**Key factors:**\n- Number of data sources and integration complexity\n- Need for custom ontologies versus reuse of existing vocabularies\n- Volume of entity resolution and data cleaning required\n- Level of SLA, monitoring, and long‑term maintenance\n\nPractically, scope your first project around one or two high‑value use cases, then ask vendors to price a phased roadmap rather than a monolithic “big bang” build. That keeps initial spend aligned with clear, measurable outcomes.\n\nTreat a knowledge graph as an infrastructure investment—start lean, prove value, and scale budgets as it becomes mission‑critical.",
+        "description": "A focused first knowledge graph project is often in the low five figures, while complex, multi‑system graphs with ongoing maintenance can reach six figures annually. Costs are driven mainly by data integration, entity resolution, schema/ontology design, and required support level."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

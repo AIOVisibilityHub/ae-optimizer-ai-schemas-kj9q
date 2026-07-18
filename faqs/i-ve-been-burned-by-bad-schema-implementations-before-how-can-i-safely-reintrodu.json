@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/i-ve-been-burned-by-bad-schema-implementations-before-how-can-i-safely-reintrodu",
+  "name": "I’ve been burned by bad schema implementations before—how can I safely reintroduce per-page JSON-LD without messing things up again?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "I’ve been burned by bad schema implementations before—how can I safely reintroduce per-page JSON-LD without messing things up again?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If previous schema caused problems, start fresh with a minimal, audited set of per-page JSON-LD templates and test on a small batch of URLs. Remove old, conflicting markup before rolling out new structures.\n\nYou want to regain search engines’ trust with clean, conservative implementations.\n\nKey factors:\n- **Cleanup:** Strip invalid or duplicate schema, especially fake reviews or misused types.\n- **Minimalism:** Start with just `WebPage` plus one clear primary type per page.\n- **Validation:** Run all test URLs through validators and Search Console.\n- **Gradual rollout:** Monitor impact on a subset before scaling sitewide.\n\nDocument exactly what changed and keep a changelog correlated with Search Console data.\n\nThis controlled restart helps you avoid repeating past mistakes and provides clearer feedback on what works.",
+        "@type": "Answer",
+        "description": "Remove faulty or duplicate schema, then reintroduce per-page JSON-LD in a minimal, controlled way: one clear primary type per page, validated on a small set of URLs first. Use validators and Search Console to monitor effects before scaling, and keep changes conservative and well documented."
+      }
+    }
+  ],
+  "description": "Remove faulty or duplicate schema, then reintroduce per-page JSON-LD in a minimal, controlled way: one clear primary type per page, validated on a small set of"
+}

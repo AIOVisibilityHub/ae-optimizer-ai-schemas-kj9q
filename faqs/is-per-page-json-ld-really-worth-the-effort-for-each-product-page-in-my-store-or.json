@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is per-page JSON-LD really worth the effort for each product page in my store, or should I just do category pages?",
+  "description": "Product‑level JSON-LD is usually worth it: it powers price, availability, and rating rich results that increase CTR and sales. Category‑only schema misses those",
+  "url": "aeoptimizer.com/faq/is-per-page-json-ld-really-worth-the-effort-for-each-product-page-in-my-store-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is per-page JSON-LD really worth the effort for each product page in my store, or should I just do category pages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For e‑commerce, per-page JSON-LD for each product (Product + Offer + Review where applicable) can significantly improve eligibility for price, availability, and ratings snippets. That often boosts click‑through rates and can materially impact revenue.\n\nThe caveat is that product schema must be precise, complete, and kept in sync with inventory. Incorrect availability or prices in structured data can damage trust.\n\nKEY FACTORS\n- Clean Product schema with name, image, description, SKU.\n- Offer details (price, priceCurrency, availability, condition).\n- Review/AggregateRating only when you have real, policy‑compliant reviews.\n- Stable product URLs and IDs.\n\nIf you have a catalog, prioritize your top‑traffic and highest‑margin products first, then expand. Use your platform’s product feed where possible to drive schema automatically.\n\nA generator tailored for product pages can turn your catalog into structured data with far less manual effort.",
+        "description": "Product‑level JSON-LD is usually worth it: it powers price, availability, and rating rich results that increase CTR and sales. Category‑only schema misses those benefits. Focus first on top products and generate schema from your product data automatically."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

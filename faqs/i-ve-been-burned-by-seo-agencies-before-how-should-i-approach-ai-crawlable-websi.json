@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve been burned by SEO agencies before—how should I approach AI-crawlable website work differently this time?",
+  "description": "Approach AI crawlability with clear, testable deliverables: an audit, specific fixes, and before/after AI answer comparisons using your real queries. Start with",
+  "url": "aeoptimizer.com/faq/i-ve-been-burned-by-seo-agencies-before-how-should-i-approach-ai-crawlable-websi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve been burned by SEO agencies before—how should I approach AI-crawlable website work differently this time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with an SEO agency, focus on transparency and testing when approaching AI-crawlable work. You want providers who show you exactly what they’re changing and how they evaluate AI responses, not just vague score improvements.\n\nAI crawlability projects succeed when they’re measurable and collaborative.\n\n**Key factors:**\n- Clear deliverables: audits, implementation steps, and testing plans\n- Access to before/after examples of pages and AI answers\n- Use of your real customer queries in evaluation, not generic keywords\n- Willingness to work within your existing tech and content constraints\n\nIn markets like Los Angeles or Austin, ask for a phased engagement: start with a small pilot on 10–15 URLs and expand only if you see concrete improvements in AI answers. Make sure you retain ownership of documentation so you’re not locked into a single vendor’s black box.",
+        "description": "Approach AI crawlability with clear, testable deliverables: an audit, specific fixes, and before/after AI answer comparisons using your real queries. Start with a small pilot, demand transparency on changes, and keep all documentation so you aren’t dependent on a black‑box vendor again."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

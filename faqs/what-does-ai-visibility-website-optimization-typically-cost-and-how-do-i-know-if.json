@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does AI visibility website optimization typically cost, and how do I know if it’s worth it for my business?",
+  "description": "Costs range from a few thousand dollars for an AI visibility audit and core page fixes to ongoing monthly retainers for content and authority work. It’s worth i",
+  "url": "aeoptimizer.com/faq/what-does-ai-visibility-website-optimization-typically-cost-and-how-do-i-know-if",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does AI visibility website optimization typically cost, and how do I know if it’s worth it for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect AI visibility optimization to cost anywhere from a few thousand dollars for a focused audit and implementation on core pages to ongoing monthly retainers if you want continuous content and authority work. DIY is cheaper but slower and easier to mis-prioritize.\n\nPricing varies by site size, complexity, and whether you include content creation, schema, and authority-building. The “value” comes from owning more of the answers AI tools give your customers.\n\nKey factors:\n- Number of pages and complexity of your tech stack\n- Scope: audit only vs. audit + implementation + content\n- Need for local optimization (multi-location, city pages)\n- Vendor expertise and reporting standards\n\nAsk for a clear deliverable list: audit findings, prioritized action plan, number of pages optimized, and how AI visibility will be measured. Compare proposals on outcomes and measurement, not just hours.\n\nIf budget is tight, start with an audit plus fixes to 5–10 high-impact pages, then expand as you see proof of results.",
+        "description": "Costs range from a few thousand dollars for an AI visibility audit and core page fixes to ongoing monthly retainers for content and authority work. It’s worth it if you can claim more of the AI-generated answers your customers see—especially for high‑intent, revenue‑driving queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

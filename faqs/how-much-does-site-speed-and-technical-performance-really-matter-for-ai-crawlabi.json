@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does site speed and technical performance really matter for AI crawlability?",
+  "description": "Site speed and technical performance matter a lot for AI crawlability. Slow or unstable pages are more likely to be skipped or only partially parsed by AI bots,",
+  "url": "aeoptimizer.com/faq/how-much-does-site-speed-and-technical-performance-really-matter-for-ai-crawlabi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does site speed and technical performance really matter for AI crawlability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Performance matters a lot: slow, bloated, or unstable pages are more likely to be dropped or only partially processed by AI crawlers. You don’t need to be perfect, but you do need fast, stable delivery of your core HTML and assets.\n\nThink of speed and stability as table stakes for machine readability.\n\n**Key factors:**\n- Core Web Vitals, especially LCP and CLS, on key templates\n- Server responsiveness and ability to handle concurrent bot traffic\n- Use of CDNs, caching, and compressed assets\n- Avoiding heavy client-side scripts that delay content visibility\n\nStart by optimizing performance on your highest-value URLs and templates, then roll out improvements globally. In cities like Denver or Salt Lake City, where visitors may have varied connection quality, these performance gains help both human users and AI crawlers.",
+        "description": "Site speed and technical performance matter a lot for AI crawlability. Slow or unstable pages are more likely to be skipped or only partially parsed by AI bots, so you need fast, stable delivery of core HTML, optimized assets, and solid Core Web Vitals on key templates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-are-the-best-practices-for-generating-per-page-faq-json-ld-so-i-don-t-get-i",
+  "name": "What are the best practices for generating per-page FAQ JSON-LD so I don’t get in trouble with Google?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the best practices for generating per-page FAQ JSON-LD so I don’t get in trouble with Google?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For per-page FAQ schema, only use `FAQPage` JSON-LD on pages where the full questions and answers are clearly visible, and ensure the JSON content matches the text word-for-word. Do not mark up partial FAQs, accordions with hidden answers, or support forums as FAQs.\n\nSearch engines have tightened enforcement around FAQ misuse.\n\nKey factors:\n- **Visibility:** Users must see the exact questions and answers on the page.\n- **Completeness:** Full question and full accepted answer, not summaries.\n- **No user-generated alternatives:** Use `QAPage` for community Q&A, not FAQPage.\n- **Moderation:** Keep FAQs updated; remove obsolete answers from both page and schema.\n\nGenerate FAQ JSON-LD last, after your FAQ section is finalized, and revalidate whenever content changes.\n\nThis keeps your per-page FAQ markup compliant and more likely to maintain rich result eligibility.",
+        "@type": "Answer",
+        "description": "Only add FAQPage JSON-LD to pages where full questions and answers are visible, ensure the JSON text matches on-page text exactly, avoid user-generated Q&A, and keep FAQs current. Generate the schema after finalizing content and revalidate whenever you change or add questions."
+      }
+    }
+  ],
+  "description": "Only add FAQPage JSON-LD to pages where full questions and answers are visible, ensure the JSON text matches on-page text exactly, avoid user-generated Q&A, and"
+}

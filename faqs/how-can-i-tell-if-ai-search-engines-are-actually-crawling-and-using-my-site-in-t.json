@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-can-i-tell-if-ai-search-engines-are-actually-crawling-and-using-my-site-in-t",
+  "name": "How can I tell if AI search engines are actually crawling and using my site in their answers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I tell if AI search engines are actually crawling and using my site in their answers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To know if your site is truly AI-crawlable, you need to monitor both traditional crawl signals and how AI tools actually reference your content. There’s no single “AI index,” but you can test and infer from bot activity and how answers cite your pages.\n\nStart by checking server logs or analytics for visits from known AI crawlers, then regularly ask AI tools questions you want to rank for and see whether they mention or link to you.\n\nKey factors:\n- **Bot visibility**: Are AI crawler user agents hitting your key pages?\n- **Answer presence**: Do AI Overviews and assistants surface your brand or URLs?\n- **Content alignment**: Are the answers consistent with your current messaging?\n- **Issue detection**: Use crawl reports to spot blocked or error-prone pages.\n\nSet up a simple monitoring routine: monthly tests of key queries in AI tools, review of bot activity, and audits of new content for schema and clear structure. Track changes over time as you optimize.\n\nIf you prefer deeper insight, specialized platforms or consultants can help you interpret AI crawler patterns and prioritize fixes for maximum impact.",
+        "@type": "Answer",
+        "description": "There’s no single “AI index,” but you can check server logs for AI crawler activity and regularly test key queries in AI tools to see if they cite or link to your pages. Combine that with crawl audits to spot blocked or weak pages and track improvements over time."
+      }
+    }
+  ],
+  "description": "There’s no single “AI index,” but you can check server logs for AI crawler activity and regularly test key queries in AI tools to see if they cite or link to yo"
+}

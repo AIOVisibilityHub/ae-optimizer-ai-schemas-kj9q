@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/will-adding-city-pages-hurt-me-if-they-are-mostly-duplicates",
+  "name": "Will adding city pages hurt me if they are mostly duplicates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will adding city pages hurt me if they are mostly duplicates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if the local page is built around actual service-area needs and includes unique details. AI systems respond better to pages that are specific, structured, and useful than to repetitive location templates.",
+        "@type": "Answer",
+        "description": "Duplicate city pages can weaken performance; unique, useful local pages work much better."
+      }
+    }
+  ],
+  "description": "Duplicate city pages can weaken performance; unique, useful local pages work much better."
+}

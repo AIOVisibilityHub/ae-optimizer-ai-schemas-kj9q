@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should we model entities and relationships in a knowledge graph for a business spread across cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+  "description": "Model each city as a distinct “location” entity with standardized attributes and relationships, then link customers, assets, events, and content to those IDs. A",
+  "url": "aeoptimizer.com/faq/how-should-we-model-entities-and-relationships-in-a-knowledge-graph-for-a-busine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should we model entities and relationships in a knowledge graph for a business spread across cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a multi‑city operation like Los Angeles, San Diego, Austin, Denver, and Salt Lake City, you should treat each location as a first‑class entity with its own attributes and relationships. That lets you compare performance, regulations, and local context cleanly across the graph.\n\nLocation entities become anchors for linking customers, assets, events, and content geographically and operationally.\n\n**Key factors:**\n- City entities with attributes (region, timezone, market segment)\n- Relationships like serves_region, located_in, regulated_by\n- Separation of location‑specific policies, pricing, or offerings\n- Ability to roll up metrics by city, region, or national view\n\nPractically, define a clear location hierarchy (city → metro → region) and ensure all relevant entities reference it via IDs rather than free‑text city names.\n\nThis design makes multi‑city analysis, routing, and AI personalization much easier down the line.",
+        "description": "Model each city as a distinct “location” entity with standardized attributes and relationships, then link customers, assets, events, and content to those IDs. A clean location hierarchy (city → region) enables reliable multi‑city analytics, routing, and AI personalization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

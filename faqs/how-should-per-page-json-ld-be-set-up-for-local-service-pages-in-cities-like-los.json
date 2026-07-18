@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-should-per-page-json-ld-be-set-up-for-local-service-pages-in-cities-like-los",
+  "name": "How should per-page JSON-LD be set up for local service pages in cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How should per-page JSON-LD be set up for local service pages in cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For local service businesses in Los Angeles, San Diego, Austin, Denver, and Salt Lake City, per-page JSON-LD should clearly tie each service and city page to your business entity and service areas. This helps clarify *who* does *what* *where*.\n\nYou’re essentially turning each location or service URL into a well-labeled local entity in search.\n\nKey factors:\n- **LocalBusiness/Organization:** Name, address, phone, geo coordinates where applicable.\n- **Service schema:** Describe key services and link to city-specific pages.\n- **AreaServed:** City names (e.g., \"Los Angeles\", \"San Diego\", \"Austin\") in relevant markup.\n- **NAP consistency:** Schema details must match your site and local listings.\n\nImplement distinct JSON-LD on each city and service page, referencing the same core business entity but adjusting `areaServed`, `hasOfferCatalog`, or URL fields per page.\n\nThis makes it easier for search engines to correctly map your services to specific metros.",
+        "@type": "Answer",
+        "description": "Use per-page JSON-LD to link each city/service page back to your business entity with `LocalBusiness` or `Organization` plus `Service` and `areaServed` fields for cities like Los Angeles, San Diego, Austin, Denver, and Salt Lake City. Keep NAP details consistent and adjust location-related fields per page."
+      }
+    }
+  ],
+  "description": "Use per-page JSON-LD to link each city/service page back to your business entity with `LocalBusiness` or `Organization` plus `Service` and `areaServed` fields f"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-long-does-it-usually-take-to-build-or-convert-a-site-into-something-that-s-t",
+  "name": "How long does it usually take to build or convert a site into something that’s truly AI-crawlable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How long does it usually take to build or convert a site into something that’s truly AI-crawlable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most AI-crawlable website projects take 4–10 weeks from strategy to launch, depending on content volume, number of services/locations, and how quickly you provide information and approvals. Adding AI-friendly structure to an existing site can be faster.\n\nTime isn’t just about design—it includes mapping real customer questions, writing answer-focused content, and implementing schema and internal links. Rushing these steps usually hurts AI visibility later.\n\nKey factors:\n- **Discovery and planning**: 1–2 weeks to audit your current site and define architecture.\n- **Content and schema**: 2–5 weeks to write, edit, and mark up copy across core pages.\n- **Development and QA**: 1–3 weeks to implement, test crawlability, and fix issues.\n- **Your responsiveness**: Delays in feedback or content approvals extend timelines.\n\nIf you’re on an urgent timeline, prioritize a smaller, AI-ready set of pages first—home, main services, FAQs, and a couple of deep resources—then expand into secondary content after launch. Communicate any hard deadlines early so your team can scope realistically.\n\nTreat AI crawlability as an ongoing process; even after launch, you’ll refine content based on how AI systems surface your site in answers.",
+        "@type": "Answer",
+        "description": "Building or converting a site to be AI-crawlable typically takes 4–10 weeks, including planning, content, schema, and technical QA. Smaller, focused projects can move faster, but ongoing refinement after launch is needed as AI search behavior evolves."
+      }
+    }
+  ],
+  "description": "Building or converting a site to be AI-crawlable typically takes 4–10 weeks, including planning, content, schema, and technical QA. Smaller, focused projects ca"
+}

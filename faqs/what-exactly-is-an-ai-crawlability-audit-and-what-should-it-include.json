@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is an AI crawlability audit, and what should it include?",
+  "description": "An AI crawlability audit evaluates how well AI bots can access, render, understand, and attribute your key pages. It should review robots and sitemaps, renderin",
+  "url": "aeoptimizer.com/faq/what-exactly-is-an-ai-crawlability-audit-and-what-should-it-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is an AI crawlability audit, and what should it include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI crawlability audit checks whether AI bots can access, render, understand, and correctly attribute your content across key pages. It’s deeper than a normal SEO audit because it focuses on machine readability, entity clarity, and answer quality.\n\nThe output is a prioritized plan to fix technical and content issues that block AI visibility.\n\n**Key factors:**\n- Robots.txt, sitemaps, and any AI-specific directives (e.g., llms.txt)\n- Rendering mode and whether core content is visible in raw HTML\n- Schema usage, canonical tags, and entity consistency\n- How well pages answer specific user questions in structured form\n\nAsk for an audit that includes both technical checks and live testing in generative search or chatbots using your real customer queries. In AI-forward markets like Austin and Seattle, treat this as a recurring practice (e.g., quarterly), not a one‑time project.",
+        "description": "An AI crawlability audit evaluates how well AI bots can access, render, understand, and attribute your key pages. It should review robots and sitemaps, rendering, schema and canonicals, and question‑answer content, plus test real queries in generative search and chatbots to find gaps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is my business even a good candidate for AI visibility optimization, or does it only work for big content-heavy sites?",
+  "description": "Almost any business can improve AI visibility as long as its website is crawlable, explains services clearly, and shows credible trust signals. Large, content‑r",
+  "url": "aeoptimizer.com/faq/is-my-business-even-a-good-candidate-for-ai-visibility-optimization-or-does-it-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is my business even a good candidate for AI visibility optimization, or does it only work for big content-heavy sites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need special “eligibility” to optimize for AI visibility; any site that can be crawled, understood, and trusted can show up in AI answers. However, thin sites, heavy single-page apps, and businesses with weak trust signals usually struggle most.\n\nAI tools favor brands that look legitimate, comprehensive, and user-focused. If your site is sparse or technically opaque, you’ll be at a disadvantage until you shore those basics up.\n\nKey factors:\n- Crawlable structure (no critical content locked behind JS or logins)\n- Clear, question-based content that answers users directly\n- Trust signals: reviews, third‑party mentions, transparent info\n- Basic SEO foundations: titles, meta descriptions, internal links\n\nIf your site is brand new or has minimal content, start by building core service pages and FAQs before worrying about AI-specific tweaks. The fundamentals of UX and credibility still matter most.\n\nFor complex or app-like sites, you may need technical help to expose content in a way AI crawlers can reliably read.",
+        "description": "Almost any business can improve AI visibility as long as its website is crawlable, explains services clearly, and shows credible trust signals. Large, content‑rich sites have more surface area to be cited, but smaller sites can still win by focusing on clear Q&A content and strong local authority."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

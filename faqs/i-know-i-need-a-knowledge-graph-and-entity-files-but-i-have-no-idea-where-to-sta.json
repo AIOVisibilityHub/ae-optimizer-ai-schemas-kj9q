@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I know I need a knowledge graph and entity files, but I have no idea where to start — what’s the very first step so I don’t waste months?",
+  "description": "Start by defining 2–3 concrete business use cases (better search, recommendations, analytics, AI copilots) and listing the key entities and relationships involv",
+  "url": "aeoptimizer.com/faq/i-know-i-need-a-knowledge-graph-and-entity-files-but-i-have-no-idea-where-to-sta",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I know I need a knowledge graph and entity files, but I have no idea where to start — what’s the very first step so I don’t waste months?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t start with tools—you start with a very specific problem and the core entities you care about (customers, products, locations, content, etc.). Then you inventory your data sources and define a simple initial schema that connects those entities in a way your team can use.\n\nKnowledge graphs and entity files work best when they’re tightly aligned to a real business question: “What do we need to find, recommend, or automate more accurately?” Once that’s clear, everything else—modeling, ETL, and tech stack—follows more naturally.\n\n**Key factors:**\n- Clarify 2–3 priority use cases (search, recommendations, analytics, AI copilots)\n- List main entities and relationships (people ↔ accounts ↔ events, etc.)\n- Identify current systems holding this data (CRM, ERP, website, product DB)\n- Decide who owns requirements and ongoing governance\n\nPractically, block a half‑day workshop with product, data and ops to map use cases → entities → systems on a whiteboard, then turn that into a first-pass schema and backlog. Keep the first iteration narrow so you can ship and learn quickly.\n\nIf you’re unsure where to start, a specialist can help facilitate that initial scoping workshop and turn it into a concrete roadmap.",
+        "description": "Start by defining 2–3 concrete business use cases (better search, recommendations, analytics, AI copilots) and listing the key entities and relationships involved. From there, map existing data sources to a simple initial schema and keep the first version narrow so you can deliver value and learn fast."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

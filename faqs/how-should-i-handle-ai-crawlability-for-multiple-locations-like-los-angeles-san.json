@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I handle AI crawlability for multiple locations like Los Angeles, San Diego, Austin, and Denver without confusing the bots?",
+  "description": "Create dedicated, well‑structured pages for each location, with LocalBusiness or Organization schema that clearly lists address, hours, and contact details. Kee",
+  "url": "aeoptimizer.com/faq/how-should-i-handle-ai-crawlability-for-multiple-locations-like-los-angeles-san",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I handle AI crawlability for multiple locations like Los Angeles, San Diego, Austin, and Denver without confusing the bots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For multi‑location cities like Los Angeles, San Diego, and Austin, you need clear, separate, and well‑marked pages for each location plus schema that reflects exact details. AI systems tend to blur information if you mix cities on generic pages.\n\nThe aim is to give each location its own canonical, machine‑readable home.\n\n**Key factors:**\n- Dedicated URLs per city or branch with unique, structured content\n- LocalBusiness or Organization schema specifying address, phone, hours\n- Consistent naming and internal linking between location pages\n- Clean separation of reviews, services, and offers per location where relevant\n\nAudit how AI currently answers location-specific queries (e.g., “hours in Denver”) and adjust content so each answer can map to one clear page. Avoid copy‑paste templates that only change city names; AI crawlers prefer genuinely localized content and data.",
+        "description": "Create dedicated, well‑structured pages for each location, with LocalBusiness or Organization schema that clearly lists address, hours, and contact details. Keep each city’s content genuinely distinct and consistently linked so AI assistants can map local queries to a single, canonical page."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

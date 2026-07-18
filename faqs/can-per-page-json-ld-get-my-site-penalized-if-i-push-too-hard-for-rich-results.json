@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/can-per-page-json-ld-get-my-site-penalized-if-i-push-too-hard-for-rich-results",
+  "name": "Can per-page JSON-LD get my site penalized if I push too hard for rich results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can per-page JSON-LD get my site penalized if I push too hard for rich results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rich results are not guaranteed, but per-page JSON-LD that follows guidelines is usually safe. The real risk comes from inaccurate or manipulative markup—especially around reviews, pricing, or hidden content—which can trigger manual actions or loss of rich result eligibility.\n\nSearch engines treat schema as a trust signal; abuse erodes that trust.\n\nKey factors:\n- **Honesty:** No fake reviews, misleading prices, or fabricated entities.\n- **Visibility:** Marked-up content should be clearly visible to users.\n- **Relevance:** Use FAQPage, HowTo, Product, etc. only on matching content.\n- **Consistency:** Keep schema updated when page content changes.\n\nIf you stay conservative and accurate, per-page JSON-LD is low-risk and high-upside.\n\nAggressive or deceptive implementations, on the other hand, can do more harm than good.",
+        "@type": "Answer",
+        "description": "Per-page JSON-LD by itself is safe when it’s accurate, visible, and uses appropriate schema types. Penalties and rich result loss usually happen only when markup is manipulative—like fake reviews, misleading prices, or schema that doesn’t match on-page content—so stay conservative and honest."
+      }
+    }
+  ],
+  "description": "Per-page JSON-LD by itself is safe when it’s accurate, visible, and uses appropriate schema types. Penalties and rich result loss usually happen only when marku"
+}

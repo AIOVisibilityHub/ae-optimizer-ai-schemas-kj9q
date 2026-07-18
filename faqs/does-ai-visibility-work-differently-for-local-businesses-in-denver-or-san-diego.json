@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/does-ai-visibility-work-differently-for-local-businesses-in-denver-or-san-diego",
+  "name": "Does AI visibility work differently for local businesses in Denver or San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Does AI visibility work differently for local businesses in Denver or San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For businesses serving Los Angeles, San Diego, Austin, Denver, or Salt Lake City, local relevance matters most when customers search with geographic intent. Add neighborhood, city, or service-area context only where it improves the page, not just to target a keyword.",
+        "@type": "Answer",
+        "description": "Yes. Local intent matters, so pages should reflect real service areas and local context."
+      }
+    }
+  ],
+  "description": "Yes. Local intent matters, so pages should reflect real service areas and local context."
+}

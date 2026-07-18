@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to rebuild my entire site to make it AI-crawlable, or can we adapt what’s already there?",
+  "description": "In most cases you can adapt your existing site instead of rebuilding it from scratch. Focus on making key pages readable in raw HTML, cleaning up structure and",
+  "url": "aeoptimizer.com/faq/do-i-need-to-rebuild-my-entire-site-to-make-it-ai-crawlable-or-can-we-adapt-what",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to rebuild my entire site to make it AI-crawlable, or can we adapt what’s already there?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t have to rebuild everything, but you do need to make core pages readable in plain HTML, add basic schema, and clean up technical blockers like robots.txt and slow load times. For most sites, this is an upgrade project, not a total restart.\n\nAI crawlers struggle with JavaScript-heavy, messy, or poorly structured sites, so “AI-crawlable” usually means modernizing what you already have. Think of it like renovating the wiring in your house, not bulldozing it.\n\n**Key factors:**\n- Whether critical content is server-rendered (visible in raw HTML)\n- How clean your page structure, headings, and internal links are\n- Presence of schema (Organization, Product, FAQ, Article, etc.)\n- Robots.txt, sitemaps, and performance (Core Web Vitals)\n\nStart with an AI crawlability audit on 10–20 priority URLs, then fix rendering, structure, and schema there before touching long‑tail pages. In Los Angeles or Austin, this often aligns with broader SEO/UX refreshes, so coordinate with existing dev and marketing plans. When you talk to vendors, ask specifically about AI crawlability, not just “SEO.”",
+        "description": "In most cases you can adapt your existing site instead of rebuilding it from scratch. Focus on making key pages readable in raw HTML, cleaning up structure and performance, and adding schema and correct robots/sitemap settings before considering a full redesign."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

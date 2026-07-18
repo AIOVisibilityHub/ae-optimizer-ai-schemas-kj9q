@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-makes-a-website-eligible-to-appear-in-ai-answers",
+  "name": "What makes a website eligible to appear in AI answers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What makes a website eligible to appear in AI answers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need content that is easy for AI systems to parse and trust. That usually means clear headings, direct answers, factual detail, visible structured data, and a site that is technically accessible to crawlers.",
+        "@type": "Answer",
+        "description": "Clear structure, crawlability, schema, and trustworthy content are the main requirements."
+      }
+    }
+  ],
+  "description": "Clear structure, crawlability, schema, and trustworthy content are the main requirements."
+}

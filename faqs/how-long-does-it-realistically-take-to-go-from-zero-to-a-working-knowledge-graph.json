@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it realistically take to go from zero to a working knowledge graph and entity file system we can use in production?",
+  "description": "With a focused scope and decent data access, expect 6–12 weeks to get a first production‑ready knowledge graph and entity file setup. Highly complex, multi‑syst",
+  "url": "aeoptimizer.com/faq/how-long-does-it-realistically-take-to-go-from-zero-to-a-working-knowledge-graph",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it realistically take to go from zero to a working knowledge graph and entity file system we can use in production?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most teams, a first production-ready knowledge graph takes 6–12 weeks if scope is controlled and data is accessible. Truly complex, multi‑system graphs can stretch to 4–6 months when integration and governance are heavy.\n\nTimeline depends much more on data condition and decision speed than on graph technology. Clean inputs and clear ownership dramatically shorten the path.\n\n**Key factors:**\n- Time to access data (security reviews, API work, approvals)\n- Data cleaning, entity resolution, and mapping effort\n- Complexity of schema and number of systems integrated\n- How quickly product and data owners can make modeling decisions\n\nPractically, plan a 2–3 week discovery/modeling phase, 3–5 weeks for pipelines and initial load, and 1–3 weeks for testing, tuning, and exposing APIs or search. Parallelizing integration work and freezing scope early helps hit dates.\n\nIf you’re on an urgent timeline, it’s worth scoping a “minimum viable graph” that covers one high‑value use case and expands later.",
+        "description": "With a focused scope and decent data access, expect 6–12 weeks to get a first production‑ready knowledge graph and entity file setup. Highly complex, multi‑system graphs or slow approvals can push timelines closer to 4–6 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a per-page JSON-LD generator handle shared entities like Organization versus page-specific entities like WebPage or Article?",
+  "description": "Use a generator that lets you define Organization/WebSite once, then creates unique WebPage and main content entities per URL while linking them via `@id`. This",
+  "url": "aeoptimizer.com/faq/how-should-a-per-page-json-ld-generator-handle-shared-entities-like-organization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a per-page JSON-LD generator handle shared entities like Organization versus page-specific entities like WebPage or Article?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good per-page JSON-LD generator should support site‑wide entities, template‑based rules, and automatic ID linking using `@id`. That lets you model the same Organization/WebSite while attaching unique page entities like WebPage, Article, or Service.\n\nStructured data is about entities and relationships, not just snippets of code. Linking with `@id` lets Google understand that multiple items refer to the same business or person across pages.\n\nKEY FACTORS\n- Ability to define a master Organization/WebSite schema once.\n- Automatic insertion of WebPage + main entity per URL.\n- Support for `@id` references and nested graphs.\n- Export/preview to verify connections before deployment.\n\nWhen evaluating tools, check if they explicitly handle shared entities vs. page entities, not just “paste code per page.” This is critical for multi‑location and content‑heavy sites.\n\nChoosing a solution that understands entity relationships will future‑proof your structured data as your site grows.",
+        "description": "Use a generator that lets you define Organization/WebSite once, then creates unique WebPage and main content entities per URL while linking them via `@id`. This keeps brand data consistent and page data unique, which is what search engines expect."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

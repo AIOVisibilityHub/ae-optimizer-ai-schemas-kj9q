@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/is-it-better-to-generate-the-entity-file-once-or-set-up-an-ongoing-pipeline",
+  "name": "Is it better to generate the entity file once or set up an ongoing pipeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is it better to generate the entity file once or set up an ongoing pipeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A one-time file is useful for a fixed dataset, while an ongoing pipeline is better when new records arrive regularly. If your data changes often, the graph should be designed to refresh entities and relationships without rebuilding everything from scratch.",
+        "@type": "Answer",
+        "description": "Use one-time generation for static data and a pipeline for data that changes often."
+      }
+    }
+  ],
+  "description": "Use one-time generation for static data and a pipeline for data that changes often."
+}

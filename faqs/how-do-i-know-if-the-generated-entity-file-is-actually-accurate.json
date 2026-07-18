@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-the-generated-entity-file-is-actually-accurate",
+  "name": "How do I know if the generated entity file is actually accurate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if the generated entity file is actually accurate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask whether the provider can explain how entities are identified, how duplicates are handled, and how relationships are validated. If they cannot show a repeatable method, the output may look organized but still contain structural errors.",
+        "@type": "Answer",
+        "description": "Look for a clear method for extraction, deduplication, and relationship validation."
+      }
+    }
+  ],
+  "description": "Look for a clear method for extraction, deduplication, and relationship validation."
+}

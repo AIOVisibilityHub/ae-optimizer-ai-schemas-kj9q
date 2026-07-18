@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/when-is-it-worth-adding-per-page-json-ld-on-top-of-my-existing-sitewide-schema-a",
+  "name": "When is it worth adding per-page JSON-LD on top of my existing sitewide schema, and when is it overkill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "When is it worth adding per-page JSON-LD on top of my existing sitewide schema, and when is it overkill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you already have generic sitewide schema, it’s worth layering per-page JSON-LD when your key pages target distinct intents, entities, or rich results you’re not currently eligible for. The decision should be driven by potential SERP impact and content variety, not just technical perfection.\n\nSitewide `Organization`/`WebSite` markup is a baseline. Per-page markup describes the *actual topic and purpose* of each URL in far more detail, which is what Google uses for many rich results.\n\nKey factors:\n- **Content diversity:** Services, FAQs, how-tos, products, and location pages need different schema.\n- **Rich result opportunities:** FAQ, HowTo, Product, Event, Service, LocalBusiness, Article, etc.\n- **Search volume / value:** Prioritize per-page schema for pages that drive leads or revenue.\n- **Maintenance capacity:** Only roll out what you can realistically keep updated.\n\nStart with your top 20–50 URLs (service, location, and FAQ pages), add specific JSON-LD, validate, then expand if you see CTR or visibility improvements.\n\nPer-page schema is most valuable where content and commercial intent are clearly defined.",
+        "@type": "Answer",
+        "description": "Add per-page JSON-LD when key URLs have distinct content and commercial intent that generic sitewide schema can’t express, especially for services, products, FAQs, and location pages. Start with your highest-value pages, validate, monitor results, then decide whether to scale."
+      }
+    }
+  ],
+  "description": "Add per-page JSON-LD when key URLs have distinct content and commercial intent that generic sitewide schema can’t express, especially for services, products, FA"
+}

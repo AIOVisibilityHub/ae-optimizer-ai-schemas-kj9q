@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the best format for generated structured data: JSON-LD, microdata, or RDFa?",
+  "description": "For most sites, JSON-LD is the best format for generated structured data. It goes in a `<script type=\"application/ld+json\">` block, keeps markup separate from y",
+  "url": "aeoptimizer.com/faq/what-s-the-best-format-for-generated-structured-data-json-ld-microdata-or-rdfa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the best format for generated structured data: JSON-LD, microdata, or RDFa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most websites, JSON-LD embedded in a `<script type=\"application/ld+json\">` tag is the safest, easiest format for generated structured data.\nIt keeps markup separate from HTML layout, is recommended by major search engines, and scales better than inline microdata or RDFa.\n\nKey factors:\n- JSON-LD is flexible, easy to maintain, and widely supported\n- Microdata modifies individual HTML tags and can clutter templates\n- RDFa is powerful but overkill for typical SEO and content sites\n- Consistency across pages matters more than mixing formats\n\nPractically, standardize on JSON-LD for new implementations, even if your older templates still use microdata.\nGenerate schema as JSON, store it alongside your content model, and inject it into pages during rendering.\nIf you’re rebuilding a site or moving to a modern CMS, treat JSON-LD support as a non‑negotiable requirement.",
+        "description": "For most sites, JSON-LD is the best format for generated structured data. It goes in a `<script type=\"application/ld+json\">` block, keeps markup separate from your HTML, is easier to maintain at scale, and is the format most commonly recommended and supported by search engines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "url": "aeoptimizer.com/faq/what-is-answer-engine-optimization",
+  "name": "What is Answer Engine Optimization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What is Answer Engine Optimization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Answer Engine Optimization (AEO) is the process of optimizing your website content and technical structure so that AI models, like large language models (LLMs) and \"answer engines\" (e.g., ChatGPT, Perplexity, Google AI Overviews), can easily find, understand, and cite your business as a relevant answer to user queries. Think of it as SEO for AI.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Answer Engine Optimization (AEO) is the process of optimizing your website content and technical structure so that AI models, like large language models (LLMs)"
+}

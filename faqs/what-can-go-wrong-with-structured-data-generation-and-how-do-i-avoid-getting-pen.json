@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with structured data generation, and how do I avoid getting penalized or ignored?",
+  "description": "Things go wrong when your generated structured data doesn’t match visible content, misses required properties, or creates conflicting markup. Avoid issues by al",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-structured-data-generation-and-how-do-i-avoid-getting-pen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with structured data generation, and how do I avoid getting penalized or ignored?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common mistakes include generating schema that doesn’t match visible content, missing required properties, duplicating or conflicting markup across templates, and blindly copying code from tools without validation.\nThese issues can lead to rich-result loss, lower trust from search engines, or simply wasted effort.\n\nKey factors:\n- Mismatch between structured data and on‑page text\n- Invalid or incomplete properties for the chosen schema type\n- Overuse of schema (“bloat”) instead of focusing on key entities\n- Lack of monitoring for errors and warnings after deployment\n\nPractically, treat structured data generation like any other production feature: review, test, and validate it, not just paste snippets.\nKeep a simple checklist: schema type matches content, required fields present, no contradictory markup, passes validation tools.\nWhen you use AI to generate schema, always run outputs through automated validators before publishing.",
+        "description": "Things go wrong when your generated structured data doesn’t match visible content, misses required properties, or creates conflicting markup. Avoid issues by aligning schema with the page, focusing on relevant types, validating everything, and monitoring for errors and warnings after deployment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

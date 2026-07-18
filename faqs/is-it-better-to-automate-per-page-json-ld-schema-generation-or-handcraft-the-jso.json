@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/is-it-better-to-automate-per-page-json-ld-schema-generation-or-handcraft-the-jso",
+  "name": "Is it better to automate per-page JSON-LD schema generation or handcraft the JSON for every important page?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is it better to automate per-page JSON-LD schema generation or handcraft the JSON for every important page?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most sites, automated per-page JSON-LD generation from your CMS or codebase is preferable, as long as you log, validate, and spot-check output. Manual entry doesn’t scale and tends to introduce more inconsistency over time.\n\nThe goal is reliable structure with human oversight, not hand-written JSON everywhere.\n\nKey factors:\n- **Scale:** Once you have more than a few dozen pages, automation wins.\n- **Template quality:** Well-designed templates minimize repeated mistakes.\n- **Governance:** Version control, code review, and validation in CI/CD help.\n- **Editorial control:** Provide CMS fields for overrides when needed.\n\nUse automated templates for 90% of pages and allow manual augmentation only for special cases.\n\nThis balance gives you both consistency and flexibility across your per-page schema.",
+        "@type": "Answer",
+        "description": "Automated per-page JSON-LD from templates tied to your CMS or codebase is usually better than hand-writing markup, especially beyond a few dozen pages. Combine automation with logging, validation, and occasional manual overrides to keep schema consistent, scalable, and high quality."
+      }
+    }
+  ],
+  "description": "Automated per-page JSON-LD from templates tied to your CMS or codebase is usually better than hand-writing markup, especially beyond a few dozen pages. Combine"
+}

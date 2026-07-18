@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my AI visibility optimization is actually working if there aren’t normal “rankings” to check?",
+  "description": "Define a fixed list of customer queries, run them in major AI tools each month, and track how often and how prominently your brand is mentioned in the answers.",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-ai-visibility-optimization-is-actually-working-if-there-aren",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my AI visibility optimization is actually working if there aren’t normal “rankings” to check?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can’t see “AI rankings” like traditional SEO, but you can track how often your brand is mentioned or cited in AI answers across a consistent set of prompts. Over time, increasing mention rate and quality of citations is the core success metric.\n\nThink of it as measuring “share of answers” for questions that matter to your business. You test the same queries each month and watch whether AIs choose you more often.\n\nKey factors:\n- A fixed test set of prompts aligned to your customer journey\n- Brand mention rate (any mention vs. primary recommendation)\n- Quality of citation (deep explanation vs. passing reference)\n- Supporting metrics (organic traffic, conversions, branded search)\n\nCreate a simple spreadsheet: list 50–100 queries, note whether you’re mentioned, what position, and which competitors appear. Repeat monthly and align improvements to changes you made on the site.\n\nIf you’re already using analytics tools, integrate these AI tests into your regular reporting so stakeholders see AI visibility alongside SEO and paid performance.",
+        "description": "Define a fixed list of customer queries, run them in major AI tools each month, and track how often and how prominently your brand is mentioned in the answers. If your mention rate and citation quality rise over time—especially for high‑intent queries—your AI visibility optimization is working."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my AI-crawlable website changes are actually working?",
+  "description": "You measure AI crawlability success by checking generative search and assistant answers against your content, monitoring relevant search console and log data, a",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-ai-crawlable-website-changes-are-actually-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my AI-crawlable website changes are actually working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To monitor AI visibility, track both traditional SEO signals and how often your content appears or is cited in AI interfaces. There’s no single “AI rank,” so you need a mix of tools, logs, and real‑world query tests.\n\nThink of it as a second analytics layer focused on machine consumption, not just human visits.\n\n**Key factors:**\n- Search console reports for generative AI or “AI overview” appearances\n- Server logs showing AI user‑agents hitting key sections\n- Periodic manual tests in popular AI assistants using real customer questions\n- Changes in referral traffic from AI-powered surfaces over time\n\nSet up a simple quarterly review where you test a fixed list of core queries (about services, pricing, and policies) and note whether AI answers now reflect your site. Use those findings to refine schema, content clarity, and crawl paths on underperforming pages.",
+        "description": "You measure AI crawlability success by checking generative search and assistant answers against your content, monitoring relevant search console and log data, and periodically testing real customer queries. Over time, you should see AI systems quoting your updated pages more accurately and often."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

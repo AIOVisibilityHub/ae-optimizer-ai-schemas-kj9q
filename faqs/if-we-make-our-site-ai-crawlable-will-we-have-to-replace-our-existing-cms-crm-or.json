@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/if-we-make-our-site-ai-crawlable-will-we-have-to-replace-our-existing-cms-crm-or",
+  "name": "If we make our site AI-crawlable, will we have to replace our existing CMS, CRM, or marketing tools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "If we make our site AI-crawlable, will we have to replace our existing CMS, CRM, or marketing tools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most AI-crawlable website builds can integrate with your existing tools—as long as your CMS and stack support sensible plugins and APIs. The key is planning integrations early so they don’t conflict with crawlability or performance.\n\nAI-friendly structure is primarily about how content and data are organized; it doesn’t require throwing away CRMs, email tools, or analytics. Problems arise when custom scripts or embed codes slow pages or hide key content from crawlers.\n\nKey factors:\n- **CMS ecosystem**: Availability of well-supported SEO and schema plugins.\n- **Integration footprint**: Number and complexity of third-party scripts.\n- **Performance impact**: How embeds affect page speed and Core Web Vitals.\n- **Testing**: Verifying that integrated elements don’t block AI crawlers.\n\nBefore building, inventory your current tools, list required integrations, and prioritize those critical for operations. Ask your dev or vendor to load-test pages with all scripts active and confirm that content remains visible in the raw HTML.\n\nHandled thoughtfully, you can keep your existing stack while gaining AI crawlability, rather than starting over on a new platform.",
+        "@type": "Answer",
+        "description": "Usually not. AI crawlability is about how your content is structured and exposed, not which CRM or tools you use. Most modern stacks can support schema and clean HTML. The main risk is heavy scripts or embeds that slow pages or hide content, which you can manage with careful planning and testing."
+      }
+    }
+  ],
+  "description": "Usually not. AI crawlability is about how your content is structured and exposed, not which CRM or tools you use. Most modern stacks can support schema and clea"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-fields-should-be-included-in-an-entity-file-for-a-knowledge-graph",
+  "name": "What fields should be included in an entity file for a knowledge graph?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What fields should be included in an entity file for a knowledge graph?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good entity file should include stable IDs, canonical names, entity types, aliases, source references, and relationship fields. If your use case involves disambiguation, include contextual attributes such as dates, locations, categories, or parent-child links.",
+        "@type": "Answer",
+        "description": "Use stable IDs, canonical names, entity types, aliases, source references, and relationship fields."
+      }
+    }
+  ],
+  "description": "Use stable IDs, canonical names, entity types, aliases, source references, and relationship fields."
+}

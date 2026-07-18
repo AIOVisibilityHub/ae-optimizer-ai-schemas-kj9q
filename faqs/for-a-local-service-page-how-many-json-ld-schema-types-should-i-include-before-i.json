@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "For a local service page, how many JSON-LD schema types should I include before it becomes spammy or risky?",
+  "description": "Use WebPage plus one clear main type (usually Service or LocalBusiness) and add extras like FAQPage or BreadcrumbList only when the page genuinely contains that",
+  "url": "aeoptimizer.com/faq/for-a-local-service-page-how-many-json-ld-schema-types-should-i-include-before-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "For a local service page, how many JSON-LD schema types should I include before it becomes spammy or risky?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For service and local business pages, you generally want at least WebPage plus either Service or LocalBusiness schema, sometimes both if you truly describe a service *and* a physical location. Over‑marking with irrelevant types can cause warnings or reduced trust.\n\nSearch engines care more that your schema accurately reflects the page’s real purpose than that you squeeze in every possible type. For a Denver HVAC service page, for example, Service + WebPage + BreadcrumbList is often ideal.\n\nKEY FACTORS\n- Match `@type` to the page’s primary intent (service vs. location vs. article).\n- Only add LocalBusiness if the page really represents a location.\n- Use FAQPage only when real FAQs exist on the page.\n- Keep required properties complete (name, URL, areaServed, etc.).\n\nStart by choosing *one* clear main entity per template and add supporting types only when justified by content. When in doubt, go simpler and more accurate rather than complex and speculative.\n\nA template‑based generator can enforce those choices so your team doesn’t guess on every page.",
+        "description": "Use WebPage plus one clear main type (usually Service or LocalBusiness) and add extras like FAQPage or BreadcrumbList only when the page genuinely contains that content. Over‑stuffing types that don’t match the page can create warnings and reduce trust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

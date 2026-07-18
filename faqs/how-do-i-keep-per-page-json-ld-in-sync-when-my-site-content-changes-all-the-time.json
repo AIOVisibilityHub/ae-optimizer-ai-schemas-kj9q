@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I keep per-page JSON-LD in sync when my site content changes all the time (products, events, blogs)?",
+  "description": "Generate JSON-LD dynamically from the same CMS or database fields that render your pages. Avoid hand‑editing per‑page JSON; use templates so changes to products",
+  "url": "aeoptimizer.com/faq/how-do-i-keep-per-page-json-ld-in-sync-when-my-site-content-changes-all-the-time",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I keep per-page JSON-LD in sync when my site content changes all the time (products, events, blogs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When your site changes frequently, you want your JSON-LD to be generated dynamically from the same data source as the page (CMS fields, product database, etc.). That way, updates automatically flow into schema without extra work.\n\nManual JSON edits don’t scale on fast‑moving sites and quickly lead to mismatches between visible content and structured data, which can hurt trust.\n\nKEY FACTORS\n- Use template‑driven schema tied to your content model.\n- Avoid hard‑coding content like prices or availability into static JSON.\n- Schedule periodic audits on high‑change templates (products, events).\n- Implement monitoring for spikes in structured data errors.\n\nWork with your dev or platform team to hook schema generation into the same templates that render the page. If content editors fill a field, that field should drive both on‑page content and JSON-LD.\n\nSchema automation is especially critical for e‑commerce and event sites with large, frequently changing inventories.",
+        "description": "Generate JSON-LD dynamically from the same CMS or database fields that render your pages. Avoid hand‑editing per‑page JSON; use templates so changes to products, events, or posts automatically update both on‑page content and schema."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

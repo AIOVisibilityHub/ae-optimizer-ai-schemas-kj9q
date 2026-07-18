@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/can-i-improve-ai-visibility-without-touching-my-developer-setup",
+  "name": "Can I improve AI visibility without touching my developer setup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I improve AI visibility without touching my developer setup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can start with content and structure changes, but technical checks still matter. If your site is slow, hard to crawl, or blocked in robots.txt, AI systems may not access your best content reliably.",
+        "@type": "Answer",
+        "description": "Some improvements are content-only, but technical access and speed still matter a lot."
+      }
+    }
+  ],
+  "description": "Some improvements are content-only, but technical access and speed still matter a lot."
+}

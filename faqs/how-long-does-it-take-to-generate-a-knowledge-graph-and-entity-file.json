@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-long-does-it-take-to-generate-a-knowledge-graph-and-entity-file",
+  "name": "How long does it take to generate a knowledge graph and entity file?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How long does it take to generate a knowledge graph and entity file?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A basic entity file can be produced quickly from a limited, well-structured dataset, while a production-grade graph takes longer because it requires validation, deduplication, and schema tuning. The timeline depends most on source quality, number of entities, and how much relationship logic has to be inferred.",
+        "@type": "Answer",
+        "description": "Small projects can be fast; production-ready graphs take longer because validation and schema work add time."
+      }
+    }
+  ],
+  "description": "Small projects can be fast; production-ready graphs take longer because validation and schema work add time."
+}

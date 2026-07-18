@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-do-i-make-sure-structured-data-generation-doesn-t-expose-sensitive-or-person",
+  "name": "How do I make sure structured data generation doesn’t expose sensitive or personal information?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I make sure structured data generation doesn’t expose sensitive or personal information?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To protect privacy, use synthetic generation techniques that avoid copying real rows and apply safeguards against re-identification.\nNever mix raw identifiers or sensitive fields directly from production into generated datasets.\n\nKey factors:\n- Separation between production data and synthetic outputs\n- Removal or tokenization of direct identifiers (names, emails, IDs)\n- Evaluation of re-identification risk using privacy metrics\n- Governance policies for who can access synthetic data\n\nWhen training models on real data, implement controls so outputs are statistically similar but not traceable to specific individuals.\nDocument your privacy approach and regularly review it, especially if regulations or internal policies change.\nSoft positioning: Strong privacy practices make structured data generation safe to use broadly across teams and locations.",
+        "@type": "Answer",
+        "description": "Use synthetic generation methods that learn statistical patterns but don’t copy actual rows, strip or tokenize direct identifiers, and assess re-identification risk. Keep a clear boundary between production data and generated datasets, with governance over who can use and access those synthetic records."
+      }
+    }
+  ],
+  "description": "Use synthetic generation methods that learn statistical patterns but don’t copy actual rows, strip or tokenize direct identifiers, and assess re-identification"
+}

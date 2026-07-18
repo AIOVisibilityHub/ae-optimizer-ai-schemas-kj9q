@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My per-page JSON-LD validates but Google still isn’t showing rich results—what’s going wrong?",
+  "description": "Validation only checks syntax and basic structure. Google may skip rich results if required fields are thin, content doesn’t truly match the schema, overall sit",
+  "url": "aeoptimizer.com/faq/my-per-page-json-ld-validates-but-google-still-isn-t-showing-rich-results-what-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My per-page JSON-LD validates but Google still isn’t showing rich results—what’s going wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your pages don’t match the rich result features you’re targeting, or your JSON-LD is incomplete or inconsistent, Google may ignore your markup even if it validates. Eligibility and quality thresholds matter as much as correctness.\n\nIt’s also normal for rich results to appear only on a subset of queries based on user intent, device, and competition. In busy markets like Los Angeles or New York, Google can be pickier about when enhanced snippets show.\n\nKEY FACTORS\n- Missing required/strongly‑recommended properties.\n- Schema describing content that barely exists on the page.\n- Overall site quality and trust signals.\n- Time: Google may take weeks to fully reassess your markup.\n\nGo back and compare your implementation to Google’s guidelines for each feature (FAQPage, Product, LocalBusiness, etc.), not just generic validation. Strengthen on‑page content where schema feels “thin.”\n\nA specialist or advanced tool can help diagnose whether the issue is technical, content‑based, or just a matter of patience.",
+        "description": "Validation only checks syntax and basic structure. Google may skip rich results if required fields are thin, content doesn’t truly match the schema, overall site quality is low, or it hasn’t reprocessed pages yet. Compare against Google’s feature‑specific guidelines and improve content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

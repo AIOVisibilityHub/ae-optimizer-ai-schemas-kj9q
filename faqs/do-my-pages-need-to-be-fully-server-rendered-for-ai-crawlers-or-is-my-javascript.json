@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do my pages need to be fully server-rendered for AI crawlers, or is my JavaScript-heavy site okay?",
+  "description": "AI crawlers strongly prefer server-rendered or static pages where key content is visible in raw HTML. Your JS-heavy site can work, but only if essential text an",
+  "url": "aeoptimizer.com/faq/do-my-pages-need-to-be-fully-server-rendered-for-ai-crawlers-or-is-my-javascript",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do my pages need to be fully server-rendered for AI crawlers, or is my JavaScript-heavy site okay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Core pages should be server-rendered or static so their main content is available in raw HTML when an AI bot fetches the URL. You can still use JavaScript, but not to hide or delay essential text, pricing, or descriptions.\n\nIf your site is heavily client‑side rendered (SPA frameworks), AI crawlers may miss or misinterpret what’s on the page.\n\n**Key factors:**\n- Is the primary copy visible in “View Source” without running JS?\n- Are important elements like titles, headings, and product details server‑rendered?\n- Are key interactions required just to reveal basic information?\n- Does performance degrade heavily before content becomes readable?\n\nAsk your devs for server-side rendering (SSR) or static generation on your most important templates (home, services, product, pricing, FAQs). In Denver or Salt Lake City, where many sites use modern JS frameworks, set an explicit requirement that AI-critical content must be present in initial HTML.",
+        "description": "AI crawlers strongly prefer server-rendered or static pages where key content is visible in raw HTML. Your JS-heavy site can work, but only if essential text and data are present without relying on complex client‑side rendering or user interactions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

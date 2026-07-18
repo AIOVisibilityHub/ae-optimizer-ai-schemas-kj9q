@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-information-do-you-need-from-me-to-generate-a-knowledge-graph-and-entity-fi",
+  "name": "What information do you need from me to generate a knowledge graph and entity file?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What information do you need from me to generate a knowledge graph and entity file?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need source data, a target entity list, relationship rules, and a naming standard. If you already have spreadsheets, CRM exports, product catalogs, or content databases, those are usually enough to begin an initial entity file and graph model.",
+        "@type": "Answer",
+        "description": "Provide source data, entity names, relationship rules, and any naming or taxonomy standards."
+      }
+    }
+  ],
+  "description": "Provide source data, entity names, relationship rules, and any naming or taxonomy standards."
+}

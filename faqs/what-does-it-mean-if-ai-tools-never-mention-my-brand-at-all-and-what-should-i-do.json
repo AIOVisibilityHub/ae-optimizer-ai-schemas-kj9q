@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does it mean if AI tools never mention my brand at all, and what should I do about it?",
+  "description": "If AI tools never mention your brand, it usually means they don’t see your site as the clearest or most trusted source for key queries—not that your business is",
+  "url": "aeoptimizer.com/faq/what-does-it-mean-if-ai-tools-never-mention-my-brand-at-all-and-what-should-i-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does it mean if AI tools never mention my brand at all, and what should I do about it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI tools don’t mention your brand at all, treat that as a visibility gap, not a verdict on your quality. It usually means your site isn’t clear, comprehensive, or trusted enough for the queries you care about.\n\nThe fix is systematic: identify where competitors are cited instead and close the gaps in content, authority, and local signals.\n\nKey factors:\n- Whether AIs mention competitors for the same prompts\n- Missing service pages, FAQs, or topic coverage\n- Weak or inconsistent reviews and third‑party presence\n- Technical obstacles that prevent crawling or interpretation\n\nStart with 20–50 key queries and log who shows up instead of you; reverse-engineer what they’re doing well (content depth, clarity, citations). Use that to inform your next content and authority moves.\n\nNot showing up yet is normal—especially for newer or smaller brands—and is exactly what AI visibility optimization is designed to change.",
+        "description": "If AI tools never mention your brand, it usually means they don’t see your site as the clearest or most trusted source for key queries—not that your business is bad. Log which competitors AIs cite instead, study their content and authority, and then fill those gaps with clearer pages, FAQs, and stronger trust signals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

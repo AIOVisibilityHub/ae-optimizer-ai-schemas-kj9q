@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-ai-visibility-optimization",
+  "name": "What can go wrong with AI visibility optimization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What can go wrong with AI visibility optimization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are blocking AI crawlers, publishing inconsistent information, or adding schema that does not match visible page content. Google also expects structured data to match what users can see on the page, so mismatches can reduce trust or eligibility.",
+        "@type": "Answer",
+        "description": "Bad schema, blocked crawlers, and inconsistent content can hurt rather than help visibility."
+      }
+    }
+  ],
+  "description": "Bad schema, blocked crawlers, and inconsistent content can hurt rather than help visibility."
+}

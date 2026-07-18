@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-much-does-knowledge-graph-and-entity-file-generation-usually-cost",
+  "name": "How much does knowledge graph and entity file generation usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much does knowledge graph and entity file generation usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on dataset size, number of sources, level of cleanup required, and whether the deliverable is a one-time file or an ongoing pipeline. Projects cost more when names are inconsistent, relationships are implicit, or the graph must support complex search or AI use cases.",
+        "@type": "Answer",
+        "description": "Pricing depends on data volume, cleanup effort, and whether you need a one-time build or an ongoing pipeline."
+      }
+    }
+  ],
+  "description": "Pricing depends on data volume, cleanup effort, and whether you need a one-time build or an ongoing pipeline."
+}

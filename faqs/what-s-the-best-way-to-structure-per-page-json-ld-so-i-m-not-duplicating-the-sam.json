@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the best way to structure per-page JSON-LD so I’m not duplicating the same schema all over my site?",
+  "description": "Define Organization/WebSite schema once globally, then add page‑specific schema (WebPage + Article/Service/LocalBusiness, etc.) on each URL. Reuse shared entiti",
+  "url": "aeoptimizer.com/faq/what-s-the-best-way-to-structure-per-page-json-ld-so-i-m-not-duplicating-the-sam",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the best way to structure per-page JSON-LD so I’m not duplicating the same schema all over my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The easiest approach is to define global JSON-LD for your Organization/WebSite once, then generate page‑specific JSON-LD based on templates (service, article, location, etc.). That balance gives you consistency and flexibility.\n\nYou do *not* want to paste identical schema on every page; search engines prefer schema that reflects the specific content and intent of each URL. Global data is for the brand; per‑page data is for the page’s purpose.\n\nKEY FACTORS\n- Put Organization/WebSite in a site‑wide template with stable `@id` values.\n- Add WebPage plus a content‑type schema (Article, Service, LocalBusiness, etc.) on each page.\n- Reuse shared IDs (e.g., Organization) via `@id` instead of redefining them.\n- Keep page‑level entities unique (e.g., each Article has its own `@id`).\n\nMap your CMS templates (e.g., blog, service, city pages) to schema blueprints and let a generator fill in page‑specific fields. This avoids redundant work and keeps your data layer clean.\n\nA schema engine that supports template‑level logic makes this pattern much easier to maintain.",
+        "description": "Define Organization/WebSite schema once globally, then add page‑specific schema (WebPage + Article/Service/LocalBusiness, etc.) on each URL. Reuse shared entities via `@id` and keep each page’s main entity unique and aligned with its visible content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

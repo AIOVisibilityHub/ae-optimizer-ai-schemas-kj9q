@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I run an AI visibility audit on my website, and what should I be looking for?",
+  "description": "Run an AI visibility audit by testing a list of real customer queries in tools like ChatGPT, Gemini, and Perplexity, logging when your brand appears and who app",
+  "url": "aeoptimizer.com/faq/how-do-i-run-an-ai-visibility-audit-on-my-website-and-what-should-i-be-looking-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I run an AI visibility audit on my website, and what should I be looking for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To audit your website for AI visibility, you systematically test real customer queries in major AI tools, document when your brand appears, and inspect your site’s technical health, content clarity, authority, and schema. The result is a scorecard and prioritized fix list.\n\nYou’re looking for patterns in where you’re absent, where competitors dominate, and which pages AIs seem to favor.\n\nKey factors:\n- Prompt list covering awareness, consideration, and “best X” queries\n- Brand mention rate and competitors cited instead\n- Technical checks: crawlability, speed, llms.txt, schema\n- Content evaluation: direct answers, headings, FAQ structure\n\nCreate a simple four-pillar audit (Technical, Content, Authority, AI Presence), give each a score, and highlight 10–20 concrete actions across your top pages.\n\nYou can repeat this audit quarterly to track improvements and catch new gaps as AI tools evolve.",
+        "description": "Run an AI visibility audit by testing a list of real customer queries in tools like ChatGPT, Gemini, and Perplexity, logging when your brand appears and who appears instead. Combine this with checks on crawlability, speed, schema, and Q&A content clarity to produce a scored roadmap of specific fixes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

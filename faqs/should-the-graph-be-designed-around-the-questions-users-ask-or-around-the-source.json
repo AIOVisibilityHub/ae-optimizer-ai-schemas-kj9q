@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/should-the-graph-be-designed-around-the-questions-users-ask-or-around-the-source",
+  "name": "Should the graph be designed around the questions users ask or around the source data?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Should the graph be designed around the questions users ask or around the source data?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if the graph is meant for search, analytics, or AI retrieval, it should be built around the questions people actually ask. Designing from the query backward helps ensure the schema supports real use cases instead of creating data that no one can use.",
+        "@type": "Answer",
+        "description": "Design it around the questions first, then map the source data into that structure."
+      }
+    }
+  ],
+  "description": "Design it around the questions first, then map the source data into that structure."
+}

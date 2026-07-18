@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/can-you-build-a-knowledge-graph-if-my-data-is-messy-or-incomplete",
+  "name": "Can you build a knowledge graph if my data is messy or incomplete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can you build a knowledge graph if my data is messy or incomplete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if your raw data contains repeated people, organizations, products, places, events, or topics, it can usually be turned into a usable entity file. The main question is whether the data is structured enough to identify entities consistently and whether enough context exists to resolve ambiguous names.",
+        "@type": "Answer",
+        "description": "Usually yes, if the data has identifiable entities and enough context to resolve ambiguity."
+      }
+    }
+  ],
+  "description": "Usually yes, if the data has identifiable entities and enough context to resolve ambiguity."
+}

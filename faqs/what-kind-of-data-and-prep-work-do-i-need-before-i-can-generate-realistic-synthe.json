@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data and prep work do I need before I can generate realistic synthetic structured data for testing?",
+  "description": "You need a sanitized, representative sample of real data, a clear schema, and documented constraints like foreign keys, ranges, and uniqueness. Profile the samp",
+  "url": "aeoptimizer.com/faq/what-kind-of-data-and-prep-work-do-i-need-before-i-can-generate-realistic-synthe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data and prep work do I need before I can generate realistic synthetic structured data for testing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For synthetic structured data used in testing or analytics, you’ll need a representative sample of your real data, a clearly defined schema, and documented constraints before you generate anything.\nOtherwise, your test data can behave very differently from production.\n\nKey factors:\n- Coverage of typical and edge-case scenarios\n- Accurate relationships (foreign keys, hierarchies)\n- Privacy controls (no sensitive data leakage)\n- Validation of distributions (ranges, cardinalities, null rates)\n\nPractically, export a sanitized subset of production data, profile it, and encode its rules into your generation tool.\nCompare generated datasets against real ones with simple metrics: value ranges, correlation patterns, and error rates.\nIf results diverge too far, refine your generation logic before using the data for critical tests.",
+        "description": "You need a sanitized, representative sample of real data, a clear schema, and documented constraints like foreign keys, ranges, and uniqueness. Profile the sample, encode those rules in your generator, and then compare generated datasets against the original to ensure they behave realistically."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

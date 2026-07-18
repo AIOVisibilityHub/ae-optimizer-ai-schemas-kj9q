@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should we try to pull every available dataset into our knowledge graph, or is it better to be selective about what feeds the entity files?",
+  "description": "Be selective. Start with the datasets that directly support your highest‑value use cases and have good quality. Integrating every possible source up front bloat",
+  "url": "aeoptimizer.com/faq/should-we-try-to-pull-every-available-dataset-into-our-knowledge-graph-or-is-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should we try to pull every available dataset into our knowledge graph, or is it better to be selective about what feeds the entity files?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can technically ingest everything, but you shouldn’t. Overloading the graph with low‑quality or marginally relevant data makes modeling harder, slows queries, and complicates governance. Prioritization is essential.\n\nThe right question is “What data is needed to answer our top use cases?” not “What data do we have?”\n\n**Key factors:**\n- Relevance of each source to your initial use cases\n- Data quality and readiness (structure, cleanliness, update cadence)\n- Cost of integration vs expected value\n- Sensitivity and compliance constraints for each dataset\n\nPractically, rank sources by business impact and feasibility, then bring them into the graph in phases, validating each addition with real queries.\n\nThis keeps your graph lean, fast, and focused instead of becoming a dumping ground.",
+        "description": "Be selective. Start with the datasets that directly support your highest‑value use cases and have good quality. Integrating every possible source up front bloats the graph, slows queries, and adds governance headaches without guaranteed payoff."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

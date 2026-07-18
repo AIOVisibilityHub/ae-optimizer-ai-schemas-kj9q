@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-much-more-does-it-cost-to-create-an-ai-crawlable-website-compared-to-a-norma",
+  "name": "How much more does it cost to create an AI-crawlable website compared to a normal small business site?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much more does it cost to create an AI-crawlable website compared to a normal small business site?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI-crawlable websites typically cost more than a basic brochure site because you’re paying for strategy, structured data, and technical configuration—not just design. For a small business, expect a few thousand dollars for a solid build; complex, multi-location sites can run much higher.\n\nPricing depends on whether you’re just adding AI-friendly structure to an existing site or designing a new site around AI visibility from scratch. Ongoing monitoring and content updates also add recurring cost.\n\nKey factors:\n- **Scope**: Number of pages, services, locations, and content types that need AI optimization.\n- **Depth of schema and architecture**: Simple FAQ schema vs. comprehensive, multi-entity structured data.\n- **Ongoing services**: Monitoring AI bot activity, updating FAQs, and tuning content.\n- **Vendor experience**: Specialists in AI search and technical SEO usually charge premium rates.\n\nTo control budget, start with a crawlable core: homepage, key service pages, FAQs, and a few deep resources, then expand once you see impact on AI visibility and leads. Ask vendors for line-item pricing so you can phase work without sacrificing core crawlability.\n\nPosition your spend as an investment in future discoverability across AI answers, not just a prettier website refresh.",
+        "@type": "Answer",
+        "description": "An AI-crawlable site usually costs more than a basic brochure site because you’re paying for strategy, schema, and technical configuration. Small-business builds often land in the low thousands, while complex multi-location sites can be significantly higher, plus optional ongoing optimization."
+      }
+    }
+  ],
+  "description": "An AI-crawlable site usually costs more than a basic brochure site because you’re paying for strategy, schema, and technical configuration. Small-business build"
+}

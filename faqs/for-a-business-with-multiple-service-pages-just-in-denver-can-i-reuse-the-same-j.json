@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/for-a-business-with-multiple-service-pages-just-in-denver-can-i-reuse-the-same-j",
+  "name": "For a business with multiple service pages just in Denver, can I reuse the same JSON-LD schema or does each page need something unique?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "For a business with multiple service pages just in Denver, can I reuse the same JSON-LD schema or does each page need something unique?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can use one core template for all Denver service pages, but each page’s JSON-LD should reflect its specific service focus, URL, and any localized details. Think shared structure, different values.\n\nSearch engines rely on per-page schema differences to understand which URL answers which query.\n\nKey factors:\n- **Service specificity:** Different `Service` descriptions, keywords, or `serviceType` per page.\n- **URL mapping:** `@id` or `url` pointing to the exact Denver page, not a generic URL.\n- **Content alignment:** Schema summary should mirror the on-page service copy.\n- **Local signals:** Consistent Denver address or `areaServed` where appropriate.\n\nCreate a Denver service schema template and feed in service-specific text and URLs from your CMS for each page.\n\nThat way, each Denver service page has its own clear, machine-readable identity without duplicate markup.",
+        "@type": "Answer",
+        "description": "Use a shared template for Denver service pages but customize each page’s JSON-LD with its own URL, service description, and any distinct offers. The structure can be reused, but the values should change so each Denver page has a unique, accurate schema representation."
+      }
+    }
+  ],
+  "description": "Use a shared template for Denver service pages but customize each page’s JSON-LD with its own URL, service description, and any distinct offers. The structure c"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/which-pages-should-i-optimize-first-for-ai-visibility",
+  "name": "Which pages should I optimize first for AI visibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Which pages should I optimize first for AI visibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Focus on the pages that answer the questions your buyers ask most often, especially service pages, comparison pages, and FAQs. Those pages are the most likely to be reused by AI systems when they need concise, trustworthy answers.",
+        "@type": "Answer",
+        "description": "Start with your highest-intent pages: service pages, comparison pages, and FAQs."
+      }
+    }
+  ],
+  "description": "Start with your highest-intent pages: service pages, comparison pages, and FAQs."
+}

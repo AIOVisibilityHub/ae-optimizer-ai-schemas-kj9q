@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-s-the-best-way-to-plan-an-ai-crawlable-website-if-we-barely-have-any-good-c",
+  "name": "What’s the best way to plan an AI-crawlable website if we barely have any good content or documentation right now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What’s the best way to plan an AI-crawlable website if we barely have any good content or documentation right now?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When existing content is sparse or outdated, an AI-crawlable build should start by mining real customer interactions—emails, support tickets, call transcripts, and on-site searches—to identify the questions your site must answer. That gives you a grounded starting point instead of guessing.\n\nAI search engines and assistants favor sites that reflect actual user language and concerns. Using real conversations to shape your FAQs and headings makes your content align better with those queries.\n\nKey factors:\n- **Internal data**: Support logs, CRM notes, and recorded calls.\n- **External signals**: Google’s People Also Ask, forum threads, and review comments.\n- **Question clustering**: Group similar questions into themes to structure pages.\n- **Content prioritization**: Answer high-intent, high-frequency questions first.\n\nCreate a simple spreadsheet of recurring questions, group them by topic (pricing, process, issues), and build initial FAQ sections around those themes. Then add concise answers and schema so AI can consume them easily.\n\nThis approach lets you build an AI-ready site even from a thin content base, and it keeps you aligned with what real users actually care about.",
+        "@type": "Answer",
+        "description": "Start with real customer questions. Mine support tickets, emails, call transcripts, and Google’s People Also Ask to build themed FAQ sections. Answer the most common, high-intent questions first, then add schema and clear structure so AI engines can understand and reuse your new content."
+      }
+    }
+  ],
+  "description": "Start with real customer questions. Mine support tickets, emails, call transcripts, and Google’s People Also Ask to build themed FAQ sections. Answer the most c"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-if-i-do-not-have-documentation-for-my-data-model",
+  "name": "What if I do not have documentation for my data model?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What if I do not have documentation for my data model?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you have no documentation, the project should begin with sample records and a manual review of recurring patterns. You can still build a useful graph by identifying the entities that repeat most often and using those as the first version of the schema.",
+        "@type": "Answer",
+        "description": "Start from sample records and recurring patterns; documentation is helpful but not required."
+      }
+    }
+  ],
+  "description": "Start from sample records and recurring patterns; documentation is helpful but not required."
+}

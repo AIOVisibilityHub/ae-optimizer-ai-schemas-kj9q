@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need per-page JSON-LD schema on every page of my site, or is the homepage enough?",
+  "description": "The homepage alone is not enough; you should generate page‑specific JSON-LD for every important template (services, products, locations, key content). Use diffe",
+  "url": "aeoptimizer.com/faq/do-i-really-need-per-page-json-ld-schema-on-every-page-of-my-site-or-is-the-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need per-page JSON-LD schema on every page of my site, or is the homepage enough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need JSON-LD on literally every URL, but you *should* generate page‑specific schema for every page you care about ranking or earning rich results for. Focus on key templates like home, service, product, location, and content pages.\n\nSearch engines use structured data to understand *what* is on a page, not just the text itself. Per‑page JSON-LD lets you describe each page’s unique role (service, article, location, FAQ, etc.), which improves eligibility for rich snippets and can indirectly help SEO.\n\nKEY FACTORS\n- Prioritize revenue and lead pages first (services, locations, top blogs).\n- Use different `@type` per template (Service, LocalBusiness, Article, FAQPage, etc.).\n- Keep global entities (Organization, WebSite) consistent across all pages.\n- Make sure schema content matches visible on‑page content.\n\nStart by mapping your site templates to schema types and roll out JSON-LD in phases, measuring in Search Console as you go. A focused per‑page strategy usually outperforms a “one block on the homepage” approach.\n\nIf this feels overwhelming, a schema generator or specialist can help design a scalable template approach.",
+        "description": "The homepage alone is not enough; you should generate page‑specific JSON-LD for every important template (services, products, locations, key content). Use different schema types per page, keep Organization data consistent site‑wide, and focus first on pages that drive leads or revenue."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-want-a-knowledge-graph-and-entity-file-built-correct",
+  "name": "What should I do first if I want a knowledge graph and entity file built correctly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want a knowledge graph and entity file built correctly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining the business question the graph must answer, then inventory the data sources that can support it. A good knowledge graph begins with a small set of real entities, clear relationships, and a schema that matches how your team will query the data.",
+        "@type": "Answer",
+        "description": "Define the questions first, then map the entities, relationships, and sources that support them."
+      }
+    }
+  ],
+  "description": "Define the questions first, then map the entities, relationships, and sources that support them."
+}

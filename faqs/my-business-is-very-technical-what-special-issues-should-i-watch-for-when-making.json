@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My business is very technical—what special issues should I watch for when making our site AI-crawlable?",
+  "description": "Technical businesses need to surface clear explanations of core concepts in public HTML pages, not just PDFs or internal docs. Create glossaries and dedicated e",
+  "url": "aeoptimizer.com/faq/my-business-is-very-technical-what-special-issues-should-i-watch-for-when-making",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My business is very technical—what special issues should I watch for when making our site AI-crawlable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In technical niches, AI crawlers struggle when content assumes too much prior knowledge, uses inconsistent terminology, or hides key definitions deep in PDFs or gated docs. To be AI-crawlable, your site must surface clear explanations and structured data on public, HTML pages.\n\nYou’re teaching AI how to talk accurately about specialized topics.\n\n**Key factors:**\n- Glossaries and definition sections for core terms and acronyms\n- Public summaries of complex workflows or architectures in HTML, not just PDFs\n- Consistent naming conventions across pages and schemas\n- Examples and diagrams with alt text that explain concepts concisely\n\nStart by identifying your top 20 technical concepts and ensuring each has a dedicated, well‑structured explainer page. Then ensure product or feature pages reference these consistently so AI systems can build a coherent view of your domain without guessing.",
+        "description": "Technical businesses need to surface clear explanations of core concepts in public HTML pages, not just PDFs or internal docs. Create glossaries and dedicated explainer pages, use consistent terminology and schema, and ensure AI crawlers can access and understand your specialized domain without guessing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

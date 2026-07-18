@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’re building AI features in places like Austin and Denver—how should our knowledge graph and entity files be designed so agents can actually use them?",
+  "description": "Model entities and relationships around real AI tasks (users, content, tools, workflows) and expose them via fast, permission‑aware APIs. Combine graph queries",
+  "url": "aeoptimizer.com/faq/we-re-building-ai-features-in-places-like-austin-and-denver-how-should-our-knowl",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’re building AI features in places like Austin and Denver—how should our knowledge graph and entity files be designed so agents can actually use them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For AI applications in tech hubs like Austin or Denver, you’ll want a knowledge graph that exposes entities and relationships in ways LLMs and agents can easily consume: clean IDs, rich context, and APIs for retrieval. This makes your AI stack more reliable and controllable.\n\nThe graph becomes your “ground truth” layer for prompts and tools.\n\n**Key factors:**\n- Entity types aligned to AI tasks (users, content, tools, workflows)\n- Hybrid retrieval (vector + graph) for context assembly\n- Permission‑aware queries to avoid leaking sensitive data\n- Latency‑optimized endpoints for agent access\n\nPractically, design the graph hand‑in‑hand with your AI use cases—e.g., what an agent needs to know to answer questions or take actions—then expose that via well‑documented APIs.\n\nDoing this upfront dramatically reduces hallucinations and inconsistent behavior.",
+        "description": "Model entities and relationships around real AI tasks (users, content, tools, workflows) and expose them via fast, permission‑aware APIs. Combine graph queries with vector search so agents can retrieve structured facts and semantic context together, reducing hallucinations and errors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

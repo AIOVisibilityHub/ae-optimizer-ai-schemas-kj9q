@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I had a bad experience with an SEO agency—how should I approach AI visibility optimization without repeating that mistake?",
+  "description": "Start small and measurable: pick a limited set of high‑value queries, get an AI visibility audit, and optimize only your most important pages first. Demand clea",
+  "url": "aeoptimizer.com/faq/i-had-a-bad-experience-with-an-seo-agency-how-should-i-approach-ai-visibility-op",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I had a bad experience with an SEO agency—how should I approach AI visibility optimization without repeating that mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad SEO experience before, approach AI visibility optimization with smaller, clearly measurable steps and transparent reporting. You don’t need a big “all or nothing” retainer to see value.\n\nFocus first on a narrow set of high-value queries and a limited number of pages so you can validate impact before expanding.\n\nKey factors:\n- Clear, testable goals (e.g., AI mention rate for 30 core prompts)\n- Concrete deliverables: audit, page rewrites, schema implementation\n- Reporting that shows before/after AI answers and business metrics\n- Flexibility to pause or adjust without long-term lock‑ins\n\nAsk potential vendors to walk you through example audits and real prompt logs rather than vague promises. Insist on collaboratively choosing the questions to test.\n\nLet AI visibility work rebuild trust by being grounded in your customers’ actual queries and observable changes in answers over time.",
+        "description": "Start small and measurable: pick a limited set of high‑value queries, get an AI visibility audit, and optimize only your most important pages first. Demand clear before/after reporting on AI answers and business metrics, and avoid long-term lock‑ins until you’ve seen real, documented improvements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

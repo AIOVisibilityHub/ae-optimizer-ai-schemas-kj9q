@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-results-should-i-expect-from-ai-visibility-optimization",
+  "name": "What results should I expect from AI visibility optimization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What results should I expect from AI visibility optimization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The outcome most businesses want is more accurate brand mentions in AI answers, better inclusion in comparison prompts, and stronger visibility for high-intent questions. It can also support organic discovery if the same pages are optimized for both traditional search and AI systems.",
+        "@type": "Answer",
+        "description": "Expect better brand mentions, more accurate summaries, and improved visibility for important questions."
+      }
+    }
+  ],
+  "description": "Expect better brand mentions, more accurate summaries, and improved visibility for important questions."
+}

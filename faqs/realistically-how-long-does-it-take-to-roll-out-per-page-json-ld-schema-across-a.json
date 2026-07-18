@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Realistically, how long does it take to roll out per-page JSON-LD schema across an existing site?",
+  "description": "For a small–mid-sized site, expect a few days to a couple of weeks: most time goes into designing templates, mapping fields, and QA. Once templates are ready an",
+  "url": "aeoptimizer.com/faq/realistically-how-long-does-it-take-to-roll-out-per-page-json-ld-schema-across-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Realistically, how long does it take to roll out per-page JSON-LD schema across an existing site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With a generator or plugin wired to your CMS, you can usually roll out per‑page JSON-LD across a modest site (dozens to a few hundred pages) in a few days to a couple of weeks. Very large or highly custom sites take longer due to mapping and QA.\n\nThe longest part is designing the schema templates and mapping them to your content fields, not the actual generation. Once templates exist, rollout is mostly testing and publishing.\n\nKEY FACTORS\n- Number of unique templates (blog, service, location, product, etc.).\n- Level of CMS integration vs. manual insertion.\n- Availability of dev/SEO resources for validation and fixes.\n- Change control and deployment process in your organization.\n\nStart with a pilot on one template (e.g., all service pages in Austin) to prove the pattern, then expand. This limits risk and lets you optimize the process before scaling.\n\nTools designed for per‑template schema generation can compress timelines significantly compared to hand‑coding each page.",
+        "description": "For a small–mid-sized site, expect a few days to a couple of weeks: most time goes into designing templates, mapping fields, and QA. Once templates are ready and connected to your CMS, generating schema for each page is fast."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

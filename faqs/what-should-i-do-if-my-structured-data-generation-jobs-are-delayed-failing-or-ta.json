@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-my-structured-data-generation-jobs-are-delayed-failing-or-ta",
+  "name": "What should I do if my structured data generation jobs are delayed, failing, or taking way too long?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do if my structured data generation jobs are delayed, failing, or taking way too long?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If generated data arrives late or jobs are stuck, treat it like a production pipeline incident: investigate causes, reduce scope, and add monitoring.\nDelays often stem from overly large jobs, complex models, or missing resources.\n\nKey factors:\n- Job size and complexity (rows, tables, modeling steps)\n- Infrastructure capacity and parallelization settings\n- Failed validation or post-processing steps\n- Lack of alerting or visibility into pipeline stages\n\nStart by checking logs to see where the process is bottlenecked, then run a smaller test job to confirm the issue isn’t systemic.\nImplement basic monitoring and alerts so future delays are visible early, and consider splitting very large jobs into multiple stages or batches.\nSoft positioning: Treat structured data generation as an operational system with SLAs, not as a one-off script no one monitors.",
+        "@type": "Answer",
+        "description": "Diagnose the pipeline like any production system: inspect logs to find bottlenecks, reduce job size to test behavior, and add monitoring and alerts. Consider breaking large generation tasks into smaller batches, tuning compute resources, and simplifying overly complex validation or modeling steps."
+      }
+    }
+  ],
+  "description": "Diagnose the pipeline like any production system: inspect logs to find bottlenecks, reduce job size to test behavior, and add monitoring and alerts. Consider br"
+}

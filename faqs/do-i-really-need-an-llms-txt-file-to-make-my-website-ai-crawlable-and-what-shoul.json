@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need an llms.txt file to make my website AI-crawlable, and what should go in it?",
+  "description": "You don’t strictly need an llms.txt file, but it can help guide AI models to your best, canonical pages. Include a concise explanation of your site’s structure",
+  "url": "aeoptimizer.com/faq/do-i-really-need-an-llms-txt-file-to-make-my-website-ai-crawlable-and-what-shoul",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need an llms.txt file to make my website AI-crawlable, and what should go in it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An llms.txt file is an optional but useful way to give AI models a concise map of your most important, well‑structured pages and how to interpret them. It doesn’t replace good HTML and schema, but it can guide AI toward the right URLs and context.\n\nThink of it as a hint system for answer engines, not a magic switch.\n\n**Key factors:**\n- Listing only high‑quality, canonical URLs that answer specific questions\n- Explaining the site’s structure and any special conventions briefly\n- Keeping the file updated when pages or positioning change\n- Ensuring the rest of your crawlability (robots, sitemaps, HTML) is already sound\n\nImplement llms.txt after you’ve fixed the basics, not before. Use it to reinforce which pages should be preferred for key topics, then periodically test whether AI responses shift toward those URLs over time.",
+        "description": "You don’t strictly need an llms.txt file, but it can help guide AI models to your best, canonical pages. Include a concise explanation of your site’s structure and a curated list of high‑quality URLs that answer important questions, and keep it updated as your content evolves."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

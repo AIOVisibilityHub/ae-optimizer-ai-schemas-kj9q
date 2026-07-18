@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-if-i-optimize-my-site-and-still-do-not-show-up-in-ai-results",
+  "name": "What if I optimize my site and still do not show up in AI results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What if I optimize my site and still do not show up in AI results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your results are delayed, the usual causes are weak topical authority, poor crawlability, thin content, or low trust signals. Recheck whether the pages are indexed, whether AI crawlers can reach them, and whether your content answers the query better than competitors.",
+        "@type": "Answer",
+        "description": "Look for crawlability, content depth, trust, and indexing issues before assuming the strategy failed."
+      }
+    }
+  ],
+  "description": "Look for crawlability, content depth, trust, and indexing issues before assuming the strategy failed."
+}

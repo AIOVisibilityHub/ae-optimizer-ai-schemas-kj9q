@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-does-ai-visibility-website-optimization-work-step-by-step",
+  "name": "How does AI visibility website optimization work step by step?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How does AI visibility website optimization work step by step?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with auditing current mentions, then identifying priority questions, updating pages with answer-first content, and adding schema. After that, ongoing tracking shows whether your pages are appearing more often and more accurately in AI outputs.",
+        "@type": "Answer",
+        "description": "It usually follows four steps: audit, prioritize queries, optimize content and schema, then monitor results."
+      }
+    }
+  ],
+  "description": "It usually follows four steps: audit, prioritize queries, optimize content and schema, then monitor results."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-i-m-over-optimizing-or-spamming-with-per-page-json-ld-schema",
+  "name": "How do I know if I’m over-optimizing or spamming with per-page JSON-LD schema?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if I’m over-optimizing or spamming with per-page JSON-LD schema?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To avoid over-optimizing, keep per-page JSON-LD tightly aligned with visible content, minimal in scope, and free of fake or exaggerated data. Your goal is accurate description, not stuffing every possible property into the markup.\n\nSearch engines increasingly down-rank or ignore manipulative structured data patterns.\n\nKey factors:\n- **Content parity:** Every key claim in schema should be clearly supported on-page.\n- **Property restraint:** Use required and recommended fields, not every optional one.\n- **No fake reviews/ratings:** Only mark up real, policy-compliant reviews.\n- **Change discipline:** Update schema whenever the page’s content or offers change.\n\nIf you’re unsure whether a field is appropriate, ask: “Would a human find this misleading?” If yes, leave it out.\n\nConservative, honest JSON-LD often performs better long term than aggressive, bloated markup.",
+        "@type": "Answer",
+        "description": "You’re likely over-optimizing if your per-page JSON-LD includes claims not clearly visible on the page, uses every optional property possible, or adds aggressive review/offer markup. Keep schema minimal, honest, and tightly aligned with real content to avoid spam signals and keep rich results eligibility."
+      }
+    }
+  ],
+  "description": "You’re likely over-optimizing if your per-page JSON-LD includes claims not clearly visible on the page, uses every optional property possible, or adds aggressiv"
+}

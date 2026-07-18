@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-are-the-most-common-ways-per-page-json-ld-schema-goes-wrong-and-how-bad-are",
+  "name": "What are the most common ways per-page JSON-LD schema goes wrong, and how bad are the consequences?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the most common ways per-page JSON-LD schema goes wrong, and how bad are the consequences?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Per-page JSON-LD failures usually stem from invalid JSON, mismatched content, using unsupported types, or reusing the same entity data everywhere. The result is often loss of rich result eligibility and, in serious cases, structured data warnings or manual actions.\n\nSearch engines care less about perfection and more about honesty, clarity, and technical correctness.\n\nKey factors:\n- **Syntax errors:** Missing commas, quotes, or braces break parsing.\n- **Content mismatch:** Markup describes things not visible on the page.\n- **Wrong schema usage:** FAQPage on non-FAQ content, or fake review markup.\n- **Over-markup:** Duplicating organization or local business schema on every URL.\n\nAlways validate new templates, spot-check live pages, and periodically audit high-value URLs.\n\nTreat JSON-LD like code: version it, test it, and avoid copying snippets you don’t fully understand.",
+        "@type": "Answer",
+        "description": "Per-page JSON-LD most often fails due to syntax errors, content that doesn’t match the markup, misuse of schema types (like FAQPage on non-FAQ content), and over-marking pages. The usual consequences are loss of rich results and structured data warnings, not instant penalties, but chronic abuse can trigger manual actions."
+      }
+    }
+  ],
+  "description": "Per-page JSON-LD most often fails due to syntax errors, content that doesn’t match the markup, misuse of schema types (like FAQPage on non-FAQ content), and ove"
+}

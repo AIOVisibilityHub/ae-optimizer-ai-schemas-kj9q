@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/will-adding-json-ld-schema-to-every-page-slow-down-my-site-or-hurt-performance",
+  "name": "Will adding JSON-LD schema to every page slow down my site or hurt performance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will adding JSON-LD schema to every page slow down my site or hurt performance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "JSON-LD markup itself has minimal performance cost; the real risks come from bloated scripts, unnecessary duplication, or heavy client-side injection. A few kilobytes of schema in `<head>` per page is typically negligible.\n\nHowever, badly implemented schema can complicate HTML, debugging, and caching.\n\nKey factors:\n- **Size:** Keep JSON-LD concise—no massive embedded data dumps.\n- **Placement:** Prefer static markup over runtime JavaScript injection.\n- **Duplication:** Avoid multiple overlapping schema blocks on the same page.\n- **Caching:** For static sites, templates with schema compress well and are cache-friendly.\n\nMeasure page size before and after implementation, but in most cases, per-page JSON-LD will not materially impact load times.\n\nFocus on correctness and simplicity rather than premature micro-optimizing of the schema payload.",
+        "@type": "Answer",
+        "description": "Per-page JSON-LD is usually just a small script block and has negligible performance impact if you keep it concise, static, and free of duplication. Performance issues arise more from heavy client-side injection or oversized data blobs than from normal schema markup in the `<head>`."
+      }
+    }
+  ],
+  "description": "Per-page JSON-LD is usually just a small script block and has negligible performance impact if you keep it concise, static, and free of duplication. Performance"
+}

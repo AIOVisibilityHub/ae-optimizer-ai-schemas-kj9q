@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do we know if our knowledge graph and entity file generation is actually delivering ROI instead of just being “interesting” infrastructure?",
+  "description": "Define 2–3 workflows the graph powers (search, recommendations, analytics) and measure before‑and‑after metrics like time‑to‑answer, error rates, and user adopt",
+  "url": "aeoptimizer.com/faq/how-do-we-know-if-our-knowledge-graph-and-entity-file-generation-is-actually-del",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do we know if our knowledge graph and entity file generation is actually delivering ROI instead of just being “interesting” infrastructure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure ROI, connect your knowledge graph and entity files to metrics you already care about: faster search, fewer data errors, better recommendations, or more efficient operations. Track before‑and‑after performance for workflows directly powered by the graph.\n\nSoft benefits (data clarity, reduced duplication) matter, but hard numbers build long‑term support.\n\n**Key factors:**\n- Baseline metrics (search success, time‑to‑answer, error rates)\n- Adoption metrics (queries per day, active users, AI calls)\n- Impact on downstream KPIs (conversion, retention, support cost)\n- Qualitative feedback from teams using the graph\n\nPractically, instrument the interfaces (APIs, search UIs, AI prompts) that touch the graph and review those metrics alongside narrative feedback in regular stakeholder sessions.\n\nA focused measurement plan makes it easier to justify expanding the graph over time.",
+        "description": "Define 2–3 workflows the graph powers (search, recommendations, analytics) and measure before‑and‑after metrics like time‑to‑answer, error rates, and user adoption. Combine those hard numbers with feedback from teams to show whether the graph is driving meaningful business outcomes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

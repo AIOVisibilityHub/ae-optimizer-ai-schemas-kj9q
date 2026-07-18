@@ -1,0 +1,17 @@
+{
+  "url": "aeoptimizer.com/faq/is-ae-optimizer-a-one-time-purchase-or-subscription",
+  "name": "Is AE Optimizer a one-time purchase or subscription?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is AE Optimizer a one-time purchase or subscription?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AE Optimizer is a one-time purchase. There are no monthly fees.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "AE Optimizer is a one-time purchase. There are no monthly fees."
+}

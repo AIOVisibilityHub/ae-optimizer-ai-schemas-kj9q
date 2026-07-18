@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/if-i-can-t-afford-full-site-per-page-json-ld-which-pages-should-i-prioritize-fir",
+  "name": "If I can’t afford full-site per-page JSON-LD, which pages should I prioritize first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "If I can’t afford full-site per-page JSON-LD, which pages should I prioritize first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "On a tight budget, focus per-page JSON-LD on the handful of URLs that can realistically qualify for rich results and drive revenue: service pages, city/location pages, FAQs, and key content hubs. You do not need exhaustive coverage to see value.\n\nMany sites waste effort marking up low-impact pages that never get impressions. Start where searcher intent and business value intersect.\n\nKey factors:\n- **Revenue impact:** Which pages generate leads or sales today?\n- **Rich result fit:** FAQ, Product, LocalBusiness, Service, Event, HowTo, etc.\n- **Existing rankings:** Pages already on page 1 gain the most from improved CTR.\n- **Implementation cost:** Choose templates that are easy to replicate in your CMS.\n\nList your top 20–30 URLs by conversions, map each to a schema type, implement JSON-LD, and monitor CTR changes before investing further.\n\nThis lets you prove ROI on per-page schema without a full-site rollout.",
+        "@type": "Answer",
+        "description": "Prioritize per-page JSON-LD on your highest-value URLs: core service pages, city/location pages, FAQ pages, and strong content hubs that already get impressions. These have the best chance to earn rich results and improve CTR, giving you measurable ROI without marking up the entire site."
+      }
+    }
+  ],
+  "description": "Prioritize per-page JSON-LD on your highest-value URLs: core service pages, city/location pages, FAQ pages, and strong content hubs that already get impressions"
+}

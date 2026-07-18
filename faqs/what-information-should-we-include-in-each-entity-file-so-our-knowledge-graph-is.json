@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should we include in each entity file so our knowledge graph is actually useful without becoming bloated?",
+  "description": "Each entity file should have a stable ID, canonical name, a small set of business‑critical attributes, explicit relationships to other entities, and metadata ab",
+  "url": "aeoptimizer.com/faq/what-information-should-we-include-in-each-entity-file-so-our-knowledge-graph-is",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should we include in each entity file so our knowledge graph is actually useful without becoming bloated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A minimal set usually includes: unique IDs, canonical names, key attributes, relationships to other entities, and metadata like source system and timestamps. Start small but consistent; you can add more properties once basic linking and querying work reliably.\n\nOver‑modeling early often slows delivery without adding real value.\n\n**Key factors:**\n- Business‑critical attributes per entity type (customer, asset, doc)\n- Stable keys and alternative identifiers (emails, SKUs, external IDs)\n- Relationship fields (belongs_to, part_of, located_in, etc.)\n- Provenance and lifecycle metadata (created_by, updated_at, status)\n\nPractically, workshop with domain experts to agree on “must‑have” fields for each entity type, lock those into templates, and resist adding optional fields until you’ve validated usage.\n\nTreat entity file design as a living standard that evolves with real needs, not a one‑off spec.",
+        "description": "Each entity file should have a stable ID, canonical name, a small set of business‑critical attributes, explicit relationships to other entities, and metadata about source and timestamps. Start with a lean, standardized template per entity type and expand only based on real usage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

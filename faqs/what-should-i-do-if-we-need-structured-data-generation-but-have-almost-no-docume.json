@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-we-need-structured-data-generation-but-have-almost-no-docume",
+  "name": "What should I do if we need structured data generation but have almost no documentation of our current databases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do if we need structured data generation but have almost no documentation of our current databases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you have almost no documentation, your first job is to reverse-engineer your schema and business rules before generating data.\nSkipping this step leads to broken relationships and unusable datasets.\n\nKey factors:\n- Introspect databases to extract tables, columns, and constraints\n- Interview domain experts to understand real-world rules and edge cases\n- Use profiling tools to analyze existing data distributions\n- Document findings incrementally as you go\n\nIn practice, start by profiling a copy of production data (where allowed) to see typical values, correlations, and densities, then capture those patterns in a simple schema document.\nBuild generation rules or models from this reverse-engineered view, and refine documentation each time you spot an implicit rule.\nSoft positioning: Good structured data generation often begins with better understanding of your existing systems, even when documentation is missing.",
+        "@type": "Answer",
+        "description": "Begin by reverse-engineering your schema: introspect the database to list tables, fields, and constraints, then profile a copy of existing data to understand real distributions and rules. Use these insights to document the structure and build generation logic that respects how the system actually behaves."
+      }
+    }
+  ],
+  "description": "Begin by reverse-engineering your schema: introspect the database to list tables, fields, and constraints, then profile a copy of existing data to understand re"
+}

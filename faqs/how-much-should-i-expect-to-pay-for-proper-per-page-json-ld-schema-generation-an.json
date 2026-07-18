@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I expect to pay for proper per-page JSON-LD schema generation and setup for my website?",
+  "description": "Expect a one‑time investment from a few hundred dollars (DIY with tools) up to a few thousand (specialist implementation) depending on site size and complexity.",
+  "url": "aeoptimizer.com/faq/how-much-should-i-expect-to-pay-for-proper-per-page-json-ld-schema-generation-an",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I expect to pay for proper per-page JSON-LD schema generation and setup for my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most small and mid‑sized sites, the initial per‑page JSON-LD implementation lands in the low four figures if you hire a specialist, and much less if you use a tool and do it yourself. Ongoing costs are mainly maintenance as content changes.\n\nPricing depends heavily on how many templates and locations you have, and whether you need custom dev work versus using a schema engine or plugin. Cities like Los Angeles, Austin, and Denver tend to have higher agency rates than purely remote providers.\n\nKEY FACTORS\n- Number of page types (service, blog, location, product, etc.).\n- One‑time setup vs. ongoing monitoring and updates.\n- Manual coding vs. automated generator or plugin.\n- Local agency hourly rates vs. remote or productized services.\n\nAsk vendors for a breakdown: template design, implementation, QA, and ongoing monitoring. Compare that to the cost of DIY using a schema generator and a few hours of your team’s time.\n\nTools that standardize schema per template can dramatically cut both up‑front and long‑term costs.",
+        "description": "Expect a one‑time investment from a few hundred dollars (DIY with tools) up to a few thousand (specialist implementation) depending on site size and complexity. Ongoing costs are mostly small maintenance as you add pages or change services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

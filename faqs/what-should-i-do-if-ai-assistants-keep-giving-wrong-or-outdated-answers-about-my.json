@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI assistants keep giving wrong or outdated answers about my business?",
+  "description": "You’ll need to fix both AI crawlability and your content sources. Update and structure the pages AI is citing, remove or de‑index conflicting legacy pages, add",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-assistants-keep-giving-wrong-or-outdated-answers-about-my",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI assistants keep giving wrong or outdated answers about my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI assistants are returning outdated or wrong answers about your business, you need both crawlability fixes and content governance. Updating a page alone won’t help if AI can’t see the new version clearly or still finds conflicting information elsewhere.\n\nTreat this as a misinformation cleanup project anchored in canonical, AI-readable pages.\n\n**Key factors:**\n- Identify which URLs AI systems are currently citing for your brand\n- Ensure those pages are updated, cleanly structured, and machine-readable\n- Remove or de‑index legacy or conflicting pages when possible\n- Use schema and clear Q&A sections to highlight the “current truth”\n\nDocument your official answers to critical questions (hours, pricing, policies) and reflect them exactly in your site’s content and metadata. In multi‑city setups like Los Angeles and Denver, make sure location-specific details are clearly separated and marked so AI doesn’t mix them up.",
+        "description": "You’ll need to fix both AI crawlability and your content sources. Update and structure the pages AI is citing, remove or de‑index conflicting legacy pages, add clear Q&A sections and schema, and ensure each critical answer has a single, canonical, machine‑readable source."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

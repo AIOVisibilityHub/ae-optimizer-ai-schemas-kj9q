@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I watch out for when generating FAQ JSON-LD for each page so I don’t get in trouble with Google?",
+  "description": "Only generate FAQPage JSON-LD for real, visible FAQs on the page. Ensure questions and answers match the on‑page text, keep answers concise and helpful, and avo",
+  "url": "aeoptimizer.com/faq/what-should-i-watch-out-for-when-generating-faq-json-ld-for-each-page-so-i-don-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I watch out for when generating FAQ JSON-LD for each page so I don’t get in trouble with Google?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For FAQ content, you must ensure every question and answer in your JSON-LD exactly matches visible content on the page. Generating FAQPage schema for hidden or partial FAQs risks manual actions or loss of eligibility.\n\nIn cities like Los Angeles or New York where competition is high, Google can be especially strict about FAQ abuse. Quality and authenticity matter more than sheer volume.\n\nKEY FACTORS\n- Questions and answers are clearly visible, not just in schema.\n- Natural, user‑like question wording.\n- Concise but complete answers (roughly 50–200 words).\n- No keyword‑stuffing or promotional spam in answers.\n\nWhen generating FAQ schema, base it on actual FAQ blocks in your CMS so editors can manage content and markup in one place. Periodically audit older FAQs to ensure they’re still accurate.\n\nA responsible generator helps enforce these rules instead of encouraging FAQ overuse for rich result “hacks.”",
+        "description": "Only generate FAQPage JSON-LD for real, visible FAQs on the page. Ensure questions and answers match the on‑page text, keep answers concise and helpful, and avoid keyword‑stuffed or purely promotional content that violates Google’s structured data guidelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

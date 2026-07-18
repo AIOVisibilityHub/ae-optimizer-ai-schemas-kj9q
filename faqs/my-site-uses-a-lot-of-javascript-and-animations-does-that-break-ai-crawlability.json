@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/my-site-uses-a-lot-of-javascript-and-animations-does-that-break-ai-crawlability",
+  "name": "My site uses a lot of JavaScript and animations—does that break AI crawlability, and what should I do about it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "My site uses a lot of JavaScript and animations—does that break AI crawlability, and what should I do about it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your current site relies heavily on JavaScript frameworks or complex animations, AI crawlers may struggle to see key content, even if humans can. Many AI bots don’t render JavaScript, so important text that only appears after scripts run can effectively be invisible.\n\nThat doesn’t mean you must rebuild everything, but you do need to ensure your core content is available in the raw HTML and properly structured. Fancy front-ends without a solid HTML backbone are risky for AI visibility.\n\nKey factors:\n- **Server-side rendering (SSR)**: Ensures main content is present in the initial HTML.\n- **Progressive enhancement**: Design so the page works and is readable even without JS.\n- **Critical content placement**: Keep key copy, headings, and links out of JS-only components.\n- **Testing with crawlers**: Use tools that simulate non-JS crawling to identify gaps.\n\nIf your dev stack is heavily JS-based, work with developers to introduce SSR or static generation and move mission-critical content into crawlable HTML. Treat scripts as enhancements, not the delivery mechanism for your core message.\n\nFor businesses that can’t change their stack easily, focus on strong static landing pages and FAQs that AI can reliably crawl, even if the rest of the app remains JS-heavy.",
+        "@type": "Answer",
+        "description": "Heavy JavaScript can hurt AI crawlability because many AI bots don’t fully render scripts, so key content may be invisible. Protect yourself by ensuring core text is in the raw HTML, using server-side rendering or static pages, and testing with non-JS crawlers."
+      }
+    }
+  ],
+  "description": "Heavy JavaScript can hurt AI crawlability because many AI bots don’t fully render scripts, so key content may be invisible. Protect yourself by ensuring core te"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-should-i-handle-per-page-json-ld-schema-on-a-headless-cms-or-jamstack-site",
+  "name": "How should I handle per-page JSON-LD schema on a headless CMS or JAMstack site?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How should I handle per-page JSON-LD schema on a headless CMS or JAMstack site?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "On a headless or JAMstack setup, generate JSON-LD server-side or at build time using the same content API you use for the page, then embed it in the rendered HTML. Client-only injection should be a fallback, not the default.\n\nSearch engines often prefer structured data that appears in the initial HTML, not after heavy client-side rendering.\n\nKey factors:\n- **Data source:** Pull schema fields from your headless CMS (title, body, author, city, offers).\n- **Build hooks:** Generate JSON-LD during static generation or server-side rendering.\n- **Reusability:** Create schema factories per page type (article, product, location).\n- **Testing:** Confirm the deployed HTML contains the final JSON-LD without JS execution.\n\nTreat JSON-LD as another view of your content, wired into your content model and build pipeline.\n\nThis keeps per-page schema consistent, fast, and reliably discoverable by crawlers.",
+        "@type": "Answer",
+        "description": "Use your headless CMS as the data source and generate JSON-LD at build time or server-side, embedding it directly into the HTML `<head>` for each page. Avoid relying solely on client-side scripts so search engines see correct per-page schema without executing extra JavaScript."
+      }
+    }
+  ],
+  "description": "Use your headless CMS as the data source and generate JSON-LD at build time or server-side, embedding it directly into the HTML `<head>` for each page. Avoid re"
+}

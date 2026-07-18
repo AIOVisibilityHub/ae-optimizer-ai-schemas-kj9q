@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-ve-added-per-page-json-ld-but-i-m-still-not-seeing-any-cha",
+  "name": "What should I do if I’ve added per-page JSON-LD but I’m still not seeing any changes in Google results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do if I’ve added per-page JSON-LD but I’m still not seeing any changes in Google results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If search results aren’t changing after per-page JSON-LD, first confirm that your markup is valid, indexable, and actually eligible for rich results. Then accept that display is always at Google’s discretion and improvements often show up as better CTR or clarity, not guaranteed new snippets.\n\nStructured data is a hint, not a directive. Delays of several weeks are common, especially on lower-traffic sites.\n\nKey factors:\n- **Validation:** Passes Rich Results Test and Schema.org Validator with no errors.\n- **Indexing:** Page is indexed, not blocked by robots, and uses supported schema types.\n- **Content alignment:** Markup matches visible content and guidelines.\n- **Patience:** It can take multiple recrawls before changes surface.\n\nUse Search Console’s URL Inspection and Rich Results reports to check recognition, then monitor impressions and CTR by page.\n\nIf everything validates but results don’t change, treat the schema as a long-term quality signal rather than a quick hack.",
+        "@type": "Answer",
+        "description": "Check that your per-page JSON-LD is valid, eligible for rich results, and on indexable pages, then monitor in Search Console. Google decides whether to show rich results and often takes weeks and multiple recrawls, so expect improvements mainly in clarity and CTR rather than guaranteed new snippets."
+      }
+    }
+  ],
+  "description": "Check that your per-page JSON-LD is valid, eligible for rich results, and on indexable pages, then monitor in Search Console. Google decides whether to show ric"
+}

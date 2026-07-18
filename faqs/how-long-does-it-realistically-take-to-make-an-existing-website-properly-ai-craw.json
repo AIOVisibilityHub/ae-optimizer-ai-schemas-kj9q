@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it realistically take to make an existing website properly AI-crawlable?",
+  "description": "Most existing sites can be made AI-crawlable in 4–8 weeks, with smaller brochure sites closer to 2–4 weeks and larger catalogs needing 2–3 months. Timelines dep",
+  "url": "aeoptimizer.com/faq/how-long-does-it-realistically-take-to-make-an-existing-website-properly-ai-craw",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it realistically take to make an existing website properly AI-crawlable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A realistic baseline for making an existing site AI-crawlable is 4–8 weeks, depending on size, tech stack, and how clean your current SEO is. Smaller brochure sites can often do it in 2–4 weeks; large catalogs might take 2–3 months.\n\nThe work spans auditing, planning, implementation, and re‑testing in AI interfaces.\n\n**Key factors:**\n- Number of priority pages (usually 50–200 for mid‑size brands)\n- Complexity of templates and JavaScript framework used\n- How mature your current SEO, schema, and performance are\n- Availability of dev, content, and SEO resources\n\nFor an urgent launch in Austin or Los Angeles, narrow scope to 10–20 mission‑critical URLs and get those AI-ready first, then roll out patterns to the rest. Ask vendors to give you a timeline per phase (audit, implementation, validation), not just a single date, so you can see progress along the way.",
+        "description": "Most existing sites can be made AI-crawlable in 4–8 weeks, with smaller brochure sites closer to 2–4 weeks and larger catalogs needing 2–3 months. Timelines depend mainly on page volume, tech stack, current SEO quality, and resource availability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

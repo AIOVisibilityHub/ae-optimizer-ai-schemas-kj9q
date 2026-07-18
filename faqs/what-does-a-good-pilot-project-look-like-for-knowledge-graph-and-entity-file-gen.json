@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-does-a-good-pilot-project-look-like-for-knowledge-graph-and-entity-file-gen",
+  "name": "What does a good pilot project look like for knowledge graph and entity file generation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What does a good pilot project look like for knowledge graph and entity file generation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a small pilot, a focused dataset with a clear goal is usually enough to prove value. If the pilot works, expand by adding more entity types, more source systems, and stricter validation rules.",
+        "@type": "Answer",
+        "description": "Start with one focused dataset and a clear goal, then expand after validation."
+      }
+    }
+  ],
+  "description": "Start with one focused dataset and a clear goal, then expand after validation."
+}

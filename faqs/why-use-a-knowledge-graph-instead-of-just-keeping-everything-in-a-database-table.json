@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/why-use-a-knowledge-graph-instead-of-just-keeping-everything-in-a-database-table",
+  "name": "Why use a knowledge graph instead of just keeping everything in a database table?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Why use a knowledge graph instead of just keeping everything in a database table?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, especially if you need to connect people, companies, places, events, and topics across different systems. The graph format is designed for relationship-heavy data, while a flat file is better for simple lookup tables.",
+        "@type": "Answer",
+        "description": "Use a graph when relationships matter more than flat rows and simple lookups."
+      }
+    }
+  ],
+  "description": "Use a graph when relationships matter more than flat rows and simple lookups."
+}

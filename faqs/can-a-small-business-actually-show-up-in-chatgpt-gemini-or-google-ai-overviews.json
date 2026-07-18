@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/can-a-small-business-actually-show-up-in-chatgpt-gemini-or-google-ai-overviews",
+  "name": "Can a small business actually show up in ChatGPT, Gemini, or Google AI Overviews?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can a small business actually show up in ChatGPT, Gemini, or Google AI Overviews?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not need to be a big brand to show up in AI answers, but your content must be easy to understand and trust. Clean site architecture, direct answers, and strong topical coverage help AI systems identify when your pages are relevant.",
+        "@type": "Answer",
+        "description": "Yes. Smaller sites can appear if they have clear structure, strong topical depth, and trustworthy content."
+      }
+    }
+  ],
+  "description": "Yes. Smaller sites can appear if they have clear structure, strong topical depth, and trustworthy content."
+}

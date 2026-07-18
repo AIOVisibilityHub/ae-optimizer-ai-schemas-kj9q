@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-s-the-right-way-to-plan-per-page-json-ld-schema-across-my-whole-site-instea",
+  "name": "What’s the right way to plan per-page JSON-LD schema across my whole site instead of doing it randomly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What’s the right way to plan per-page JSON-LD schema across my whole site instead of doing it randomly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by mapping each URL to the single most appropriate schema type and then layering in page-specific properties that mirror visible content. Build a simple implementation matrix before touching code so you avoid messy, inconsistent markup.\n\nFor per-page generation, you want a repeatable pattern, not 200 hand-written JSON blobs. Think in terms of templates tied to page types in your CMS or framework.\n\nKey factors:\n- **Page type mapping:** Home, service, blog post, FAQ, product, location pages, etc.\n- **Core schemas:** `WebSite`, `Organization`, plus per-page `WebPage` + a more specific type (e.g., `Service`, `Article`, `FAQPage`).\n- **Data sources:** Title, description, author, price, city, NAP, pulled from your CMS or design system.\n- **Placement:** Typically injected into `<head>` per page or via server-side rendering.\n\nCreate a simple doc: list each page template, assign schema types, note which CMS fields map to which properties, then implement and validate one template at a time.\n\nThis approach keeps per-page JSON-LD scalable and understandable for both devs and marketers.",
+        "@type": "Answer",
+        "description": "Map every page template (service, blog, FAQ, product, location, etc.) to a specific schema type, then build JSON-LD templates that pull from your CMS fields. Implement and validate one template at a time so per-page schema stays consistent and scalable."
+      }
+    }
+  ],
+  "description": "Map every page template (service, blog, FAQ, product, location, etc.) to a specific schema type, then build JSON-LD templates that pull from your CMS fields. Im"
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do we integrate a new knowledge graph and entity file pipeline with the data warehouses and operational databases we already rely on?",
+  "description": "Map graph entities to your existing tables and APIs, then use ETL, change‑data‑capture, or events to keep them in sync. Treat the knowledge graph as a semantic",
+  "url": "aeoptimizer.com/faq/how-do-we-integrate-a-new-knowledge-graph-and-entity-file-pipeline-with-the-data",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do we integrate a new knowledge graph and entity file pipeline with the data warehouses and operational databases we already rely on?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by aligning the knowledge graph’s ontology with the schemas and APIs of your existing data warehouse, CRM, and operational databases. The graph should sit alongside, not replace, those systems—acting as a semantic layer that connects them.\n\nYou’re building bridges, not tearing out foundations.\n\n**Key factors:**\n- Clear mapping between graph entities and warehouse tables\n- Integration patterns (ETL, CDC, event streams, APIs)\n- Decisions about what stays in source systems vs what’s mirrored in the graph\n- Governance for schema changes across both worlds\n\nPractically, pilot one end‑to‑end integration (e.g., CRM customers → entity files → graph → analytics) before wiring everything at once, so you can refine patterns.\n\nThis incremental approach lets your knowledge graph enhance existing investments rather than compete with them.",
+        "description": "Map graph entities to your existing tables and APIs, then use ETL, change‑data‑capture, or events to keep them in sync. Treat the knowledge graph as a semantic layer that connects systems, not a replacement, and pilot one integration path before scaling to everything."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

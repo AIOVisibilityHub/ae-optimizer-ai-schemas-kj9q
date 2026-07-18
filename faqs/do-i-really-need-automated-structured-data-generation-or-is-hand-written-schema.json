@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need automated structured data generation, or is hand-written schema enough for my site?",
+  "description": "Hand-written schema works for small, stable sites. Once you have many templates, frequent updates, or multi-location content (e.g., Los Angeles, San Diego, Aust",
+  "url": "aeoptimizer.com/faq/do-i-really-need-automated-structured-data-generation-or-is-hand-written-schema",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need automated structured data generation, or is hand-written schema enough for my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Manual schema coding is fine for a handful of pages, but once you’re dealing with many templates or frequent content changes, automated structured data generation becomes the pragmatic choice.\nThe decision hinges on volume, complexity, and how often fields change.\n\nKey factors:\n- Number of page types and total URLs\n- Frequency of content updates\n- In‑house technical skills and bandwidth\n- Need for consistency across properties and locales\n\nPractically, if you have fewer than ~50 key pages and stable content, hand-written schema may still be manageable.\nIf you operate in multiple cities like Los Angeles, San Diego, Austin, Denver, or Salt Lake City with location-specific variants, automation tied to your CMS or data model is usually worth it.\nConsider starting manual, then evolving to automated generation when templates stabilize.",
+        "description": "Hand-written schema works for small, stable sites. Once you have many templates, frequent updates, or multi-location content (e.g., Los Angeles, San Diego, Austin), automated structured data generation tied to your CMS or database is usually more reliable, scalable, and consistent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

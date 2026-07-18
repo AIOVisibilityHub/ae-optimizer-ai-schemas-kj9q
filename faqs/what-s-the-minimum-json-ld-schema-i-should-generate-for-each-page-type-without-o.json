@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the minimum JSON-LD schema I should generate for each page type without overcomplicating things?",
+  "description": "For most pages, generate WebPage plus one main type (Article/BlogPosting for content, Service/Product for offers) and optionally BreadcrumbList. Only add specia",
+  "url": "aeoptimizer.com/faq/what-s-the-minimum-json-ld-schema-i-should-generate-for-each-page-type-without-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the minimum JSON-LD schema I should generate for each page type without overcomplicating things?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A safe minimum setup is WebPage + one main content type (Article, BlogPosting, Service, Product, etc.) plus BreadcrumbList if you use breadcrumbs. This covers the majority of SEO and rich result use cases.\n\nYou don’t need an exhaustive list of all possible schema types. You need a consistent, accurate pattern that can be applied across your site and maintained as content changes.\n\nKEY FACTORS\n- Always include WebPage with URL and name.\n- Choose a single main entity that reflects the page’s purpose.\n- Add FAQPage, HowTo, or Review only when those sections exist.\n- Maintain the same pattern per template (all blog posts follow the same schema rules).\n\nCreate a schema “menu” by page type and stick to it rather than improvising. This makes generation, QA, and debugging far easier over time.\n\nA rule-driven schema tool can encode these templates once so you don’t have to remember every detail for each new page.",
+        "description": "For most pages, generate WebPage plus one main type (Article/BlogPosting for content, Service/Product for offers) and optionally BreadcrumbList. Only add specialized types like FAQPage or HowTo when that content truly appears on the page."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

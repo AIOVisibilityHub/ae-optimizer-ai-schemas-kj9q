@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-should-we-do-if-our-aeo-software-shows-changes-but-ai-answers-still-don-t-s",
+  "name": "What should we do if our AEO software shows changes, but AI answers still don’t start citing our site for key questions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should we do if our AEO software shows changes, but AI answers still don’t start citing our site for key questions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When AI answers don’t change despite your AEO efforts, first verify that answer engines can access your updated content, then check whether your changes truly match user intent and question wording. Sometimes you’ve improved formatting but still aren’t answering the underlying question clearly enough.\n\nModels may also favor long-established, highly authoritative sources, so you’re competing against entrenched content.\n\nKey factors:\n- Crawlability and indexation of updated pages\n- Alignment of Q&A content with real queries and intent\n- Strength of your domain’s authority relative to cited competitors\n- Time since changes and frequency of AI platform refreshes\n\nUse AEO software to pinpoint which queries still exclude you, then compare your page structure and depth to what engines currently cite. Consider adding more authoritative signals (expert bylines, references) and give changes 4–8 weeks before judging.\n\nTreat slow movement as a cue to refine strategy, not proof AEO doesn’t work.",
+        "@type": "Answer",
+        "description": "If AI answers still ignore your site, check access (crawl/index), confirm your Q&A truly matches user intent, and compare your authority to currently cited sources. Use AEO reports to refine content depth and trust signals, then allow several weeks for AI engines to refresh before reassessing."
+      }
+    }
+  ],
+  "description": "If AI answers still ignore your site, check access (crawl/index), confirm your Q&A truly matches user intent, and compare your authority to currently cited sour"
+}

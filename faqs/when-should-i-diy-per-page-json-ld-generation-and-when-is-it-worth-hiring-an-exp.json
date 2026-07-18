@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/when-should-i-diy-per-page-json-ld-generation-and-when-is-it-worth-hiring-an-exp",
+  "name": "When should I DIY per-page JSON-LD generation, and when is it worth hiring an expert?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "When should I DIY per-page JSON-LD generation, and when is it worth hiring an expert?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a small business, use free JSON-LD generators and CMS fields to handle most per-page schema, then bring in a pro when you hit complex entities, dynamic content, or rich result eligibility issues you can’t resolve. The threshold is when mistakes start costing more than expert help.\n\nBasic FAQPage, Article, and LocalBusiness markup are well within DIY range for many teams.\n\nKey factors:\n- **Complexity:** Multi-location, multi-language, or custom entities are harder.\n- **Risk tolerance:** Incorrect offers, prices, or reviews can harm trust.\n- **Internal skills:** Comfort with JSON syntax, dev tooling, and validation.\n- **Growth stage:** Scaling content output increases the value of automation.\n\nIf you keep encountering validation errors or inconsistent results, a specialist can design robust templates and QA processes.\n\nUntil then, focus on learning a few core schema types and applying them carefully.",
+        "@type": "Answer",
+        "description": "DIY per-page JSON-LD is fine for straightforward FAQ, Article, and LocalBusiness markup using generators and CMS fields. Once you have complex entities, dynamic content at scale, recurring errors, or high-risk data (offers, reviews, multi-location), it’s usually worth bringing in an expert to design solid templates and QA."
+      }
+    }
+  ],
+  "description": "DIY per-page JSON-LD is fine for straightforward FAQ, Article, and LocalBusiness markup using generators and CMS fields. Once you have complex entities, dynamic"
+}

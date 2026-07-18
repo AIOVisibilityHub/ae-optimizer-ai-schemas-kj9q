@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-happens-if-the-same-person-brand-or-product-appears-under-different-names",
+  "name": "What happens if the same person, brand, or product appears under different names?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What happens if the same person, brand, or product appears under different names?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your data contains multiple names for the same thing, you need alias handling and entity resolution rules. Without those rules, the graph will fragment one real-world entity into several nodes and weaken search and reporting accuracy.",
+        "@type": "Answer",
+        "description": "You need alias and entity-resolution rules or the same thing will split into multiple nodes."
+      }
+    }
+  ],
+  "description": "You need alias and entity-resolution rules or the same thing will split into multiple nodes."
+}

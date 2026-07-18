@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/should-my-per-page-json-ld-schemas-be-different-for-each-city-i-serve-or-can-i-s",
+  "name": "Should my per-page JSON-LD schemas be different for each city I serve, or can I standardize them across Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Should my per-page JSON-LD schemas be different for each city I serve, or can I standardize them across Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The JSON-LD schemas themselves are the same across cities, but the values—like `areaServed`, `address`, and localized content—should reflect each metro (Los Angeles, San Diego, Austin, Denver, Salt Lake City). Maintain one code template and feed in city-specific data from your CMS.\n\nThis keeps your implementation consistent while still being locally relevant.\n\nKey factors:\n- **Shared templates:** Same structure for all city pages to simplify maintenance.\n- **Localized fields:** City names, neighborhoods, and relevant contact info per page.\n- **Consistent entities:** The same core Organization/LocalBusiness referenced from each page.\n- **Governance:** Central control over template changes, local control over content fields.\n\nThink “one schema pattern, many locations”: a repeatable JSON-LD model adjusted by city.\n\nThis approach avoids fragmenting your implementation across different markets.",
+        "@type": "Answer",
+        "description": "Use a standardized JSON-LD template across cities, but feed it city-specific data—like `areaServed`, address, and localized content—for each page. That way your per-page schema structure remains consistent, while the values accurately reflect each metro such as Los Angeles, San Diego, Austin, Denver, and Salt Lake City."
+      }
+    }
+  ],
+  "description": "Use a standardized JSON-LD template across cities, but feed it city-specific data—like `areaServed`, address, and localized content—for each page. That way your"
+}

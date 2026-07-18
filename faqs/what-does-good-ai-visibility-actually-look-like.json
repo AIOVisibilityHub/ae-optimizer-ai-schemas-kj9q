@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-does-good-ai-visibility-actually-look-like",
+  "name": "What does good AI visibility actually look like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What does good AI visibility actually look like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good result is when AI systems describe your brand accurately, cite the right page, and distinguish you correctly from competitors. That matters because AI-generated answers often shape first impressions before a user ever reaches your site.",
+        "@type": "Answer",
+        "description": "Good AI visibility means accurate mentions, correct summaries, and the right pages being cited."
+      }
+    }
+  ],
+  "description": "Good AI visibility means accurate mentions, correct summaries, and the right pages being cited."
+}

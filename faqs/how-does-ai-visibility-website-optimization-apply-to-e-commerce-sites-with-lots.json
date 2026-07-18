@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI visibility website optimization apply to e‑commerce sites with lots of product pages?",
+  "description": "For e‑commerce, AI visibility optimization means turning product and category pages into structured, question‑driven buying guides with clear specs, benefits, F",
+  "url": "aeoptimizer.com/faq/how-does-ai-visibility-website-optimization-apply-to-e-commerce-sites-with-lots",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI visibility website optimization apply to e‑commerce sites with lots of product pages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For e‑commerce, AI visibility optimization focuses on making your product, category, and buying guide pages the go‑to sources for AI shopping advice and comparisons. You want AI assistants to surface your products and content when users ask “what should I buy?” questions.\n\nThis means combining standard SEO with richer, structured decision-support content.\n\nKey factors:\n- Detailed product descriptions with clear specs and benefits\n- Category and comparison pages structured around buyer questions\n- FAQ sections addressing common objections and use cases\n- Product and organization schema markup to aid AI understanding\n\nAudit which products or categories already show up in AI shopping conversations, then enrich those pages and their surrounding content.\n\nOver time, your e‑commerce site can become a trusted dataset for AI tools recommending products like yours.",
+        "description": "For e‑commerce, AI visibility optimization means turning product and category pages into structured, question‑driven buying guides with clear specs, benefits, FAQs, and strong schema. Done well, this helps AI tools surface your products and explanations more often when users ask “what should I buy?”‑type questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

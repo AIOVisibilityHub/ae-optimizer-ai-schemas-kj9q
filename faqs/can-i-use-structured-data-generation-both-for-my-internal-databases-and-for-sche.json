@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use structured data generation both for my internal databases and for schema.org/SEO at the same time?",
+  "description": "Yes. Define a consistent internal data model, then map its entities and fields to schema.org JSON-LD for SEO and AI search. Maintain the mapping layer alongside",
+  "url": "aeoptimizer.com/faq/can-i-use-structured-data-generation-both-for-my-internal-databases-and-for-sche",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use structured data generation both for my internal databases and for schema.org/SEO at the same time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can absolutely mix internal structured data generation (for databases and analytics) with schema.org JSON-LD for SEO and AI search, as long as both are driven from a consistent underlying model.\nThink of schema.org as an external view of your internal structure.\n\nKey factors:\n- Shared entity definitions across systems\n- Clear mapping from internal fields to external properties\n- Separate pipelines but common governance\n- Validation at both data and markup layers\n\nPractically, define core entities (like products, locations, events) in your internal schema, then build a mapping layer that transforms those into schema.org JSON-LD for your website.\nKeep the mappings in version control and update them whenever your internal model changes.\nThis reduces errors and keeps external markup aligned with reality.",
+        "description": "Yes. Define a consistent internal data model, then map its entities and fields to schema.org JSON-LD for SEO and AI search. Maintain the mapping layer alongside your schemas so internal structured data and external markup stay in sync as your system evolves."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

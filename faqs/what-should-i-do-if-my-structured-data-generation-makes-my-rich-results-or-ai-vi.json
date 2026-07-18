@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if my structured data generation makes my rich results or AI visibility suddenly disappear?",
+  "description": "Pause new changes, validate the generated structured data, and roll back any suspicious markup. Check for errors, mismatches with visible content, and deploymen",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-my-structured-data-generation-makes-my-rich-results-or-ai-vi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my structured data generation makes my rich results or AI visibility suddenly disappear?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If rich results or AI answer visibility disappear after a new structured data generation rollout, treat it like a production incident: stop further changes, validate everything, and roll back or disable the problematic markup.\nSearch engines will usually re-evaluate your site once errors are fixed.\n\nKey factors:\n- Check for validation errors or manual actions\n- Confirm schema still matches visible content\n- Identify whether the drop aligns with deployment timing\n- Review logs, release notes, and recent CMS changes\n\nPractically, use validators on multiple sample pages from each template, and compare generated JSON-LD against your previous working version.\nIf a rollback restores visibility, iterate more cautiously with smaller changes.\nKeep a simple release log for structured data so you can correlate changes with traffic quickly.",
+        "description": "Pause new changes, validate the generated structured data, and roll back any suspicious markup. Check for errors, mismatches with visible content, and deployment timing. Once you fix or remove problematic schema, search engines generally re-evaluate and your rich results can return."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

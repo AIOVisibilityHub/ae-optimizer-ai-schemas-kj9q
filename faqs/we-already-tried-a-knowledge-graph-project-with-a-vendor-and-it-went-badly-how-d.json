@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We already tried a knowledge graph project with a vendor and it went badly—how do we restart without repeating the same mistakes?",
+  "description": "Start by auditing your previous graph: what data, schemas, and lessons you can salvage. Then narrow the scope, insist on transparent, standards‑based modeling (",
+  "url": "aeoptimizer.com/faq/we-already-tried-a-knowledge-graph-project-with-a-vendor-and-it-went-badly-how-d",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We already tried a knowledge graph project with a vendor and it went badly—how do we restart without repeating the same mistakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad vendor experience, start by reclaiming control over your schema, entity definitions, and data exports. Treat the new project as a chance to simplify and standardize rather than layering complexity on top of old mistakes.\n\nYou want transparency and portability so you’re never locked in again.\n\n**Key factors:**\n- Access to previous graph data, schemas, and change logs\n- Clarity on what actually failed (tech, process, alignment)\n- Requirements for interoperability and exportability in any new solution\n- Strong governance so the model evolves intentionally\n\nPractically, run a post‑mortem on the prior project, keep valuable pieces (like parts of the ontology), and insist on open standards (RDF, OWL, or documented JSON schemas) in the next implementation.\n\nA trusted specialist can help separate structural issues from vendor-specific problems and design a more resilient architecture.",
+        "description": "Start by auditing your previous graph: what data, schemas, and lessons you can salvage. Then narrow the scope, insist on transparent, standards‑based modeling (e.g., RDF/OWL or documented JSON schemas), and put governance in place so the new graph evolves deliberately, not ad‑hoc."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

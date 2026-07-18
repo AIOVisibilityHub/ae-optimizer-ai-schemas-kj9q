@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I handle structured data generation for my multi-location business in Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+  "description": "Model each city location as its own entity with unique address, contact info, and URL, while sharing a consistent brand schema. Use a location template that you",
+  "url": "aeoptimizer.com/faq/how-should-i-handle-structured-data-generation-for-my-multi-location-business-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I handle structured data generation for my multi-location business in Los Angeles, San Diego, Austin, Denver, and Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For multi-location businesses in places like Los Angeles, San Diego, Austin, Denver, and Salt Lake City, you should generate structured data that reflects each location as its own entity while keeping a consistent core schema.\nThis helps search and AI systems understand each branch without confusing them as duplicates.\n\nKey factors:\n- Separate location-level data (address, phone, opening hours)\n- Shared brand/organization information\n- Unique identifiers (URLs, IDs) per location\n- Consistent schema types and property names across cities\n\nPractically, design a schema template for one location, then parameterize it so your generator can fill in city-specific details.\nAvoid copying a single city’s data into every branch’s schema.\nIf your CMS supports location records, tie structured data fields directly to that source of truth.",
+        "description": "Model each city location as its own entity with unique address, contact info, and URL, while sharing a consistent brand schema. Use a location template that your generator can fill with local details so Los Angeles, San Diego, Austin, Denver, and Salt Lake City are clearly distinguished in structured data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

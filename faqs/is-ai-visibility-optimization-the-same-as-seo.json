@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/is-ai-visibility-optimization-the-same-as-seo",
+  "name": "Is AI visibility optimization the same as SEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is AI visibility optimization the same as SEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "SEO and AI visibility overlap, but they are not identical. SEO focuses on ranking in search results, while AI visibility focuses on how often and how accurately AI systems mention, summarize, or cite your brand.",
+        "@type": "Answer",
+        "description": "No. SEO targets rankings; AI visibility targets how AI systems mention and cite your site."
+      }
+    }
+  ],
+  "description": "No. SEO targets rankings; AI visibility targets how AI systems mention and cite your site."
+}

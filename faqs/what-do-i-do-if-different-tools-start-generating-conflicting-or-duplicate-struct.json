@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do if different tools start generating conflicting or duplicate structured data on the same pages?",
+  "description": "Audit each page to see where schema is coming from, pick a single source of truth per template, and remove duplicate or conflicting snippets. Aim for one clean,",
+  "url": "aeoptimizer.com/faq/what-do-i-do-if-different-tools-start-generating-conflicting-or-duplicate-struct",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do if different tools start generating conflicting or duplicate structured data on the same pages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Duplicate or conflicting structured data usually happens when multiple tools or templates generate overlapping markup for the same page.\nYou fix it by consolidating ownership, standardizing templates, and removing redundant snippets.\n\nKey factors:\n- Identify all sources of schema (CMS, plugins, custom code, AI tools)\n- Decide on a single “source of truth” per page type\n- Ensure only one complete markup block per entity\n- Validate after cleanup to confirm no collisions\n\nPractically, scan representative pages for multiple JSON-LD blocks describing the same product, FAQ, or organization, and retire whichever source is less complete or harder to maintain.\nDocument which system owns which schema going forward.\nIf you use AI generators, integrate them into your main pipeline instead of pasting ad‑hoc snippets.",
+        "description": "Audit each page to see where schema is coming from, pick a single source of truth per template, and remove duplicate or conflicting snippets. Aim for one clean, complete structured data block per entity and validate pages after cleanup to ensure everything parses correctly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

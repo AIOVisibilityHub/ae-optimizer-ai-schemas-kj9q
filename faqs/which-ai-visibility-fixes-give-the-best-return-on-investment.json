@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/which-ai-visibility-fixes-give-the-best-return-on-investment",
+  "name": "Which AI visibility fixes give the best return on investment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Which AI visibility fixes give the best return on investment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best value usually comes from optimizing pages that can influence revenue, not just traffic. If AI visibility improves on high-intent queries, it may increase branded search, direct visits, demo requests, or other conversions over time.",
+        "@type": "Answer",
+        "description": "High-intent pages usually deliver the best ROI because they affect revenue-focused queries."
+      }
+    }
+  ],
+  "description": "High-intent pages usually deliver the best ROI because they affect revenue-focused queries."
+}

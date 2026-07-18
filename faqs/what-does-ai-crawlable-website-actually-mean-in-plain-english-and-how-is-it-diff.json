@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does “AI-crawlable website” actually mean in plain English, and how is it different from regular SEO?",
+  "description": "An AI-crawlable website is built so AI bots and large language models can easily access, parse, and understand your content, then quote it accurately. It builds",
+  "url": "aeoptimizer.com/faq/what-does-ai-crawlable-website-actually-mean-in-plain-english-and-how-is-it-diff",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does “AI-crawlable website” actually mean in plain English, and how is it different from regular SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-crawlable means your site is technically and semantically easy for AI bots and large language models to access, understand, and quote accurately. It’s less about rankings and more about being a reliable source that answer engines can trust.\n\nTraditional SEO focuses on search engines like Google; AI crawlability focuses on how generative systems extract facts, entities, and answers from your pages.\n\n**Key factors:**\n- Access: robots.txt, sitemaps, no hard blocks for AI user‑agents\n- Rendering: content visible without complex JavaScript or interactions\n- Understanding: clear structure, schema, and question‑answer formatting\n- Attribution: canonical URLs, consistent metadata, author and organization markup\n\nMap your high‑value questions (pricing, services, policies) and ensure each has a dedicated, well‑structured page that an AI can parse. Treat AI-crawlable website creation as a layer on top of SEO: you still need SEO basics, but you design explicitly for machines that “read” and synthesize your content.",
+        "description": "An AI-crawlable website is built so AI bots and large language models can easily access, parse, and understand your content, then quote it accurately. It builds on normal SEO but adds clearer HTML, schema, permissions, and question‑answer structures focused on machine understanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

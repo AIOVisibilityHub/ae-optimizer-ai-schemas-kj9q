@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I choose which parts of my site AI crawlers can access, or is it all-or-nothing?",
+  "description": "You can absolutely choose which sections AI crawlers access. Use a clear policy implemented through robots.txt, sitemaps, and access rules to allow high‑value,",
+  "url": "aeoptimizer.com/faq/can-i-choose-which-parts-of-my-site-ai-crawlers-can-access-or-is-it-all-or-nothi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I choose which parts of my site AI crawlers can access, or is it all-or-nothing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can and should control which parts of your site are available to AI crawlers. The goal isn’t to open everything, but to intentionally expose high‑value, non‑sensitive content while limiting admin, internal, or noisy sections.\n\nThis is usually managed via robots.txt, sitemaps, access rules, and, in some cases, AI‑specific directives.\n\n**Key factors:**\n- Decide which sections are “public facts” vs. internal or contextual\n- Configure robots.txt to allow AI bots to key content while blocking low‑value areas\n- Maintain clean, up‑to‑date sitemaps highlighting canonical pages\n- Use consistent patterns instead of one‑off exceptions for every directory\n\nWrite down an AI access policy that your dev and content teams can follow as the site evolves. In multi‑office environments like Denver or Salt Lake City, align stakeholders early so you don’t end up with conflicting rules that confuse both search engines and AI systems.",
+        "description": "You can absolutely choose which sections AI crawlers access. Use a clear policy implemented through robots.txt, sitemaps, and access rules to allow high‑value, public content while blocking admin, internal, or noisy areas, so AI focuses on your best, canonical information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

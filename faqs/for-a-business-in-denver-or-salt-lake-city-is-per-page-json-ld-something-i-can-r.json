@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "For a business in Denver or Salt Lake City, is per-page JSON-LD something I can realistically DIY, or should I hire someone?",
+  "description": "If you’re comfortable with basic technical SEO and can use validators, you can usually DIY per‑page JSON-LD with a generator or plugin. Hire help when you have",
+  "url": "aeoptimizer.com/faq/for-a-business-in-denver-or-salt-lake-city-is-per-page-json-ld-something-i-can-r",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "For a business in Denver or Salt Lake City, is per-page JSON-LD something I can realistically DIY, or should I hire someone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most sites in Denver, Salt Lake City, and similar markets, DIY using a JSON-LD generator or plugin is realistic if you’re comfortable with basic technical SEO. You’ll still need to learn core schema types and follow Google’s rules.\n\nHiring help makes sense if you have multiple locations, custom templates, or limited internal capacity for testing and troubleshooting. Mistakes at scale can be costly to unwind.\n\nKEY FACTORS\n- Number of locations and page types.\n- Internal comfort with HTML, JSON, and SEO tools.\n- Risk tolerance for potential misconfiguration.\n- Time pressure vs. budget flexibility.\n\nStart by implementing schema on a small batch of pages yourself to gauge complexity. If you hit repeated validation or eligibility issues, that’s a signal to bring in a specialist.\n\nA hybrid approach—external setup of templates plus in‑house ongoing use—often balances cost, control, and quality.",
+        "description": "If you’re comfortable with basic technical SEO and can use validators, you can usually DIY per‑page JSON-LD with a generator or plugin. Hire help when you have complex templates, multiple locations, or limited time to debug and maintain the setup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

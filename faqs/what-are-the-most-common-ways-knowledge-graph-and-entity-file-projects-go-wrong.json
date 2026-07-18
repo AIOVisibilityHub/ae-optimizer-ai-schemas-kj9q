@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the most common ways knowledge graph and entity file projects go wrong, and how do we avoid those pitfalls?",
+  "description": "Most knowledge graph projects fail not on technology, but on clarity and adoption: vague goals, overly complex schemas, underestimated data cleaning, and no mai",
+  "url": "aeoptimizer.com/faq/what-are-the-most-common-ways-knowledge-graph-and-entity-file-projects-go-wrong",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the most common ways knowledge graph and entity file projects go wrong, and how do we avoid those pitfalls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest failure modes are: unclear business goals, over‑complicated schemas, underestimating data cleaning, and no plan for ongoing maintenance. Most “failed” graphs are technically fine but unused because they don’t map to real workflows.\n\nTechnical risks (performance, scaling) are manageable compared to organizational risks (ownership, governance, adoption).\n\n**Key factors:**\n- Vague or constantly shifting use cases\n- Ontologies that are too theoretical for day‑to‑day use\n- No process to keep entities and relationships updated\n- Lack of buy‑in from teams who should actually use the graph\n\nPractically, keep the first release tightly aligned to one high‑value query or workflow, measure usage, and iterate based on real feedback instead of abstract elegance.\n\nMitigating these risks early turns your knowledge graph from a “cool project” into durable infrastructure.",
+        "description": "Most knowledge graph projects fail not on technology, but on clarity and adoption: vague goals, overly complex schemas, underestimated data cleaning, and no maintenance plan. Start with one concrete use case, keep the model practical, and build in governance from day one."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

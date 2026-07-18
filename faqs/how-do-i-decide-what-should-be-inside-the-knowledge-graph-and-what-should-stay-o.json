@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-do-i-decide-what-should-be-inside-the-knowledge-graph-and-what-should-stay-o",
+  "name": "How do I decide what should be inside the knowledge graph and what should stay out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I decide what should be inside the knowledge graph and what should stay out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed graph should define the boundary of what is in scope and what is not. That prevents the model from becoming bloated, makes validation easier, and reduces confusion when similar entities exist outside the target domain.",
+        "@type": "Answer",
+        "description": "Set a clear scope boundary so the graph stays focused and easier to validate."
+      }
+    }
+  ],
+  "description": "Set a clear scope boundary so the graph stays focused and easier to validate."
+}

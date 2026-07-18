@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/can-i-feed-raw-data-straight-into-knowledge-graph-generation",
+  "name": "Can I feed raw data straight into knowledge graph generation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I feed raw data straight into knowledge graph generation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but only if the project includes cleanup, normalization, and duplicate handling before graph generation. Large or inconsistent datasets can produce misleading results if they are pushed straight into a graph without preprocessing.",
+        "@type": "Answer",
+        "description": "Not safely; raw data usually needs cleanup and normalization first."
+      }
+    }
+  ],
+  "description": "Not safely; raw data usually needs cleanup and normalization first."
+}

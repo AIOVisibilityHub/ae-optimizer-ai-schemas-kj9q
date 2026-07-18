@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I expect to pay to make my site AI-crawlable, and what am I really getting for that money?",
+  "description": "For a typical business site, AI-crawlable optimization usually costs from a few thousand dollars into the low five figures, depending on size and complexity. Yo",
+  "url": "aeoptimizer.com/faq/how-much-should-i-expect-to-pay-to-make-my-site-ai-crawlable-and-what-am-i-reall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I expect to pay to make my site AI-crawlable, and what am I really getting for that money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a small to mid-size business site, expect a dedicated AI-crawlable upgrade to run from a few thousand dollars to the low five figures, depending on scope and depth. Enterprise or multi‑property ecosystems can be significantly more.\n\nCosts are driven more by complexity and ongoing monitoring than by page count alone.\n\n**Key factors:**\n- Site size and number of unique templates\n- Need for refactoring (SSR, performance, navigation changes)\n- Schema strategy and content rewrites for Q&A patterns\n- Ongoing audits, AI performance tracking, and maintenance\n\nAsk providers to separate one‑time implementation from ongoing monitoring and tuning so you can choose a sustainable level of support. In markets like Denver or San Diego, compare quotes not just on price, but on whether they include AI testing (chatbots, generative search) after deployment. Good AI crawlability work should pay back in discoverability and reduced misinformation about your brand.",
+        "description": "For a typical business site, AI-crawlable optimization usually costs from a few thousand dollars into the low five figures, depending on size and complexity. You’re paying for audits, technical fixes, schema, content structuring, and ongoing monitoring of how AI systems consume your pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

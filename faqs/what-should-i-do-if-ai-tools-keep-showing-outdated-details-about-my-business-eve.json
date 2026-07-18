@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-tools-keep-showing-outdated-details-about-my-business-eve",
+  "name": "What should I do if AI tools keep showing outdated details about my business, even though my website is updated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do if AI tools keep showing outdated details about my business, even though my website is updated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If AI Overviews or assistants keep giving outdated information about your services or prices, it usually means AI crawlers are relying on old pages, misreading your site hierarchy, or missing your most current content. Updating content alone doesn’t fix this if the new information isn’t easy to find or labeled.\n\nYou need to identify which pages AI is citing and then make your updated version more authoritative and crawlable than the older sources it uses.\n\nKey factors:\n- **Canonical sources**: Decide which page should be the “single source of truth” for each key fact.\n- **Visibility of updates**: Use clear headings, dates, and schema so changes are obvious.\n- **Internal linking**: Point multiple pages to your canonical source to reinforce it.\n- **Deprecated content**: Remove or clearly mark outdated pages so they’re less attractive.\n\nStart by searching in AI tools for your core facts (e.g., pricing, hours, services) and noting which URLs they reference. Update or consolidate those pages into a single, structured, well-linked source with FAQ content and schema.\n\nOver time, monitor how AI answers change and keep your canonical pages up to date; treat them as living documents, not static posts.",
+        "@type": "Answer",
+        "description": "If AI keeps showing outdated info, you likely lack clear “canonical” pages and strong structure around your updates. Create a single source of truth for each key fact, add dates and FAQ schema, link to it from related pages, and remove or clearly mark outdated content so AI shifts to your new version."
+      }
+    }
+  ],
+  "description": "If AI keeps showing outdated info, you likely lack clear “canonical” pages and strong structure around your updates. Create a single source of truth for each ke"
+}

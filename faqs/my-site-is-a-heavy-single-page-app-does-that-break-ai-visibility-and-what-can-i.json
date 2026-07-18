@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My site is a heavy single-page app—does that break AI visibility, and what can I do about it?",
+  "description": "Single-page apps often hurt AI visibility because core content isn’t easily crawlable or tied to clear URLs. Fix this by adding server‑side rendering or static",
+  "url": "aeoptimizer.com/faq/my-site-is-a-heavy-single-page-app-does-that-break-ai-visibility-and-what-can-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My site is a heavy single-page app—does that break AI visibility, and what can I do about it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a site that’s mostly a single-page app, AI visibility optimization focuses on exposing key content in a crawlable way and adding structured, question-led sections AIs can read. You may need server-side rendering, static pages, or dedicated content hubs.\n\nAI crawlers struggle with content that only appears after heavy JavaScript, especially if there are no stable URLs or HTML structure.\n\nKey factors:\n- Whether core content is visible in source HTML without user actions\n- Availability of descriptive URLs for important topics/services\n- Use of headings, FAQs, and schema to organize information\n- Options for SSR, pre-rendering, or static companion pages\n\nWork with your dev team to create SEO/AI-friendly routes for key topics (e.g., /services/optimization) and ensure those pages present question-led content and FAQs.\n\nIn some cases, adding a lightweight content subdomain or blog can greatly improve AI visibility without re-architecting your entire app.",
+        "description": "Single-page apps often hurt AI visibility because core content isn’t easily crawlable or tied to clear URLs. Fix this by adding server‑side rendering or static pages for key topics, using headings and FAQs, and implementing schema so AI crawlers have clean, structured HTML to understand and cite."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

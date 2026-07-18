@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-when-generating-a-knowledge-graph-from-my-data",
+  "name": "What can go wrong when generating a knowledge graph from my data?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What can go wrong when generating a knowledge graph from my data?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are duplicate entities, incorrect merges, and relationship errors that look plausible but are wrong. Those problems usually happen when data is inconsistent or when the project skips validation and human review for edge cases.",
+        "@type": "Answer",
+        "description": "Duplicates, bad merges, and false relationships are the main failure points if validation is weak."
+      }
+    }
+  ],
+  "description": "Duplicates, bad merges, and false relationships are the main failure points if validation is weak."
+}

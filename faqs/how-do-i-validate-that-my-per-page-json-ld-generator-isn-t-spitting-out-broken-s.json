@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I validate that my per-page JSON-LD generator isn’t spitting out broken schema across hundreds of URLs?",
+  "description": "Validate one page per template with Google’s Rich Results Test and a schema validator, fix any template‑level issues, then redeploy. After launch, watch Search",
+  "url": "aeoptimizer.com/faq/how-do-i-validate-that-my-per-page-json-ld-generator-isn-t-spitting-out-broken-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I validate that my per-page JSON-LD generator isn’t spitting out broken schema across hundreds of URLs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A simple QA loop is: generate schema, validate in Google’s Rich Results Test and Schema.org validator, then spot‑check in your browser source. Do this per template, not per individual page, to keep the workload reasonable.\n\nMost implementation problems are template‑level (missing required fields, wrong type, syntax errors), so fixing them once usually fixes dozens or hundreds of URLs.\n\nKEY FACTORS\n- Validate at least one example of each page template.\n- Check for both errors *and* warnings; both can affect eligibility.\n- Confirm that entity names, URLs, and content match on‑page text.\n- Monitor Search Console “Enhancements” for new errors after deployment.\n\nBuild schema validation into your deployment checklist the same way you treat SEO titles or canonical tags. Once your templates are clean, only new template changes need full re‑QA.\n\nSchema generators that integrate validation or export test‑ready snippets can save a lot of tedious manual checking.",
+        "description": "Validate one page per template with Google’s Rich Results Test and a schema validator, fix any template‑level issues, then redeploy. After launch, watch Search Console enhancements for new errors. Fixing the template usually fixes all pages using it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

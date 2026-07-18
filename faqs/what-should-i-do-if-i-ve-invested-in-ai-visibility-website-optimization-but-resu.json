@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’ve invested in AI visibility website optimization but results seem slow or hard to see?",
+  "description": "If AI visibility results are slow, tighten your measurement: define a fixed list of important prompts, re-run them monthly, and compare your presence and compet",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-ve-invested-in-ai-visibility-website-optimization-but-resu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’ve invested in AI visibility website optimization but results seem slow or hard to see?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If results from AI visibility work feel slow or unclear, revisit your measurement framework and ensure you’re tracking the right queries and pages. Often the issue is expectations or scattered effort, not that optimization “isn’t working.”\n\nAI systems don’t update on a fixed schedule, so changes can surface gradually and unevenly across tools.\n\nKey factors:\n- Whether you defined a consistent, realistic test set of prompts\n- How many pages actually received meaningful updates\n- External factors: competition, seasonality, algorithm changes\n- Alignment between content updates and user intent\n\nIf you don’t see movement after 3–4 months, deepen or refocus your test prompts, compare what competitors’ cited pages look like, and check for technical issues that might be blocking progress.\n\nYou can also narrow your efforts around a smaller set of “must-win” queries to create more visible, early wins before expanding again.",
+        "description": "If AI visibility results are slow, tighten your measurement: define a fixed list of important prompts, re-run them monthly, and compare your presence and competitors’. Check that key pages actually changed and that crawlability and schema are solid. If no movement after 3–4 months, adjust focus or tactics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of ongoing maintenance does structured data generation actually require?",
+  "description": "You’ll need regular validation, monitoring for errors, versioning of schema templates, and updates whenever your content model or CMS fields change. Make struct",
+  "url": "aeoptimizer.com/faq/what-kind-of-ongoing-maintenance-does-structured-data-generation-actually-requir",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of ongoing maintenance does structured data generation actually require?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To keep structured data generation working over time, you’ll need ongoing monitoring, periodic audits, and a process that updates schema when your content model changes.\nTreat schema as part of your content and data governance, not a one‑off project.\n\nKey factors:\n- Alerts or dashboards for validation errors\n- Versioning for templates and schema definitions\n- Alignment between CMS fields and generated properties\n- Scheduled reviews for deprecated or new schema types\n\nPractically, set up a simple routine: monthly validations on a sample of pages, checks after major CMS releases, and an owner responsible for structured data quality.\nDocument how to add new fields and deprecate old ones so future changes don’t silently break markup.\nFor multi-city operations, ensure each location’s data stays in sync with its schema.",
+        "description": "You’ll need regular validation, monitoring for errors, versioning of schema templates, and updates whenever your content model or CMS fields change. Make structured data part of your ongoing governance so it stays aligned with your real data and doesn’t quietly break over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

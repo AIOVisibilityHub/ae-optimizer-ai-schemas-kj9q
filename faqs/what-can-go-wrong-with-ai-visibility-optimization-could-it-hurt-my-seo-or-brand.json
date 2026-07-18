@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with AI visibility optimization—could it hurt my SEO or brand in the process?",
+  "description": "AI visibility optimization is usually safe when it focuses on better structure, clearer answers, and technical health. The real risks come from over‑automated,",
+  "url": "aeoptimizer.com/faq/what-can-go-wrong-with-ai-visibility-optimization-could-it-hurt-my-seo-or-brand",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with AI visibility optimization—could it hurt my SEO or brand in the process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are wasting time on “AI tricks” that don’t move the needle, over-automating content that damages trust, and breaking your site’s crawlability with poorly implemented changes. Done correctly, AI visibility optimization is low-risk and mostly about clarity and structure.\n\nAI systems penalize vague, generic, or obviously spun content more than carefully crafted, human-reviewed pages. Chasing shortcuts is what backfires.\n\nKey factors:\n- Overuse of auto-generated content with no human editing\n- Removing or hiding content that currently earns trust and links\n- Technical missteps: blocking bots, breaking schema, slow pages\n- Ignoring brand voice and compliance requirements\n\nGuard against risks by keeping a human in the loop for editorial review, testing changes on a subset of pages, and monitoring both organic traffic and AI citations after major updates.\n\nIf a vendor promises “guaranteed AI rankings” or mass content automation, treat it as a red flag and ask for a detailed, responsible plan.",
+        "description": "AI visibility optimization is usually safe when it focuses on better structure, clearer answers, and technical health. The real risks come from over‑automated, low‑quality content and sloppy technical changes that hurt crawlability or trust. Keep humans reviewing content and test major changes before scaling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

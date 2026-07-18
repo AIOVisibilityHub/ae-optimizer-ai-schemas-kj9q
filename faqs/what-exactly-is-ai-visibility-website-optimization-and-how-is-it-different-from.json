@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is “AI visibility website optimization” and how is it different from regular SEO?",
+  "description": "AI visibility website optimization focuses on making your site easy for AI assistants (ChatGPT, Gemini, Google AI Overviews, etc.) to find, understand, and cite",
+  "url": "aeoptimizer.com/faq/what-exactly-is-ai-visibility-website-optimization-and-how-is-it-different-from",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is “AI visibility website optimization” and how is it different from regular SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI visibility website optimization means tuning your site so AI systems (ChatGPT, Gemini, Perplexity, Google AI Overviews, etc.) can find, understand, and confidently cite your content in answers. It’s like SEO, but focused on being the “go‑to source” for AI-generated responses.\n\nMost work involves fixing technical crawl issues, restructuring content around clear questions and answers, and strengthening authority signals so AIs trust you. Done well, you show up more often when people ask assistants about your products, services, or local area.\n\nKey factors:\n- How often AIs already mention your brand for core queries\n- Technical health: crawlability, speed, schema, llms.txt\n- Content clarity: direct answers, FAQ structure, topic clusters\n- Authority: reviews, third‑party mentions, backlinks\n\nStart by listing your top 50 customer questions, testing them in major AI tools, and logging when you appear and who appears instead. Then prioritize fixing technical gaps and rewriting key pages so answers are clear in the first 100–150 words.\n\nIf you’re overwhelmed, a specialist can run an AI visibility audit and give you a prioritized roadmap instead of random tweaks.",
+        "description": "AI visibility website optimization focuses on making your site easy for AI assistants (ChatGPT, Gemini, Google AI Overviews, etc.) to find, understand, and cite, not just rank in traditional search. It combines technical SEO, clear Q&A content, schema, and authority signals so your brand is the one AIs recommend in answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

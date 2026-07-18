@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/should-i-add-per-page-json-ld-to-both-my-service-pages-and-my-city-specific-page",
+  "name": "Should I add per-page JSON-LD to both my service pages and my city-specific pages if I’m targeting San Diego, Denver, and Salt Lake City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Should I add per-page JSON-LD to both my service pages and my city-specific pages if I’m targeting San Diego, Denver, and Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a site targeting multiple metros like San Diego, Denver, and Salt Lake City, you should implement per-page JSON-LD for both service pages and city/location pages, with location-specific details on each. Service pages explain *what* you do; location pages emphasize *where* and *for whom*.\n\nSearch engines often use different schema aspects for service queries vs. local-intent queries.\n\nKey factors:\n- **Service pages:** Use `Service` + `WebPage`, focused on offerings and benefits.\n- **Location pages:** Emphasize `LocalBusiness` or `Organization` details per metro.\n- **Cross-linking:** Use `hasOfferCatalog`, `areaServed`, or simple `sameAs` style patterns.\n- **Content match:** Ensure each page’s schema mirrors its on-page emphasis.\n\nPlan schemas in pairs: each city has a high-level location page plus service-specific pages referencing that city.\n\nThis layered approach clarifies both your capabilities and your geographic coverage.",
+        "@type": "Answer",
+        "description": "Yes. Use per-page JSON-LD on both service pages (focusing on `Service` details) and city/location pages (focusing on `LocalBusiness` or `Organization` with city-specific info). This combination helps search engines understand what you do and where you operate across San Diego, Denver, and Salt Lake City."
+      }
+    }
+  ],
+  "description": "Yes. Use per-page JSON-LD on both service pages (focusing on `Service` details) and city/location pages (focusing on `LocalBusiness` or `Organization` with city"
+}

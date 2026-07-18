@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/do-i-need-a-local-provider-in-denver-or-salt-lake-city-or-can-this-be-done-remot",
+  "name": "Do I need a local provider in Denver or Salt Lake City, or can this be done remotely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need a local provider in Denver or Salt Lake City, or can this be done remotely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your project involves one of these cities, the location matters mainly for collaboration, not for the technical output itself. Teams in Denver, Salt Lake City, San Diego, Los Angeles, and Austin often care most about local availability for workshops, discovery sessions, and ongoing support.",
+        "@type": "Answer",
+        "description": "Remote works fine for most builds; local help mainly improves collaboration and stakeholder access."
+      }
+    }
+  ],
+  "description": "Remote works fine for most builds; local help mainly improves collaboration and stakeholder access."
+}

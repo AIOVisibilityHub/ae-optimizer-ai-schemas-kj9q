@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/do-i-need-location-pages-for-ai-visibility-in-los-angeles-or-austin",
+  "name": "Do I need location pages for AI visibility in Los Angeles or Austin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need location pages for AI visibility in Los Angeles or Austin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For businesses in competitive markets like Los Angeles, San Diego, Austin, Denver, or Salt Lake City, location pages can help if they contain unique, useful information. Avoid generic city swaps and instead add service-area details, local proof, and location-specific FAQs where they are genuinely relevant.",
+        "@type": "Answer",
+        "description": "Only if the pages are genuinely useful and locally specific; thin city swaps usually do not help."
+      }
+    }
+  ],
+  "description": "Only if the pages are genuinely useful and locally specific; thin city swaps usually do not help."
+}

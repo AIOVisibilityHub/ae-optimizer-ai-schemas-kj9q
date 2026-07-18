@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the best way to integrate per-page JSON-LD schema generation into my existing CMS (WordPress, Shopify, Webflow, etc.)?",
+  "description": "Use your CMS’s strengths: WordPress via SEO/schema plugins or theme hooks, Shopify/Webflow via template snippets or apps. Map template fields (titles, prices, a",
+  "url": "aeoptimizer.com/faq/what-s-the-best-way-to-integrate-per-page-json-ld-schema-generation-into-my-exis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the best way to integrate per-page JSON-LD schema generation into my existing CMS (WordPress, Shopify, Webflow, etc.)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your site runs on WordPress, a schema plugin or custom theme integration is usually easiest; the generator pulls data from custom fields and outputs JSON-LD in `wp_head`. On Shopify or Webflow, you often add template‑level snippets or use apps/integrations.\n\nThe key is to connect your content model (titles, prices, addresses) to schema properties automatically so you’re not copy‑pasting JSON per page. That’s what makes per‑page generation scalable.\n\nKEY FACTORS\n- CMS capabilities for custom fields and theme/template editing.\n- Availability of schema or SEO plugins/apps.\n- Need for multi‑language or multi‑currency support.\n- Dev access to add script tags to head/body.\n\nStart by identifying your main templates and where their data lives in the CMS, then choose a generator method that can read those fields. Test on a staging version before pushing live.\n\nA well‑designed generator should fit into your CMS’s normal publishing workflow rather than sit as a separate manual task.",
+        "description": "Use your CMS’s strengths: WordPress via SEO/schema plugins or theme hooks, Shopify/Webflow via template snippets or apps. Map template fields (titles, prices, addresses) to schema properties so JSON-LD is generated automatically on publish, not pasted manually."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/will-ai-visibility-optimization-just-help-ai-and-not-my-website-traffic",
+  "name": "Will AI visibility optimization just help AI and not my website traffic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will AI visibility optimization just help AI and not my website traffic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common objection is that AI answers will reduce website clicks. Even if some clicks shift, being cited accurately can still protect brand trust and support downstream conversions, especially for comparison and research queries.",
+        "@type": "Answer",
+        "description": "Not necessarily; it can support trust, citations, and conversions even when clicks change."
+      }
+    }
+  ],
+  "description": "Not necessarily; it can support trust, citations, and conversions even when clicks change."
+}

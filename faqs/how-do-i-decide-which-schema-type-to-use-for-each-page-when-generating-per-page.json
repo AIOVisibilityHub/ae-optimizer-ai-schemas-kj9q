@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/how-do-i-decide-which-schema-type-to-use-for-each-page-when-generating-per-page",
+  "name": "How do I decide which schema type to use for each page when generating per-page JSON-LD?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I decide which schema type to use for each page when generating per-page JSON-LD?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For each page, pick a primary schema type that matches the *main purpose* of that URL, then optionally nest it inside `WebPage` and relate it back to `Organization`/`LocalBusiness`. Avoid mixing multiple competing primary types on a single page.\n\nSearch engines want a clear answer to “what is this page about?” Per-page JSON-LD should reinforce that answer rather than introduce ambiguity.\n\nKey factors:\n- **Content intent:** Informational (Article, BlogPosting, FAQPage, HowTo) vs commercial (Product, Service, LocalBusiness).\n- **Interactive elements:** Use `QAPage` instead of `FAQPage` if users can add answers.\n- **Location context:** For local services, combine `Service` or `LocalBusiness` with `areaServed` and city.\n- **Uniqueness:** Don’t copy the same entity details onto unrelated pages.\n\nDecide the primary schema type page-by-page, document that mapping, and keep your JSON-LD minimal but unambiguous.\n\nThis keeps your structured data aligned with how you actually want each URL to surface in search.",
+        "@type": "Answer",
+        "description": "Choose one primary schema type per page that matches the page’s main purpose—Article, FAQPage, Product, Service, LocalBusiness, etc.—then optionally nest it in `WebPage` and link to your Organization. Avoid multiple competing types and keep markup tightly aligned with visible content."
+      }
+    }
+  ],
+  "description": "Choose one primary schema type per page that matches the page’s main purpose—Article, FAQPage, Product, Service, LocalBusiness, etc.—then optionally nest it in"
+}

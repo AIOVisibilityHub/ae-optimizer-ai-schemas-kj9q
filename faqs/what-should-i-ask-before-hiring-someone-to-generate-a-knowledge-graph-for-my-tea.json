@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-should-i-ask-before-hiring-someone-to-generate-a-knowledge-graph-for-my-tea",
+  "name": "What should I ask before hiring someone to generate a knowledge graph for my team?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I ask before hiring someone to generate a knowledge graph for my team?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should ask for a data sample, a schema draft, a validation approach, and examples of how ambiguous entities are resolved. Those deliverables show whether the provider can move from raw data to a reliable entity file instead of just exporting labels.",
+        "@type": "Answer",
+        "description": "Ask for a sample, schema draft, validation plan, and examples of entity resolution."
+      }
+    }
+  ],
+  "description": "Ask for a sample, schema draft, validation plan, and examples of entity resolution."
+}

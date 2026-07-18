@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/when-does-it-make-sense-for-a-local-service-business-in-los-angeles-or-san-diego",
+  "name": "When does it make sense for a local service business in Los Angeles or San Diego to invest in an AI-crawlable website instead of just basic SEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "When does it make sense for a local service business in Los Angeles or San Diego to invest in an AI-crawlable website instead of just basic SEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you’re a service business in Los Angeles or San Diego and rely on inbound leads, you should prioritize an AI-crawlable website when you notice AI Overviews or chat assistants answering local queries without mentioning you. That’s a signal your site isn’t being understood or surfaced by AI.\n\nMajor metros with intense competition magnify the impact of AI visibility. When potential customers ask AI about “[your service] near me” and see competitors cited repeatedly, you’re likely losing opportunities silently.\n\nKey factors:\n- **Search behavior in your niche**: High AI answer usage for local services, reviews, and comparisons.\n- **Competitive landscape**: Competitors with structured FAQs and strong local signals.\n- **Lead dependence**: If web leads matter more than referrals, AI visibility becomes critical.\n- **Site health**: Outdated, cluttered sites usually aren’t ready for modern crawlability.\n\nStart by checking how AI tools answer your core queries (services + neighborhoods) and whether your brand appears. If you’re mostly absent, it’s time to invest in crawlability: structured local pages, FAQs, and review signals that AI can parse.\n\nIn dense markets like LA and San Diego, getting your site AI-ready early puts you ahead of slower-moving competitors as AI answers become the default starting point.",
+        "@type": "Answer",
+        "description": "In competitive markets like Los Angeles or San Diego, you should invest in an AI-crawlable site once AI Overviews and assistants start answering local service queries without mentioning you. If web leads matter and competitors are showing up in AI answers, crawlability becomes a priority over basic SEO alone."
+      }
+    }
+  ],
+  "description": "In competitive markets like Los Angeles or San Diego, you should invest in an AI-crawlable site once AI Overviews and assistants start answering local service q"
+}

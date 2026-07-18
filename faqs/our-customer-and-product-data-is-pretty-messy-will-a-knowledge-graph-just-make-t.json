@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Our customer and product data is pretty messy—will a knowledge graph just make things worse, or can it help clean this up?",
+  "description": "A knowledge graph can absolutely help clean and unify messy data, but only if you invest upfront in profiling, deduplication, and entity resolution. If you skip",
+  "url": "aeoptimizer.com/faq/our-customer-and-product-data-is-pretty-messy-will-a-knowledge-graph-just-make-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Our customer and product data is pretty messy—will a knowledge graph just make things worse, or can it help clean this up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your data is messy, you can still build a knowledge graph—but you must budget time for cleaning, deduping, and entity resolution or the graph will just mirror the chaos. Ignoring quality upfront leads directly to wrong answers and broken AI behavior.\n\nGraphs amplify both good and bad data because they expose relationships more clearly. That’s powerful but unforgiving.\n\n**Key factors:**\n- Presence of duplicate records across systems\n- Inconsistent naming, IDs, and formats for core entities\n- Missing or unreliable metadata (timestamps, provenance, owners)\n- Conflicting truth sources for the “same” entity\n\nPractically, start with a profiling pass on your key tables or APIs, identify duplicates and inconsistencies, and define rules for canonical IDs and authoritative sources before bulk loading anything.\n\nInvesting in entity hygiene early saves far more downstream effort than trying to fix a flawed graph after it’s in use.",
+        "description": "A knowledge graph can absolutely help clean and unify messy data, but only if you invest upfront in profiling, deduplication, and entity resolution. If you skip that work, the graph will simply expose and amplify existing inconsistencies and errors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

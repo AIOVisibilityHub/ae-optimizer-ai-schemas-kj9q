@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/what-should-be-included-in-an-ai-visibility-audit",
+  "name": "What should be included in an AI visibility audit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should be included in an AI visibility audit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A strong audit should show current AI mentions, competitor visibility, technical issues, content gaps, and schema opportunities. You should also review whether your content answers real user questions in a format AI systems can easily reuse.",
+        "@type": "Answer",
+        "description": "Look for AI mentions, competitor gaps, technical blockers, schema issues, and content opportunities."
+      }
+    }
+  ],
+  "description": "Look for AI mentions, competitor gaps, technical blockers, schema issues, and content opportunities."
+}

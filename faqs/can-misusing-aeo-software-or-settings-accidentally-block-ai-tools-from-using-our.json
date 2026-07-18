@@ -1,0 +1,18 @@
+{
+  "url": "aeoptimizer.com/faq/can-misusing-aeo-software-or-settings-accidentally-block-ai-tools-from-using-our",
+  "name": "Can misusing AEO software or settings accidentally block AI tools from using our content or make our brand look worse?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can misusing AEO software or settings accidentally block AI tools from using our content or make our brand look worse?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, using answer engines’ own content policies and technical signals incorrectly—like blocking AI crawlers in robots.txt or misconfiguring schema—can cause answer engines to ignore or misinterpret your site. AEO software usually checks for those issues, but you must apply its recommendations carefully.\n\nThere’s also a reputational risk if AI tools pick up outdated, inconsistent, or low-quality content you haven’t cleaned up yet.\n\nKey factors:\n- Robots and meta directives affecting AI crawl access\n- Consistency and accuracy of schema markup\n- Quality and freshness of content being surfaced\n- Alignment of public brand information across web properties\n\nUse AEO tooling to audit both technical access and content quality before aggressively pursuing more citations. Fix obvious contradictions and old messaging that could be surfaced in answers.\n\nTreat technical missteps and stale content as risk factors that AEO software helps you identify and address early.",
+        "@type": "Answer",
+        "description": "Yes. Misconfigured robots.txt, meta directives, or schema can stop AI tools from accessing or correctly interpreting your content, and outdated or inconsistent pages can hurt how your brand appears in answers. Use AEO software to audit access and quality first, then apply recommendations carefully and iteratively."
+      }
+    }
+  ],
+  "description": "Yes. Misconfigured robots.txt, meta directives, or schema can stop AI tools from accessing or correctly interpreting your content, and outdated or inconsistent"
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often do I need to revisit AI crawlability once my site is set up?",
+  "description": "Revisit AI crawlability after any major change to templates, navigation, or key content, and run a formal audit at least annually for small sites and quarterly",
+  "url": "aeoptimizer.com/faq/how-often-do-i-need-to-revisit-ai-crawlability-once-my-site-is-set-up",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often do I need to revisit AI crawlability once my site is set up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should refresh AI crawlability elements whenever you make significant changes to templates, navigation, or key content—and run a formal audit at least annually for small sites, quarterly for larger brands. AI ecosystems evolve, and your site does too.\n\nThe point is to bake crawlability checks into your normal publishing and release process.\n\n**Key factors:**\n- CMS or design overhauls that alter HTML structure or rendering\n- New product lines, locations, or services that need schema and Q&A content\n- Shifts in AI search features or assistant behavior in your industry\n- Accumulating technical debt (redirect chains, orphan pages, broken links)\n\nSet a lightweight checklist for every major release (rendering, schema validation, sitemaps, robots) and a deeper crawlability audit on a fixed schedule. In growing hubs like Denver and Salt Lake City, this discipline helps you avoid falling behind as competitors adapt faster to AI-driven discovery.",
+        "description": "Revisit AI crawlability after any major change to templates, navigation, or key content, and run a formal audit at least annually for small sites and quarterly for larger brands. The goal is to embed machine‑readability checks into your regular release and content processes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
