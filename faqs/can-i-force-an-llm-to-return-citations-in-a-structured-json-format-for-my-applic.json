@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I force an LLM to return citations in a structured JSON format for my application?",
+  "description": "Yes. By defining a JSON schema for citations and using an LLM’s structured output features, you can require each answer to include machine-readable source field",
+  "url": "aeoptimizer.com/faq/can-i-force-an-llm-to-return-citations-in-a-structured-json-format-for-my-applic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I force an LLM to return citations in a structured JSON format for my application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can design LLM outputs to include structured citation fields that always list sources in a predictable JSON format.\n\nThis is common in internal tools and APIs where downstream systems need machine-readable evidence, not just human-readable links.\n\nKey factors:\n- Define a JSON schema with fields like source_url, title, and confidence\n- Use the LLM’s structured output or tool-calling features to enforce the schema\n- Configure retrieval so that each answer is tied to specific documents\n- Validate outputs programmatically to catch missing or malformed citations\n\nIn practice, work with your engineering team to design the schema and integrate it into your prompts or system instructions so every answer ships with a structured citation bundle.\n\nPositioning: Structured citation outputs turn LLM answers into auditable, pluggable components that are much easier to trust and reuse.",
+        "description": "Yes. By defining a JSON schema for citations and using an LLM’s structured output features, you can require each answer to include machine-readable source fields. Combined with retrieval that ties responses to specific documents, this gives you predictable, auditable citation data for your app."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

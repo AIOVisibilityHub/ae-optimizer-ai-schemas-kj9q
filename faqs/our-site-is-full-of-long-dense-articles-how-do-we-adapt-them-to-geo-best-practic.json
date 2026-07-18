@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Our site is full of long, dense articles—how do we adapt them to GEO best practices without rewriting everything?",
+  "description": "Keep the core ideas but change the structure: break long text into shorter sections with headings, bullets, and tables, add clear Q&A blocks and summaries, and",
+  "url": "aeoptimizer.com/faq/our-site-is-full-of-long-dense-articles-how-do-we-adapt-them-to-geo-best-practic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Our site is full of long, dense articles—how do we adapt them to GEO best practices without rewriting everything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Text‑heavy legacy content often fails GEO tests because it’s hard for AI to parse and summarize. The fix is restructuring, not necessarily rewriting everything from scratch.\n\nYou can keep the core ideas but change how they’re presented.\n\nKey factors:\n- Break long walls of text into short paragraphs, headings, bullets, and tables.\n- Add clear Q&A sections for common questions users would ask AI tools.\n- Insert brief summaries or key takeaways at the top of major sections.\n- Apply Article and FAQ schema so structure is machine‑readable.\n\nStart with your most visited or strategically important long‑form pages and convert them into more scannable, question‑driven layouts. Preserve useful depth but make the path to key answers obvious.\n\nThis often turns underperforming “resource” pages into GEO assets without losing their substance.",
+        "description": "Keep the core ideas but change the structure: break long text into shorter sections with headings, bullets, and tables, add clear Q&A blocks and summaries, and implement Article/FAQ schema. This makes dense legacy content far more usable and citable for generative engines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

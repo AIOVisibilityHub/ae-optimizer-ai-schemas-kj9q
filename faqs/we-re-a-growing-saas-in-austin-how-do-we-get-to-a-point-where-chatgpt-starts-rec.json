@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’re a growing SaaS in Austin—how do we get to a point where ChatGPT starts recommending us to Austin companies?",
+  "description": "For an Austin SaaS, publish strong product guides, earn features in local tech media and directories, and highlight Austin‑based case studies. Combine that with",
+  "url": "aeoptimizer.com/faq/we-re-a-growing-saas-in-austin-how-do-we-get-to-a-point-where-chatgpt-starts-rec",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’re a growing SaaS in Austin—how do we get to a point where ChatGPT starts recommending us to Austin companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Austin’s fast‑moving startup scene, being mentioned in ChatGPT depends on both your tech credibility and your local ecosystem presence.\nYou want to be visible as a serious solution and as part of the community.\n\n**Key factors**\n- Strong, up‑to‑date product documentation and guides.\n- Participation in Austin‑focused tech media, events, and directories.\n- Content that addresses Austin‑specific founder or industry challenges.\n- Reviews or case studies from local customers where possible.\n\nCreate a few flagship guides that combine your product with Austin‑relevant scenarios (e.g., local industries, remote teams, or meetups), and make those pages easy to crawl and cite.\nLeverage local accelerators, podcasts, or newsletters for features that mention and link to you.\nAs Austin becomes part of your story, ChatGPT can more confidently surface you for location‑aware prompts.",
+        "description": "For an Austin SaaS, publish strong product guides, earn features in local tech media and directories, and highlight Austin‑based case studies. Combine that with clear, crawlable content on your site so ChatGPT can connect your product with Austin‑company scenarios when answering local prompts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

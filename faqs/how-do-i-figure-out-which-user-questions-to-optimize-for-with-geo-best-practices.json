@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I figure out which user questions to optimize for with GEO best practices?",
+  "description": "Build a question inventory from real data: search queries, site search, support tickets, sales conversations, and niche forums. Group questions into themes, pri",
+  "url": "aeoptimizer.com/faq/how-do-i-figure-out-which-user-questions-to-optimize-for-with-geo-best-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I figure out which user questions to optimize for with GEO best practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "User questions should be the backbone of your GEO strategy, and the best source is real behavior, not guesswork. You can build a question inventory from tools and conversations you already have.\n\nOnce you know what people actually ask, GEO becomes a matter of mapping and answering systematically.\n\nKey factors:\n- Pull questions from search queries, site search logs, support tickets, and sales calls.\n- Mine Reddit, forums, and social threads in your niche for phrasing and concerns.\n- Group questions into themes (definitions, how‑tos, comparisons, troubleshooting).\n- Prioritize questions that appear frequently or close to buying decisions.\n\nTurn this inventory into content outlines, where each page or section targets a specific cluster of real questions in answer‑first format. Revisit the list quarterly as new products or trends emerge.\n\nThis keeps GEO grounded in actual user language and needs, not in assumptions.",
+        "description": "Build a question inventory from real data: search queries, site search, support tickets, sales conversations, and niche forums. Group questions into themes, prioritize the most frequent or high‑intent ones, and structure your content around concise, answer‑first responses to each cluster."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

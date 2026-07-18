@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does everyone say I need “non-commodity content” for generative AI search, and what does that actually mean?",
+  "description": "Non-commodity content is material that goes beyond generic web advice—case studies, unique data, nuanced recommendations, and real examples. Generative AI prefe",
+  "url": "aeoptimizer.com/faq/why-does-everyone-say-i-need-non-commodity-content-for-generative-ai-search-and",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does everyone say I need “non-commodity content” for generative AI search, and what does that actually mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non-commodity, experience-rich content is more likely to be cited by generative AI because it offers insight beyond what models already “know” from generic web text. You need to show your work—real examples, data, and stories.\n\nAI engines prioritize sources that add new perspective or detail, not just repeat common advice.\n\nKey factors:\n- Include case studies, experiments, or real-world scenarios from your practice\n- Share proprietary data or aggregated observations where appropriate\n- Offer nuanced recommendations rather than one-size-fits-all tips\n- Attribute authors clearly and explain their credentials\n\nPractically, review your top articles and ask: “What here would be *new* to an AI that’s read the internet?” Then revise to add unique angles and specifics.\n\nThis shift from generic to distinctive content markedly increases your chances of being quoted in generative answers.",
+        "description": "Non-commodity content is material that goes beyond generic web advice—case studies, unique data, nuanced recommendations, and real examples. Generative AI prefers citing these distinctive, experience-rich pages because they add new value. Review your content and add specifics and insight that an AI wouldn’t already know."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can we tell if more AI citations are actually driving website traffic or revenue, not just vanity visibility?",
+  "description": "Link AI citation tracking with your analytics: tag AI-related referral traffic, correlate citation gains with traffic and conversions over time, and focus on pa",
+  "url": "aeoptimizer.com/faq/how-can-we-tell-if-more-ai-citations-are-actually-driving-website-traffic-or-rev",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can we tell if more AI citations are actually driving website traffic or revenue, not just vanity visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To connect AI citations with traffic, use your analytics platform to isolate visits from AI-related referrals and correlate them with changes in citation frequency and share of voice. It won’t be perfectly precise yet, but directional patterns are enough to inform decisions.\n\nThink of AI citations as a leading indicator, and traffic as the lagging outcome you’re validating.\n\nKey factors:\n- Tagging and tracking of AI referral sources in analytics\n- Time windows when citation patterns change\n- Changes in organic and direct traffic around those windows\n- Downstream metrics (signups, leads, revenue)\n\nAdd filters or segments for known AI referral paths, then overlay citation-tracking timelines on top of traffic trends. Look for consistent relationships—e.g., when your brand gains citations for certain prompts, do you later see more visits from related topics or regions? Use those insights to focus optimization.\n\nTreat this as an evolving measurement practice rather than an exact science, refining as AI platforms expose clearer referral signals.",
+        "description": "Link AI citation tracking with your analytics: tag AI-related referral traffic, correlate citation gains with traffic and conversions over time, and focus on patterns where higher citation frequency precedes measurable business outcomes. It’s directional, but good enough to distinguish meaningful impact from vanity visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

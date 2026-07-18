@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I run a basic GEO content audit on my site without hiring a consultant?",
+  "description": "Run a GEO audit by listing your top pages, mapping the key questions they should answer, and checking each for answer‑first sections, clear headings, FAQ conten",
+  "url": "aeoptimizer.com/faq/how-do-i-run-a-basic-geo-content-audit-on-my-site-without-hiring-a-consultant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I run a basic GEO content audit on my site without hiring a consultant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A GEO content audit checks whether your existing pages are structured, marked up, and authoritative enough for generative engines to cite. You can run a lightweight audit in a week using a simple checklist.\n\nThe goal isn’t to grade every page; it’s to find the highest‑impact fixes for your most important topics.\n\nKey factors:\n- Inventory top pages by traffic, conversions, or strategic importance.\n- For each, ask: What questions should this page answer? Does it?\n- Check for answer‑first sections, schema, author visibility, and fresh data.\n- Test a few key prompts in major AI tools and note whether your site appears.\n\nPractically, create a spreadsheet with your priority URLs, issues, and quick‑win actions (add FAQ, update stats, clarify headings). Aim to fully optimize a subset instead of lightly touching everything.\n\nOver time, repeat the audit quarterly to keep GEO performance aligned with evolving user questions.",
+        "description": "Run a GEO audit by listing your top pages, mapping the key questions they should answer, and checking each for answer‑first sections, clear headings, FAQ content, schema, and up‑to‑date data. Then test relevant prompts in AI tools and prioritize fixes for pages that don’t get cited."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

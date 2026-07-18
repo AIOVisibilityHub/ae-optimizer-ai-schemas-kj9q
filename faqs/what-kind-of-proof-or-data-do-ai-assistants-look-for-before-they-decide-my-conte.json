@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of proof or data do AI assistants look for before they decide my content is credible enough to cite?",
+  "description": "AI assistants favor pages with concrete evidence: clear definitions, specific stats or ranges, examples, and cited sources. Add concise data points, scenarios,",
+  "url": "aeoptimizer.com/faq/what-kind-of-proof-or-data-do-ai-assistants-look-for-before-they-decide-my-conte",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of proof or data do AI assistants look for before they decide my content is credible enough to cite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI tools are more likely to cite pages that include concrete evidence: data, examples, definitions, and references that are easy to quote or summarize.\n\nThin opinion pieces without numbers, case examples, or clear explanations give models little to work with, so they favor more substantial sources.\n\nKey factors:\n- Include stats, timeframes, ranges, and clear metrics relevant to your topic.\n- Use simple examples, mini case studies, and scenarios to illustrate points.\n- Define key terms and concepts in clean, one- or two-sentence blocks.\n- Cite your own sources (studies, surveys) to strengthen credibility.\n\nAs you revise content, ask: “What specific facts here could an AI safely repeat?” and make those elements obvious and well-structured.\nYou’re effectively curating quotable blocks that are both accurate and easy for machines to extract.",
+        "description": "AI assistants favor pages with concrete evidence: clear definitions, specific stats or ranges, examples, and cited sources. Add concise data points, scenarios, and term explanations in clean blocks so models have safe, quotable material that’s easy to extract and reuse."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

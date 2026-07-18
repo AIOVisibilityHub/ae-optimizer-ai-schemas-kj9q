@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I reliably track whether AI tools are citing my site and whether those citations are actually driving any traffic or value?",
+  "description": "Track AI citations by logging regular test queries and screenshots across assistants, then correlate changes with branded search, direct traffic, and any identi",
+  "url": "aeoptimizer.com/faq/how-do-i-reliably-track-whether-ai-tools-are-citing-my-site-and-whether-those-ci",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I reliably track whether AI tools are citing my site and whether those citations are actually driving any traffic or value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can monitor AI citations by running regular test queries in multiple assistants, logging when and how you’re mentioned, and checking analytics for referral patterns.\n\nBecause AI answers often lack traditional referral tags, you need a mix of manual checks and indirect signals to understand impact.\n\nKey factors:\n- Maintain a spreadsheet of key queries, answer screenshots, and whether you’re cited.\n- Track changes over time as you update content, especially for priority pages.\n- Look for spikes in branded search, direct traffic, or known AI referral paths.\n- Use UTM parameters or special landing pages where AI links allow it.\n\nEstablish a monthly or quarterly review cadence so AI citations become a visible, measurable part of your marketing metrics.\nThis makes it easier to justify continued investment or adjust tactics based on results.",
+        "description": "Track AI citations by logging regular test queries and screenshots across assistants, then correlate changes with branded search, direct traffic, and any identifiable AI referrals. Maintain a simple spreadsheet and review it monthly or quarterly to see which content updates move the needle."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

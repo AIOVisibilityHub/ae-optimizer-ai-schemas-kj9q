@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My brand is small and not popular yet—do AI brand mentions even matter for us, or is this only for big companies?",
+  "description": "AI brand mentions matter for smaller brands, but you’ll likely start with low visibility. Focus on niche prompts, excellent factual content, early reviews, and",
+  "url": "aeoptimizer.com/faq/my-brand-is-small-and-not-popular-yet-do-ai-brand-mentions-even-matter-for-us-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My brand is small and not popular yet—do AI brand mentions even matter for us, or is this only for big companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your brand is new or relatively unknown, expect AI to under‑mention you at first and focus your efforts on earning credible signals rather than chasing instant visibility.\nContext: AI systems lean on existing authority—reviews, media, and established content—so new brands often start from near zero. You can still make progress by being the clearest, most useful resource on specific topics.\nKey factors:\n- Target niche prompts where big brands don’t dominate.\n- Build strong, factual content around your specialty.\n- Pursue early reviews, case studies, and partnerships.\n- Keep data and messaging consistent from day one.\nPractical guidance: Choose 3–5 narrow, high‑intent questions and try to become the obvious best answer online. Over time, that depth plus growing third‑party references can earn your way into AI answers, even without a famous name.\nSoft positioning: Treat AI brand mentions as part of your brand‑building journey, not something reserved for legacy players.",
+        "description": "AI brand mentions matter for smaller brands, but you’ll likely start with low visibility. Focus on niche prompts, excellent factual content, early reviews, and consistent data so AI can confidently understand and recommend you as you grow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it more important to focus on classic SEO or special AI tricks if I want to rank in AI Overviews?",
+  "description": "Classic SEO comes first: you need strong organic rankings, fast technical performance, and topical authority before AI Overviews will consistently quote you. On",
+  "url": "aeoptimizer.com/faq/is-it-more-important-to-focus-on-classic-seo-or-special-ai-tricks-if-i-want-to-r",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it more important to focus on classic SEO or special AI tricks if I want to rank in AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To rank in AI Overviews, traditional SEO rankings matter more than most “AI hacks.” Aim first for page‑one organic results, then layer on question‑based structure, concise answers, and schema for AI extraction. It’s not either/or; they work together.\n\nAI Overviews largely reuse the same index and ranking signals as normal search, then add an answer‑synthesis layer. Ignoring SEO best practices makes AI visibility very unlikely.\n\nKey factors:\n- Technical SEO (speed, mobile, crawlability)\n- On‑page optimization and internal linking\n- Content depth and topical authority\n- Structured data and UX for skimmable answers\n\nRun a standard SEO audit, fix fundamentals, and build topic clusters before micro‑optimizing passages for AI. Once you’re consistently in the top 10, refine your content layout to make quoting your answers trivial.\n\nStrong SEO is the foundation; AI Overview optimization is the finishing layer.",
+        "description": "Classic SEO comes first: you need strong organic rankings, fast technical performance, and topical authority before AI Overviews will consistently quote you. Once you’re on page one, optimize structure, answers, and schema to make your content easy for AI to lift."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

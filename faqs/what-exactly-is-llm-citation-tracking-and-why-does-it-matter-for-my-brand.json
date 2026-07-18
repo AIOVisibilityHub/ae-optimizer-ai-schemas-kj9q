@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is “LLM citation tracking” and why does it matter for my brand?",
+  "description": "LLM citation tracking is how you monitor when AI models like ChatGPT and Perplexity mention and link to your brand as a source. It matters because these citatio",
+  "url": "aeoptimizer.com/faq/what-exactly-is-llm-citation-tracking-and-why-does-it-matter-for-my-brand",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is “LLM citation tracking” and why does it matter for my brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LLM citation tracking is the process of monitoring when large language models like ChatGPT, Gemini, Claude, and Perplexity mention or *cite* your brand or content in their answers. It focuses on both name mentions and whether your URLs are used as sources.\n\nContext: As AI answer engines become a primary discovery channel, brands need to know if they’re appearing as trusted sources when people ask category, comparison, and problem-solution questions. Citation tracking gives you a visibility and authority “scorecard” inside LLMs, similar to SEO tracking in search.\n\nKey factors:\n- Tracks brand mentions, source links, and sentiment in AI responses.\n- Uses a fixed set of prompts that mirror real buyer questions.\n- Covers multiple platforms, not just one chatbot.\n- Produces trend data over time (share of voice, citation rate).\n\nPractical guidance: Start by listing 50–100 real questions your audience asks, then run them across major LLMs and log whether you’re mentioned and cited. From there, you can benchmark against competitors and prioritize content improvements where you’re missing. \n\nSoft positioning: Think of LLM citation tracking as your early-warning radar for how AI is shaping brand visibility and authority in your market.",
+        "description": "LLM citation tracking is how you monitor when AI models like ChatGPT and Perplexity mention and link to your brand as a source. It matters because these citations are becoming a major discovery and trust signal, much like rankings in traditional search, and show whether AI sees you as an authoritative answer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

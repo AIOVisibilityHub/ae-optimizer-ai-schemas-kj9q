@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a company that operates in Los Angeles, Denver, and Austin structure content for generative AI search?",
+  "description": "Use a layered structure: central guides and FAQs for brand-wide expertise, plus city-specific pages for Los Angeles, Denver, and Austin that address local quest",
+  "url": "aeoptimizer.com/faq/how-should-a-company-that-operates-in-los-angeles-denver-and-austin-structure-co",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a company that operates in Los Angeles, Denver, and Austin structure content for generative AI search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For multi-location operations like Los Angeles, Denver, and Austin, build a shared knowledge base plus city-specific content layers so generative AI can understand both your overall brand and local nuances. Avoid copy-pasting the same page for every city.\n\nAI engines look for coherent brand-wide expertise and then adjust details by location when prompted.\n\nKey factors:\n- Create central guides and FAQs that apply everywhere\n- Add location pages with localized examples, logistics, and common questions\n- Maintain consistent NAP and brand descriptions across all profiles\n- Use schema (Organization, LocalBusiness, FAQPage) with location attributes\n\nPractically, start with your most important service areas, then expand. Ensure internal links connect local pages back to core resources so AI sees the full picture.\n\nThis layered approach helps generative systems recommend you accurately, whether users ask broad or city-specific questions.",
+        "description": "Use a layered structure: central guides and FAQs for brand-wide expertise, plus city-specific pages for Los Angeles, Denver, and Austin that address local questions and logistics. Keep NAP consistent and apply Organization, LocalBusiness, and FAQ schema so AI can understand both your overall brand and each location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

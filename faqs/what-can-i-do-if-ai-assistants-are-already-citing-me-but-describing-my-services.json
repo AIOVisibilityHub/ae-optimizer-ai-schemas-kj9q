@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can I do if AI assistants are already citing me but describing my services or data in a way that’s wrong or misleading?",
+  "description": "You can’t edit AI answers directly, but you can fix the pages they draw from. Clarify intent, move caveats and conditions up front, correct outdated info, and a",
+  "url": "aeoptimizer.com/faq/what-can-i-do-if-ai-assistants-are-already-citing-me-but-describing-my-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can I do if AI assistants are already citing me but describing my services or data in a way that’s wrong or misleading?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI answers start to misrepresent you, your best lever is to rewrite and clarify the source pages they’re using, then gradually influence how you’re summarized.\n\nYou can’t directly edit AI responses, but you can make your content’s intent, caveats, and definitions much clearer to reduce misinterpretation.\n\nKey factors:\n- Identify which pages are being referenced by examining cited URLs or content snippets.\n- Add explicit statements and headings that correct the misunderstandings.\n- Bring important caveats and conditions up front, not buried deep.\n- Update outdated sections, numbers, or policies that may be causing confusion.\n\nAfter changes, give it time and re-run the same queries to see whether answers improve.\nConsider publishing a dedicated “clarifications” or “how this works” page that AI tools can also draw from.",
+        "description": "You can’t edit AI answers directly, but you can fix the pages they draw from. Clarify intent, move caveats and conditions up front, correct outdated info, and add explicit statements that counter common misunderstandings, then recheck the same queries after crawlers process your updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

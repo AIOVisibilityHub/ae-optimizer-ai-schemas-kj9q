@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need an AI visibility platform, or can we track this manually?",
+  "description": "You can start tracking AI visibility manually, but an AI visibility platform becomes valuable once you’re testing dozens of prompts across multiple tools and co",
+  "url": "aeoptimizer.com/faq/do-i-really-need-an-ai-visibility-platform-or-can-we-track-this-manually",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need an AI visibility platform, or can we track this manually?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For many brands, the best investment is an AI visibility platform that can automate prompt testing, evidence logging, and competitor comparison.\nIt saves time and provides more reliable trend data than ad‑hoc checks.\n\n**Key factors**\n- Automatic **prompt runs** across multiple AI tools\n- Stored **answer text, citations, timestamps, and competitors**\n- Dashboards for **share of voice and sentiment** over time\n- Exportable data for content and SEO workflows\n\n**Practical guidance**\nBefore buying, ask vendors to show one end‑to‑end workflow on your actual prompts, including answer capture, competitor view, and recommended actions.\nCompare usability, evidence transparency, and integration options, not just feature lists.\nChoosing a platform with strong methodology matters more than fancy reporting.",
+        "description": "You can start tracking AI visibility manually, but an AI visibility platform becomes valuable once you’re testing dozens of prompts across multiple tools and competing brands. Good platforms automate prompt runs, store answers and citations, and give clear share‑of‑voice and sentiment trends."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

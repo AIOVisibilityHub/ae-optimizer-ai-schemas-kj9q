@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I track to know if my LLM citation efforts are actually working?",
+  "description": "Track citation frequency (how often your URLs are used as sources), brand mention rate, competitive share of voice for the same prompts, and citation quality (s",
+  "url": "aeoptimizer.com/faq/what-metrics-should-i-track-to-know-if-my-llm-citation-efforts-are-actually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I track to know if my LLM citation efforts are actually working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most important metrics are citation frequency, mention rate, competitive share of voice, and citation quality (are you linked as a source or just paraphrased). Together they show both visibility and authority in AI answers.\n\nContext: Raw counts (“we were cited 10 times”) don’t tell the whole story. You need to know *for which queries*, compared to whom, and whether AI is driving users to your domain or keeping the value in the answer itself.\n\nKey factors:\n- Citation frequency: how often your URLs appear as sources.\n- Mention rate: how often your brand name shows up per prompt set.\n- Share of voice: you vs specific competitors for the same queries.\n- Quality: sentiment and whether citations highlight your strengths.\n\nPractical guidance: Build a simple reporting view with these metrics per prompt group (top-, mid-, bottom-funnel). Review monthly and tie movements to specific content changes so you can see which efforts move the needle. \n\nSoft positioning: Treat LLM citation metrics as directional indicators that guide your content and positioning work rather than vanity stats to chase.",
+        "description": "Track citation frequency (how often your URLs are used as sources), brand mention rate, competitive share of voice for the same prompts, and citation quality (sentiment and whether you’re linked or just paraphrased). These four metrics show both visibility and authority."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I think about LLM citations for users and content specific to Salt Lake City?",
+  "description": "For Salt Lake City–focused users, build content around the exact local phrases they use and watch which regional domains LLMs already cite. Creating city-aware",
+  "url": "aeoptimizer.com/faq/how-should-i-think-about-llm-citations-for-users-and-content-specific-to-salt-la",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I think about LLM citations for users and content specific to Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your product or content serves users in Salt Lake City, align your LLM citation strategy with how those users phrase questions and which local sources models already trust.\n\nRegional behavior and industry mix (e.g., outdoor, SaaS, finance) can influence the domains and forums that LLMs pull from.\n\nKey factors:\n- Capture local search and support queries that mention Utah or Salt Lake City\n- Publish pages that use those exact phrases and regional nuances\n- Monitor which Salt Lake–based sites LLMs regularly cite\n- Consider collaborations or guest content on those trusted local domains\n\nIn practice, ask LLMs your core questions with \"in Salt Lake City\" appended, note the sites that show up, and design content and partnerships that plug into that citation ecosystem.\n\nPositioning: For city-specific intent, LLM citations tend to follow the existing local knowledge graph—be intentional about how you show up in that graph.",
+        "description": "For Salt Lake City–focused users, build content around the exact local phrases they use and watch which regional domains LLMs already cite. Creating city-aware pages and contributing to trusted local sites increases the odds that models will reference you for Utah- and Salt Lake–specific questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

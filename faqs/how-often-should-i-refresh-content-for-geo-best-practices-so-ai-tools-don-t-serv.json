@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I refresh content for GEO best practices so AI tools don’t serve outdated info?",
+  "description": "For GEO, refresh your highest‑value content at least annually, and more often in fast‑changing topics. Update stats, examples, and FAQs, then retest prompts in",
+  "url": "aeoptimizer.com/faq/how-often-should-i-refresh-content-for-geo-best-practices-so-ai-tools-don-t-serv",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I refresh content for GEO best practices so AI tools don’t serve outdated info?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative engines rely on fresh, trustworthy information, so outdated content can cause them to skip or misrepresent you. For GEO, you should plan regular refreshes of your key pages rather than one‑off overhauls.\n\nYou don’t need to change URLs—just keep on‑page data current and structure intact.\n\nKey factors:\n- Update statistics, screenshots, and examples at least annually (or sooner in fast‑moving fields).\n- Review top FAQs for relevance and expand where new questions have emerged.\n- Add clarifications where AI tools have misinterpreted your content in the past.\n- Note last updated dates and authors to signal active stewardship.\n\nBuild a simple content calendar for your “GEO core” pages and schedule small updates quarterly or biannually. After each refresh, re‑test prompts in AI assistants to see how summaries change.\n\nConsistent updating protects your authority and reduces the risk of stale or incorrect AI answers tied to your brand.",
+        "description": "For GEO, refresh your highest‑value content at least annually, and more often in fast‑changing topics. Update stats, examples, and FAQs, then retest prompts in AI tools. You don’t need new URLs—regular on‑page updates keep generative engines trusting and citing your content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

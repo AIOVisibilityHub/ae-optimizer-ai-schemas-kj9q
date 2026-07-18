@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should we handle AI visibility monitoring if our brand serves multiple cities like Los Angeles, Denver, Austin, and Salt Lake City?",
+  "description": "Include city-specific prompts in your monitoring and track visibility by location. If AI assistants recommend you in Los Angeles but not Denver or Austin, stren",
+  "url": "aeoptimizer.com/faq/how-should-we-handle-ai-visibility-monitoring-if-our-brand-serves-multiple-citie",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should we handle AI visibility monitoring if our brand serves multiple cities like Los Angeles, Denver, Austin, and Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you operate in multiple cities like Los Angeles, Denver, and Austin, AI visibility monitoring should track both generic and location-specific prompts to catch geographic gaps. AI assistants may recommend you in one region but ignore you in another.\n\nThese differences often come from uneven local content, listings, or brand awareness.\n\n**Key factors:**\n- City-based prompts (e.g., “best Answer Engine Optimization (AEO) software for startups in Austin”)\n- Consistency of local profiles (maps listings, directories, review sites)\n- City-focused landing pages or content hubs\n- Monitoring visibility and citations by location cluster\n\nBuild a prompt set that includes your priority markets by name, then log where you appear and how you’re positioned in each. If you’re missing in certain cities, strengthen local content and ensure key directories, industry sites, and regional publications describe you accurately. Re-check prompts as you update.\n\nMulti-city teams that treat AI visibility monitoring as a way to balance regional awareness usually uncover efficient, targeted growth opportunities.",
+        "description": "Include city-specific prompts in your monitoring and track visibility by location. If AI assistants recommend you in Los Angeles but not Denver or Austin, strengthen local content and listings in weaker markets, then re-test to see whether recommendations become more consistent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

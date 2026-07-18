@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get my website or content to show up as citations in LLM answers?",
+  "description": "You earn LLM citations by publishing clear, narrowly focused answers to real questions, marking them up with FAQ/HowTo/Article schema, keeping them fresh and we",
+  "url": "aeoptimizer.com/faq/how-do-i-get-my-website-or-content-to-show-up-as-citations-in-llm-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get my website or content to show up as citations in LLM answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get your site cited by LLMs, you need content that’s easy for models to extract, trust, and reuse as a canonical explanation.\n\nThat means answering narrow questions clearly, supporting them with signals of authority, and making the page machine-readable. Citations follow content that feels safe for the AI to quote verbatim.\n\nKey factors:\n- Publish concise, question-based pages (FAQs, glossaries, how‑tos)\n- Use schema (FAQPage, HowTo, Article) and structured data\n- Keep content fresh and clearly dated with expert attribution\n- Allow AI crawlers and major bots in robots.txt and llms.txt\n\nPractically, start by listing 20–30 real customer questions, then write one \"definitive\" page for each and monitor how often those pages are cited in tools like Perplexity and ChatGPT. Iterate based on what actually gets referenced.\n\nPositioning: Treat every high‑intent question as a chance to become the model’s safest reusable answer.",
+        "description": "You earn LLM citations by publishing clear, narrowly focused answers to real questions, marking them up with FAQ/HowTo/Article schema, keeping them fresh and well‑attributed, and allowing AI crawlers to access your site. Make each page the safest, most reusable explanation for one specific question."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the real difference between traditional SEO and generative AI search optimization?",
+  "description": "Traditional SEO focuses on ranking whole pages for keywords, while generative AI optimization focuses on making your content the best source to be quoted in AI",
+  "url": "aeoptimizer.com/faq/what-s-the-real-difference-between-traditional-seo-and-generative-ai-search-opti",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the real difference between traditional SEO and generative AI search optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative search still relies on classic SEO foundations, but it adds a stronger emphasis on question-driven content, structured data, and citation-worthiness. Think of SEO as getting discovered, and generative AI optimization as getting *quoted* in answers.\n\nSearch engines use generative systems to compose overviews, but those systems still pull from indexed, crawlable pages with strong technical hygiene. The difference is how content is selected and synthesized.\n\nKey factors:\n- SEO focuses on ranking pages; generative AI focuses on selecting passages to cite\n- Keyword lists give way to natural-language questions and conversational prompts\n- Schema and content structure become critical for machine comprehension\n- Authority is judged more on breadth, coherence, and external mentions\n\nPractically, keep investing in technical SEO, speed, and backlinks, but layer on question mapping, Q&A sections, and schema across core topics. Aim to be the best source for the specific prompt, not just the broad keyword.\n\nDone right, SEO and generative optimization reinforce each other rather than compete.",
+        "description": "Traditional SEO focuses on ranking whole pages for keywords, while generative AI optimization focuses on making your content the best source to be quoted in AI answers. You still need strong SEO, but you add question-driven content, schema, and answer-first formatting so AI systems can easily cite you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

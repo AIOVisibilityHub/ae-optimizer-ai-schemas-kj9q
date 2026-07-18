@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We don’t have great documentation or content yet—can AI citation tracking still help us, or do we need to fix content first?",
+  "description": "Even with weak documentation, AI citation tracking helps by revealing where AI leans on competitors or generic sources instead of you. Those gaps become your co",
+  "url": "aeoptimizer.com/faq/we-don-t-have-great-documentation-or-content-yet-can-ai-citation-tracking-still",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We don’t have great documentation or content yet—can AI citation tracking still help us, or do we need to fix content first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have limited documentation or fragmented content, AI citation tracking can highlight exactly where your biggest content gaps are. AI tools will cite whatever is most comprehensive and coherent in your niche, which often exposes missing pages, unclear messaging, or outdated material on your side.\n\nYou can use those signals as a roadmap for building or consolidating content.\n\nKey factors:\n- Topics where AI ignores you entirely\n- Prompts that surface only competitors or generic advice\n- Overreliance on third-party sources instead of your own content\n- Mismatch between your product’s strengths and cited narratives\n\nRun key prompts, then categorize each AI answer by topic and source type. Identify themes where you don’t have strong, clear pages and prioritize creating those first. Over time, fill in gaps until the content landscape better reflects your true offerings and value.\n\nTreat AI citation tracking as both a mirror for your current content reality and a planning tool for what to build next.",
+        "description": "Even with weak documentation, AI citation tracking helps by revealing where AI leans on competitors or generic sources instead of you. Those gaps become your content roadmap: create clear, authoritative pages for missing topics, then monitor how AI answers and citations evolve as your content improves."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

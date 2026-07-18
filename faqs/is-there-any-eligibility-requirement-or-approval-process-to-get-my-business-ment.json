@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there any eligibility requirement or approval process to get my business mentioned in ChatGPT?",
+  "description": "There’s no official approval process for being mentioned in ChatGPT. You become “eligible” by having a clear, trustworthy web presence, structured content that",
+  "url": "aeoptimizer.com/faq/is-there-any-eligibility-requirement-or-approval-process-to-get-my-business-ment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there any eligibility requirement or approval process to get my business mentioned in ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There’s no formal eligibility program; any business can be mentioned if it’s visible, credible, and machine‑readable online.\nChatGPT relies on web content, structured data, and consensus from trusted sources rather than sign‑ups or paid placement.\n\n**Key factors**\n- Public website with clear information about your business.\n- Consistent brand/entity profiles (LinkedIn, Crunchbase, G2, etc.).\n- Good search visibility for relevant queries.\n- Positive, authentic reviews and third‑party mentions.\n\nAudit your current footprint: search your brand and main category keywords to see how well you show up and where.\nThen build out authoritative answer content and strengthen your presence on credible platforms so models have reasons to include you.\nTreat “eligibility” as earning trust signals, not applying to a program.",
+        "description": "There’s no official approval process for being mentioned in ChatGPT. You become “eligible” by having a clear, trustworthy web presence, structured content that answers real questions, and consistent third‑party signals (profiles, reviews, links) that make models confident citing you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

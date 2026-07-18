@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Our brand was showing up in AI answers and then suddenly disappeared—what does that usually mean and how do we respond?",
+  "description": "A sudden disappearance from AI citations typically reflects model updates, competitor improvements, or shifts in how AI interprets your niche. Confirm the patte",
+  "url": "aeoptimizer.com/faq/our-brand-was-showing-up-in-ai-answers-and-then-suddenly-disappeared-what-does-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Our brand was showing up in AI answers and then suddenly disappeared—what does that usually mean and how do we respond?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "That sudden drop in AI citations usually signals either a significant model update, competitor content improvements, or changes in how AI interprets your niche. It’s rarely random, and treating it as a temporary glitch can cause you to miss structural issues.\n\nYou’ll need to re-run a structured audit and compare before/after answers to see what changed.\n\nKey factors:\n- Timing relative to public model or product updates\n- New competitors or sources appearing in answers\n- Shifts in query interpretation or user intent\n- Whether the drop is consistent across platforms\n\nStart by confirming the drop across multiple AI engines and several prompt runs. Document what’s different: new brands cited, new content types, or omission of your previous pages. Use this to guide content updates and, if necessary, direct outreach to strengthen authoritative coverage.\n\nView sudden citation drops as an early-warning system that something important in your discovery ecosystem has shifted.",
+        "description": "A sudden disappearance from AI citations typically reflects model updates, competitor improvements, or shifts in how AI interprets your niche. Confirm the pattern across platforms, compare old vs new answers, identify new cited sources, and use those insights to update your content and authority signals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

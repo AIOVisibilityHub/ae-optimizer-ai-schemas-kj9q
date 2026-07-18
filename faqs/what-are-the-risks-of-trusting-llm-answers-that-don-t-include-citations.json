@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the risks of trusting LLM answers that don’t include citations?",
+  "description": "When LLMs answer without citations, it’s harder to spot hallucinations, outdated data, or missing nuance. Any decision or public content that depends on facts,",
+  "url": "aeoptimizer.com/faq/what-are-the-risks-of-trusting-llm-answers-that-don-t-include-citations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the risks of trusting LLM answers that don’t include citations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Using LLMs without citations increases the risk of silent hallucinations, missing context, and hard‑to‑catch errors.\n\nWhen the model doesn’t show where information came from, you lose an important signal for judging reliability, especially for numbers, recommendations, or recent events.\n\nKey factors:\n- Numeric claims and statistics are high‑risk without sources\n- Time‑sensitive information can be outdated if training-only\n- Domain-specific nuance gets lost when you can’t inspect originals\n- Citation-free answers are harder to audit or document later\n\nIn practice, if you’re making decisions or publishing anything public, insist on citations for facts, then click through and verify them. Use no‑citation answers only for brainstorming or low‑stakes tasks.\n\nPositioning: Treat citations as a safety feature—if they’re missing, you should automatically be more skeptical.",
+        "description": "When LLMs answer without citations, it’s harder to spot hallucinations, outdated data, or missing nuance. Any decision or public content that depends on facts, numbers, or recent information should be backed by traceable sources that you can inspect and verify yourself."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

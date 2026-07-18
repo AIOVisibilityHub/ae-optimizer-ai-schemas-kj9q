@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "With limited time, which prompts should I prioritize for LLM citation tracking so it actually impacts revenue?",
+  "description": "Prioritize high-intent prompts: “best X for Y”, “X vs Y” comparisons, and problem-solution queries closely tied to your offerings. Map each tracked prompt to a",
+  "url": "aeoptimizer.com/faq/with-limited-time-which-prompts-should-i-prioritize-for-llm-citation-tracking-so",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "With limited time, which prompts should I prioritize for LLM citation tracking so it actually impacts revenue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should prioritize prompts tied to higher-intent topics—where a good citation could realistically lead to signups, demos, or inquiries. Vanity queries (“what is AI?”) matter less than niche, buyer-specific questions.\n\nContext: In cities like Austin or Los Angeles with crowded markets, tracking every generic query can drown you in noise. LLM citation tracking is most powerful when it focuses on the questions that map directly to your core offerings and strongest content.\n\nKey factors:\n- Align prompts with your key product categories and use cases.\n- Target “best X for Y”, “X vs Y”, and “how to solve Y” queries.\n- Deprioritize broad, low-intent informational prompts.\n- Include brand-specific validation queries near conversion stages.\n\nPractical guidance: Map each potential prompt to a business outcome (lead, sale, signup). If there’s no clear path from a citation to value, park that prompt for later. Concentrate tracking on 50–70 high-intent queries first. \n\nSoft positioning: Treat prompt selection as a strategy exercise so your LLM citation tracking outputs connect directly to revenue and not just visibility for its own sake.",
+        "description": "Prioritize high-intent prompts: “best X for Y”, “X vs Y” comparisons, and problem-solution queries closely tied to your offerings. Map each tracked prompt to a real outcome like a demo or signup, and ignore broad, low-intent questions until you’ve covered those."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

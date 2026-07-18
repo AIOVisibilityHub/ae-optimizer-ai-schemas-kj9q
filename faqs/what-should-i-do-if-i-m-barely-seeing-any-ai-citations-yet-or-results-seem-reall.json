@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’m barely seeing any AI citations yet, or results seem really delayed?",
+  "description": "You can’t force AI engines to cite you quickly, but you can raise your chances by strengthening content depth, structure, schema, and authority. Focus on compre",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-m-barely-seeing-any-ai-citations-yet-or-results-seem-reall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’m barely seeing any AI citations yet, or results seem really delayed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When AI citations are delayed or sporadic, focus on strengthening the content and signals that make your site a reliable source. Publish comprehensive, up-to-date pages with clear structure, schema, and external references so AI engines have more reasons to trust and surface your content.\n\nContext: AI systems don’t guarantee inclusion timelines, and new sites or pages may struggle to earn citations quickly. You can’t force speed, but you can increase eligibility.\n\nKey factors:\n- Depth and clarity of topic coverage.\n- Technical optimization (schema, internal links, clean markup).\n- Third-party mentions and backlinks.\n- Recency and update cadence.\n\nPractical guidance: Rather than re-running prompts every day hoping for a citation, invest that time into improving core pages and building authority. Track monthly; if you still see no movement after several iterations, reassess your topics or competitors’ strengths.\n\nSoft positioning: Patience plus structured content improvements generally yield better long-term AI visibility than chasing short-term fluctuations.",
+        "description": "You can’t force AI engines to cite you quickly, but you can raise your chances by strengthening content depth, structure, schema, and authority. Focus on comprehensive, current pages and external signals, then track monthly. If citations stay low after several cycles, revisit your topics and competitive positioning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

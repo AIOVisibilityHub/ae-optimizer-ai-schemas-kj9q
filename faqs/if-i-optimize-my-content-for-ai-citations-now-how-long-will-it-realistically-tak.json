@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I optimize my content for AI citations now, how long will it realistically take before ChatGPT or Perplexity starts citing me?",
+  "description": "Expect 4–12 weeks before you see consistent AI citations, though some changes can show up faster. Crawling, indexing, and ranking take time, especially for comp",
+  "url": "aeoptimizer.com/faq/if-i-optimize-my-content-for-ai-citations-now-how-long-will-it-realistically-tak",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I optimize my content for AI citations now, how long will it realistically take before ChatGPT or Perplexity starts citing me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can sometimes see AI citation movement within a few days, but meaningful, consistent citations typically take a few weeks to a few months.\n\nAI systems rely on indexed web content and evolving internal ranking signals, so even after you improve your pages, it takes time for crawlers and models to incorporate those changes.\n\nKey factors:\n- Crawl and index cycles vary by platform and your domain’s authority.\n- Freshness helps, but brand-new pages need time to build signals and references.\n- Highly competitive queries take longer than niche, underserved topics.\n- Ongoing adjustment is usually needed as AI answer formats change.\n\nPlan on a 4–12 week expectation for initial results and treat faster wins as a bonus, not the norm.\nUse that window to keep publishing targeted content so you’re not waiting passively for a single page to get picked up.",
+        "description": "Expect 4–12 weeks before you see consistent AI citations, though some changes can show up faster. Crawling, indexing, and ranking take time, especially for competitive topics, so keep publishing targeted, well-structured content instead of waiting on one page to be picked up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

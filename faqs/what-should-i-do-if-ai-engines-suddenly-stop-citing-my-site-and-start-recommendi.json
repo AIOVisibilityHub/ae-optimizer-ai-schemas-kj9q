@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI engines suddenly stop citing my site and start recommending competitors instead?",
+  "description": "Confirm the drop across multiple prompts, then log which competitors and URLs replaced you. Compare their content depth, structure, schema, and freshness agains",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-engines-suddenly-stop-citing-my-site-and-start-recommendi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI engines suddenly stop citing my site and start recommending competitors instead?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your brand suddenly disappears from AI answers, first verify the drop is real across multiple prompts and users. Then identify which competitors are being cited instead and study their pages to understand what they’re doing better than you.\n\nContext: AI engines don’t “ban” sites for no reason; they shift toward sources that appear more comprehensive, trustworthy, or current based on their underlying signals. You need evidence before reacting.\n\nKey factors:\n- Confirm with variations of the same prompt and incognito tests.\n- Note which competitor URLs are now cited.\n- Compare content depth, structure, schema, and recency.\n- Check your own pages for technical issues or outdated content.\n\nPractical guidance: Document the queries where you were replaced, treat each as a mini-brief, and update or create content that closes the gap. Re-run the prompts after changes to see if citations return over the next few cycles.\n\nSoft positioning: A structured response to citation loss is far more effective than broad changes, letting you recover visibility where it matters most.",
+        "description": "Confirm the drop across multiple prompts, then log which competitors and URLs replaced you. Compare their content depth, structure, schema, and freshness against yours, fix technical issues, and update or create pages that close specific gaps. Re-test prompts over the next few weeks to see if citations return."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

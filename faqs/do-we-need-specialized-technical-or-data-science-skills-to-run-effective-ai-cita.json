@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do we need specialized technical or data science skills to run effective AI citation tracking, or can marketing own it?",
+  "description": "Marketing teams can own AI citation tracking without deep data science skills. You mainly need good prompt design, structured logging in spreadsheets, and basic",
+  "url": "aeoptimizer.com/faq/do-we-need-specialized-technical-or-data-science-skills-to-run-effective-ai-cita",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do we need specialized technical or data science skills to run effective AI citation tracking, or can marketing own it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need a data scientist to run basic AI citation tracking, but some analytical and content skills are important. Marketing, product, and SEO teams can usually own the process if they’re comfortable with structured tracking and prompt design.\n\nTechnical support becomes more helpful as you move into automation, APIs, or custom dashboards.\n\nKey factors:\n- Ability to design realistic, unbiased prompts\n- Comfort with spreadsheets and simple metrics\n- Skills in content analysis and optimization\n- Optional dev resources for integrating tools or APIs\n\nStart by assigning responsibility to someone who understands your audience and existing analytics. Define clear prompts, build a repeatable logging system, and keep metrics simple. Bring in technical help only when you’re ready for programmatic monitoring or more advanced reporting.\n\nPosition AI citation tracking as part of your marketing analytics responsibilities, not as a separate data science project.",
+        "description": "Marketing teams can own AI citation tracking without deep data science skills. You mainly need good prompt design, structured logging in spreadsheets, and basic analysis. Technical resources become helpful later if you want to automate checks through APIs or build custom dashboards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

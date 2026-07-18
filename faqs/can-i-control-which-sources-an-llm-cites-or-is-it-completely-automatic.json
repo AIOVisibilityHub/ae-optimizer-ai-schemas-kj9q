@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I control which sources an LLM cites, or is it completely automatic?",
+  "description": "You can guide LLM citations but not fully control them. Prompts and retrieval settings let you constrain which sources are eligible and how they’re listed, espe",
+  "url": "aeoptimizer.com/faq/can-i-control-which-sources-an-llm-cites-or-is-it-completely-automatic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I control which sources an LLM cites, or is it completely automatic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can influence, but not fully control, which citations LLMs show by shaping your prompts and constraining the model’s retrieval options.\n\nGeneral users have limited control; product builders and data teams have more leverage through retrieval configuration and system prompts. Even then, models choose citations algorithmically.\n\nKey factors:\n- Prompting can ask for \"only peer‑reviewed\" or \"only docs from X domain\"\n- Retrieval systems can restrict which sources are searchable\n- You can require structured outputs listing sources and metadata\n- You can’t force a public LLM to ignore its own search rankings\n\nFor everyday use, be explicit: ask the model to list sources separately, prefer primary data, or focus on a named domain. For internal tools, configure retrieval and schemas to standardize citation behavior.\n\nPositioning: Think of citation control as guidance, not command—you set boundaries, then let the ranking and retrieval do their work.",
+        "description": "You can guide LLM citations but not fully control them. Prompts and retrieval settings let you constrain which sources are eligible and how they’re listed, especially in custom systems, but public LLMs still choose citations algorithmically based on their own ranking and trust signals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

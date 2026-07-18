@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I do AI search optimization effectively on a limited budget?",
+  "description": "Focus on high‑leverage basics: ensure AI crawlers can access your site, add Organization and FAQ schema, and restructure existing content around real user quest",
+  "url": "aeoptimizer.com/faq/how-can-i-do-ai-search-optimization-effectively-on-a-limited-budget",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I do AI search optimization effectively on a limited budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re on a tight budget, prioritize high‑leverage AI search optimization tasks: technical access checks, core schema, and restructuring existing content around real questions. These deliver outsized gains compared to expensive campaigns.\n\nYou don’t need new tools to start; you need time, focus, and a disciplined test‑and‑fix loop.\n\nKey factors:\n- Check robots.txt, noindex, and llms.txt so AI crawlers can reach key pages\n- Implement basic Organization and FAQ schema with free generators and validators\n- Use Google’s “People Also Ask” and AI tools themselves to find natural queries\n- Rewrite top pages with clear Q&A sections, headings, and concise answers\n\nPractically, commit 3–5 hours per week for 6–8 weeks, working through a prioritized list of pages that map to your most valuable customer questions.\n\nThis approach lets small teams in places like Salt Lake City or Boulder see real AI visibility gains without enterprise budgets.",
+        "description": "Focus on high‑leverage basics: ensure AI crawlers can access your site, add Organization and FAQ schema, and restructure existing content around real user questions. Use free tools and 3–5 hours per week over a couple of months to steadily improve AI visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is AI visibility different from traditional SEO visibility?",
+  "description": "SEO visibility measures how your pages rank in search results, while AI visibility measures how often and how favorably AI tools mention your brand inside their",
+  "url": "aeoptimizer.com/faq/how-is-ai-visibility-different-from-traditional-seo-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is AI visibility different from traditional SEO visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI visibility is not the same as regular SEO; it focuses on how AI tools synthesize and recommend brands, not just rank web pages.\nSEO still matters, but it’s only one input into AI answers.\n\n**Key factors**\n- SEO tracks **search rankings**; AI visibility tracks **mentions in answers**\n- AI tools mix web content, third‑party data, and their own training signals\n- **Mentions and sentiment** in AI responses can drive discovery even without top rankings\n- Some AI engines use different data sources than traditional search\n\n**Practical guidance**\nContinue investing in SEO, but add AI visibility metrics like share of voice, sentiment, and citation patterns to your dashboard.\nUse SEO work to support AI visibility (clean structure, strong FAQs, authoritative links), while also monitoring how AI actually talks about your brand.\nSeeing both views gives you a more complete picture of modern discovery.",
+        "description": "SEO visibility measures how your pages rank in search results, while AI visibility measures how often and how favorably AI tools mention your brand inside their answers. SEO is one input into AI visibility, but AI engines also rely on structured content, third‑party data, and training signals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

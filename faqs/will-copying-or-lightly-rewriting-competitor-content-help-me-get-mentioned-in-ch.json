@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will copying or lightly rewriting competitor content help me get mentioned in ChatGPT faster?",
+  "description": "Lightly rewriting competitors usually won’t help. ChatGPT prefers sources that add unique clarity, data, or insight. If your content doesn’t clearly beat what’s",
+  "url": "aeoptimizer.com/faq/will-copying-or-lightly-rewriting-competitor-content-help-me-get-mentioned-in-ch",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will copying or lightly rewriting competitor content help me get mentioned in ChatGPT faster?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Duplicate or shallow content makes it harder for ChatGPT to choose you over existing sources, but it won’t directly penalize you.\nThe problem is that you’re not offering anything unique or clearly better.\n\n**Key factors**\n- Models prefer sources that add new insights, data, or clarity.\n- Thin, keyword‑stuffed content rarely gets cited.\n- Copying competitors can cause outdated or misleading info.\n- Unique examples, stats, and frameworks stand out.\n\nTake your competitors’ pages as a baseline, then aim to answer the same questions more directly, with fresher data and clearer structure.\nAdd your own case studies, checklists, and scenario breakdowns to differentiate.\nYour goal is to be the obvious “best source to quote,” not just another similar page.",
+        "description": "Lightly rewriting competitors usually won’t help. ChatGPT prefers sources that add unique clarity, data, or insight. If your content doesn’t clearly beat what’s already cited, models have no strong reason to switch to you, and you risk repeating outdated or shallow information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

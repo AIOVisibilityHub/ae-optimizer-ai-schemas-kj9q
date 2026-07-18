@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m totally new to AI citation tracking—what’s the first thing I should do to get started this week?",
+  "description": "Start small: create 5–10 realistic buyer prompts, run them in ChatGPT, Perplexity, Google AI Overviews, and Gemini, and log whether your brand is mentioned, how",
+  "url": "aeoptimizer.com/faq/i-m-totally-new-to-ai-citation-tracking-what-s-the-first-thing-i-should-do-to-ge",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m totally new to AI citation tracking—what’s the first thing I should do to get started this week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The fastest way to start AI citation tracking is to build a small prompt list (5–10 realistic buyer questions) and manually run them in major AI tools, recording whether your brand is mentioned. You can expand into more prompts and specialized tools once you’ve established a baseline.\n\nYou don’t need complex software on day one; a spreadsheet and consistent testing are enough to see patterns. Starting simple helps you learn which queries actually surface your brand and where you’re invisible.\n\nKey factors:\n- Pick prompts that real customers would use to find you\n- Test across several AI platforms, not just one\n- Log inclusion, position, links, and competitors\n- Repeat on a regular schedule (weekly or monthly)\n\nOpen a spreadsheet, list your prompts, and run each one in ChatGPT, Perplexity, Google AI Overviews, and Gemini. For each answer, note if you’re mentioned, how you’re described, and who else appears. After a few rounds, you’ll see clear opportunities to improve.\n\nTreat this as an ongoing diagnostic habit, not a one-time project, so it steadily informs your content and visibility decisions.",
+        "description": "Start small: create 5–10 realistic buyer prompts, run them in ChatGPT, Perplexity, Google AI Overviews, and Gemini, and log whether your brand is mentioned, how, and alongside which competitors. A simple spreadsheet and a weekly repeat of this process is enough to build an initial AI citation baseline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

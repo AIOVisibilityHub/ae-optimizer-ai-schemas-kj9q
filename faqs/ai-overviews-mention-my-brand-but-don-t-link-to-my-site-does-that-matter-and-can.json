@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "AI Overviews mention my brand but don’t link to my site—does that matter, and can I turn mentions into clicks?",
+  "description": "Brand mentions in AI Overviews help awareness, but clickable citations usually go to pages with cleaner, more authoritative answer passages. Improve your page‑o",
+  "url": "aeoptimizer.com/faq/ai-overviews-mention-my-brand-but-don-t-link-to-my-site-does-that-matter-and-can",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "AI Overviews mention my brand but don’t link to my site—does that matter, and can I turn mentions into clicks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When AI Overviews mention your brand without linking, it still helps awareness, but you can improve the chance of getting clickable citations by strengthening your page‑one rankings and making your content the clearest, most quotable answer block.\n\nLinking choices are driven by perceived authority, relevance, and how neatly a passage can stand alone. If your content is messy or ambiguous, AI may paraphrase you without a direct reference.\n\nKey factors:\n- Strong organic ranking for the specific query\n- Self‑contained, well‑formatted answer paragraphs\n- Clear brand and author attribution near the content\n- Consistent topical coverage reinforcing expertise\n\nRefine the sections being paraphrased into tighter Q&A cards, and add subtle but clear brand context (author bio, organization schema). Over time, this increases the odds that your passages are used as formal citations.\n\nEven unlinked mentions are a sign you’re on the AI’s radar—use them as feedback about where to optimize next.",
+        "description": "Brand mentions in AI Overviews help awareness, but clickable citations usually go to pages with cleaner, more authoritative answer passages. Improve your page‑one rankings, tighten Q&A structure, and clarify authorship so your content is the most natural passage for AI to link."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My site already ranks decently in Google—why am I still not getting cited by AI, and what am I likely missing?",
+  "description": "You can rank in Google without being AI-friendly. If your pages bury the main answer, lack clear FAQs, tables, or lists, and have weak entity or comparison cont",
+  "url": "aeoptimizer.com/faq/my-site-already-ranks-decently-in-google-why-am-i-still-not-getting-cited-by-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My site already ranks decently in Google—why am I still not getting cited by AI, and what am I likely missing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve already invested in SEO and still aren’t seeing AI citations, it’s likely that your content isn’t structured or specific enough for answer engines, even if it ranks.\n\nTraditional SEO can get you visibility, but AI systems need clearly extractable answers, entities, and comparisons rather than just keyword-optimized text.\n\nKey factors:\n- Ranking pages may bury the main answer deep in long paragraphs.\n- You may be missing FAQs, tables, or lists that AI tools prefer for summarization.\n- Entity signals (brand, products, people) might be weak or inconsistently named.\n- You may not include enough comparative or decision-making guidance.\n\nRevisit your best-ranking pages and retrofit them with answer-first sections, structured comparisons, and schema.\nOften, modest structural changes to existing SEO content unlock AI citation potential without rebuilding everything.",
+        "description": "You can rank in Google without being AI-friendly. If your pages bury the main answer, lack clear FAQs, tables, or lists, and have weak entity or comparison content, AI assistants may skip you. Retrofit top SEO pages with answer-first sections, structure, and schema to unlock citations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

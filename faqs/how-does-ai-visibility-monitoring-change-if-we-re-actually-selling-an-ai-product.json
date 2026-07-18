@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI visibility monitoring change if we’re actually selling an AI product or using AI in production systems?",
+  "description": "You should monitor both how external AI assistants describe and recommend your product and how your own AI systems behave over time. Track prompts about your ca",
+  "url": "aeoptimizer.com/faq/how-does-ai-visibility-monitoring-change-if-we-re-actually-selling-an-ai-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI visibility monitoring change if we’re actually selling an AI product or using AI in production systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI visibility monitoring becomes especially critical when you’re shipping AI-powered products or using AI in production systems. In these cases, visibility isn’t just about marketing; it affects how users discover, trust, and adopt your tools.\n\nYou need to track both how your brand appears in general AI answers and how your own AI systems behave over time.\n\n**Key factors:**\n- Monitoring prompts about your AI product’s category, use cases, and competitors\n- Logging mention and recommendation rates in major assistants\n- Tracking your own AI system metrics: errors, latency, prediction drift\n- Creating feedback loops between visibility data and product/content updates\n\nSet up dual monitoring: one stream for external AI assistants that may recommend or describe your product inaccurately, and one for internal AI metrics that affect reliability and user trust. Use findings to update docs, tutorials, landing pages, and model settings.\n\nAI product teams that integrate visibility monitoring into both marketing and engineering workflows tend to build more discoverable and trustworthy systems.",
+        "description": "You should monitor both how external AI assistants describe and recommend your product and how your own AI systems behave over time. Track prompts about your category, mention rates, and citations, alongside internal metrics like error rates and drift, then feed both into product and content updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the biggest risks or pitfalls with AI citation tracking that could lead us astray?",
+  "description": "Major AI citation tracking risks include overreacting to volatile AI answers, misreading one-off changes as trends, trusting inaccurate content without verifica",
+  "url": "aeoptimizer.com/faq/what-are-the-biggest-risks-or-pitfalls-with-ai-citation-tracking-that-could-lead",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the biggest risks or pitfalls with AI citation tracking that could lead us astray?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks in AI citation tracking are misinterpreting volatile AI answers, overreacting to one-off changes, and relying on inaccurate or outdated AI content without verification. There’s also the risk of chasing vanity metrics instead of business-relevant visibility.\n\nAI models can change behavior after updates or retraining, which may temporarily distort citation patterns.\n\nKey factors:\n- Answer variability across runs and over time\n- Model updates that affect recommendations\n- Occasional factual errors or hallucinations\n- Overemphasis on citation counts vs quality and relevance\n\nMitigate these risks by running prompts on a regular cadence, comparing multiple platforms, and validating important claims against trusted sources. Focus your analysis on sustained trends in visibility and accuracy rather than isolated spikes or drops.\n\nTreat AI answers as directional signals that need human review, not as ground truth or final judgment of your brand.",
+        "description": "Major AI citation tracking risks include overreacting to volatile AI answers, misreading one-off changes as trends, trusting inaccurate content without verification, and chasing citation counts instead of meaningful visibility. Use regular, multi-platform audits and human review to reduce these pitfalls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

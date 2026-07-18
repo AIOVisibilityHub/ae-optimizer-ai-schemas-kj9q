@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is AI SEO different from regular SEO?",
+  "description": "Regular SEO aims for rankings; AI SEO aims to be chosen as a source in AI-generated answers. The overlap is strong, but AI SEO puts more weight on direct answer",
+  "url": "aeoptimizer.com/faq/how-is-ai-seo-different-from-regular-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is AI SEO different from regular SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main difference is that classic SEO focuses on ranking web pages in search results, while AI SEO focuses on being selected as a source in AI-generated answers. Both rely on quality content and technical health, but AI SEO puts more emphasis on direct answers, structure, and source credibility.",
+        "description": "Regular SEO aims for rankings; AI SEO aims to be chosen as a source in AI-generated answers. The overlap is strong, but AI SEO puts more weight on direct answers and source trust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

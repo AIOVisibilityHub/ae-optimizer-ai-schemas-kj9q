@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the real risks of trying to get my business mentioned in ChatGPT, and can it backfire?",
+  "description": "Risks include simply not being mentioned in important AI‑driven buying journeys, having outdated info repeated, or being framed inaccurately if your footprint i",
+  "url": "aeoptimizer.com/faq/what-are-the-real-risks-of-trying-to-get-my-business-mentioned-in-chatgpt-and-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the real risks of trying to get my business mentioned in ChatGPT, and can it backfire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are being ignored, misrepresented, or occasionally associated with low‑quality or outdated information if you don’t manage your footprint.\nThere’s no direct penalty from ChatGPT, but poor visibility or confusion can hurt trust and conversions.\n\n**Key factors**\n- Risk of not being mentioned at all in key buying conversations.\n- Risk of out‑of‑date pricing or features being repeated.\n- Risk of wrong category placement or misunderstanding of your product.\n- Reputation risk from spammy links, fake reviews, or over‑hyped claims.\n\nReduce risk by keeping your core information (offer, pricing, positioning) updated on your site and profiles, and by avoiding manipulative tactics like paid fake reviews or keyword‑stuffed content.\nMonitor how AI tools describe you and fix inconsistencies at the source.\nTreat accuracy and integrity online as non‑negotiable.",
+        "description": "Risks include simply not being mentioned in important AI‑driven buying journeys, having outdated info repeated, or being framed inaccurately if your footprint is messy. It rarely “backfires” if you focus on truthful, high‑quality content and avoid spammy reviews or manipulative SEO tactics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

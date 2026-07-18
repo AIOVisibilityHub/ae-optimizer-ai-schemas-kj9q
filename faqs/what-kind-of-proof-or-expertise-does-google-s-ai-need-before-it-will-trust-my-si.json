@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of proof or expertise does Google’s AI need before it will trust my site in AI Overviews?",
+  "description": "AI Overviews favor sites with clear E‑E‑A‑T: detailed author bios, transparent data and sources, consistent topical coverage, and independent authority signals",
+  "url": "aeoptimizer.com/faq/what-kind-of-proof-or-expertise-does-google-s-ai-need-before-it-will-trust-my-si",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of proof or expertise does Google’s AI need before it will trust my site in AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To become a go‑to source for AI Overviews, you need clear evidence of expertise, authority, and trust: strong author bios, transparent data sources, real‑world experience, and consistent topical coverage. AI systems favor brands that are demonstrably credible.\n\nThin content or anonymous, unverified claims are far less likely to be quoted, especially on sensitive or YMYL (your money, your life) topics. Your site should make it obvious why you’re qualified to answer.\n\nKey factors:\n- Detailed author bios with credentials and experience\n- Cited data, references, and methodology in your content\n- Independent mentions, reviews, and backlinks\n- Consistency: you talk about this topic often and in detail\n\nUpdate article templates to include author info, “fact‑checked by” notes, and links to source data. Build topic clusters that show deep coverage, not one‑off posts.\n\nOver time, this E‑E‑A‑T foundation makes AI systems comfortable featuring your answers alongside bigger brands.",
+        "description": "AI Overviews favor sites with clear E‑E‑A‑T: detailed author bios, transparent data and sources, consistent topical coverage, and independent authority signals like reviews and backlinks. The more visible and verifiable your expertise, the more likely you are to be cited."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

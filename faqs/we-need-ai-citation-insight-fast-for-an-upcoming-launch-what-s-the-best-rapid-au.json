@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We need AI citation insight fast for an upcoming launch—what’s the best “rapid audit” approach?",
+  "description": "For a rapid AI citation audit, choose 10–15 high-intent prompts tied to upcoming launch decisions, run them across several AI platforms in a single day, and log",
+  "url": "aeoptimizer.com/faq/we-need-ai-citation-insight-fast-for-an-upcoming-launch-what-s-the-best-rapid-au",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We need AI citation insight fast for an upcoming launch—what’s the best “rapid audit” approach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you need AI citation insights urgently—within days rather than weeks—focus on a tight set of the highest-intent prompts and run a concentrated baseline audit across major AI platforms. Depth beats breadth when time is short.\n\nYou won’t get perfect trend data, but you can quickly see where you’re present, absent, or misrepresented for critical questions.\n\nKey factors:\n- Selecting 10–15 prompts most closely tied to revenue decisions\n- Testing them across at least 3–4 AI engines\n- Capturing full answers, not just pass/fail visibility\n- Highlighting the most serious gaps or risks\n\nBlock a dedicated day, run all selected prompts, and document citations, competitor mentions, and any factual issues. Use that snapshot to prioritize immediate content fixes and messaging clarifications, then schedule ongoing audits to build the trend line later.\n\nTreat rapid AI citation tracking as a triage exercise—designed to surface high-impact issues fast, not to replace a long-term measurement program.",
+        "description": "For a rapid AI citation audit, choose 10–15 high-intent prompts tied to upcoming launch decisions, run them across several AI platforms in a single day, and log full answers, competitor mentions, and gaps. Use that snapshot to prioritize immediate content fixes and messaging ahead of deeper long-term tracking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

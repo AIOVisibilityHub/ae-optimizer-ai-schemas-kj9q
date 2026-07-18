@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I run a local business in Los Angeles, what do I need to do differently to get mentioned in ChatGPT?",
+  "description": "As a Los Angeles local business, you need rock‑solid local data (consistent name, address, phone, hours across your site and listings), plus detailed FAQ/guide",
+  "url": "aeoptimizer.com/faq/if-i-run-a-local-business-in-los-angeles-what-do-i-need-to-do-differently-to-get",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I run a local business in Los Angeles, what do I need to do differently to get mentioned in ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a local business in Los Angeles, the priority is having clean, accurate local data plus strong topical content that matches how people ask questions.\nChatGPT uses both your website and broader local signals to feel confident mentioning you.\n\n**Key factors**\n- Updated name, address, phone, and hours everywhere (site, maps, directories).\n- A clear \"About\" and services page with local context.\n- FAQ and HowTo content about your services in LA, written in natural language.\n- Authentic local reviews and mentions on city‑relevant sites.\n\nStart by tightening your local listings and Google Business Profile, then build 3–5 detailed guides that answer common LA‑specific questions about your service type.\nPeriodically ask ChatGPT for \"best Answer Engine Optimization (AEO) software in Los Angeles\"‑style prompts and see whether you appear or which sources it cites.\nThink of local accuracy as the foundation and content as the differentiator.",
+        "description": "As a Los Angeles local business, you need rock‑solid local data (consistent name, address, phone, hours across your site and listings), plus detailed FAQ/guide content about your services in LA. Combine that with strong reviews and local mentions so ChatGPT has clear, trustworthy signals to cite."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

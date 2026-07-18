@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is Google’s AI Overview quoting weaker sites instead of my more experienced brand, and how do I fix that?",
+  "description": "AI Overviews favor sites that look authoritative online—page‑one rankings, clear author bios, strong structure, and independent mentions—not just real‑world exp",
+  "url": "aeoptimizer.com/faq/why-is-google-s-ai-overview-quoting-weaker-sites-instead-of-my-more-experienced",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is Google’s AI Overview quoting weaker sites instead of my more experienced brand, and how do I fix that?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI Overviews keep quoting generic blogs instead of your more authoritative site, you likely have weaker rankings, unclear structure, or invisible expertise signals. The fix is to align on‑page clarity and off‑page authority with what AI sees as “safe” answers.\n\nSearch engines don’t automatically recognize your offline credibility; they rely on how your site and the web portray you. That’s why lesser sources can sometimes win citations.\n\nKey factors:\n- Page‑one presence for relevant queries\n- Author bios and credentials on expert content\n- Links, mentions, and reviews from other sites\n- Up‑to‑date, well‑cited information\n\nEnhance your content templates with visible credentials, cite your sources, and pursue digital PR or collaborations to earn mentions. Pair this with precise Q&A structure so AI can easily lift your superior answers.\n\nOver time, you can shift AI’s “default sources” toward your brand by consistently being the clearest, most evidenced voice.",
+        "description": "AI Overviews favor sites that look authoritative online—page‑one rankings, clear author bios, strong structure, and independent mentions—not just real‑world expertise. Improve your rankings, show visible credentials, cite sources, and earn backlinks so AI sees you as the safest answer to quote."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

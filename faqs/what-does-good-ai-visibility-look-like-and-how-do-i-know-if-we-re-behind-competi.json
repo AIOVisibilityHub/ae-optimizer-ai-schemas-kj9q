@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does “good” AI visibility look like, and how do I know if we’re behind competitors?",
+  "description": "“Good” AI visibility means your brand is mentioned and recommended in AI answers at least in line with your real market position—and ideally above competitors.",
+  "url": "aeoptimizer.com/faq/what-does-good-ai-visibility-look-like-and-how-do-i-know-if-we-re-behind-competi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does “good” AI visibility look like, and how do I know if we’re behind competitors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a crowded market, a good benchmark is how your share of voice in AI answers compares to your share of voice in search and social.\nThere’s no universal “good” number; it’s about competitive advantage.\n\n**Key factors**\n- **Share of voice**: percentage of total brand mentions across test prompts\n- Mix of **recommended vs neutral vs cautionary** mentions\n- Alignment with your **current market position**\n- Trends: are you **gaining or losing** visibility quarter over quarter?\n\n**Practical guidance**\nRun a 30–50 prompt test and calculate what fraction of total brand mentions you capture vs your top 3 competitors.\nIf you’re far below your market share or slipping over time, treat this as a priority improvement area.\nUse benchmarks internally, not as absolute grades, to focus resources where they move competitive outcomes.",
+        "description": "“Good” AI visibility means your brand is mentioned and recommended in AI answers at least in line with your real market position—and ideally above competitors. Measure this by running a structured prompt test, calculating share of voice across answers, and tracking whether that share is rising or falling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

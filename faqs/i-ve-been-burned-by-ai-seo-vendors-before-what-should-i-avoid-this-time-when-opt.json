@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve been burned by “AI SEO” vendors before—what should I avoid this time when optimizing for generative AI search?",
+  "description": "Avoid “AI SEO hacks” that rely on thin content, obscure files, or secret tricks. Instead, demand transparent plans to improve question coverage, content quality",
+  "url": "aeoptimizer.com/faq/i-ve-been-burned-by-ai-seo-vendors-before-what-should-i-avoid-this-time-when-opt",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve been burned by “AI SEO” vendors before—what should I avoid this time when optimizing for generative AI search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If past vendors overpromised on “AI SEO hacks,” reset expectations by focusing on fundamentals: content quality, question coverage, schema, and authority signals. There is no magic switch; sustainable gains come from methodical work.\n\nMany quick-fix tactics (content “chunking,” obscure files, keyword stuffing for AI) provide little real benefit and can distract from what matters.\n\nKey factors:\n- Evaluate any new suggestion against core principles: helpfulness, clarity, and technical soundness\n- Insist on transparent audits, roadmaps, and measurable milestones\n- Avoid tactics that create low-quality or duplicative content\n- Prioritize improvements that benefit both organic search and generative AI\n\nPractically, ask providers to show how they’ll enhance your actual pages—structure, schema, and authority—rather than proprietary tricks. Keep ownership of your data and documentation.\n\nA sober, fundamentals-first approach protects you from repeating costly, ineffective experiments.",
+        "description": "Avoid “AI SEO hacks” that rely on thin content, obscure files, or secret tricks. Instead, demand transparent plans to improve question coverage, content quality, schema, and authority signals. Sustainable generative AI visibility comes from fundamentals that help both organic search and AI answers, not quick gimmicks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

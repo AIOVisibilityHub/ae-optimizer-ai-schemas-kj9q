@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually get my website cited by AI assistants like ChatGPT, Perplexity, and Gemini instead of them ignoring me?",
+  "description": "You get cited by AI by publishing question-focused, clearly structured, evidence-backed content and strengthening your brand/entity signals. Answer the exact qu",
+  "url": "aeoptimizer.com/faq/how-do-i-actually-get-my-website-cited-by-ai-assistants-like-chatgpt-perplexity",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually get my website cited by AI assistants like ChatGPT, Perplexity, and Gemini instead of them ignoring me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You get cited by AI by publishing clear, structured, expert content that directly answers the exact questions people ask, then reinforcing it with strong entity and trust signals.\n\nAI assistants pull from pages that are easy to parse, fact-based, and clearly associated with a credible brand or person. If your content is vague, buried, or unstructured, models usually choose someone else.\n\nKey factors:\n- Answer the core question in the first 100–150 words, then elaborate.\n- Use headings that mirror real queries and add FAQ sections with natural-language questions.\n- Include concrete data, examples, and definitions that can be quoted or summarized.\n- Strengthen brand/entity signals with consistent naming, bios, reviews, and schema.\n\nPractically, start by auditing a handful of important queries in tools like ChatGPT, Perplexity, Gemini, and Claude, then compare your pages to the ones they cite and adjust structure, clarity, and evidence accordingly.\nPosition yourself as a consistent, trustworthy explainer of a narrow topic, not a generic blogger trying to win every keyword.",
+        "description": "You get cited by AI by publishing question-focused, clearly structured, evidence-backed content and strengthening your brand/entity signals. Answer the exact query up top, use headings and FAQs that match real questions, add schema and trust signals, then audit AI answers and update your pages to match what cited sources are doing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

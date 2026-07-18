@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I design a good prompt set for LLM citation tracking so the data actually reflects real buyer behavior?",
+  "description": "Build your prompt set from real buyer questions: “how do I…”, “best X for Y”, and “X vs Y” comparisons. Aim for 50–100 natural-language prompts pulled from supp",
+  "url": "aeoptimizer.com/faq/how-do-i-design-a-good-prompt-set-for-llm-citation-tracking-so-the-data-actually",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I design a good prompt set for LLM citation tracking so the data actually reflects real buyer behavior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To build a strong prompt library, start from real buyer questions: category discovery, “best tools” comparisons, and problem-solution scenarios specific to your niche. Aim for 50–100 prompts covering the full funnel.\n\nContext: The biggest mistake teams make is designing prompts around internal jargon instead of what people actually type into AI tools late at night. Your prompts should feel like raw, unpolished questions a prospect in Los Angeles or Austin might ask when confused or stuck.\n\nKey factors:\n- Include top-funnel “how do I…” informational queries.\n- Add mid-funnel “best X for Y” and “X vs Y” comparisons.\n- Capture bottom-funnel “is [brand] good for…” validation questions.\n- Use natural language, not brand slogans or acronyms.\n\nPractical guidance: Pull questions from your support inbox, sales calls, site search, and Reddit or forum threads in your space. Rewrite them minimally for clarity, then group them by intent so you can track visibility across the buyer journey. \n\nSoft positioning: A realistic prompt set makes your LLM citation tracking reflect how the market actually discovers and evaluates you, not how you wish they did.",
+        "description": "Build your prompt set from real buyer questions: “how do I…”, “best X for Y”, and “X vs Y” comparisons. Aim for 50–100 natural-language prompts pulled from support tickets, sales calls, forums, and site search so your citation tracking matches what people truly ask."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

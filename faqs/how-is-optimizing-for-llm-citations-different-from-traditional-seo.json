@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is optimizing for LLM citations different from traditional SEO?",
+  "description": "LLM citation optimization is more about clear, structured, question-based answers than ranking one page for a keyword. Schema, freshness, authoritative explanat",
+  "url": "aeoptimizer.com/faq/how-is-optimizing-for-llm-citations-different-from-traditional-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is optimizing for LLM citations different from traditional SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compared with classic SEO, optimizing for LLM citations focuses more on answer quality, structure, and schema than on ranking a single URL for a keyword.\n\nYou’re trying to be the model’s preferred explanation, not just the top organic result on a search page.\n\nKey factors:\n- Narrow, question-based pages tend to outperform broad topic posts\n- FAQPage, HowTo, and glossary structures are especially valuable\n- Freshness and clear dates matter more because LLMs favor recent data\n- Off-site mentions and reviews on trusted platforms influence citation choices\n\nIn practice, keep your SEO fundamentals, but add an \"AI layer\": write definitive answers for key questions, add appropriate schema, and reinforce the same explanation across your site and partner content.\n\nPositioning: Think of LLM citation optimization as SEO plus structured clarity and authority—it builds on search basics, but isn’t identical.",
+        "description": "LLM citation optimization is more about clear, structured, question-based answers than ranking one page for a keyword. Schema, freshness, authoritative explanations, and off-site signals matter more because you’re trying to become the model’s go-to source, not just win a search results slot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

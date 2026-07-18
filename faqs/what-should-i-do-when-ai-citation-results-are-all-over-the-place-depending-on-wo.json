@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when AI citation results are all over the place depending on wording or time of day?",
+  "description": "Establish a fixed testing protocol and focus on repeatable patterns. Use the same prompt wording, test in incognito across the same engines, and compare results",
+  "url": "aeoptimizer.com/faq/what-should-i-do-when-ai-citation-results-are-all-over-the-place-depending-on-wo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when AI citation results are all over the place depending on wording or time of day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When AI citation results look inconsistent or contradictory, prioritize repeatable patterns over single answers. Run the same prompt across multiple engines, at different times and in incognito, and focus your decisions on what appears reliably, not one-off anomalies.\n\nContext: AI systems are probabilistic; slight changes in wording or timing can produce different answers. Chasing every variation will waste time and obscure the big picture.\n\nKey factors:\n- Use a fixed prompt version as your baseline.\n- Test in incognito to reduce personalization.\n- Compare average patterns over several runs.\n- Log outliers separately instead of mixing them into core metrics.\n\nPractical guidance: Define a protocol (same prompt, same engines, same conditions) and stick to it for your “official” tracking, treating any odd responses as notes rather than core data. This makes your reporting more stable and actionable.\n\nSoft positioning: A disciplined testing methodology helps you make decisions based on reliable visibility signals instead of noise from AI’s natural variability.",
+        "description": "Establish a fixed testing protocol and focus on repeatable patterns. Use the same prompt wording, test in incognito across the same engines, and compare results over multiple runs. Treat odd or contradictory answers as outliers for notes, not core metrics steering your decisions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

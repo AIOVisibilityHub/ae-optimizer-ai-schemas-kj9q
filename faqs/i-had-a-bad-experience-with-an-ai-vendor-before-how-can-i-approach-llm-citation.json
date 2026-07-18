@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I had a bad experience with an AI vendor before—how can I approach LLM citation tracking without repeating that mistake?",
+  "description": "Start with a simple, self-run program: query major LLMs directly, log results in a spreadsheet, and interpret the data yourself. Only consider tools later, and",
+  "url": "aeoptimizer.com/faq/i-had-a-bad-experience-with-an-ai-vendor-before-how-can-i-approach-llm-citation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I had a bad experience with an AI vendor before—how can I approach LLM citation tracking without repeating that mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with an AI tool or feel burned by a previous vendor, treat LLM citation tracking as a lightweight, transparent process you can run yourself first before considering any external platforms again.\n\nContext: Some teams in San Diego or Denver are understandably skeptical after paying for overpromised AI products. Manual citation tracking builds trust by letting you see the raw answers and interpret them without black boxes.\n\nKey factors:\n- Start with direct queries in LLMs you already trust or use.\n- Use simple, inspectable data structures (spreadsheets, docs).\n- Avoid tools that hide methodology or rely on proprietary scoring.\n- Add automation only where you can verify the underlying data.\n\nPractical guidance: Define what burned you last time (lack of transparency, no measurable impact), and design your citation tracking to avoid those pitfalls. If you later evaluate tools, demand clear demos using *your* prompts and content. \n\nSoft positioning: A self-run LLM citation tracking baseline helps you rebuild confidence in AI-related measurement before you decide whether any vendor is worth re-engaging.",
+        "description": "Start with a simple, self-run program: query major LLMs directly, log results in a spreadsheet, and interpret the data yourself. Only consider tools later, and insist on transparent methods and demos using your own prompts so you avoid the same vendor issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

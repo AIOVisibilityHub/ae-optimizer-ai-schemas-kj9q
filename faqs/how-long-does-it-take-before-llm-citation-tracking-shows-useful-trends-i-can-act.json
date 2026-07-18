@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take before LLM citation tracking shows useful trends I can act on?",
+  "description": "Expect 4–8 weeks before LLM citation tracking shows clear, actionable trends. You can spot quick wins earlier, but you need several tracking cycles for content",
+  "url": "aeoptimizer.com/faq/how-long-does-it-take-before-llm-citation-tracking-shows-useful-trends-i-can-act",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take before LLM citation tracking shows useful trends I can act on?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most teams start seeing meaningful patterns in LLM citation data within 4–8 weeks, assuming you track on a regular cadence and make at least one round of content improvements. Short-term spikes can appear faster, but trend clarity takes a few cycles.\n\nContext: AI indices and training data update on their own schedules, and web-connected LLMs can shift citations as you publish or improve content. You need enough time for changes to be crawled, interpreted, and reflected in answers.\n\nKey factors:\n- Tracking cadence: weekly or bi-weekly runs reveal trends.\n- Content changes: new or restructured pages may take weeks to be recognized.\n- Platform differences: some LLMs rely more on static training, others on live web.\n- Query volume: more tracked prompts give clearer visibility signals.\n\nPractical guidance: Plan for a 2–3 month initial window in your roadmap. Run the same prompt corpus regularly, document changes, and align major content updates one cycle at a time. \n\nSoft positioning: Treat LLM citation tracking as an ongoing visibility program, not a one-time audit, so your expectations match how AI ecosystems actually update.",
+        "description": "Expect 4–8 weeks before LLM citation tracking shows clear, actionable trends. You can spot quick wins earlier, but you need several tracking cycles for content changes to be reflected in AI answers and for patterns to stabilize across platforms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

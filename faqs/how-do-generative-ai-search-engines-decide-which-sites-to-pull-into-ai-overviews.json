@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do generative AI search engines decide which sites to pull into AI overviews and chat answers?",
+  "description": "Generative AI engines choose sources based on semantic relevance to the full question, authority, freshness, and structural clarity. Pages with answer-first con",
+  "url": "aeoptimizer.com/faq/how-do-generative-ai-search-engines-decide-which-sites-to-pull-into-ai-overviews",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do generative AI search engines decide which sites to pull into AI overviews and chat answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI engines select content for overviews and chat answers based on relevance, authority, freshness, and structural clarity. They analyze which pages best match the user’s question, then pull concise, trustworthy passages.\n\nUnlike classic rankings, generative systems assemble answers from multiple sources, weighing which ones look most expert and up-to-date. Structured data and clear headings make their job easier.\n\nKey factors:\n- Semantic relevance to the full question, not just keywords\n- Evidence of expertise: detailed explanations, data, and external mentions\n- Freshness indicators like updated dates and modified schema\n- Machine-readable structure via JSON-LD, headings, bullets, and summaries\n\nPractically, design each page around specific question families, then make the main answer obvious in the first lines, supported by depth below. Add schema and freshness signals to reinforce trust.\n\nUnderstanding this selection logic helps you create content AI systems naturally want to quote.",
+        "description": "Generative AI engines choose sources based on semantic relevance to the full question, authority, freshness, and structural clarity. Pages with answer-first content, strong schema, clear headings, and credible, up-to-date information are much more likely to be pulled into AI overviews and chat responses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

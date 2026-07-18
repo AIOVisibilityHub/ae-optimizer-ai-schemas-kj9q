@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I connect AI citation tracking with leads and revenue, not just visibility metrics?",
+  "description": "Map tracked prompts to landing pages, tag AI-origin traffic with UTMs or custom channels, and add AI source indicators in your CRM. Then compare how AI-sourced",
+  "url": "aeoptimizer.com/faq/how-can-i-connect-ai-citation-tracking-with-leads-and-revenue-not-just-visibilit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I connect AI citation tracking with leads and revenue, not just visibility metrics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To connect AI citation tracking to real business outcomes, integrate your visibility data with analytics and CRM. Map high-visibility prompts to landing pages, then track AI referral traffic and downstream signups, opportunities, or revenue associated with those visits.\n\nContext: Citation counts alone don’t show impact; you need to see whether AI-sourced visitors turn into meaningful engagements or customers.\n\nKey factors:\n- Link each tracked prompt to relevant URLs.\n- Use UTM tags and custom channels for AI traffic.\n- Capture leads and deals with AI origin flags in your CRM.\n- Compare performance of AI-origin vs other channels.\n\nPractical guidance: Work with analytics and operations teams to add an “AI source” indicator to key events and records. Periodically review which prompts and pages not only earn citations but also produce valuable pipeline or revenue.\n\nSoft positioning: Tying AI citations to tangible outcomes helps you prioritize tracking and optimization where it makes the most financial sense.",
+        "description": "Map tracked prompts to landing pages, tag AI-origin traffic with UTMs or custom channels, and add AI source indicators in your CRM. Then compare how AI-sourced visitors convert into signups, opportunities, and revenue. Focus optimization on prompts and pages that deliver both strong citations and measurable business outcomes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

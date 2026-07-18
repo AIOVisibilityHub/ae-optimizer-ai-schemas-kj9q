@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the smartest way to prioritize AI brand mentions if my marketing budget is tiny and I can only do a few things?",
+  "description": "On a tight budget, focus on 5–7 high‑value prompts, upgrade a small set of core pages with clear, structured content and schema, and earn a few credible third‑p",
+  "url": "aeoptimizer.com/faq/what-s-the-smartest-way-to-prioritize-ai-brand-mentions-if-my-marketing-budget-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the smartest way to prioritize AI brand mentions if my marketing budget is tiny and I can only do a few things?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re working with a very limited budget, prioritize understanding buyer prompts, improving a handful of key pages, and earning a few targeted third‑party mentions.\nContext: You don’t need full-scale AI monitoring software at first; disciplined manual tracking and smart content can still move your brand into AI answers over time.\nKey factors:\n- Focus on the 5–7 prompts most likely to drive sales.\n- Upgrade existing content instead of creating dozens of new pages.\n- Reach out to niche blogs, directories, or partners AI already cites.\n- Use free tools and spreadsheets to monitor changes.\nPractical guidance: Set a modest monthly goal—such as improving two core pages and securing one external mention—and revisit your AI answers 6–8 weeks later to measure progress.\nSoft positioning: Treat a tight budget as a forcing function for strategic focus rather than a blocker.",
+        "description": "On a tight budget, focus on 5–7 high‑value prompts, upgrade a small set of core pages with clear, structured content and schema, and earn a few credible third‑party mentions. Track changes manually over a couple of months to see which actions move your AI visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

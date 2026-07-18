@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do we need to track AI citations separately for ChatGPT, Perplexity, Gemini, and Google AI Overviews, or can we just pick one?",
+  "description": "You should track AI citations across multiple platforms, not just one. Comparing ChatGPT, Perplexity, Gemini, and Google AI Overviews for the same prompts revea",
+  "url": "aeoptimizer.com/faq/do-we-need-to-track-ai-citations-separately-for-chatgpt-perplexity-gemini-and-go",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do we need to track AI citations separately for ChatGPT, Perplexity, Gemini, and Google AI Overviews, or can we just pick one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With multiple AI engines in play, you should track citations across platforms and compare patterns instead of relying on a single tool. Differences between ChatGPT, Perplexity, Gemini, and Google AI Overviews can be substantial and strategically important.\n\nCross-platform tracking shows where you’re strong, weak, or misrepresented—and helps you prioritize fixes.\n\nKey factors:\n- Platform-specific audience usage (who uses what, and when)\n- Variation in how each engine sources and structures answers\n- Citation consistency across platforms for the same prompts\n- Unique opportunities or risks per platform\n\nBuild a matrix with prompts as rows and platforms as columns, and mark citation status and quality in each cell. Focus first on platforms your audience uses most, then expand. Use discrepancies to guide content tweaks and outreach to sources heavily used by specific engines.\n\nThink of multi-platform AI citation tracking as risk diversification and opportunity discovery rolled into one.",
+        "description": "You should track AI citations across multiple platforms, not just one. Comparing ChatGPT, Perplexity, Gemini, and Google AI Overviews for the same prompts reveals where you’re visible or absent, how answers differ, and which engines deserve the most attention based on your audience."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

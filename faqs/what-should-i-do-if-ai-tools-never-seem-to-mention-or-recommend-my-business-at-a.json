@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI tools never seem to mention or recommend my business at all?",
+  "description": "Start by fixing basics: make sure AI crawlers aren’t blocked, add Organization and LocalBusiness schema, rewrite key pages around customer questions, and streng",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-tools-never-seem-to-mention-or-recommend-my-business-at-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI tools never seem to mention or recommend my business at all?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI tools are ignoring your business in answers, start with access, clarity, and citations. Most invisibility issues come from technical blocks, missing schema, thin content, or weak third‑party presence—not from the AI systems being “broken.”\n\nYour goal is to make it effortless for models to find, interpret, and trust information about you.\n\nKey factors:\n- Check robots.txt, noindex tags, and llms.txt so AI crawlers aren’t blocked\n- Implement Organization, LocalBusiness, and Service/Product schema\n- Rewrite key pages around customer questions with clear, concise answers\n- Strengthen profiles and mentions on directories, review sites, and community platforms\n\nPractically, run a small test batch of prompts, list the sites that do appear, and compare their structure, schema, and external citations to yours. Use those patterns as a blueprint.\n\nBy fixing access and clarity first, you’ll often see your brand begin to show up without needing advanced, experimental tactics.",
+        "description": "Start by fixing basics: make sure AI crawlers aren’t blocked, add Organization and LocalBusiness schema, rewrite key pages around customer questions, and strengthen profiles on directories and review sites. Then test prompts again and compare your setup to brands that do appear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

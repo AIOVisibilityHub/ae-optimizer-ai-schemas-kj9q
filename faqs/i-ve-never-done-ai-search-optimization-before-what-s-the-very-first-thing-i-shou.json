@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve never done AI search optimization before—what’s the very first thing I should do?",
+  "description": "Start with a visibility audit: run 30–50 realistic customer prompts through several AI tools and log when, how, and if your brand appears. That baseline will sh",
+  "url": "aeoptimizer.com/faq/i-ve-never-done-ai-search-optimization-before-what-s-the-very-first-thing-i-shou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve never done AI search optimization before—what’s the very first thing I should do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your first step is to audit how often your brand shows up today when people ask AI tools about your products, services, and locations. Without that baseline, you’ll waste time optimizing the wrong content.\n\nAn audit reveals whether AI systems “know” you exist, how they describe you, and which competitors are winning the recommendations you want. It also shows which sources those systems trust.\n\nKey factors:\n- List 30–50 realistic prompts customers would ask across the funnel\n- Test them in multiple tools (ChatGPT, Perplexity, Gemini, Claude)\n- Record if you appear, how you’re described, and who else is cited\n- Note which pages and third‑party sites are driving those answers\n\nPractically, dedicate a spreadsheet and a 2–3 hour session to run and log these prompts. Group findings into: fixable on your site, fixable via schema, and requiring external citation or profile updates.\n\nThis kind of audit is the fastest way to identify high‑impact AI search optimization work without guessing or buying unnecessary tools.",
+        "description": "Start with a visibility audit: run 30–50 realistic customer prompts through several AI tools and log when, how, and if your brand appears. That baseline will show you where you’re invisible and which content, schema, and citations need attention first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

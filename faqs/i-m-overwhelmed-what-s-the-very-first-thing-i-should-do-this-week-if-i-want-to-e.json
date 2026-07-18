@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m overwhelmed—what’s the very first thing I should do this week if I want to eventually get cited by AI?",
+  "description": "Pick 10–20 “money questions” your ideal buyers ask AI assistants and build or refine one strong page per question. Put a direct answer at the top, use matching",
+  "url": "aeoptimizer.com/faq/i-m-overwhelmed-what-s-the-very-first-thing-i-should-do-this-week-if-i-want-to-e",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m overwhelmed—what’s the very first thing I should do this week if I want to eventually get cited by AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by identifying the exact questions you want AI tools to associate with your brand, then build one page per question with answer-first content and clear structure.\n\nYou don’t need to fix your entire site at once; focus on the highest-impact queries where citing you would genuinely help buyers.\n\nKey factors:\n- Choose 10–20 “money questions” your ideal customer would ask an AI assistant.\n- Create or refine pages so each one clearly answers a single core question.\n- Use headings matching the question, plus a short direct answer at the top.\n- Add FAQs covering realistic follow-ups, complications, and edge cases.\n\nOnce those pages are live, run citation audits across AI tools and compare your pages to cited ones.\nIterate based on what’s working rather than guessing in the dark.",
+        "description": "Pick 10–20 “money questions” your ideal buyers ask AI assistants and build or refine one strong page per question. Put a direct answer at the top, use matching headings and FAQs, then run AI queries to compare your pages to those already being cited and iterate from there."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’ve invested in AI search optimization but I’m still not seeing much improvement?",
+  "description": "Refine your approach: confirm you’re targeting realistic customer prompts, fix any remaining access and schema issues, and strengthen third‑party citations. The",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-ve-invested-in-ai-search-optimization-but-i-m-still-not-se",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’ve invested in AI search optimization but I’m still not seeing much improvement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If results from AI search optimization feel slow or disappointing, revisit your assumptions: you may be targeting the wrong queries, underestimating technical issues, or lacking the external citations models rely on. Expect iteration, not instant wins.\n\nYou’re competing with entrenched sources and models that update on their own schedules.\n\nKey factors:\n- Are your test prompts aligned with real customer language and intent?\n- Did you validate that AI crawlers can access updated content and schema?\n- Have you improved third‑party profiles and mentions, not just your site?\n- Are you monitoring the same set of prompts over time or constantly changing them?\n\nPractically, narrow your focus to 10–15 key prompts and run a deeper gap analysis against the sites that appear. Adjust your roadmap based on those patterns.\n\nTreat slow movement as feedback on where your entity and citation footprint is weakest, not as proof that optimization “doesn’t work.”",
+        "description": "Refine your approach: confirm you’re targeting realistic customer prompts, fix any remaining access and schema issues, and strengthen third‑party citations. Then focus on a stable set of 10–15 key queries and track them over time instead of expecting quick, across‑the‑board gains."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of website do I need to even be eligible to show up in AI Overviews?",
+  "description": "You need at least one strong, well‑optimized page that already ranks in the top 10 for the query, shows clear topical expertise, and uses clean technical SEO wi",
+  "url": "aeoptimizer.com/faq/what-kind-of-website-do-i-need-to-even-be-eligible-to-show-up-in-ai-overviews",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of website do I need to even be eligible to show up in AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most sites, you’ll need at least one highly relevant, well‑optimized page in the top 10 results for the query you want to appear in AI Overviews. You don’t need a huge site, but you do need clear topical authority and clean technical SEO.\n\nAI Overviews lean on pages that already rank well, demonstrate expertise, and present information in question‑and‑answer structures. Small sites can absolutely be cited if they’re the best answer, but thin or generic content rarely makes the cut.\n\nKey factors:\n- One or more **page‑one rankings** for the target topic\n- Depth on the subject (clusters of related articles/FAQs)\n- Clear author credentials and brand trust signals\n- Valid schema like Article, FAQPage, or HowTo\n\nAudit your current rankings, choose 3–5 topics to “own,” and create tight topic clusters with detailed guides plus short FAQs that directly answer common questions. Even a small site can rank in AI Overviews if it’s clearly the most useful, trustworthy source.\n\nThink of AI Overview eligibility as “earned via topic authority,” not “granted because the site is big.”",
+        "description": "You need at least one strong, well‑optimized page that already ranks in the top 10 for the query, shows clear topical expertise, and uses clean technical SEO with structured data. Large size isn’t required; focused, authoritative content on your topic is."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

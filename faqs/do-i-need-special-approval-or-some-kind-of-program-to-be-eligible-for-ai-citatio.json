@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need special approval or some kind of program to be eligible for AI citations, or is my site already considered by default?",
+  "description": "You’re usually eligible for AI citations by default if your site is crawlable, indexable, and shows clear expertise and trust. There’s no formal “AI citation pr",
+  "url": "aeoptimizer.com/faq/do-i-need-special-approval-or-some-kind-of-program-to-be-eligible-for-ai-citatio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need special approval or some kind of program to be eligible for AI citations, or is my site already considered by default?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need any special permission to be cited by AI, but you do need content that’s crawlable, indexable, and clearly associated with a real entity and topic.\n\nAI assistants mostly rely on web content and trusted data sources; if your site blocks bots or lacks basic SEO, you’ll be effectively ineligible. Low-quality, thin, or misleading content also tends to be filtered out.\n\nKey factors:\n- Your site must be accessible to major crawlers (no blanket bot blocks, sensible robots.txt settings).\n- Pages should follow basic SEO best practices: unique titles, headings, meta descriptions, and internal links.\n- You should demonstrate topical expertise through multiple quality pages, data, and references.\n- Trust indicators (author bios, reviews, citations) increase the chance of being used as a source.\n\nIf you’re unsure, run a technical SEO audit and a small AI citation audit; fix crawl/index issues first, then focus on content quality, structure, and authority.\nBeing “eligible” is mostly about meeting a minimum bar of quality and discoverability, not joining a formal program.",
+        "description": "You’re usually eligible for AI citations by default if your site is crawlable, indexable, and shows clear expertise and trust. There’s no formal “AI citation program”; focus on fixing technical SEO issues, improving content quality, and strengthening brand and author signals to be considered."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

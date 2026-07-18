@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to improve our LLM citations, especially on a limited budget?",
+  "description": "There’s no direct fee to be cited; the cost is your investment in better content, schema, and monitoring. On a tight budget, focus on 10–20 critical questions,",
+  "url": "aeoptimizer.com/faq/how-much-does-it-cost-to-improve-our-llm-citations-especially-on-a-limited-budge",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to improve our LLM citations, especially on a limited budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There’s no fixed price tag for \"getting cited\"—the cost is whatever you invest in content, schema, and monitoring.\n\nMost teams fold LLM citation work into existing SEO and content budgets, focusing on practical changes rather than new tooling only.\n\nKey factors:\n- Content creation and updating (writers, subject experts)\n- Technical implementation of schema and access controls\n- Time spent on monthly audits across major LLMs\n- Optional spend on specialized analytics or research tools\n\nIf your budget is limited, prioritize 10–20 high-impact questions and build strong, schema-marked pages for those, instead of trying to optimize your entire site at once.\n\nPositioning: Think of LLM citation investment as a targeted extension of content and SEO spend, not a separate, mysterious cost center.",
+        "description": "There’s no direct fee to be cited; the cost is your investment in better content, schema, and monitoring. On a tight budget, focus on 10–20 critical questions, create strong FAQ/HowTo pages for them, and run simple monthly audits, instead of trying to optimize your whole site at once."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

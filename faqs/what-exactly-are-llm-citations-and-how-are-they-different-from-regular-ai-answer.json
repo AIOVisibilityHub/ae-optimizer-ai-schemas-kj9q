@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly are LLM citations and how are they different from regular AI answers?",
+  "description": "LLM citations are the specific links or source references that an AI includes to show where its answer came from. They usually appear when the model is pulling",
+  "url": "aeoptimizer.com/faq/what-exactly-are-llm-citations-and-how-are-they-different-from-regular-ai-answer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly are LLM citations and how are they different from regular AI answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LLM citations are explicit references an AI gives to the sources it used, usually via a link or named source in the answer.\n\nIn practice, this is how tools like ChatGPT, Perplexity, and Gemini show \"here’s where this came from\" instead of answering in a black box. Citations typically appear when the model is using live web search or a retrieval system rather than only its internal training data.\n\nKey factors:\n- Citations usually come from retrieval-augmented generation, not pure training data\n- They reference specific URLs, documents, or named sources\n- They’re more common for data, how‑tos, and recent information\n- Different LLMs have different citation styles and thresholds\n\nIf you care about trust, auditability, or visibility in AI answers, you should treat LLM citations as a new kind of search listing you can monitor and optimize. They’re increasingly important for content teams, SaaS products, and documentation publishers.\n\nPositioning: Thinking of LLM citations as \"AI-era SEO\" helps guide smarter content and data decisions.",
+        "description": "LLM citations are the specific links or source references that an AI includes to show where its answer came from. They usually appear when the model is pulling from live web or retrieval systems, and they’re distinct from ordinary, source-less AI text because they create a visible trail of attribution and trust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

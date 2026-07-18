@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do GEO best practices change when I want to show up in local AI answers for cities like Los Angeles or San Diego?",
+  "description": "Local GEO requires more than adding city names—you need city‑specific, question‑driven content, Organization schema that reflects local presence, and consistent",
+  "url": "aeoptimizer.com/faq/how-do-geo-best-practices-change-when-i-want-to-show-up-in-local-ai-answers-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do GEO best practices change when I want to show up in local AI answers for cities like Los Angeles or San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For local GEO, you need content and entities that clearly tie your expertise to specific cities like Los Angeles or San Diego. Generative engines look for real local signals, not just city name stuffing.\n\nThat means combining local topic coverage with structured data and consistent mentions of your presence and activity in those markets.\n\nKey factors:\n- Create city‑specific pages or sections that answer local questions and use local examples.\n- Include Organization schema with locations and sameAs links to local profiles.\n- Publish content about neighborhood needs, events, or “near me” scenarios.\n- Maintain accurate NAP (name, address, phone) wherever your brand appears.\n\nStart by identifying the top 3–5 topics where you want visibility in each city and build targeted, question‑led content around them. Then validate that AI assistants recognize you as relevant when users ask location‑modified prompts.\n\nOver time, this approach makes you a go‑to local source in generative answers, not just another generic site.",
+        "description": "Local GEO requires more than adding city names—you need city‑specific, question‑driven content, Organization schema that reflects local presence, and consistent local signals (like NAP and local examples). Done right, this helps AI tools treat you as a credible local source in generative answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

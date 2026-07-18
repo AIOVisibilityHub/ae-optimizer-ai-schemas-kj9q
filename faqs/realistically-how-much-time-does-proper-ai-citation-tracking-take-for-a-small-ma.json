@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Realistically, how much time does proper AI citation tracking take for a small marketing team?",
+  "description": "Most small teams can set up AI citation tracking in half a day and maintain it with 1–2 hours per week. Start with 10–30 high-intent prompts, test them across t",
+  "url": "aeoptimizer.com/faq/realistically-how-much-time-does-proper-ai-citation-tracking-take-for-a-small-ma",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Realistically, how much time does proper AI citation tracking take for a small marketing team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a lean team, you can get meaningful AI citation tracking up and running with a few hours of setup and 1–2 hours per week for audits. The biggest time investment is building a realistic prompt library and standardizing your tracking template.\n\nOngoing workload depends on how many prompts and platforms you monitor, and how deeply you analyze each answer.\n\nKey factors:\n- Number of prompts (10–30 is common to start)\n- Number of AI engines you test\n- Depth of analysis (basic inclusion vs sentiment, accuracy, and competitors)\n- Use of tools vs fully manual tracking\n\nPlan half a day to define prompts, build your spreadsheet, and run the first baseline. After that, block a recurring weekly or bi-weekly slot for updates. Keep your process light at first, then add layers like dashboards or automation once the core habit is stable.\n\nTreat AI citation tracking as a small but high-leverage addition to your existing analytics routine, not a separate discipline.",
+        "description": "Most small teams can set up AI citation tracking in half a day and maintain it with 1–2 hours per week. Start with 10–30 high-intent prompts, test them across the main AI platforms, and update a simple tracking sheet on a weekly or bi-weekly cadence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should we be checking AI citations so we don’t miss big changes but also don’t drown in busywork?",
+  "description": "Most teams get good signal with weekly or bi-weekly AI citation checks, focusing on a defined set of high-intent prompts across the main AI platforms. This cade",
+  "url": "aeoptimizer.com/faq/how-often-should-we-be-checking-ai-citations-so-we-don-t-miss-big-changes-but-al",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should we be checking AI citations so we don’t miss big changes but also don’t drown in busywork?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most brands, a weekly or bi-weekly AI citation audit is enough to spot meaningful changes without overwhelming your team. High-volatility categories or fast-moving niches might justify weekly deep dives plus lighter spot checks in between.\n\nAI answers can shift quickly as models update and new content enters the ecosystem, so a one-time snapshot is insufficient. A regular cadence turns AI citation tracking into a trend rather than a moment.\n\nKey factors:\n- How fast your industry and competitors change\n- How critical AI-driven traffic is to your pipeline\n- The number of prompts and platforms you monitor\n- Your team’s capacity for recurring analysis\n\nStart with a weekly run for your top 20–30 prompts and save full responses for comparison. After a month or two, you’ll know whether you can back off to bi-weekly or need to keep the same pace. Design a simple checklist so audits feel routine rather than ad hoc.\n\nThink of AI citation tracking as a pulse check on your digital visibility, not an emergency sprint.",
+        "description": "Most teams get good signal with weekly or bi-weekly AI citation checks, focusing on a defined set of high-intent prompts across the main AI platforms. This cadence lets you catch shifts in visibility and competitor mentions without turning AI citation tracking into a full-time job."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

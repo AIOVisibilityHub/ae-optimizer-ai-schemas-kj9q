@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many AI prompts should I be tracking for brand mentions, and how do I choose the right ones?",
+  "description": "Most brands start by tracking 10–30 prompts that reflect real buyer questions across products and key locations. Focus on high‑intent “best of,” comparison, and",
+  "url": "aeoptimizer.com/faq/how-many-ai-prompts-should-i-be-tracking-for-brand-mentions-and-how-do-i-choose",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many AI prompts should I be tracking for brand mentions, and how do I choose the right ones?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need enough prompts to cover your main products, use cases, and locations, but still be manageable to test on a regular cadence—often 10–30 core questions.\nContext: Too few prompts gives an incomplete picture; too many can overwhelm your tracking and analysis. The right number depends on your product range and geographic footprint.\nKey factors:\n- Include both generic and location‑specific prompts for key cities.\n- Cover “best of,” “alternatives,” “how to choose,” and “what is” questions.\n- Tag prompts by intent (research vs. purchase) and segment.\n- Start small and expand as your tracking process stabilizes.\nPractical guidance: Build an initial prompt list, run test rounds, and then prune questions that rarely surface AI answers or don’t align with real buyer journeys. Add new prompts when you launch major features or enter new markets.\nSoft positioning: Treat your prompt set as a living artifact that evolves with your business and audience.",
+        "description": "Most brands start by tracking 10–30 prompts that reflect real buyer questions across products and key locations. Focus on high‑intent “best of,” comparison, and “how to choose” queries, then refine the list as you see which ones actually surface AI answers and drive value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

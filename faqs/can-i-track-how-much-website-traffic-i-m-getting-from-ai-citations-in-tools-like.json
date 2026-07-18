@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I track how much website traffic I’m getting from AI citations in tools like Google Analytics?",
+  "description": "You can approximate AI-driven traffic by using UTM tags and a custom “AI referral” channel in Google Analytics. Tag URLs you know are cited by AI, filter for AI",
+  "url": "aeoptimizer.com/faq/can-i-track-how-much-website-traffic-i-m-getting-from-ai-citations-in-tools-like",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I track how much website traffic I’m getting from AI citations in tools like Google Analytics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can approximate how much traffic AI citations send you by creating an AI-specific channel in Google Analytics and tagging AI links. Use UTM parameters (for example, a unique medium like “ai_referral”) for URLs you know are being cited by AI systems.\n\nContext: Most AI platforms don’t pass perfect referral data, so you need a combination of UTM tagging, source/medium filters, and pattern recognition in your analytics to isolate AI-driven visits.\n\nKey factors:\n- Use UTM tags on URLs you promote or see frequently in AI answers.\n- Create a custom channel group for AI referrals.\n- Filter by domains like chatgpt.com, perplexity.ai, and similar when available.\n- Compare AI sessions against overall organic traffic over time.\n\nPractical guidance: Work with your analytics admin to define a standard UTM scheme and a dedicated AI channel, then regularly review acquisition reports for AI-related sources. Over time you’ll see which citations are generating meaningful traffic.\n\nSoft positioning: With even a rough AI traffic estimate, you can justify investing in content and optimization that improves your AI visibility.",
+        "description": "You can approximate AI-driven traffic by using UTM tags and a custom “AI referral” channel in Google Analytics. Tag URLs you know are cited by AI, filter for AI-related domains when they appear, and review acquisition reports regularly to see how many sessions and conversions come from AI-origin visits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does my business need to meet any specific criteria to benefit from LLM citation tracking, or is it only for big brands?",
+  "description": "Any brand with useful, crawlable content can benefit from LLM citation tracking. It’s not limited to big companies—the main requirement is having authoritative",
+  "url": "aeoptimizer.com/faq/does-my-business-need-to-meet-any-specific-criteria-to-benefit-from-llm-citation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does my business need to meet any specific criteria to benefit from LLM citation tracking, or is it only for big brands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LLM citation tracking doesn’t require special eligibility; any brand with online content can do it. The key is having pages that answer real questions and can plausibly be used as sources by AI models.\n\nContext: Even small companies in places like Salt Lake City or Boulder can benefit, as long as they publish clear, information-rich content. The limiting factor is not “being big enough” but having something authoritative for LLMs to cite.\n\nKey factors:\n- You need crawlable, indexable web content.\n- Content should address category, comparison, and problem queries.\n- Distinctive data or frameworks increase citation likelihood.\n- Schema, structure, and external references help models understand you.\n\nPractical guidance: If your website is thin or purely promotional, focus first on publishing helpful, structured resources (guides, FAQs, data pages). Once those exist, LLM citation tracking will show whether AI recognizes and uses them. \n\nSoft positioning: Think of LLM citation tracking as a measurement layer that becomes truly useful once your content is worth being cited in the first place.",
+        "description": "Any brand with useful, crawlable content can benefit from LLM citation tracking. It’s not limited to big companies—the main requirement is having authoritative pages that answer real customer questions and can reasonably be used as sources by AI models."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

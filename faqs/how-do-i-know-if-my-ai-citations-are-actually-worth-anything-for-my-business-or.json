@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my AI citations are actually worth anything for my business, or just vanity metrics?",
+  "description": "Combine citation metrics with traffic and conversion data. Track how often and how prominently you’re cited, then measure AI referral traffic and downstream sig",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-ai-citations-are-actually-worth-anything-for-my-business-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my AI citations are actually worth anything for my business, or just vanity metrics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measure the value of AI citations by combining visibility metrics with traffic and revenue data. Track how often you’re cited, how prominent those citations are, and how much referral traffic and conversions you get from AI-origin visits.\n\nContext: Not every citation is equally valuable; a link in a high-intent “best tools” answer can be worth more than a neutral mention in an informational query. You need both qualitative and quantitative signals.\n\nKey factors:\n- Citation rate and share of voice vs competitors.\n- Prominence in lists (“top 3” vs buried in a long list).\n- AI referral traffic in analytics (custom channel or UTM tags).\n- Downstream outcomes: signups, demos, or purchases.\n\nPractical guidance: Create a simple dashboard showing citation metrics by query and AI referral traffic by source. Compare which prompts drive meaningful sessions and conversions, not just brand visibility.\n\nSoft positioning: Once you know which AI citations actually produce results, you can focus your content and optimization efforts on the highest-value questions.",
+        "description": "Combine citation metrics with traffic and conversion data. Track how often and how prominently you’re cited, then measure AI referral traffic and downstream signups or sales. Focus on high-intent prompts where AI links drive visits and conversions—those citations are far more valuable than passive mentions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

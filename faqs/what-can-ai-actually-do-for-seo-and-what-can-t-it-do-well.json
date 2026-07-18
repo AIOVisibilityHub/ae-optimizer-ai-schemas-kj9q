@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can AI actually do for SEO, and what can’t it do well?",
+  "description": "AI is useful for research, clustering, and drafting, but it should not replace human strategy or fact-checking. It helps accelerate SEO work, not eliminate it.",
+  "url": "aeoptimizer.com/faq/what-can-ai-actually-do-for-seo-and-what-can-t-it-do-well",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can AI actually do for SEO, and what can’t it do well?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help with keyword research, clustering topics, drafting outlines, and speeding up repetitive SEO tasks. It is much less reliable as a fully autonomous writer, strategist, or fact-checker, so human editing still matters.",
+        "description": "AI is useful for research, clustering, and drafting, but it should not replace human strategy or fact-checking. It helps accelerate SEO work, not eliminate it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it usually take to see results after optimizing for LLM citations?",
+  "description": "Most teams see noticeable changes in LLM citations within 1–3 months of improving content and schema. Timing depends on how quickly your pages are crawled, how",
+  "url": "aeoptimizer.com/faq/how-long-does-it-usually-take-to-see-results-after-optimizing-for-llm-citations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it usually take to see results after optimizing for LLM citations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can usually see meaningful changes in LLM citations within 4–12 weeks after publishing or updating content, depending on crawl and ranking cycles.\n\nFast-moving tools with frequent recrawls may reflect changes sooner; others lag more, especially if they rely on slower indexing or internal snapshots.\n\nKey factors:\n- How quickly your pages are crawled by search and AI bots\n- Whether your changes include schema, clearer answers, and fresh dates\n- Competitive landscape for the questions you’re targeting\n- The specific LLM’s update and retrieval schedule\n\nPractically, plan on a quarterly review cycle: publish improvements, wait at least a month, then re-run your test prompts and log any citation shifts.\n\nPositioning: LLM citation gains are iterative—you’ll see movement over weeks and months, not overnight, so build patience into your expectations.",
+        "description": "Most teams see noticeable changes in LLM citations within 1–3 months of improving content and schema. Timing depends on how quickly your pages are crawled, how competitive the topic is, and how often each LLM refreshes its retrieval data, so plan on quarterly evaluation cycles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

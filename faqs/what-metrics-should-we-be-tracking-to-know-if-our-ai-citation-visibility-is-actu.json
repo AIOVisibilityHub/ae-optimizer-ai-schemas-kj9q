@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should we be tracking to know if our AI citation visibility is actually improving?",
+  "description": "Track core metrics: citation frequency (how often you’re mentioned), share of voice vs competitors, whether citations include links, your position in AI answers",
+  "url": "aeoptimizer.com/faq/what-metrics-should-we-be-tracking-to-know-if-our-ai-citation-visibility-is-actu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should we be tracking to know if our AI citation visibility is actually improving?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At a minimum you should track which AI platforms are citing you, which prompts trigger mentions, your position in the answer, whether there’s a link, and which competitors appear. Over time, add sentiment and geography if those matter for your business.\n\nYou’re essentially building a “share of voice” view inside AI assistants, similar to traditional SEO reporting but focused on AI-generated answers.\n\nKey factors:\n- Citation frequency (how often you’re mentioned)\n- Share of voice vs competitors in your category\n- Inclusion type (linked source, brand mention, or neither)\n- Answer quality and sentiment (accurate vs misleading)\n\nSet up columns in your tracking sheet for platform, prompt, mention status, position, link presence, and competitor names. Later, you can translate these into simple metrics like citation rate and AI share of voice. Those numbers make it easier to prioritize content and optimization efforts.\n\nTreat metrics as decision tools, not vanity numbers—focus on what clearly connects to traffic or conversions.",
+        "description": "Track core metrics: citation frequency (how often you’re mentioned), share of voice vs competitors, whether citations include links, your position in AI answers, and basic sentiment/accuracy. Logging these per prompt and platform lets you see real visibility trends, not just isolated mentions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

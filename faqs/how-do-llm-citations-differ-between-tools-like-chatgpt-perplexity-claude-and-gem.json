@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do LLM citations differ between tools like ChatGPT, Perplexity, Claude, and Gemini?",
+  "description": "Different LLM tools handle citations differently. Some, like Perplexity, show web source links by default, while others only cite in browsing modes or when prom",
+  "url": "aeoptimizer.com/faq/how-do-llm-citations-differ-between-tools-like-chatgpt-perplexity-claude-and-gem",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do LLM citations differ between tools like ChatGPT, Perplexity, Claude, and Gemini?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest difference is that some LLMs show citations by default for web‑backed answers, while others only do so when explicitly asked.\n\nThey also favor different source types based on their search stack, partnerships, and ranking logic, which affects who gets visibility.\n\nKey factors:\n- Perplexity and similar tools lean heavily on live web search with visible links\n- Some versions of ChatGPT and Gemini show citations mainly for browsing mode\n- Source preferences vary: Reddit, Wikipedia, YouTube, and news sites dominate many answers\n- Citation formatting (inline vs footnote-style) differs by product\n\nFor optimization, you should test the same queries across multiple LLMs and note which domains they tend to favor. That helps you target the platforms and content types that matter most.\n\nPositioning: Don’t assume a single \"LLM citation strategy\"—treat each major tool as its own ecosystem with slightly different rules.",
+        "description": "Different LLM tools handle citations differently. Some, like Perplexity, show web source links by default, while others only cite in browsing modes or when prompted. They also favor different types of sites—Wikipedia, Reddit, YouTube, media—so you need platform-specific testing and optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

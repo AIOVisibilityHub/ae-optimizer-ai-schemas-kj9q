@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’re on a tight budget—what’s the most cost-effective way to do AI citation tracking without fancy tools?",
+  "description": "On a tight budget, focus AI citation tracking on 10–20 high-intent prompts and manually test them in major AI tools, logging visibility and competitors in a spr",
+  "url": "aeoptimizer.com/faq/we-re-on-a-tight-budget-what-s-the-most-cost-effective-way-to-do-ai-citation-tra",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’re on a tight budget—what’s the most cost-effective way to do AI citation tracking without fancy tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Even with a limited budget, you can get substantial value from AI citation tracking by focusing on a small set of high-intent prompts and using manual methods instead of expensive tools. The key is prioritization, not volume.\n\nYou don’t need to monitor everything, just the questions that realistically lead to your product or service.\n\nKey factors:\n- Choose 10–20 prompts closely tied to purchase decisions\n- Use free or low-cost AI tools where possible\n- Track results in a simple spreadsheet or lightweight database\n- Focus on changes that directly inform content or SEO updates\n\nStart with your top keywords and buyer questions, run them in major AI platforms weekly, and log whether you appear and who else is mentioned. As you see patterns, adjust your content to address missing angles and improve authority. Only consider paid tools once manual efforts are clearly constrained.\n\nThink of AI citation tracking as a prioritization discipline—more about choosing the right prompts than owning expensive software.",
+        "description": "On a tight budget, focus AI citation tracking on 10–20 high-intent prompts and manually test them in major AI tools, logging visibility and competitors in a spreadsheet. This low-cost approach still surfaces meaningful gaps and guides content and SEO improvements without requiring specialized software."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my GEO best practices are actually working and not just adding busywork?",
+  "description": "You’ll know GEO is working when your site is increasingly cited in AI answers for priority prompts and those citations drive qualified visits or conversions. Tr",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-geo-best-practices-are-actually-working-and-not-just-adding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my GEO best practices are actually working and not just adding busywork?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure GEO success, track how often your brand and pages are cited in AI answers and whether that visibility leads to qualified visits or conversions. Traffic alone isn’t enough; GEO is about influence in answers.\n\nYou can start with manual checks, then layer in more formal metrics as your program matures.\n\nKey factors:\n- Monitor citations and mentions in tools like ChatGPT, Perplexity, and Gemini.\n- Track changes in branded and non‑branded queries where you appear in answer boxes.\n- Measure downstream actions: signups, demos, or inquiries from AI‑driven sessions.\n- Watch sentiment in AI summaries—are you framed positively and accurately?\n\nIn practice, maintain a monthly log of priority prompts, noting whether your site appears, how it’s described, and any click‑throughs you can attribute. As volume grows, fold these into your analytics dashboards.\n\nOver time, GEO success looks like growing answer share‑of‑voice on key topics, not just more raw visits.",
+        "description": "You’ll know GEO is working when your site is increasingly cited in AI answers for priority prompts and those citations drive qualified visits or conversions. Track citations, answer‑box share‑of‑voice, and downstream actions instead of focusing only on traditional traffic metrics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

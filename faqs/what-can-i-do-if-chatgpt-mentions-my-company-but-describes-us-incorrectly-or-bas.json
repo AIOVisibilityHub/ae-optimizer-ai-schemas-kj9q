@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can I do if ChatGPT mentions my company but describes us incorrectly or based on old information?",
+  "description": "Fix inaccurate mentions by standardizing your name, description, and category across your website and all profiles, updating or removing outdated pages, and cor",
+  "url": "aeoptimizer.com/faq/what-can-i-do-if-chatgpt-mentions-my-company-but-describes-us-incorrectly-or-bas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can I do if ChatGPT mentions my company but describes us incorrectly or based on old information?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If ChatGPT is describing your company incorrectly, the fix is to clean up and standardize your public information, then update or remove confusing sources.\nModels rely heavily on what they see across the web.\n\n**Key factors**\n- Inconsistent names, descriptions, or categories across profiles.\n- Old pages or press releases that no longer match your focus.\n- Third‑party listings with incorrect details.\n- Lack of a single, clear \"source of truth\" page on your site.\n\nStart with an entity audit: list all places your brand appears, and align name, tagline, category, and basic facts everywhere.\nCreate a concise \"About\" page summarizing who you are now, and link to it from key profiles.\nOver time, clearer and more consistent signals help ChatGPT update how it talks about you.",
+        "description": "Fix inaccurate mentions by standardizing your name, description, and category across your website and all profiles, updating or removing outdated pages, and correcting third‑party listings. As the web footprint cleans up, ChatGPT has clearer signals to adjust how it describes you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

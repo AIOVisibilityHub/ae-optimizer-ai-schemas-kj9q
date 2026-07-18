@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my business is “ready” for AI visibility monitoring, or is it too early-stage?",
+  "description": "You’re ready for AI visibility monitoring once you have a live website, a clear product or service category, and buyers who use search or AI assistants to resea",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-my-business-is-ready-for-ai-visibility-monitoring-or-is-it-too",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my business is “ready” for AI visibility monitoring, or is it too early-stage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI visibility monitoring is most useful once your business has a consistent online footprint and depends on search or content-driven discovery. If buyers already use Google or AI assistants to find solutions like yours, you’re ready.\n\nYou don’t need massive traffic; you do need enough offers and content that visibility differences actually matter.\n\n**Key factors:**\n- Active website or product pages that AI can cite\n- Clear category fit where buyers ask “best X” or “compare X vs Y” questions\n- Existing search or content strategy (even basic)\n- Growth goals tied to inbound discovery, demos, or trials\n\nIf you’re pre-launch or still refining your offer, focus first on getting foundational content, product pages, and accurate business listings in place. Once that’s live, you can start monitoring AI visibility to see how assistants interpret and present your brand. Mature companies should layer visibility monitoring into existing SEO analytics.\n\nFor most digital-first businesses, the moment you care about search visibility is the moment AI visibility monitoring becomes relevant too.",
+        "description": "You’re ready for AI visibility monitoring once you have a live website, a clear product or service category, and buyers who use search or AI assistants to research solutions like yours. Very early-stage teams should first publish core content and listings, then start monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

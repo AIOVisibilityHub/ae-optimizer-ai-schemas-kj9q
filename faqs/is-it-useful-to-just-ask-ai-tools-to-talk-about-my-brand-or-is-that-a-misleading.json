@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it useful to just ask AI tools to talk about my brand, or is that a misleading way to test brand mentions?",
+  "description": "Directly asking AI to talk about your brand is a poor test of real visibility. Instead, use natural buyer prompts like “best tools for X” or “top companies in Y",
+  "url": "aeoptimizer.com/faq/is-it-useful-to-just-ask-ai-tools-to-talk-about-my-brand-or-is-that-a-misleading",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it useful to just ask AI tools to talk about my brand, or is that a misleading way to test brand mentions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Asking AI to recommend your own brand directly is unlikely to move the needle and can even reflect bias in testing; instead, you should test realistic buyer prompts.\nContext: AI systems are trained to respond neutrally and may downplay prompts that appear promotional or self-serving. What matters is how you show up when users ask natural questions in your category.\nKey factors:\n- Use “best X in Y” and “top tools for Z” type prompts, not “tell me about my brand.”\n- Test for both branded and unbranded queries.\n- Watch for how your brand is positioned relative to competitors.\n- Avoid changing prompts just to get a flattering answer; focus on realism.\nPractical guidance: Build a “question matrix” that mirrors buyer research, and use that for all AI testing so results reflect real behavior. Review outcomes with a critical eye toward accuracy and market fit, not ego.\nSoft positioning: Treat AI as a proxy for your market’s questions, not a tool to validate your own messaging in isolation.",
+        "description": "Directly asking AI to talk about your brand is a poor test of real visibility. Instead, use natural buyer prompts like “best tools for X” or “top companies in Y,” then see if and how your brand appears relative to competitors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

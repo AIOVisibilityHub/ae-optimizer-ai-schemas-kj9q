@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I adjust my content for voice and conversational generative AI search instead of just typed queries?",
+  "description": "Focus on natural-language, question-based content with short, clear answers that sound good when read aloud. Use FAQ sections, conversational headings, and conc",
+  "url": "aeoptimizer.com/faq/how-do-i-adjust-my-content-for-voice-and-conversational-generative-ai-search-ins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I adjust my content for voice and conversational generative AI search instead of just typed queries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare for voice and conversational search, write in natural language, structure content around full questions, and provide concise spoken-friendly answers followed by depth. Generative systems power many voice assistants, so the same optimizations apply.\n\nUsers increasingly ask full questions instead of typing short keywords. Your content should mirror how real people talk and ask for help.\n\nKey factors:\n- Use question-based headings and FAQ sections that match conversational phrasing\n- Keep primary answers within 20–60 words for easy reading and speaking\n- Avoid jargon where possible, or explain it plainly\n- Ensure your site is fast and mobile-friendly for follow-up clicks\n\nPractically, mine conversational prompts from customer calls, chat transcripts, and forums, then turn them into Q&A content. Read key answers aloud—if they sound awkward, revise.\n\nOptimizing for generative AI and conversational search simultaneously future-proofs your content strategy.",
+        "description": "Focus on natural-language, question-based content with short, clear answers that sound good when read aloud. Use FAQ sections, conversational headings, and concise 20–60 word responses, then add detail below. This aligns your pages with how voice and generative AI assistants process and deliver answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Once we start ranking in AI Overviews, do we need ongoing support, or is it a one‑and‑done project?",
+  "description": "It’s not one‑and‑done. AI Overviews change over time, so you need ongoing monitoring, content refreshes, and occasional structural and schema updates. A quarter",
+  "url": "aeoptimizer.com/faq/once-we-start-ranking-in-ai-overviews-do-we-need-ongoing-support-or-is-it-a-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Once we start ranking in AI Overviews, do we need ongoing support, or is it a one‑and‑done project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ongoing support matters because AI Overviews evolve, queries shift, and new competitors appear—so you’ll need continuous monitoring and content refreshes, not a one‑time “setup.” Treat AI Overview ranking as an ongoing program like normal SEO.\n\nStatic content and forgotten schema eventually fall behind fresher, more active sites. Regular updates signal to AI that your information stays current.\n\nKey factors:\n- Scheduled content reviews and fact checks\n- Monitoring AI Overview impressions and citations\n- Updating examples, prices, and recommendations\n- Expanding topic clusters as your offerings grow\n\nSet a quarterly cadence to refresh key pages, add new FAQs, and fix anything that’s outdated or underperforming. Use analytics to decide which queries deserve more attention.\n\nThis continuous care keeps your AI Overview presence resilient instead of relying on a short‑lived optimization spike.",
+        "description": "It’s not one‑and‑done. AI Overviews change over time, so you need ongoing monitoring, content refreshes, and occasional structural and schema updates. A quarterly review cycle helps you maintain and expand your visibility instead of slowly losing citations to fresher competitors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

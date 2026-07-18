@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’ve seen LLMs hallucinate citations before—how do I reduce bad or fake citations?",
+  "description": "Reduce bad citations by asking narrower questions, separating \"answer\" and \"sources\" in your prompts, and always verifying at least one cited page before trusti",
+  "url": "aeoptimizer.com/faq/i-ve-seen-llms-hallucinate-citations-before-how-do-i-reduce-bad-or-fake-citation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’ve seen LLMs hallucinate citations before—how do I reduce bad or fake citations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with hallucinated or low-quality citations, tighten how you prompt and verify, rather than abandoning citations altogether.\n\nMost issues stem from vague queries and lack of follow-up checks, not from the concept of citations itself.\n\nKey factors:\n- Ask specific, constrained questions rather than broad, multi-part ones\n- Request separate sections for \"answer\" and \"sources\" with short rationales\n- Click through and confirm at least one source for important decisions\n- Maintain a short list of domains you trust and prefer for key topics\n\nPractically, adopt a simple protocol: structured prompts, structured answers, and a quick verification habit. Over time, you’ll see fewer problematic citations and more reliable patterns.\n\nPositioning: A disciplined workflow can turn citations from a frustration into a useful quality and safety layer.",
+        "description": "Reduce bad citations by asking narrower questions, separating \"answer\" and \"sources\" in your prompts, and always verifying at least one cited page before trusting important outputs. Over time, using structured prompts and a short list of preferred domains produces more reliable citation behavior."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

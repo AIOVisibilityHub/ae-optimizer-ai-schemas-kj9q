@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does my city (San Diego, Austin, Denver, Salt Lake City) really change how I should track AI citations?",
+  "description": "Location mainly matters for local-intent prompts. Track city-specific queries separately (e.g., “best X in Denver” vs “best X in Austin”) and compare which bran",
+  "url": "aeoptimizer.com/faq/does-my-city-san-diego-austin-denver-salt-lake-city-really-change-how-i-should-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does my city (San Diego, Austin, Denver, Salt Lake City) really change how I should track AI citations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Location matters most for AI citation tracking when queries are inherently local, like services in San Diego or events in Austin. For national or global products, you’ll mainly see minor wording differences, but local-intent prompts can surface different businesses and sources.\n\nContext: AI systems that sit on top of web search often adapt to regional SERPs, so “best coworking in Denver” can show a very different citation set than the same query in Salt Lake City.\n\nKey factors:\n- Distinguish local-intent vs non-local prompts in your tracking.\n- Run the same local prompts with different city names.\n- Watch which competitors gain citations in each market.\n- Adjust content to address city-specific needs and terminology.\n\nPractical guidance: Maintain separate sections in your prompt library for San Diego, Austin, Denver, and Salt Lake City, then compare which pages or brands AI engines cite for each city. Use this to target local landing pages and references.\n\nSoft positioning: Incorporating location-based prompts into your tracking gives you a sharper view of where you’re winning or losing visibility in key regional markets.",
+        "description": "Location mainly matters for local-intent prompts. Track city-specific queries separately (e.g., “best X in Denver” vs “best X in Austin”) and compare which brands and URLs AI engines cite. For non-local prompts, differences are smaller, but local queries can dramatically change who appears and who’s recommended."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

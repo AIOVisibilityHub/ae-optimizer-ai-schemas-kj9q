@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can LLM citation tracking help if we barely have any documentation or content published yet?",
+  "description": "Yes. Track the core questions about your offering and see which external sites AI cites instead of you. That shows exactly which topics and formats you need to",
+  "url": "aeoptimizer.com/faq/can-llm-citation-tracking-help-if-we-barely-have-any-documentation-or-content-pu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can LLM citation tracking help if we barely have any documentation or content published yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Even without rich documentation, you can still run LLM citation tracking by leaning on whatever public content you have and using it to identify the biggest knowledge gaps AI currently fills from other sources. That reveals where to create new, better material.\n\nContext: Smaller or newer teams often worry they lack enough content to “deserve” citations. In reality, citation tracking can tell you *what* to write by showing which questions AI answers with third-party resources instead of yours.\n\nKey factors:\n- Track the queries closest to your offering.\n- Note which external sites LLMs cite for those questions.\n- Identify topics where you have no equivalent content.\n- Use findings as a content roadmap.\n\nPractical guidance: Start with 20–30 prompts reflecting your core value propositions and see which sources AI leans on. Then prioritize building clear, structured pages that can compete with those sources over time. \n\nSoft positioning: LLM citation tracking can be just as valuable as a content planning tool as it is a visibility measurement tool—especially when you’re still building out your documentation.",
+        "description": "Yes. Track the core questions about your offering and see which external sites AI cites instead of you. That shows exactly which topics and formats you need to create first, turning citation tracking into a practical content roadmap."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

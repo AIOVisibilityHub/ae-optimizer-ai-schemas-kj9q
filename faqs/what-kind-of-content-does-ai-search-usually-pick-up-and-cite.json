@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content does AI search usually pick up and cite?",
+  "description": "AI systems usually prefer direct answers, clear language, factual support, and structured pages. FAQ-style content with current information is easier to cite.",
+  "url": "aeoptimizer.com/faq/what-kind-of-content-does-ai-search-usually-pick-up-and-cite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content does AI search usually pick up and cite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI systems tend to favor content that answers a specific question directly, uses plain language, and contains factual details they can trust. Structured pages with clear headings, FAQs, and up-to-date information are easier for these systems to interpret.",
+        "description": "AI systems usually prefer direct answers, clear language, factual support, and structured pages. FAQ-style content with current information is easier to cite."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

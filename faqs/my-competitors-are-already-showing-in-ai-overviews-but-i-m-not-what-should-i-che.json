@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My competitors are already showing in AI Overviews, but I’m not—what should I check and fix first?",
+  "description": "First confirm you actually rank in the top 10 for those queries. If not, improve traditional SEO. Then add question‑based headings, short summary answers, and c",
+  "url": "aeoptimizer.com/faq/my-competitors-are-already-showing-in-ai-overviews-but-i-m-not-what-should-i-che",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My competitors are already showing in AI Overviews, but I’m not—what should I check and fix first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re not seeing your site in AI Overviews yet, start by verifying that you actually rank in the top 10 organically for those queries and that your content has clear, extractable answer blocks. Most “invisibility” problems come from weak rankings or vague content.\n\nAI Overviews rarely pull from page‑two or poorly structured pages. Even strong sites need targeted rewrites for question clarity and fast, mobile‑friendly performance.\n\nKey factors:\n- Current ranking position for target keywords\n- Lack of question‑based headings and summary answers\n- Missing or incorrect schema markup\n- Slow pages or poor mobile usability\n\nUse Search Console and a rank tracker to confirm where you stand, then prioritize rewriting a handful of pages with tight Q&A structure and valid FAQ/HowTo schema. Fix performance issues in parallel.\n\nInstead of assuming Google “ignores” you, treat this as a signal to sharpen relevance and authority around your chosen topics.",
+        "description": "First confirm you actually rank in the top 10 for those queries. If not, improve traditional SEO. Then add question‑based headings, short summary answers, and correct schema (FAQ, HowTo, Article) while fixing speed and mobile issues, so AI has clean passages to quote."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

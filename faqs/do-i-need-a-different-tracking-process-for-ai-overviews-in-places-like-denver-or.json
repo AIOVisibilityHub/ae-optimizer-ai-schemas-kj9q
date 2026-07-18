@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a different tracking process for AI Overviews in places like Denver or Austin compared to ChatGPT-style answers?",
+  "description": "Yes—track AI Overviews separately. Log whether an overview appears, which domains get clickable cards, and how prominently you’re shown. Use location-aware sett",
+  "url": "aeoptimizer.com/faq/do-i-need-a-different-tracking-process-for-ai-overviews-in-places-like-denver-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a different tracking process for AI Overviews in places like Denver or Austin compared to ChatGPT-style answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For AI search features like Google AI Overviews in Denver or Austin, you should track citations slightly differently from pure chatbots. Focus on whether an overview appears, which sites get clickable cards, and how prominently your brand is placed in the overall page layout.\n\nContext: AI Overviews sit inside traditional search results, so visibility depends both on the AI summary and the underlying SERP. Local settings and query wording can change which sites get surfaced.\n\nKey factors:\n- Log “AI Overview: yes/no” for each query.\n- Capture all cited domains and which have clickable links.\n- Screenshot full pages for visual context.\n- Test with location-aware settings and local wording.\n\nPractical guidance: For each Denver or Austin query, note whether an AI Overview appears, then expand it fully and record every brand with a link. Maintain separate tracking for chat answers vs AI Overviews so you see both types of visibility.\n\nSoft positioning: Treat AI Overviews as a distinct but related layer of AI visibility that requires its own structured tracking in key markets.",
+        "description": "Yes—track AI Overviews separately. Log whether an overview appears, which domains get clickable cards, and how prominently you’re shown. Use location-aware settings and local wording for Denver or Austin queries, and keep separate records for chat-style answers vs AI Overviews to understand both visibility layers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

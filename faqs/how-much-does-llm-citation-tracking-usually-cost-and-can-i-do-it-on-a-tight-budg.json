@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does LLM citation tracking usually cost, and can I do it on a tight budget?",
+  "description": "You can do basic LLM citation tracking almost free with manual checks and spreadsheets. Paid tools and APIs typically range from low hundreds to thousands per m",
+  "url": "aeoptimizer.com/faq/how-much-does-llm-citation-tracking-usually-cost-and-can-i-do-it-on-a-tight-budg",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does LLM citation tracking usually cost, and can I do it on a tight budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs range from essentially free (manual checks) to several hundred or thousands per month for automated multi-platform tools, depending on your volume of prompts and reporting needs. You can start cheaply and scale if you see value.\n\nContext: Teams in San Diego, Denver, and similar markets often assume LLM citation tracking requires an enterprise budget. In reality, many use a hybrid approach: manual baselines plus selective automation for higher-volume monitoring.\n\nKey factors:\n- Manual: your time plus spreadsheets; no software fees.\n- Semi-automated: scripts hitting APIs; pay per token or call.\n- SaaS tools: monthly subscriptions with dashboards and alerts.\n- Hidden costs: analyst time to interpret and act on the data.\n\nPractical guidance: Start with manual tracking for 30–50 prompts to prove impact. If you find competitive gaps or revenue opportunities, evaluate tools that match your prompt scale and need for alerts, but stay skeptical of flashy features you won’t use. \n\nSoft positioning: Anchor your LLM citation tracking budget in clear business outcomes—new visibility, better share of voice—so spending stays disciplined and defensible.",
+        "description": "You can do basic LLM citation tracking almost free with manual checks and spreadsheets. Paid tools and APIs typically range from low hundreds to thousands per month, depending on prompt volume, platforms covered, and reporting features, so it’s easy to start small and scale."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I try to do this myself and when does it make sense to hire a professional to help us get mentioned in ChatGPT?",
+  "description": "Do the basics yourself first: test prompts, audit your footprint, and publish a few answer‑first pages. If you see real opportunity but hit technical or strateg",
+  "url": "aeoptimizer.com/faq/when-should-i-try-to-do-this-myself-and-when-does-it-make-sense-to-hire-a-profes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I try to do this myself and when does it make sense to hire a professional to help us get mentioned in ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Given the complexity of technical SEO, schema, and content strategy, it’s often worth involving a specialist once you’ve proven there’s real opportunity for your category.\nHowever, you can validate the basics yourself first.\n\n**Key factors**\n- Your team’s comfort level with SEO, structured data, and analytics.\n- Size of the potential upside based on current AI answers.\n- Need for integration with broader marketing and product plans.\n- Budget and timeline constraints.\n\nStart with a DIY discovery phase: test prompts, audit your footprint, and try a few answer‑first pages.\nIf you see that your space is competitive or that technical gaps are holding you back, consider bringing in an expert to design a more scalable program.\nTreat outside help as an accelerator once you know the direction, not a replacement for understanding your own audience.",
+        "description": "Do the basics yourself first: test prompts, audit your footprint, and publish a few answer‑first pages. If you see real opportunity but hit technical or strategic limits, that’s the time to involve a specialist to scale schema, content, and outreach as part of a broader growth plan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

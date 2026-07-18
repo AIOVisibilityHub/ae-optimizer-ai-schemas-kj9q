@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can we still rank in AI Overviews if we’re competing against huge tech brands in cities like Austin, Denver, or Seattle?",
+  "description": "Focus on owning narrow, high‑intent sub‑topics instead of broad queries. Define a specific criterion you want to be known for, build deep Q&A content and proof",
+  "url": "aeoptimizer.com/faq/how-can-we-still-rank-in-ai-overviews-if-we-re-competing-against-huge-tech-brand",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can we still rank in AI Overviews if we’re competing against huge tech brands in cities like Austin, Denver, or Seattle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In competitive tech hubs like San Francisco, Austin, Denver, and Seattle, you can still rank in AI Overviews by owning specific sub‑topics or criteria instead of broad, saturated terms. Niche depth beats general coverage.\n\nTrying to outrank tech giants on generic queries is unlikely; but specializing in a well‑defined angle, use case, or audience gives AI a reason to choose you.\n\nKey factors:\n- Narrow, high‑intent topics with clear business relevance\n- Consistent language and positioning around that criterion\n- Evidence that you truly specialize (case studies, data)\n- Topic clusters reinforcing your niche authority\n\nDefine 1–3 criteria you want to be known for (e.g., “AI overview optimization for mid‑size SaaS”) and build multiple pages around them with strong Q&A content. Make your differentiators and proof easy to see.\n\nThis “own a niche” approach works particularly well in crowded markets where broad authority is hard to win.",
+        "description": "Focus on owning narrow, high‑intent sub‑topics instead of broad queries. Define a specific criterion you want to be known for, build deep Q&A content and proof around it, and use consistent positioning. Niche expertise gives AI a reason to cite you over bigger generalist brands."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

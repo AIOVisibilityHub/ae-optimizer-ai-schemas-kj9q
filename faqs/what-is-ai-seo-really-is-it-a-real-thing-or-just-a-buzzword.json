@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI SEO, really? Is it a real thing or just a buzzword?",
+  "description": "AI SEO usually means optimizing content so AI search systems can understand it and cite it. It is not a separate magic channel; it still depends on solid SEO, c",
+  "url": "aeoptimizer.com/faq/what-is-ai-seo-really-is-it-a-real-thing-or-just-a-buzzword",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI SEO, really? Is it a real thing or just a buzzword?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO is the practice of optimizing your site so AI-powered search systems can understand, trust, and cite your content when answering user questions. In practice, it means combining traditional SEO with clearer answers, stronger structure, and better source signals rather than trying to “rank” in a separate AI-only channel.",
+        "description": "AI SEO usually means optimizing content so AI search systems can understand it and cite it. It is not a separate magic channel; it still depends on solid SEO, clear answers, and trustworthy source signals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

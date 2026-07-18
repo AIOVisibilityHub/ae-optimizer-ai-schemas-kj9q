@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’ve been burned by SEO agencies before—how should we approach AI Overview optimization differently this time?",
+  "description": "Treat AI Overview optimization as a structured, 90‑day experiment: define specific target queries, track page‑one rankings and AI citations in Search Console, d",
+  "url": "aeoptimizer.com/faq/we-ve-been-burned-by-seo-agencies-before-how-should-we-approach-ai-overview-opti",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’ve been burned by SEO agencies before—how should we approach AI Overview optimization differently this time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had bad experiences with generic SEO vendors, approach AI Overview optimization with a clearer, outcome‑based plan: pick specific queries, demand transparent changes, and monitor concrete metrics like page‑one rankings and AI citations.\n\nMany disappointments come from vague promises and no clear connection between work done and results. AI Overview optimization should feel like a structured experiment, not a black box.\n\nKey factors:\n- Define target queries and success metrics upfront\n- Require detailed content and technical change logs\n- Use Search Console data to track impressions and citations\n- Insist on quality over quantity of content\n\nWhether you work with a specialist or in‑house, set a 90‑day roadmap: audit, implement Q&A and schema changes, then measure ranking and overview visibility changes. Review progress at fixed intervals instead of hoping.\n\nA disciplined approach turns past frustration into a more controllable, data‑driven process.",
+        "description": "Treat AI Overview optimization as a structured, 90‑day experiment: define specific target queries, track page‑one rankings and AI citations in Search Console, demand transparent content and technical changes, and focus on a few high‑impact pages instead of vague, site‑wide promises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

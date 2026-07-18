@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I tell the difference between a real AI citation of my site and just a casual brand mention?",
+  "description": "Treat citations as explicit links or clear attribution to your domain or content, and treat mentions as references to your name without a URL or source credit.",
+  "url": "aeoptimizer.com/faq/how-do-i-tell-the-difference-between-a-real-ai-citation-of-my-site-and-just-a-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I tell the difference between a real AI citation of my site and just a casual brand mention?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To distinguish a genuine AI citation from a simple mention, look for explicit links or attribution to your domain or content. A citation usually includes your URL or clearly credits your brand as the source of a specific statement, while a mention might just reference your name in passing.\n\nContext: For tracking, you should treat linked citations, attributed sources, and recommendations separately, because each carries different visibility and traffic potential.\n\nKey factors:\n- Linked URL cards or clickable references to your site.\n- Text attributing a statement directly to your brand or resource.\n- Inclusion in “top” or “recommended” lists with clear association.\n- Plain mentions of your name without links or attribution.\n\nPractical guidance: In your logging sheet, use separate columns for linked citation, attributed source, recommendation, and mention-only. This lets you see not just whether you appear, but how strong each appearance is.\n\nSoft positioning: A more nuanced classification prevents you from overestimating weak mentions and underestimating high-value, linked citations.",
+        "description": "Treat citations as explicit links or clear attribution to your domain or content, and treat mentions as references to your name without a URL or source credit. In your tracking, log linked citations, attributed sources, recommendations, and mention-only separately to understand the real strength of each appearance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

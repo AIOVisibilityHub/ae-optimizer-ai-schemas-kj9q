@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I convince stakeholders that AI visibility is worth prioritizing and not just hype?",
+  "description": "Show stakeholders concrete AI answers where competitors are recommended and your brand is missing or misdescribed. Combine those examples with simple share‑of‑v",
+  "url": "aeoptimizer.com/faq/how-do-i-convince-stakeholders-that-ai-visibility-is-worth-prioritizing-and-not",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I convince stakeholders that AI visibility is worth prioritizing and not just hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your leadership doesn’t believe AI visibility matters, you’ll need to show concrete examples of missed opportunities and competitive positioning.\nThe goal is to turn abstract hype into specific business risk.\n\n**Key factors**\n- Side‑by‑side **AI answers** where competitors are recommended and you’re absent\n- Examples of **inaccurate or outdated** descriptions of your brand\n- Basic **share-of-voice metrics** across key prompts\n- Anecdotes from sales or support referencing AI tools\n\n**Practical guidance**\nCompile a short internal briefing with screenshots of AI answers to your top buyer questions, highlighting where competitors dominate or narratives are wrong.\nPair that with a simple estimate of potential impact on discovery and leads.\nExecutive support usually follows once they can see the gap in concrete terms.",
+        "description": "Show stakeholders concrete AI answers where competitors are recommended and your brand is missing or misdescribed. Combine those examples with simple share‑of‑voice metrics and real sales anecdotes. When leadership sees specific, high-intent queries where you’re invisible, AI visibility stops looking like hype."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

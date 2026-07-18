@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need to track sentiment in AI citations, or is it enough just to know I’m mentioned?",
+  "description": "You should track sentiment, not just presence. Log whether AI answers describe you positively, neutrally, or negatively, and compare that to competitors. Persis",
+  "url": "aeoptimizer.com/faq/do-i-really-need-to-track-sentiment-in-ai-citations-or-is-it-enough-just-to-know",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need to track sentiment in AI citations, or is it enough just to know I’m mentioned?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sentiment in AI citations matters because negative or lukewarm references can quietly hurt your brand. When logging citations, note whether the answer describes you positively, neutrally, or critically, especially in comparison or “best tools” prompts.\n\nContext: AI engines increasingly summarize pros and cons. Being cited with caveats or criticism can influence user perception as much as being absent entirely.\n\nKey factors:\n- Look for adjectives and qualifiers around your brand.\n- Note whether you’re framed as recommended, optional, or problematic.\n- Compare sentiment against how competitors are described.\n- Track changes in sentiment over time for key prompts.\n\nPractical guidance: Add a simple sentiment column (positive/neutral/negative) to your log and use short notes to capture key phrases. If you see persistent negative framing, review what sources and reviews might be driving it and address them.\n\nSoft positioning: Monitoring sentiment alongside citation presence gives you a fuller picture of how AI engines shape user expectations about your brand.",
+        "description": "You should track sentiment, not just presence. Log whether AI answers describe you positively, neutrally, or negatively, and compare that to competitors. Persistent negative or lukewarm framing can quietly hurt you, so monitor sentiment and address underlying sources like outdated content or poor reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

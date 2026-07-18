@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want my content to show up in AI search answers?",
+  "description": "Start with priority pages, put the direct answer near the top, and add factual supporting details. Clear Q&A structure helps AI systems extract and cite your co",
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-want-my-content-to-show-up-in-ai-search-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want my content to show up in AI search answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with your highest-value pages and make the main answer visible near the top, then support it with factual details, examples, and clear headings. Pages that directly answer a question and use an FAQ-style structure are easier for AI systems to parse and retrieve.",
+        "description": "Start with priority pages, put the direct answer near the top, and add factual supporting details. Clear Q&A structure helps AI systems extract and cite your content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the biggest risks if we ignore AI visibility or handle it badly?",
+  "description": "If you ignore AI visibility, AI tools may misdescribe your services, default to recommending competitors, or surface outdated or negative information. Regular a",
+  "url": "aeoptimizer.com/faq/what-are-the-biggest-risks-if-we-ignore-ai-visibility-or-handle-it-badly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the biggest risks if we ignore AI visibility or handle it badly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Major risks include AI tools misdescribing your services, recommending competitors instead of you, or amplifying outdated or negative information.\nAnother risk is overreacting without verifying what’s actually driving buyer behavior.\n\n**Key factors**\n- **Inaccurate descriptions** of your offerings or pricing\n- Competitors framed as the **default or safer** option\n- Old branding, leadership, or product details lingering in answers\n- AI hallucinations that become part of buyer perception\n\n**Practical guidance**\nUse regular audits to catch inaccurate or harmful narratives early, then correct them with updated content and authoritative third‑party clarifications.\nPair AI visibility tracking with real-world signals (lead quality, sales conversations) to avoid chasing cosmetic issues.\nTreat AI visibility as reputational risk management as much as a growth lever.",
+        "description": "If you ignore AI visibility, AI tools may misdescribe your services, default to recommending competitors, or surface outdated or negative information. Regular audits and content/authority fixes help you catch and correct these issues before they quietly reshape buyer perception of your brand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

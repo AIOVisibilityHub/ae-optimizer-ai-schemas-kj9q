@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can I do if LLM citation tracking shows that AI models are describing my brand incorrectly or using outdated info?",
+  "description": "You can’t directly rewrite AI training, but you can fix the sources it relies on. Update and clarify your own site, clean up outdated messaging, review key thir",
+  "url": "aeoptimizer.com/faq/what-can-i-do-if-llm-citation-tracking-shows-that-ai-models-are-describing-my-br",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can I do if LLM citation tracking shows that AI models are describing my brand incorrectly or using outdated info?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If LLMs give inaccurate or outdated descriptions of your brand, treat that as a content and messaging issue to fix, then monitor whether AI responses update. You can’t directly “edit” their training, but you can improve the inputs they rely on.\n\nContext: Brands in fast-moving spaces often see stale descriptions in AI answers. These usually reflect old web content, third-party articles, or unclear messaging rather than malice. Citation tracking helps you spot the worst examples.\n\nKey factors:\n- Audit your own site for conflicting or outdated language.\n- Check top third-party pages that mention you.\n- Ensure new positioning is clear, consistent, and detailed.\n- Re-run key prompts after major content updates.\n\nPractical guidance: Create a short “AI brief” page or FAQ that plainly explains what you do, who you serve, and what’s changed recently, then reinforce that across product pages and docs. Track whether AI starts quoting or citing those clearer explanations. \n\nSoft positioning: Use mis-descriptions from LLM citation tracking as a feedback loop to strengthen your public narrative, not just as something to complain about.",
+        "description": "You can’t directly rewrite AI training, but you can fix the sources it relies on. Update and clarify your own site, clean up outdated messaging, review key third-party pages, and publish a clear “what we do” narrative, then re-run tracked prompts to see if answers improve."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

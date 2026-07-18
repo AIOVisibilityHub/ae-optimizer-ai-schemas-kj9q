@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if more brand mentions in AI are actually driving leads or sales, and not just vanity metrics?",
+  "description": "Combine AI prompt tracking with web analytics and customer feedback. Watch whether increases in brand mentions for high‑intent prompts align with more relevant",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-more-brand-mentions-in-ai-are-actually-driving-leads-or-sales-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if more brand mentions in AI are actually driving leads or sales, and not just vanity metrics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’ll need basic analytics, prompt tracking data, and customer feedback to connect AI brand mentions to real business impact.\nContext: AI visibility is useful only if it influences awareness, consideration, and conversions. That requires linking changes in mentions to traffic, leads, and buyer comments about how they discovered you.\nKey factors:\n- Track mention frequency for specific prompts.\n- Monitor site traffic, signups, or demo requests around related topics.\n- Ask new customers how they researched and whether they used AI tools.\n- Look for correlations, not perfect attribution.\nPractical guidance: When you see a jump in AI mentions for a high‑intent prompt, note any concurrent shifts in relevant page traffic or inquiries. Over time, this builds a directional picture of which AI visibility gains are worth doubling down on.\nSoft positioning: Treat AI as one touchpoint in a multi‑channel journey and measure it with that nuance in mind.",
+        "description": "Combine AI prompt tracking with web analytics and customer feedback. Watch whether increases in brand mentions for high‑intent prompts align with more relevant traffic or inquiries, and ask buyers if they used AI tools in their research to validate impact beyond vanity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

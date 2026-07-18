@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If my company is distributed across cities like Denver and Salt Lake City, does that affect how ChatGPT decides to mention us?",
+  "description": "Distributed locations don’t reduce your chances. Clearly state where you operate and build both strong category content and, where relevant, city‑specific pages",
+  "url": "aeoptimizer.com/faq/if-my-company-is-distributed-across-cities-like-denver-and-salt-lake-city-does-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If my company is distributed across cities like Denver and Salt Lake City, does that affect how ChatGPT decides to mention us?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Being remote or distributed doesn’t hurt your chances; what matters is how clearly you present your offering and any service areas you care about.\nLocation only becomes a factor for local or geo‑aware prompts.\n\n**Key factors**\n- Clear statement of where you operate or ship, if relevant.\n- Consistent country/region info in profiles and listings.\n- Local landing pages only if you truly serve those areas.\n- Focus on category authority for non‑local queries.\n\nIf you serve multiple cities like Denver and Salt Lake City, create focused pages for each that explain what you do there, plus broad category pages that aren’t tied to geography.\nAvoid generic \"everywhere\" claims and be precise about real coverage.\nThis helps ChatGPT recommend you accurately both locally and globally.",
+        "description": "Distributed locations don’t reduce your chances. Clearly state where you operate and build both strong category content and, where relevant, city‑specific pages (e.g., Denver, Salt Lake City). ChatGPT uses that structure to decide when to surface you for local versus general queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

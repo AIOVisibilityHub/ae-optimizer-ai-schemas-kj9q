@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI tools never seem to cite my site, even after basic GEO work?",
+  "description": "If you’re not getting cited, study the pages that do appear for your key prompts and upgrade your content to match or exceed their structure, depth, and clarity",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-tools-never-seem-to-cite-my-site-even-after-basic-geo-wor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI tools never seem to cite my site, even after basic GEO work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If generative engines aren’t citing you yet, treat it as feedback that your content isn’t the easiest or most trusted answer source—yet. You can systematically close that gap with audits, re‑structuring, and schema.\n\nAbsence today doesn’t mean you’re locked out; it just means you have work to do.\n\nKey factors:\n- Compare top AI answers on your topics with your pages: structure, depth, and clarity.\n- Identify missing formats (FAQs, how‑tos, comparisons) where competitors excel.\n- Strengthen entity signals: Organization schema, author bios, and external references.\n- Refresh outdated content and fill holes where common follow‑up questions aren’t answered.\n\nBuild a shortlist of 10–15 prompts where you want visibility and optimize related pages aggressively for GEO. Re‑test every few weeks to track progress.\n\nOver time, methodical improvements often turn “not cited at all” into regular appearances in answer snippets.",
+        "description": "If you’re not getting cited, study the pages that do appear for your key prompts and upgrade your content to match or exceed their structure, depth, and clarity. Add FAQs, how‑tos, schema, stronger author signals, and fresher data, then retest regularly to see if citations improve."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

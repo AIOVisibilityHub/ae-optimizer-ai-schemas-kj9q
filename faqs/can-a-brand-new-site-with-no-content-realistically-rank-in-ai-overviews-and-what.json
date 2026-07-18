@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a brand‑new site with no content realistically rank in AI Overviews, and what’s the process?",
+  "description": "Yes, but you must first earn organic rankings. Start by building a focused content library—pillar guides plus FAQs and how‑tos—with question‑based headings, con",
+  "url": "aeoptimizer.com/faq/can-a-brand-new-site-with-no-content-realistically-rank-in-ai-overviews-and-what",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a brand‑new site with no content realistically rank in AI Overviews, and what’s the process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have no existing content, you can still aim for AI Overviews by building a small but strong library of question‑driven pages around one or two core topics. You’ll need to earn initial rankings first, then refine for AI.\n\nStarting from scratch is slower, but you also avoid legacy content issues. A clean, well‑structured site can become a credible source in 3–6 months with consistent effort.\n\nKey factors:\n- Choose a narrow niche you can cover deeply\n- Create pillar guides plus supporting FAQs and how‑tos\n- Use question‑based headings from day one\n- Implement schema and fast, mobile‑friendly design\n\nPlan a content roadmap of 15–30 pages around your main topic, each laser‑focused on a real question users ask. Keep answers short, clear, and practical, then expand with detail below.\n\nWith no baggage, you’re free to engineer the entire site for AI Overviews from the ground up.",
+        "description": "Yes, but you must first earn organic rankings. Start by building a focused content library—pillar guides plus FAQs and how‑tos—with question‑based headings, concise answers, schema, and strong technical SEO. Over 3–6 months, this can make you eligible for AI Overview citations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

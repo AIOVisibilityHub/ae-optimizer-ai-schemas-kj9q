@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the actual step‑by‑step process to get my brand showing up in ChatGPT answers?",
+  "description": "Define a set of real buyer prompts, run them in ChatGPT, log which sources are cited, then build answer‑first content and relationships that get your brand into",
+  "url": "aeoptimizer.com/faq/what-s-the-actual-step-by-step-process-to-get-my-brand-showing-up-in-chatgpt-ans",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the actual step‑by‑step process to get my brand showing up in ChatGPT answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The basic process is: find the questions you care about, see which sources ChatGPT cites now, then build content and relationships that get you into that citation set.\nThink of it like SEO for AI answers, with extra focus on structured data and consensus.\n\n**Key factors**\n- Define 15–20 high‑value prompts your buyers actually ask.\n- Run each in ChatGPT and note every cited source.\n- Create better, answer‑first content targeting those questions.\n- Get mentioned on sites ChatGPT already cites (guest posts, updates, collaborations).\n\nRepeat this cycle monthly: re‑run your prompt set, track whether you’re appearing as a source or mention, and adjust your content and outreach accordingly.\nOver time, you build enough presence and authority that your brand naturally shows up in responses.\nTreat it like an ongoing optimization loop, not a one‑time checklist.",
+        "description": "Define a set of real buyer prompts, run them in ChatGPT, log which sources are cited, then build answer‑first content and relationships that get your brand into those sources. Re‑test monthly, refine content, add schema, and grow third‑party mentions until you consistently appear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

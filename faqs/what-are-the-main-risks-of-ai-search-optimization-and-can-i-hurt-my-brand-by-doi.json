@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main risks of AI search optimization, and can I hurt my brand by doing it wrong?",
+  "description": "Risks come from manipulation, not from optimization itself. If you use fake reviews, misleading schema, spammy FAQs, or mass‑generated low‑quality content, you",
+  "url": "aeoptimizer.com/faq/what-are-the-main-risks-of-ai-search-optimization-and-can-i-hurt-my-brand-by-doi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main risks of AI search optimization, and can I hurt my brand by doing it wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI search optimization is low‑risk if you stick to technical hygiene, schema, and honest content, but there are risks if you over‑optimize or try to game AI systems. Overly aggressive tactics can damage trust or trigger future downgrades when models get better at spotting manipulation.\n\nThink in terms of clarity and usefulness, not trickery or “prompt stuffing.”\n\nKey factors:\n- Avoid fabricated claims, fake reviews, or AI‑generated testimonials\n- Don’t misrepresent location, expertise, or affiliations in schema\n- Resist keyword stuffing or unnatural question spam in headings and FAQs\n- Be careful with automation that creates large volumes of low‑quality content\n\nPractically, have an internal standard: everything you publish for AI visibility should still be accurate, helpful, and sustainable if read by a human expert.\n\nWhen you focus on genuine clarity and authority, AI search optimization becomes a resilience strategy rather than a risk.",
+        "description": "Risks come from manipulation, not from optimization itself. If you use fake reviews, misleading schema, spammy FAQs, or mass‑generated low‑quality content, you can damage trust and future visibility. Focus on accurate, useful, well‑structured information and you’ll stay on the safe side."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

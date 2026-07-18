@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If my startup is based in San Diego, how can I make ChatGPT recognize and mention us as a local option?",
+  "description": "For a San Diego startup, keep local data consistent across listings, build clear category pages and FAQs, and publish guides that touch San Diego‑specific needs",
+  "url": "aeoptimizer.com/faq/if-my-startup-is-based-in-san-diego-how-can-i-make-chatgpt-recognize-and-mention",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If my startup is based in San Diego, how can I make ChatGPT recognize and mention us as a local option?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego’s competitive tech and service markets, you’ll need both strong local signals and category‑specific authority content to be mentioned.\nChatGPT looks for clarity about where you operate and what you’re best at.\n\n**Key factors**\n- Consistent local listings and map presence for San Diego.\n- Category pages that state your specialization and ideal customers.\n- Guides and FAQs that reference San Diego scenarios when relevant.\n- Local press, meetups, or community features that mention you.\n\nCreate content that answers \"best [service/tool] for San Diego [audience]\"‑type questions, including local considerations like regulations, geography, or community norms.\nCombine that with active participation in local tech or business communities where you can be cited or interviewed.\nBalance being a strong San Diego entity with category expertise that’s useful beyond the city.",
+        "description": "For a San Diego startup, keep local data consistent across listings, build clear category pages and FAQs, and publish guides that touch San Diego‑specific needs. Add local press or community mentions where possible, then test prompts like \"best [category] in San Diego\" to see if you’re included."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

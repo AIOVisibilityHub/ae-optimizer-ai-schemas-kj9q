@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We’re based in Salt Lake City—how do we make sure AI assistants surface us when people ask city-specific questions in our niche?",
+  "description": "In Salt Lake City, build content that reflects local culture, environment, and industries, and explicitly mention the city where relevant. Mark your location in",
+  "url": "aeoptimizer.com/faq/we-re-based-in-salt-lake-city-how-do-we-make-sure-ai-assistants-surface-us-when",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We’re based in Salt Lake City—how do we make sure AI assistants surface us when people ask city-specific questions in our niche?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you operate in Salt Lake City, your AI citation strategy should account for regional culture, industries, and environmental factors that shape local questions.\n\nAI answers that include “Salt Lake City” often favor sources that speak directly to the city’s unique context and constraints.\n\nKey factors:\n- Address local considerations such as weather, outdoor lifestyle, and dominant sectors relevant to your niche.\n- Use Salt Lake City and nearby area names naturally in examples and scenarios.\n- Clarify your Salt Lake City presence in structured data and on key pages.\n- Create city-specific guides that answer “in Salt Lake City” variations of your core questions.\n\nTest a handful of AI queries with “Salt Lake City” and compare your pages to those being cited.\nYou’re aiming to be the most context-aware local explainer in your category for that city.",
+        "description": "In Salt Lake City, build content that reflects local culture, environment, and industries, and explicitly mention the city where relevant. Mark your location in schema, publish Salt Lake City–specific guides and FAQs, and test “in Salt Lake City” AI queries to refine your pages against cited competitors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

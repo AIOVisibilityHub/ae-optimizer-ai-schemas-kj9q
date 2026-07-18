@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if my LLM citation tracking results seem all over the place and I can’t tell what’s noise vs. signal?",
+  "description": "Standardize your method: use identical prompts each run, keep LLM settings consistent, log date/time, and analyze trends per platform. Most “randomness” comes f",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-my-llm-citation-tracking-results-seem-all-over-the-place-and",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my LLM citation tracking results seem all over the place and I can’t tell what’s noise vs. signal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your citation data is noisy or inconsistent, tighten your methodology: fix your prompt set, standardize how you run queries, and separate platform differences from genuine trend changes. Inconsistent inputs create inconsistent outputs.\n\nContext: AI answers vary with small wording changes, settings, and timing. Teams often mistake those fluctuations for meaningful movement when they’re really just measurement drift.\n\nKey factors:\n- Use the exact same prompts each run.\n- Keep LLM settings consistent (web on/off, model versions).\n- Note the date and time of each batch run.\n- Analyze trends within each platform before cross-comparing.\n\nPractical guidance: Lock your prompt corpus and tracking cadence for at least 6–8 weeks, then review data. Only change prompts or platforms between “phases,” not mid-stream, so you can trust trend lines. \n\nSoft positioning: A disciplined approach turns LLM citation tracking from frustrating noise into a reliable signal you can confidently use for decisions.",
+        "description": "Standardize your method: use identical prompts each run, keep LLM settings consistent, log date/time, and analyze trends per platform. Most “randomness” comes from changing inputs mid-stream, so locking your process makes patterns much clearer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if an LLM cites the wrong source or clearly misattributes information?",
+  "description": "If an LLM citation doesn’t actually support the claim, stop and verify the information directly. Check the page, ask the model to reconcile the mismatch, and re",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-an-llm-cites-the-wrong-source-or-clearly-misattributes-infor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if an LLM cites the wrong source or clearly misattributes information?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If an LLM cites the wrong source or misattributes information, treat the answer as suspect and verify against primary material.\n\nMis-citations can result from noisy search, ambiguous queries, or the model’s ranking errors. They’re rare for simple facts, but more common in niche or fast-changing topics.\n\nKey factors:\n- Check whether the cited page truly supports the quoted claim\n- Watch for outdated versions, similar but not identical scenarios\n- Consider that the right source may exist but not be ranked or crawled\n- Correct the prompt and ask the model to re‑evaluate or re‑cite\n\nPractically, click through every important citation; if the page doesn’t match the claim, ask the LLM to explain the mismatch and request updated or alternative sources. Don’t assume a cited link equals correctness.\n\nPositioning: Treat mis-citations as a debugging signal—they show where the ecosystem or your own content needs clarification or better structure.",
+        "description": "If an LLM citation doesn’t actually support the claim, stop and verify the information directly. Check the page, ask the model to reconcile the mismatch, and request alternative sources. Mis-citations mean the answer is unreliable until you confirm it against primary evidence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

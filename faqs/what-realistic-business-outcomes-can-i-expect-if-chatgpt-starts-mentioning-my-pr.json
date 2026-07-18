@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What realistic business outcomes can I expect if ChatGPT starts mentioning my products or services?",
+  "description": "If ChatGPT starts mentioning you, expect more discovery during early research, inclusion in comparison answers, a lift in perceived authority, and some referral",
+  "url": "aeoptimizer.com/faq/what-realistic-business-outcomes-can-i-expect-if-chatgpt-starts-mentioning-my-pr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What realistic business outcomes can I expect if ChatGPT starts mentioning my products or services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Getting mentioned in ChatGPT can increase qualified traffic, brand trust, and inclusion in early‑stage research for your category, but it’s not a magic sales switch.\nThink of it as an additional discovery layer on top of search and social.\n\n**Key factors**\n- More appearances in comparison and recommendation style answers.\n- Higher perceived authority when models cite you as a source.\n- Potential referral traffic from AI‑powered experiences that link out.\n- Indirect impact on partnerships and PR when people see you cited.\n\nMeasure outcomes by tracking organic conversions, monitoring referral patterns, and periodically sampling ChatGPT answers for brand presence.\nCombine AI visibility with strong landing pages and nurture journeys to capture value.\nUse expected outcomes to prioritize where and how much to invest.",
+        "description": "If ChatGPT starts mentioning you, expect more discovery during early research, inclusion in comparison answers, a lift in perceived authority, and some referral traffic from AI‑powered experiences. It’s a visibility and trust boost, not a standalone growth engine, so pair it with solid funnels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

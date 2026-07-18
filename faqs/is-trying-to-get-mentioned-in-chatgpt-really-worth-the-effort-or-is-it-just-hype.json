@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is trying to get mentioned in ChatGPT really worth the effort, or is it just hype I’ll regret chasing?",
+  "description": "It can be worth it, but only as part of a broader strategy. You can’t control or buy ChatGPT mentions, competition is real, and results are slow. Treat it as an",
+  "url": "aeoptimizer.com/faq/is-trying-to-get-mentioned-in-chatgpt-really-worth-the-effort-or-is-it-just-hype",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is trying to get mentioned in ChatGPT really worth the effort, or is it just hype I’ll regret chasing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There’s no guarantee you’ll be mentioned, and results may feel slow or inconsistent, so it’s valid to be skeptical.\nThe opportunity is real, but it works best as a byproduct of broader digital strength, not a standalone tactic.\n\n**Key factors**\n- No direct control over ChatGPT rankings or refresh cycles.\n- Heavy competition in some categories from incumbents and \"anchor\" brands.\n- Dependency on third‑party platforms you don’t own.\n- Need for ongoing monitoring and iteration.\n\nBefore committing, run a discovery phase: test prompts relevant to your category, map which brands and sources show up, and estimate what it would take to compete.\nIf the space is crowded, aim first for niche or long‑tail queries where you can credibly become the best answer.\nPosition this internally as an experiment tied to existing SEO and content work, not a new silver bullet.",
+        "description": "It can be worth it, but only as part of a broader strategy. You can’t control or buy ChatGPT mentions, competition is real, and results are slow. Treat it as an extension of strong SEO and content—focusing on being the best answer for specific questions—rather than a standalone fad."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

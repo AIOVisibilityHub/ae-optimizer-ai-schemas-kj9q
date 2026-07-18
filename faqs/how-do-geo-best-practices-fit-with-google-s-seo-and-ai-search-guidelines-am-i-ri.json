@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do GEO best practices fit with Google’s SEO and AI search guidelines—am I risking penalties?",
+  "description": "You’re not risking penalties if you treat GEO as an extension of strong, people‑first SEO. Keep pages crawlable and high‑quality, use schema and clear structure",
+  "url": "aeoptimizer.com/faq/how-do-geo-best-practices-fit-with-google-s-seo-and-ai-search-guidelines-am-i-ri",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do GEO best practices fit with Google’s SEO and AI search guidelines—am I risking penalties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google’s own guidance is that you should focus on strong, people‑first SEO and avoid chasing gimmicky GEO hacks. GEO works best as an extension of solid SEO, not a replacement for it.\n\nGenerative features in Google Search still rely heavily on the same technical and content quality signals as traditional search.\n\nKey factors:\n- Maintain crawlable, fast, mobile‑friendly pages with clean HTML.\n- Create unique, expert‑driven content instead of generic AI text.\n- Use schema and clear structure to assist both classic and generative search.\n- Monitor performance in Search Console’s generative AI reports rather than guessing.\n\nTreat GEO as a lens for restructuring and enriching existing SEO content, not as an excuse to ignore fundamentals like internal linking, title tags, and original insights. When you keep SEO strong and layer GEO best practices on top, you’re aligned with Google’s recommendations.\n\nThis alignment reduces risk of chasing fads that won’t be supported long‑term.",
+        "description": "You’re not risking penalties if you treat GEO as an extension of strong, people‑first SEO. Keep pages crawlable and high‑quality, use schema and clear structure, and avoid gimmicks or thin AI‑generated content. GEO should support Google’s guidelines, not circumvent them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

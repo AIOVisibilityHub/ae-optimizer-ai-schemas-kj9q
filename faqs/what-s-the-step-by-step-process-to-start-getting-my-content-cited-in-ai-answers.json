@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the step-by-step process to start getting my content cited in AI answers instead of just hoping it happens?",
+  "description": "The process is: audit AI answers for your key questions, study which pages get cited, upgrade your own content to match AI-friendly structures, add schema and t",
+  "url": "aeoptimizer.com/faq/what-s-the-step-by-step-process-to-start-getting-my-content-cited-in-ai-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the step-by-step process to start getting my content cited in AI answers instead of just hoping it happens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The practical process is: audit current AI answers, compare cited pages to yours, then systematically update your content and structure to match AI-friendly patterns.\n\nYou’re not guessing; you’re reverse-engineering what AI tools already reward and aligning your site with those patterns while adding your unique expertise.\n\nKey factors:\n- Step 1: Pick 20–30 real buyer questions and run them in multiple AI assistants.\n- Step 2: Catalog who gets cited, what page types they use, and how content is structured.\n- Step 3: Identify gaps in your pages (missing entities, weak structure, no schema, little data).\n- Step 4: Update, publish, request indexing, then re-check AI answers after a few weeks.\n\nTreat this like a recurring workflow: monthly or quarterly, repeat the audit, expand your coverage, and refine structures.\nOver time, this process builds both AI citations and traditional search visibility, because both reward clear, authoritative answers.",
+        "description": "The process is: audit AI answers for your key questions, study which pages get cited, upgrade your own content to match AI-friendly structures, add schema and trust signals, publish and request indexing, then re-check those queries regularly. Repeat this as a quarterly workflow to grow citations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

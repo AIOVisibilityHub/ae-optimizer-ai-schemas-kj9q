@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We had a bad experience with a previous “AI visibility” vendor—how can we approach citation tracking this time with more transparency and control?",
+  "description": "After a bad vendor experience, keep AI citation tracking transparent and in your control: own the prompt list, log raw AI answers in shared spreadsheets, define",
+  "url": "aeoptimizer.com/faq/we-had-a-bad-experience-with-a-previous-ai-visibility-vendor-how-can-we-approach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We had a bad experience with a previous “AI visibility” vendor—how can we approach citation tracking this time with more transparency and control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your previous vendor overpromised and underdelivered on AI visibility, rebuild trust with a transparent, step-by-step tracking framework you can see and audit yourself. Start small, document everything, and insist on clear definitions of metrics and methods.\n\nAn accountable process matters more than flashy dashboards or vague “AI optimization” claims.\n\nKey factors:\n- Clear prompt lists tied to real buyer questions\n- Shared access to raw answers and tracking sheets\n- Simple, agreed-upon metrics and baselines\n- Regular reviews of what changed and why\n\nOwn the prompt design and the core tracking spreadsheet internally, even if you later use a tool or partner. Schedule recurring reviews to compare results and decisions. Make sure any external provider can explain exactly how they’re measuring and improving citations.\n\nTreat AI citation tracking as a collaborative, evidence-based practice where you can always trace recommendations back to specific answers and data.",
+        "description": "After a bad vendor experience, keep AI citation tracking transparent and in your control: own the prompt list, log raw AI answers in shared spreadsheets, define simple metrics together, and review changes regularly. Prioritize methods you can audit over opaque promises or purely cosmetic dashboards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My AI citations keep changing month to month—is that normal or a sign something is wrong?",
+  "description": "Frequent AI citation changes are normal; many brands see 40–60% turnover monthly. Treat drops as a prompt to investigate rather than panic: verify the change ac",
+  "url": "aeoptimizer.com/faq/my-ai-citations-keep-changing-month-to-month-is-that-normal-or-a-sign-something",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My AI citations keep changing month to month—is that normal or a sign something is wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI citations can change dramatically month to month, so expect 40–60% turnover in some categories. This volatility is normal because AI engines retrain, refresh sources, and adjust ranking logic frequently, so you need ongoing monitoring rather than a one-time audit.\n\nContext: A page cited this month can disappear next month if competitors publish stronger, fresher, or better-structured content. Treat drops as signals, not disasters.\n\nKey factors:\n- High turnover is common in fast-moving topics.\n- Strong competitor content can displace your citations.\n- Technical issues (schema, broken links) can cause loss of visibility.\n- AI platform updates can reshuffle which sites they trust.\n\nPractical guidance: When you see a drop, confirm it across multiple prompts and users, identify which competitors replaced you, and analyze their content structure and depth. Use this to guide specific updates rather than guessing.\n\nSoft positioning: Accepting that AI citations are inherently volatile helps you focus on systematic monitoring and targeted improvements instead of panicking over every change.",
+        "description": "Frequent AI citation changes are normal; many brands see 40–60% turnover monthly. Treat drops as a prompt to investigate rather than panic: verify the change across prompts, identify which competitors replaced you, and analyze their content to guide specific improvements that can win citations back."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

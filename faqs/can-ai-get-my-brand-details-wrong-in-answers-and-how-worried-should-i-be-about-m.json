@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI get my brand details wrong in answers, and how worried should I be about misinformation?",
+  "description": "Yes, AI can misstate your services, locations, or pricing if it pulls from outdated or inconsistent information. Reduce the risk by cleaning up your site, profi",
+  "url": "aeoptimizer.com/faq/can-ai-get-my-brand-details-wrong-in-answers-and-how-worried-should-i-be-about-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI get my brand details wrong in answers, and how worried should I be about misinformation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brands can absolutely be misrepresented or described inaccurately in AI answers, especially if outdated or confusing data exists online.\nContext: AI models synthesize what they find across the web; conflicting information, old messaging, or ambiguous brand names can lead to wrong locations, services, or pricing in answers.\nKey factors:\n- Inconsistent NAP (name, address, phone) and brand descriptions cause confusion.\n- Outdated product pages and press releases stick around in training data.\n- Third-party sites with errors can be treated as “truth” by AI.\n- Generic or overlapping brand names increase mix-ups.\nPractical guidance: Audit how your brand is described across your site, directories, and major profiles, then fix inconsistencies and update stale content. Where AI answers are clearly wrong, use feedback tools to flag issues and support corrections.\nSoft positioning: Consider “AI reputation hygiene” part of your ongoing brand maintenance, not a one‑time clean-up.",
+        "description": "Yes, AI can misstate your services, locations, or pricing if it pulls from outdated or inconsistent information. Reduce the risk by cleaning up your site, profiles, and listings, keeping messaging current, and correcting obvious errors through AI feedback channels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

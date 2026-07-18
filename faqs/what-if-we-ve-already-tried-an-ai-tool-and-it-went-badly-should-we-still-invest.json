@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if we’ve already tried an AI tool and it went badly—should we still invest in AI visibility?",
+  "description": "Yes, but change how you approach it. Focus on transparent, auditable AI visibility workflows where you can see the exact prompts, answers, citations, and compet",
+  "url": "aeoptimizer.com/faq/what-if-we-ve-already-tried-an-ai-tool-and-it-went-badly-should-we-still-invest",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if we’ve already tried an AI tool and it went badly—should we still invest in AI visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’ve had a bad experience with an AI vendor or tool, separate the concept of AI visibility from any one platform’s shortcomings.\nYou can still benefit from better visibility using more transparent approaches.\n\n**Key factors**\n- Clarify your **goals** (discovery, accuracy, competitive insight)\n- Favor tools that expose **prompts, answers, citations, and methods**\n- Start with **small pilots** before big commitments\n- Maintain internal **ownership** of your prompts and metrics\n\n**Practical guidance**\nRedesign your AI visibility efforts around clear, auditable workflows: you should always know which prompts were run, what answers were returned, and which sources were cited.\nChoose vendors who can walk you end‑to‑end through a live example using your brand.\nThis reduces the risk of repeating past disappointments.",
+        "description": "Yes, but change how you approach it. Focus on transparent, auditable AI visibility workflows where you can see the exact prompts, answers, citations, and competitor comparisons. Start with small pilots and retain ownership of your metrics so one bad vendor experience doesn’t define the whole strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

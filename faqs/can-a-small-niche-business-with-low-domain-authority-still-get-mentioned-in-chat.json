@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a small niche business with low domain authority still get mentioned in ChatGPT, or is it only for big brands?",
+  "description": "Small niche businesses can get mentioned if they publish the clearest, most specific answers to tightly defined questions. ChatGPT will often cite specialized s",
+  "url": "aeoptimizer.com/faq/can-a-small-niche-business-with-low-domain-authority-still-get-mentioned-in-chat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a small niche business with low domain authority still get mentioned in ChatGPT, or is it only for big brands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can absolutely show up without big‑brand authority if you specialize and create the clearest, most practical answers for specific scenarios.\nChatGPT often cites smaller sites when they’re the best fit.\n\n**Key factors**\n- Narrow positioning around very specific use cases or audiences.\n- Deep, example‑rich content that goes beyond generic advice.\n- Clear differentiation from big, generalist resources.\n- Consistent presence in niche communities and directories.\n\nIdentify long‑tail prompts where big brands are weak or generic, then build pages that directly match those questions with step‑by‑step guidance and real numbers.\nSupport this with mentions in niche blogs, podcasts, or community posts.\nThink “sharpshooter,” not “spray and pray” when you don’t have broad authority.",
+        "description": "Small niche businesses can get mentioned if they publish the clearest, most specific answers to tightly defined questions. ChatGPT will often cite specialized sites when they match a prompt better than big generalist brands, especially if those sites have some niche links and visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

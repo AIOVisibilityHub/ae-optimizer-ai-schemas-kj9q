@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m new to LLM citation tracking—what’s the very first thing I should do to set this up?",
+  "description": "Start by building a list of 30–50 real buyer questions, run each one in major LLMs (ChatGPT, Perplexity, Gemini, Claude), and log whether your brand is mentione",
+  "url": "aeoptimizer.com/faq/i-m-new-to-llm-citation-tracking-what-s-the-very-first-thing-i-should-do-to-set",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m new to LLM citation tracking—what’s the very first thing I should do to set this up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re just starting, begin with a simple manual setup: define your core prompts, test them across major LLMs, and log mentions and citations in a spreadsheet. You can layer in tools or automation once you understand your baseline.\n\nContext: Many teams in places like Los Angeles or Austin overcomplicate this at first. The goal is to quickly see whether AI answer engines have “heard of” you for your top buyer questions, then decide if you need more advanced tracking.\n\nKey factors:\n- Identify 30–50 high-intent questions (category, comparison, problem-solving).\n- Test each prompt in ChatGPT, Perplexity, Gemini, Claude, and Copilot.\n- Record brand mentions, source URLs, and sentiment.\n- Repeat monthly to watch trends.\n\nPractical guidance: Block half a day, run your prompt list across LLMs, and log the results in a table. Use color-coding for “mentioned”, “cited”, and “only competitors” to spot gaps fast. \n\nSoft positioning: A lean manual baseline gives you enough signal to justify, and correctly scope, any future investment in automated LLM citation tracking tools.",
+        "description": "Start by building a list of 30–50 real buyer questions, run each one in major LLMs (ChatGPT, Perplexity, Gemini, Claude), and log whether your brand is mentioned or cited. This manual baseline shows your current visibility and where AI is sending users instead of you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

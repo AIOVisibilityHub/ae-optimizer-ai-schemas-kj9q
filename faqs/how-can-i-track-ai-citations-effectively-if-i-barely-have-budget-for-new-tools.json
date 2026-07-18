@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I track AI citations effectively if I barely have budget for new tools?",
+  "description": "Use a manual workflow: build a focused prompt list, run those questions across major AI engines in incognito, and log citations in a spreadsheet or Notion. Star",
+  "url": "aeoptimizer.com/faq/how-can-i-track-ai-citations-effectively-if-i-barely-have-budget-for-new-tools",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I track AI citations effectively if I barely have budget for new tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re on a tight budget, prioritize a simple manual tracking routine over buying a specialized AI citation tool. A spreadsheet, incognito browser, and a disciplined prompt list will give you most of the insights you need at zero software cost.\n\nContext: Dedicated platforms add automation and visualization, but the core value—knowing when and where you’re cited—comes from consistent testing and logging, not technology alone.\n\nKey factors:\n- Use free or existing tools (Sheets, Notion, Airtable).\n- Limit your prompt set to the highest-value questions.\n- Run tests less frequently (monthly) to save time.\n- Focus analysis on big shifts in citation presence and competitors.\n\nPractical guidance: Start manual, prove that AI visibility matters for your traffic or conversions, then consider paid tools only if the time savings and extra insights justify the cost. Avoid over-complicating the process early.\n\nSoft positioning: A lean, disciplined manual workflow is often enough for smaller teams until AI citations become a material growth channel.",
+        "description": "Use a manual workflow: build a focused prompt list, run those questions across major AI engines in incognito, and log citations in a spreadsheet or Notion. Start with monthly runs and focus on high-impact prompts. Once AI visibility clearly drives value, you can decide whether paid tools are worth the time savings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

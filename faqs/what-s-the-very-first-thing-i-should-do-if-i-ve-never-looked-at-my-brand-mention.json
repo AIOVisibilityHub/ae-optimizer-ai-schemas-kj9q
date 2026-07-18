@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the very first thing I should do if I’ve never looked at my brand mentions in AI before?",
+  "description": "Start with an AI readiness audit: verify clear brand descriptions, implement basic schema, clean up inconsistent NAP, and review your third‑party mentions and r",
+  "url": "aeoptimizer.com/faq/what-s-the-very-first-thing-i-should-do-if-i-ve-never-looked-at-my-brand-mention",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the very first thing I should do if I’ve never looked at my brand mentions in AI before?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good first step is to run a simple “AI readiness audit” of your brand content, entity data, and third‑party mentions before investing heavily in tools or campaigns.\nContext: Many brands jump into prompt tracking without confirming that basics—clear descriptions, schema, consistent NAP, and reviews—are in place. This reduces the impact of any visibility work.\nKey factors:\n- Check whether your Organization and Product/Service schema are implemented.\n- Confirm consistent brand info across your site and key profiles.\n- Assess the quality and recency of reviews and case studies.\n- Identify which third‑party sites already mention or cite you.\nPractical guidance: Create a short checklist, score each area, and fix glaring gaps over 4–6 weeks. Once your foundation is solid, your investments in AI brand mention tracking and optimization will perform much better.\nSoft positioning: Treat the audit as your “health check” before you start training for the AI visibility marathon.",
+        "description": "Start with an AI readiness audit: verify clear brand descriptions, implement basic schema, clean up inconsistent NAP, and review your third‑party mentions and reviews. Fix obvious gaps first so later prompt tracking and optimization have a solid foundation to build on."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

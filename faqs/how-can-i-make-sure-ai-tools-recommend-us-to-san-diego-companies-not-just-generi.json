@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I make sure AI tools recommend us to San Diego companies, not just generic buyers?",
+  "description": "Emphasize your San Diego focus and vertical expertise in your content and local profiles, then test AI prompts that combine industry and city (e.g., “best [serv",
+  "url": "aeoptimizer.com/faq/how-can-i-make-sure-ai-tools-recommend-us-to-san-diego-companies-not-just-generi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I make sure AI tools recommend us to San Diego companies, not just generic buyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "San Diego’s mix of tech, biotech, and tourism means buyers may ask more niche, industry-specific questions in AI tools rather than generic local searches.\nYour AI visibility should reflect that vertical focus.\n\n**Key factors**\n- Content tailored to **San Diego industries** you serve\n- Presence on **regional industry directories and associations**\n- Local case studies that highlight **SD‑specific use cases**\n- Clear geo‑signals (city references, service areas) on key pages\n\n**Practical guidance**\nRun AI prompts like “AI tools for biotech startups in San Diego” or “data platforms for tourism businesses in San Diego” and see whether you appear.\nAdjust your messaging and third‑party presence to emphasize those verticals and the San Diego location.\nThis makes AI engines more likely to surface you for high-intent local queries.",
+        "description": "Emphasize your San Diego focus and vertical expertise in your content and local profiles, then test AI prompts that combine industry and city (e.g., “best [service] for biotech in San Diego”). Align your messaging and third‑party listings with those queries so AI tools see you as the local, relevant option."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

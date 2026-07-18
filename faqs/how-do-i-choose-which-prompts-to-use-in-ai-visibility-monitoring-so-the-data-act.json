@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose which prompts to use in AI visibility monitoring so the data actually reflects real customers?",
+  "description": "Base your prompt set on real buyer questions from search terms, support tickets, and sales calls. Include informational, comparison, and “best X” queries, both",
+  "url": "aeoptimizer.com/faq/how-do-i-choose-which-prompts-to-use-in-ai-visibility-monitoring-so-the-data-act",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose which prompts to use in AI visibility monitoring so the data actually reflects real customers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI visibility monitoring should be tightly scoped around questions your buyers and users actually ask, not abstract prompts. The more realistic your prompt set, the more reliable your insights.\n\nYou want to mirror real search intent: informational, comparison, and “best X” queries that map to your funnel.\n\n**Key factors:**\n- Use search term reports, customer support tickets, and sales notes\n- Include informational, problem-aware, and comparison questions\n- Capture both branded and non-branded prompts\n- Group prompts by funnel stage and use case\n\nStart by exporting search terms or listing the top questions people ask your team, then rewrite them in natural language the way they’d be typed into an AI assistant at night on a phone. Cluster prompts by themes and buyer stage so you can see where you’re strong or weak. Avoid generic, unrealistic prompts that people would never ask.\n\nTeams that build prompt sets from real behavior instead of guesses get far more actionable visibility data.",
+        "description": "Base your prompt set on real buyer questions from search terms, support tickets, and sales calls. Include informational, comparison, and “best X” queries, both branded and non-branded, and group them by funnel stage. Realistic prompts produce meaningful visibility insights."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

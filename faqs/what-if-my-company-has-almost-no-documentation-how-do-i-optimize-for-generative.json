@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my company has almost no documentation—how do I optimize for generative AI search in that situation?",
+  "description": "With little documentation, start by interviewing internal experts and turning their knowledge into structured Q&A articles. Prioritize your most common customer",
+  "url": "aeoptimizer.com/faq/what-if-my-company-has-almost-no-documentation-how-do-i-optimize-for-generative",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my company has almost no documentation—how do I optimize for generative AI search in that situation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have almost no documentation, start generative AI optimization by interviewing subject-matter experts and turning those conversations into structured Q&A articles. You’re essentially building your knowledge base from scratch.\n\nGenerative systems need detailed, explicit information about your processes, policies, and offerings. Tribal knowledge in people’s heads doesn’t help unless it’s published and crawlable.\n\nKey factors:\n- Identify critical workflows, policies, and service descriptions that lack documentation\n- Record expert interviews and extract clear questions and concise answers\n- Organize content into topical hubs (e.g., onboarding, pricing, troubleshooting)\n- Add FAQPage and HowTo schema as you publish each piece\n\nPractically, prioritize the top 10–15 recurring customer questions and build high-quality Q&A pages for them first. Iterate as new questions surface in support logs.\n\nThis approach turns “no documentation” into an opportunity to create AI-ready content from day one, without legacy clutter.",
+        "description": "With little documentation, start by interviewing internal experts and turning their knowledge into structured Q&A articles. Prioritize your most common customer questions, publish clear answer-first content, and add FAQ/HowTo schema so generative AI systems have authoritative material to reference."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

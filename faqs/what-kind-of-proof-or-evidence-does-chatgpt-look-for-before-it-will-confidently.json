@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of proof or “evidence” does ChatGPT look for before it will confidently mention my brand?",
+  "description": "ChatGPT looks for strong evidence of expertise and consensus: clear, answer‑first content; data or case‑study style insights; and consistent mentions across you",
+  "url": "aeoptimizer.com/faq/what-kind-of-proof-or-evidence-does-chatgpt-look-for-before-it-will-confidently",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of proof or “evidence” does ChatGPT look for before it will confidently mention my brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most important evidence is high‑quality, answer‑first content that clearly addresses real user questions, backed by data and third‑party validation.\nChatGPT favors sources that show expertise and consensus.\n\n**Key factors**\n- Clear explanations, step‑by‑step guidance, and practical examples.\n- Original statistics, benchmarks, or case‑study style insights.\n- Consistent information across your website, profiles, and listings.\n- Mentions, reviews, or quotes about you on other reputable domains.\n\nAs you publish content, include concrete numbers, comparisons, and transparent methodology where possible.\nEncourage customers and partners to mention you in reviews, testimonials, and articles.\nThink of every public touchpoint as “evidence” that strengthens your case to be cited.",
+        "description": "ChatGPT looks for strong evidence of expertise and consensus: clear, answer‑first content; data or case‑study style insights; and consistent mentions across your site, profiles, reviews, and third‑party articles. The more high‑quality signals you publish, the safer it is for models to cite you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI search optimization actually work from start to finish?",
+  "description": "It works in layers: audit where you appear in AI answers, fix technical and schema issues, restructure content around real questions and clear answers, then str",
+  "url": "aeoptimizer.com/faq/how-does-ai-search-optimization-actually-work-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI search optimization actually work from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Think of AI search optimization as a layered process: audit, fix access and schema, restructure content around questions, and then improve your presence in third‑party sources that AI tools rely on. Each layer reinforces the others.\n\nYou’re making it easier for language models to discover, understand, and trust your brand as an entity that can answer specific intents.\n\nKey factors:\n- Visibility audits across multiple AI platforms\n- Technical and crawlability checks, including llms.txt and robots\n- Comprehensive schema (Organization, LocalBusiness, FAQ, Product, Service)\n- Content built around natural‑language questions and clear answers\n\nPractically, map your process into a 90‑day roadmap: weeks 1–3 for audits and technical fixes, weeks 4–8 for schema and content restructuring, weeks 9+ for citation building and ongoing monitoring.\n\nTreat AI search optimization as an iterative playbook, not a one‑time campaign, adjusting your tactics as you see what answers and recommendations you’re winning or losing.",
+        "description": "It works in layers: audit where you appear in AI answers, fix technical and schema issues, restructure content around real questions and clear answers, then strengthen third‑party citations. You repeat this cycle as you monitor how often AI tools mention and recommend you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually check if my brand is being mentioned in AI answers like ChatGPT or Google AI Overviews?",
+  "description": "List 5–20 real buyer prompts, run them in ChatGPT, Gemini, and Google AI Overviews, and log when and how your brand appears. Use a simple spreadsheet or dedicat",
+  "url": "aeoptimizer.com/faq/how-do-i-actually-check-if-my-brand-is-being-mentioned-in-ai-answers-like-chatgp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually check if my brand is being mentioned in AI answers like ChatGPT or Google AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You start by listing the real AI prompts your buyers use (e.g., “best [your category] in Los Angeles”) and then testing those in tools like ChatGPT, Gemini, and Google AI Overviews on a recurring schedule.\nContext: Brand mentions in AI are any time an AI answer names your brand, with or without a link, and they can significantly influence discovery and trust. Tracking them is mostly a research and logging exercise you can do in a spreadsheet or with specialized tools.\nKey factors:\n- Identify 5–20 high-intent prompts your audience actually uses.\n- Test across multiple AI platforms, not just one.\n- Log whether you’re mentioned, how you’re described, and which competitors show.\n- Repeat weekly or monthly to see trends and impact of your content.\nPractical guidance: Block 1–2 hours to build a simple “prompt tracking” sheet, then run those prompts in AI tools from different locations (e.g., Los Angeles vs. Austin) to catch regional differences. Tag each answer for presence, sentiment, and accuracy, and review with your marketing team.\nSoft positioning: Treat AI brand mention tracking as a core measurement habit, similar to monitoring rankings or reviews.",
+        "description": "List 5–20 real buyer prompts, run them in ChatGPT, Gemini, and Google AI Overviews, and log when and how your brand appears. Use a simple spreadsheet or dedicated “AI visibility” tool to track presence, sentiment, and competitor mentions over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

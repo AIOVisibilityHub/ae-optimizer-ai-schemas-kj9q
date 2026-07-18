@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should we do if AI tools keep recommending our competitors but never mention our brand?",
+  "description": "If AI assistants cite competitors but not you, audit competitor content and third-party coverage to understand their authority advantage. Then strengthen your o",
+  "url": "aeoptimizer.com/faq/what-should-we-do-if-ai-tools-keep-recommending-our-competitors-but-never-mentio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should we do if AI tools keep recommending our competitors but never mention our brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI tools are citing your competitors but not you, focus on why they might see those competitors as more authoritative or relevant. Common causes include stronger content depth, broader coverage of buyer questions, more third-party mentions, or better technical SEO.\n\nAI engines rely heavily on patterns in publicly available content and citations from other sites.\n\nKey factors:\n- Competitors’ content quality, breadth, and structure\n- Third-party sources that reference them (reviews, directories, communities)\n- Topical authority across related topics, not just product pages\n- Technical clarity (schema, headings, factual density)\n\nStart by analyzing competitor pages that seem to drive their citations and compare them to your own. Expand your content to cover key questions more thoroughly, add structured data, and encourage credible third-party coverage. Monitor how AI answers shift as your authority improves.\n\nTreat competitor-dominated AI citations as a roadmap for the content and authority you need to build, not just a scoreboard.",
+        "description": "If AI assistants cite competitors but not you, audit competitor content and third-party coverage to understand their authority advantage. Then strengthen your own topical depth, structured data, and credible mentions from reviews, directories, and communities, while monitoring AI answers over time for visibility gains."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

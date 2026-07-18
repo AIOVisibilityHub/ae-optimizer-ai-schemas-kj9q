@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it realistically take to start showing up in AI Overviews after I optimize?",
+  "description": "Expect 1–3 months to see your first AI Overview citations if you’re already close to page‑one rankings, and up to 6 months in tougher niches. AI Overviews depen",
+  "url": "aeoptimizer.com/faq/how-long-does-it-realistically-take-to-start-showing-up-in-ai-overviews-after-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it realistically take to start showing up in AI Overviews after I optimize?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most sites see initial AI Overview citations within 1–3 months after improving page‑one rankings and restructuring content for clear answers, but competitive niches or weak authority can push this closer to 6 months. It’s similar to normal SEO timelines, not instant.\n\nBecause AI Overviews rely on organic rankings and trust signals, you’re bound by how fast Google crawls, reindexes, and reevaluates your site’s authority. Fresh, high‑quality updates tend to be reprocessed faster.\n\nKey factors:\n- Crawl and indexing speed for your site\n- How far you are from page‑one rankings now\n- Strength of your E‑E‑A‑T and backlinks\n- Frequency and quality of content updates\n\nPlan on a 12‑week campaign: weeks 1–4 to fix technical and on‑page structure, weeks 5–8 to publish and improve authority, weeks 9–12 to monitor impressions and refine content where you start seeing AI Overview exposure.\n\nTreat AI Overview ranking like a rolling optimization program rather than a one‑week project; momentum is your friend.",
+        "description": "Expect 1–3 months to see your first AI Overview citations if you’re already close to page‑one rankings, and up to 6 months in tougher niches. AI Overviews depend on organic rankings and authority, so they follow normal SEO timelines, not instant changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

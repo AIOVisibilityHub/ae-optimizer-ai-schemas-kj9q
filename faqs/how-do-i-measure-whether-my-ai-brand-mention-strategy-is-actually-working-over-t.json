@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I measure whether my AI brand mention strategy is actually working over time?",
+  "description": "Define a fixed set of buyer prompts, run them in key AI tools on a regular schedule, and log presence, sentiment, and accuracy for your brand and competitors. T",
+  "url": "aeoptimizer.com/faq/how-do-i-measure-whether-my-ai-brand-mention-strategy-is-actually-working-over-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I measure whether my AI brand mention strategy is actually working over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining 5–10 high-intent prompts (e.g., “best SaaS for X in Austin”) and then use a simple spreadsheet to record AI answers across platforms each week.\nContext: Measuring AI brand mentions isn’t about impressions like ads; it’s about tracking when you appear, how you’re described, and whether that changes over time. You can do this manually or with specialized tracking tools.\nKey factors:\n- Use consistent prompts and test cadence (weekly or monthly).\n- Capture presence (Y/N), sentiment (positive/neutral/negative), and accuracy.\n- Note competing brands that appear instead of you.\n- Tie changes back to your content, PR, or product updates.\nPractical guidance: After each monitoring round, flag “wins” (new mentions, better descriptions) and “gaps” (no mention, inaccurate info) and assign clear follow-up actions, such as updating pages, collecting reviews, or clarifying messaging.\nSoft positioning: Treat AI mention measurement as an evolving KPI, alongside traffic and conversions, to inform your broader growth strategy.",
+        "description": "Define a fixed set of buyer prompts, run them in key AI tools on a regular schedule, and log presence, sentiment, and accuracy for your brand and competitors. Track how often you appear and how you’re described, then link improvements to specific content and PR activities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

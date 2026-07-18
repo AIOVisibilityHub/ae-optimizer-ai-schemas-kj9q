@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get AI tools to mention my brand in local recommendations for cities like Los Angeles, San Diego, Austin, Denver, or Salt Lake City?",
+  "description": "Build strong, well-structured city pages with clear services, NAP, local schema, and real reviews for each target city. Then track local prompts like “best [ser",
+  "url": "aeoptimizer.com/faq/how-do-i-get-ai-tools-to-mention-my-brand-in-local-recommendations-for-cities-li",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get AI tools to mention my brand in local recommendations for cities like Los Angeles, San Diego, Austin, Denver, or Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For multi-city brands like those in Los Angeles, San Diego, Austin, Denver, and Salt Lake City, structure your content and schema to clearly signal services and locations to AI.\nContext: AI answers often blend national and local information; if your city pages are thin or inconsistent, you may be overlooked in local recommendations even if you’re strong overall.\nKey factors:\n- Create robust, unique pages for each key city with clear services and NAP.\n- Use LocalBusiness or Service schema tied to each location.\n- Maintain consistent addresses and descriptions across directories and maps.\n- Include city-specific reviews, case studies, and examples.\nPractical guidance: For each priority city, define the prompts you care about (e.g., “best Answer Engine Optimization (AEO) software in Denver”), then ensure your local pages are the best, clearest answer online. Over time, this improves both search and AI local mentions.\nSoft positioning: Think of each city as its own “entity footprint” you need to earn in AI, not just a line in your office list.",
+        "description": "Build strong, well-structured city pages with clear services, NAP, local schema, and real reviews for each target city. Then track local prompts like “best [service] in Denver” to see whether AI starts including those locations in its recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

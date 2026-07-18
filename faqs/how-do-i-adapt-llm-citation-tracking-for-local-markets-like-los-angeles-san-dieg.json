@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I adapt LLM citation tracking for local markets like Los Angeles, San Diego, or Denver so AI actually sees us as a regional option?",
+  "description": "Add city-specific prompts like “best X in Denver” to your tracking, and ensure you have strong, structured location pages that clearly signal your service areas",
+  "url": "aeoptimizer.com/faq/how-do-i-adapt-llm-citation-tracking-for-local-markets-like-los-angeles-san-dieg",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I adapt LLM citation tracking for local markets like Los Angeles, San Diego, or Denver so AI actually sees us as a regional option?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For brands focused on specific cities like Los Angeles, San Diego, or Denver, include location-qualified prompts (e.g., “best X in Denver”) in your citation tracking and check whether AI recognizes your regional presence or only suggests national players.\n\nContext: Local visibility in LLMs matters when your services or trust signals are city-specific. AI tools sometimes generalize and omit strong local options if your content doesn’t clearly express geographic coverage.\n\nKey factors:\n- Use prompts that include city names and local intent.\n- Ensure your site clearly signals service areas and local pages.\n- Track whether AI answers mention your brand for those local queries.\n- Compare against which local or national competitors are cited instead.\n\nPractical guidance: Create well-structured location pages with detailed, helpful content, then add them to your prompt tracking. If AI still misses you, deepen those pages and connect them to broader informational resources it already cites. \n\nSoft positioning: Local-aware LLM citation tracking helps you see if AI understands where you operate, which is critical for region-bound offerings.",
+        "description": "Add city-specific prompts like “best X in Denver” to your tracking, and ensure you have strong, structured location pages that clearly signal your service areas. Then log whether AI mentions or cites you for those local queries and upgrade content where you’re absent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

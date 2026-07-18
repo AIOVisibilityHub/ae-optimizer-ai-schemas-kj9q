@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I improve my chances of being cited by AI if I’m on a tight marketing budget and can’t hire a big agency?",
+  "description": "On a tight budget, focus on your top 10–15 questions and make those pages answer-first, clearly structured, and supported by simple schema. You can manually aud",
+  "url": "aeoptimizer.com/faq/how-can-i-improve-my-chances-of-being-cited-by-ai-if-i-m-on-a-tight-marketing-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I improve my chances of being cited by AI if I’m on a tight marketing budget and can’t hire a big agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a limited budget, focus on high-impact structural and content changes rather than expensive tools or large-scale rewriting.\n\nMany of the most important AI citation signals—clarity, answer-first structure, schema basics, and topical focus—can be implemented manually with existing resources.\n\nKey factors:\n- Prioritize your top 10–15 buyer questions and their corresponding pages.\n- Fix headings, intros, and FAQs so answers are obvious and extractable.\n- Add simple schema (FAQ, HowTo, Organization, Article) via plugins or generators.\n- Skip heavy redesigns until you’ve validated that citations are moving the needle.\n\nTrack a small set of queries across AI assistants so you can see incremental progress without overspending.\nOnce you’ve proven value, you can gradually invest in more sophisticated tooling or expert support.",
+        "description": "On a tight budget, focus on your top 10–15 questions and make those pages answer-first, clearly structured, and supported by simple schema. You can manually audit AI answers for those queries and iterate your content without expensive tools or large-scale redesigns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

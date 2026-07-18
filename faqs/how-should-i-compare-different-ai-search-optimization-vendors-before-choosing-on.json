@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I compare different AI search optimization vendors before choosing one?",
+  "description": "Compare vendors by their methodology: do they lead with a multi‑platform audit, have a clear schema/content/citation strategy, and offer transparent measurement",
+  "url": "aeoptimizer.com/faq/how-should-i-compare-different-ai-search-optimization-vendors-before-choosing-on",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I compare different AI search optimization vendors before choosing one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When multiple AI search optimization vendors are pitching you, compare them on their approach to audits, measurement, and long‑term capability building—not just tool access or buzzwords. You want a partner who can transfer knowledge, not create dependency.\n\nGood vendors focus on process and outcomes instead of promising shortcuts to “AI dominance.”\n\nKey factors:\n- Do they start with a multi‑platform visibility audit and clear baselines?\n- Can they explain their schema, content, and citation strategy in plain language?\n- How will they measure success beyond vanity metrics?\n- Are they willing to document processes so your team can maintain gains?\n\nPractically, ask for sample audit reports, a 90‑day plan, and concrete case examples that resemble your size and locations (e.g., multi‑city operations like Austin, Denver, Salt Lake City).\n\nChoosing a vendor with a structured, teachable methodology will give you durable advantages beyond the engagement itself.",
+        "description": "Compare vendors by their methodology: do they lead with a multi‑platform audit, have a clear schema/content/citation strategy, and offer transparent measurement and process documentation? Favor partners who can teach your team and build durable capabilities, not just run tools for you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

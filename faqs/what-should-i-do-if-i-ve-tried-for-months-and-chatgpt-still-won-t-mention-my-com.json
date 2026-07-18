@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’ve tried for months and ChatGPT still won’t mention my company at all?",
+  "description": "If ChatGPT still isn’t mentioning you, audit the sources it does cite for your target prompts and compare content depth, structure, and authority. Improve your",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-i-ve-tried-for-months-and-chatgpt-still-won-t-mention-my-com",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’ve tried for months and ChatGPT still won’t mention my company at all?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If ChatGPT is still not mentioning you after a few months, it usually means your content isn’t yet better or more visible than existing sources for those questions.\nYou may also be missing technical or off‑site signals.\n\n**Key factors**\n- Your pages may not be indexed or ranked well enough.\n- Existing cited sources might have deeper, more authoritative content.\n- Lack of structured data could make your answers hard to extract.\n- Few or weak backlinks and reviews reduce trust.\n\nRe‑run your target prompts and study which URLs are being cited, then compare those pages to yours in depth, structure, and authority.\nUpgrade your content, add FAQ/HowTo schema, and pursue a few strategic backlinks from the kinds of sites ChatGPT already references.\nTreat lack of mentions as feedback on where you’re not yet competitive.",
+        "description": "If ChatGPT still isn’t mentioning you, audit the sources it does cite for your target prompts and compare content depth, structure, and authority. Improve your pages, add FAQ/HowTo schema, and earn backlinks or mentions from similar trusted sites so models have reasons to include you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can a local business in Los Angeles, San Diego, Austin, Denver, or Salt Lake City show up in AI Overviews for city‑specific searches?",
+  "description": "Combine strong local SEO (Google Business Profile, reviews, local citations) with city‑specific landing pages that answer common local questions using FAQ and L",
+  "url": "aeoptimizer.com/faq/how-can-a-local-business-in-los-angeles-san-diego-austin-denver-or-salt-lake-cit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can a local business in Los Angeles, San Diego, Austin, Denver, or Salt Lake City show up in AI Overviews for city‑specific searches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local businesses in Los Angeles, San Diego, Austin, Denver, and Salt Lake City can rank in AI Overviews by combining strong local SEO with content that answers city‑specific questions clearly. LocalBusiness and FAQ schema are especially helpful.\n\nAI Overviews increasingly show local options when the query has location intent (like “near me” or city names). If your local signals and content aren’t aligned, competitors in your city may be featured instead of you.\n\nKey factors:\n- Accurate Google Business Profile and NAP consistency\n- Local landing pages with city‑specific FAQs\n- LocalBusiness, FAQPage, and Review schema\n- Local backlinks, citations, and reviews\n\nCreate dedicated pages for each city you serve (e.g., Los Angeles, Austin) with question‑based headings like “How does this service work in Denver?” and short, practical answers. Add local proof: maps, neighborhoods, and real examples.\n\nThis lets AI Overviews treat you as a credible, nearby answer—not just a generic website.",
+        "description": "Combine strong local SEO (Google Business Profile, reviews, local citations) with city‑specific landing pages that answer common local questions using FAQ and LocalBusiness schema. When your local signals are clear, AI Overviews are far more likely to feature you for those city queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can anyone guarantee my site will appear in ChatGPT or Google AI Overviews?",
+  "description": "No legitimate provider can guarantee AI citations or rankings. AI systems change often and do not expose their full decision rules, so any promise of guaranteed",
+  "url": "aeoptimizer.com/faq/can-anyone-guarantee-my-site-will-appear-in-chatgpt-or-google-ai-overviews",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can anyone guarantee my site will appear in ChatGPT or Google AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No one can guarantee AI visibility or rankings because search algorithms and AI answer systems change constantly, and platforms do not reveal their exact logic. A credible provider should talk about improving your odds, not promising a fixed position.",
+        "description": "No legitimate provider can guarantee AI citations or rankings. AI systems change often and do not expose their full decision rules, so any promise of guaranteed placement is a red flag."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

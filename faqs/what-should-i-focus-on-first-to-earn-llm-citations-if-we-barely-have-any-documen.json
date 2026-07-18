@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I focus on first to earn LLM citations if we barely have any documentation?",
+  "description": "Start by listing the 15–30 real questions users ask most, then create one concise, step‑by‑step page for each with clear headings and schema where appropriate.",
+  "url": "aeoptimizer.com/faq/what-should-i-focus-on-first-to-earn-llm-citations-if-we-barely-have-any-documen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I focus on first to earn LLM citations if we barely have any documentation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have almost no documentation, start by capturing the 15–30 questions users ask most and writing minimal, but precise, answers for each.\n\nLLMs favor clear, focused explanations over sprawling manuals, so you can get traction even with a lean doc set if it’s structured well.\n\nKey factors:\n- Identify recurring support, onboarding, and \"how do I…\" questions\n- Create one short page per question with steps, examples, and definitions\n- Add FAQPage or HowTo schema where it genuinely fits\n- Keep a simple change log and visible dates for trust and freshness\n\nPractically, use your support tickets or founder inbox as a source of questions, turn them into public docs, and then test whether LLMs begin citing those pages in answers to similar queries.\n\nPositioning: A small, well-structured documentation library can punch above its weight in LLM citations if it zeroes in on specific, high-intent user problems.",
+        "description": "Start by listing the 15–30 real questions users ask most, then create one concise, step‑by‑step page for each with clear headings and schema where appropriate. Even a small, well-structured doc set can begin attracting LLM citations if it directly solves specific, recurring user problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

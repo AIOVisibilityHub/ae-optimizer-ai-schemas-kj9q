@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If my customers are mostly in Los Angeles, do I need to track AI citations differently for that market?",
+  "description": "You should test prompts as if you’re a Los Angeles user: use incognito, set US/English location where possible, and include LA-specific queries (“best X in Los",
+  "url": "aeoptimizer.com/faq/if-my-customers-are-mostly-in-los-angeles-do-i-need-to-track-ai-citations-differ",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If my customers are mostly in Los Angeles, do I need to track AI citations differently for that market?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need to be in Los Angeles to track AI citations locally, but you should simulate the location of LA users when you test. Run your prompts in incognito mode and, where possible, set or emulate Los Angeles as the location or language context for the AI or search interface.\n\nContext: Some AI engines and AI search overviews use geography to shape answers, especially for location-sensitive queries (services, events, regulations). You want to match what LA users actually see.\n\nKey factors:\n- Use incognito/private mode to avoid personalized bias.\n- Adjust language/region settings to US English and LA region where available.\n- Test local-intent prompts (“best X in Los Angeles,” “near me,” etc.).\n- Capture screenshots so you can compare how answers change over time.\n\nPractical guidance: For Google AI Overviews, use US settings and manually add “Los Angeles” to location-sensitive prompts. Keep a separate tab in your tracking sheet for LA-specific questions versus national ones.\n\nSoft positioning: With a simple location-aware routine, you can understand how AI engines present your brand to LA audiences without any special local software.",
+        "description": "You should test prompts as if you’re a Los Angeles user: use incognito, set US/English location where possible, and include LA-specific queries (“best X in Los Angeles”). Log results separately for local-intent prompts so you see how AI engines present your brand to LA audiences versus national searches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

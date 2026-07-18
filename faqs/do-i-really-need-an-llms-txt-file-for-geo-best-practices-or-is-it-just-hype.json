@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need an llms.txt file for GEO best practices, or is it just hype?",
+  "description": "For most sites, llms.txt is optional and often over‑valued. You’ll get far more GEO benefit from answer‑first content, strong schema, and clear structure. Consi",
+  "url": "aeoptimizer.com/faq/do-i-really-need-an-llms-txt-file-for-geo-best-practices-or-is-it-just-hype",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need an llms.txt file for GEO best practices, or is it just hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Using llms.txt is optional and often over‑hyped; it’s more useful for very large, complex sites than for typical businesses. Most GEO impact comes from structured, answer‑first content and schema, not from special AI files.\n\nSome engines may read llms.txt, but major search platforms emphasize content quality over such signals.\n\nKey factors:\n- llms.txt can provide a high‑level index of site sections and priority pages.\n- Implementing it requires clear information architecture and ongoing maintenance.\n- For small to mid‑size sites, the cost usually outweighs the benefit.\n- Misconfigured llms.txt won’t help and might even misdirect crawlers.\n\nIf you’re still early in GEO, skip llms.txt and focus on page‑level best practices first. Consider it later only if you have hundreds or thousands of knowledge pages and a clear use case.\n\nThis avoids spending time on marginal gains while core GEO work is unfinished.",
+        "description": "For most sites, llms.txt is optional and often over‑valued. You’ll get far more GEO benefit from answer‑first content, strong schema, and clear structure. Consider llms.txt only if you have a very large, complex knowledge base and a specific reason to guide LLM crawlers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

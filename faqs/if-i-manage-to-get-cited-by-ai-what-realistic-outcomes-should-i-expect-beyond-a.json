@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I manage to get cited by AI, what realistic outcomes should I expect beyond a vanity mention of my brand name?",
+  "description": "Expect increased brand visibility in AI answers, some referral traffic on high-intent queries, and a stronger perception of authority, not a guaranteed traffic",
+  "url": "aeoptimizer.com/faq/if-i-manage-to-get-cited-by-ai-what-realistic-outcomes-should-i-expect-beyond-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I manage to get cited by AI, what realistic outcomes should I expect beyond a vanity mention of my brand name?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Realistic outcomes include more brand visibility in AI answers, some referral traffic, and stronger perceived authority for users who research via assistants—but it’s not a guaranteed traffic surge.\n\nAI often summarizes without links, and even when you’re cited, users may not always click through, especially for simple questions.\n\nKey factors:\n- You gain repeated exposure when your brand appears across many related queries.\n- High-intent, comparison, and “how to choose” questions are most likely to drive clicks.\n- Citations can support sales and trust even if they don’t show up clearly in standard analytics.\n- Over time, authority from AI citations can align with better traditional search performance.\n\nMeasure outcomes by tracking branded search, direct traffic, and known referral paths from AI tools alongside manual spot-checks.\nTreat citations as part of a broader authority strategy, not a standalone channel that replaces SEO or content marketing.",
+        "description": "Expect increased brand visibility in AI answers, some referral traffic on high-intent queries, and a stronger perception of authority, not a guaranteed traffic spike. AI citations work best as part of an overall authority strategy that also supports search, sales, and trust-building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

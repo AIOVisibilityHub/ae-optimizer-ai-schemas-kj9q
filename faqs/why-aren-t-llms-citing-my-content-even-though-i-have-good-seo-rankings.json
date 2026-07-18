@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why aren’t LLMs citing my content even though I have good SEO rankings?",
+  "description": "LLMs often skip SEO‑ranked pages when the answer is buried, the topic is too broad, or the content looks outdated or poorly structured. They prefer concise, sch",
+  "url": "aeoptimizer.com/faq/why-aren-t-llms-citing-my-content-even-though-i-have-good-seo-rankings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why aren’t LLMs citing my content even though I have good SEO rankings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Misaligned, outdated, or overly broad content is a common reason LLMs skip your pages, even when you rank decently in search.\n\nModels prefer sources that map cleanly to the question asked; if your content mixes topics or buries the answer, they’ll choose a more focused alternative.\n\nKey factors:\n- Answers hidden deep in long, unfocused articles\n- Lack of schema or clear headings for specific questions\n- Stale information with no visible update dates\n- Weak off-site signals compared to more specialized competitors\n\nIf you’re not getting cited, rewrite critical pages into tighter, question-driven structures and add schema and fresh data. Then re-check how often those pages appear in AI answers.\n\nPositioning: Non-citation isn’t random—it’s usually feedback that your content isn’t the easiest or safest option for the model to reuse.",
+        "description": "LLMs often skip SEO‑ranked pages when the answer is buried, the topic is too broad, or the content looks outdated or poorly structured. They prefer concise, schema-marked, recently updated pages that match the exact question, so tightening and refreshing your content usually helps more than chasing rankings alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

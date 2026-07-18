@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to improve my AI visibility?",
+  "description": "Start with a simple AI visibility audit: write 25–50 buyer-style questions about your service, run them in tools like ChatGPT and Perplexity, and log when and h",
+  "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-want-to-improve-my-ai-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to improve my AI visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is to audit how AI tools currently talk about your brand and your category, then identify the gaps vs. competitors.\nYou can do this with a simple prompt list and spreadsheet before investing in platforms.\n\n**Key factors**\n- Create 25–50 realistic **buyer-intent prompts** about your service\n- Test them in major tools (ChatGPT, Perplexity, Gemini, Claude)\n- Track brand **mentions, citations, sentiment, and competitors**\n- Compare results to what you *want* AI to say\n\n**Practical guidance**\nBlock 2–3 hours to run and log this audit, then prioritize the queries where you’re absent or misrepresented.\nUse those insights to update content, fix conflicting information, and build authority on third‑party sites.\nTreat this as a recurring quarterly habit, not a one‑off checklist.",
+        "description": "Start with a simple AI visibility audit: write 25–50 buyer-style questions about your service, run them in tools like ChatGPT and Perplexity, and log when and how your brand appears. Use that snapshot to identify gaps, fix inaccurate descriptions, and plan content and authority improvements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

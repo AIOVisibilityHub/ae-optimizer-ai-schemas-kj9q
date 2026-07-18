@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is AI search optimization and how is it different from regular SEO?",
+  "description": "AI search optimization is about getting your brand mentioned and recommended in answers from AI assistants and generative search tools, not just ranking in trad",
+  "url": "aeoptimizer.com/faq/what-exactly-is-ai-search-optimization-and-how-is-it-different-from-regular-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is AI search optimization and how is it different from regular SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI search optimization is the practice of making sure AI assistants and generative search tools mention, recommend, and accurately describe your brand when people ask questions in natural language. It focuses on visibility in systems like ChatGPT, Perplexity, Claude, Gemini, and AI Overviews, not just traditional Google rankings.\n\nWhere SEO tuned content to keywords, AI search optimization tunes your overall **entity**, content structure, and citations so language models can confidently include you in their answers. It combines technical cleanup, schema, content restructuring, and third‑party signals.\n\nKey factors:\n- Aligning content to real questions and intent, not just keywords\n- Using schema and structured data to clarify who you are and what you offer\n- Ensuring AI crawlers can access clean, well‑structured HTML\n- Building credible citations on third‑party sites and knowledge graphs\n\nPractically, start with an audit: test 30–50 realistic prompts in several AI engines, note when you appear, and analyze which sources are being cited instead. Then fix your pages, schema, and external profiles to mirror what winning results are doing.\n\nDone well, AI search optimization becomes a durable visibility asset that amplifies both SEO and brand authority over time.",
+        "description": "AI search optimization is about getting your brand mentioned and recommended in answers from AI assistants and generative search tools, not just ranking in traditional search results. It focuses on entities, schema, content structure, and citations so language models can confidently include you when users ask natural‑language questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

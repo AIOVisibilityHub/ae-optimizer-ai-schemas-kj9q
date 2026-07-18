@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I realistically do AI search optimization myself, or do I need to hire a specialist?",
+  "description": "You can handle the basics yourself—auditing prompts, fixing access issues, adding core schema, and restructuring content around real questions. As complexity gr",
+  "url": "aeoptimizer.com/faq/can-i-realistically-do-ai-search-optimization-myself-or-do-i-need-to-hire-a-spec",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I realistically do AI search optimization myself, or do I need to hire a specialist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can absolutely do AI search optimization yourself, especially the foundational layers. The key is to be systematic: audit, fix access and schema, restructure content, then test and adjust.\n\nYou may still want expert help later for complex multi‑site or multi‑city setups, but DIY gets you surprisingly far.\n\nKey factors:\n- Comfort with basic technical checks (robots, sitemaps, page speed)\n- Ability to add and validate schema via plugins or code snippets\n- Willingness to rewrite content around questions and clear answers\n- Discipline to run recurring tests across AI tools and log results\n\nPractically, treat DIY AI optimization like a small internal project with a clear plan and deadline, not as ad‑hoc tinkering. Use free documentation and validators to check your work.\n\nIf you hit limits around strategy or scale, that’s the right moment to consider professional support.",
+        "description": "You can handle the basics yourself—auditing prompts, fixing access issues, adding core schema, and restructuring content around real questions. As complexity grows (multiple sites, cities, brands), a specialist can help with strategy and scaling, but DIY is a solid starting point."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

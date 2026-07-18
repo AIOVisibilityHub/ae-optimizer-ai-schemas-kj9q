@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a local business in Los Angeles or San Diego approach generative AI search differently from a national brand?",
+  "description": "Local businesses in Los Angeles or San Diego should combine classic local SEO (strong NAP, reviews, local pages) with structured, Q&A content about city-specifi",
+  "url": "aeoptimizer.com/faq/how-should-a-local-business-in-los-angeles-or-san-diego-approach-generative-ai-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a local business in Los Angeles or San Diego approach generative AI search differently from a national brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a local business in Los Angeles or San Diego, optimizing for generative AI search means combining strong local SEO signals with clear, structured answers to the questions residents actually ask. AI systems increasingly surface local recommendations and overviews in conversational form.\n\nGenerative engines look for entities tied to specific cities, with consistent NAP data, reviews, and locally relevant content. They then blend that with broader informational answers.\n\nKey factors:\n- Maintain accurate NAP across Google Business Profiles, maps, and directories\n- Create city-specific pages answering local questions (parking, neighborhoods, seasonality)\n- Encourage detailed customer reviews that mention services and locations\n- Use schema (LocalBusiness, FAQPage, Review) to reinforce local relevance\n\nPractically, mine questions from Google’s People Also Ask, local forums, and community groups in LA or San Diego, then build Q&A content and schema that speak directly to those prompts.\n\nThis hybrid approach makes your business more likely to be mentioned in AI-powered local recommendations and overviews.",
+        "description": "Local businesses in Los Angeles or San Diego should combine classic local SEO (strong NAP, reviews, local pages) with structured, Q&A content about city-specific questions. Use LocalBusiness and FAQ schema so generative AI systems can understand and reference your business in local, conversational recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

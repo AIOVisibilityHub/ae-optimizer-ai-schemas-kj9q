@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI search tools are showing outdated or incorrect information about my business?",
+  "description": "Standardize and update your data everywhere: fix your site’s schema, refresh Google and map listings, correct industry directories, and ensure name, address, ph",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-search-tools-are-showing-outdated-or-incorrect-informatio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI search tools are showing outdated or incorrect information about my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI tools are showing outdated or wrong information about your business, treat it as an **entity correction** project. You need to standardize your data, update key profiles, and reinforce accurate facts across multiple trusted sources.\n\nModels learn from patterns; you correct them by changing those patterns consistently.\n\nKey factors:\n- Standardize name, address, phone, and URLs across your site and directories\n- Update Google Business Profile, major maps, and industry listings\n- Fix schema to reflect current services, prices, and locations\n- Add clear, dated update notes or FAQs on your site explaining changes\n\nPractically, make a list of every place your brand appears online and methodically align those entries to your current reality, then re‑test AI prompts monthly to watch for improvement.\n\nThe more consistent and authoritative your corrected data becomes, the faster AI systems will replace old information in their answers.",
+        "description": "Standardize and update your data everywhere: fix your site’s schema, refresh Google and map listings, correct industry directories, and ensure name, address, phone, and services match across sources. Then re‑test prompts regularly so AI systems can learn and surface the corrected facts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

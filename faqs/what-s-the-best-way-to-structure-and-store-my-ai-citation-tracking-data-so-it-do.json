@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the best way to structure and store my AI citation tracking data so it doesn’t become a mess?",
+  "description": "Use a query-centric table: one row per prompt, with columns for each AI engine, citation status (linked, mentioned, absent), sentiment, competitor presence, and",
+  "url": "aeoptimizer.com/faq/what-s-the-best-way-to-structure-and-store-my-ai-citation-tracking-data-so-it-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the best way to structure and store my AI citation tracking data so it doesn’t become a mess?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For ongoing tracking, it’s best to store AI citation data in a structured, query-centric dashboard rather than scattered screenshots. Use a table with one row per prompt and columns for each engine, citation status, sentiment, competitor presence, and last checked date.\n\nContext: Consistent structure makes trends and gaps obvious and allows you to add new prompts or engines without losing clarity. Visual tools are helpful, but the underlying schema is what matters.\n\nKey factors:\n- Unique prompt identifier and category (informational, comparison, etc.).\n- Engine-by-engine citation fields.\n- Sentiment, prominence, and competitor columns.\n- Timestamp and notes for changes or anomalies.\n\nPractical guidance: Start in a familiar tool (Sheets, Airtable, Notion), then layer charts or reports as you accumulate data. Keep the schema stable so historical records remain comparable even as your prompt set evolves.\n\nSoft positioning: A well-designed tracking schema turns raw AI answers into actionable visibility intelligence you can trust over time.",
+        "description": "Use a query-centric table: one row per prompt, with columns for each AI engine, citation status (linked, mentioned, absent), sentiment, competitor presence, and last checked date. Keep this schema stable in a tool like Sheets or Airtable so you can easily spot visibility trends and gaps over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

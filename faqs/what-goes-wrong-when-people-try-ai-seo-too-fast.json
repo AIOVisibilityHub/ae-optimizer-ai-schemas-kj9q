@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What goes wrong when people try AI SEO too fast?",
+  "description": "The main failures are unowned content, poor fact-checking, outdated information, and pages that never answer the question clearly. AI speed without human review",
+  "url": "aeoptimizer.com/faq/what-goes-wrong-when-people-try-ai-seo-too-fast",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What goes wrong when people try AI SEO too fast?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest mistake is publishing AI-generated content without human ownership, fact-checking, or a clear purpose. Other common problems are weak page structure, outdated facts, and content that does not answer the user’s question quickly enough.",
+        "description": "The main failures are unowned content, poor fact-checking, outdated information, and pages that never answer the question clearly. AI speed without human review usually creates low-quality output."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

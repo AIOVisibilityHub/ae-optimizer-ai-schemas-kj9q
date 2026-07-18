@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is “AI citation tracking” and why does it matter for my business?",
+  "description": "AI citation tracking means systematically monitoring when AI assistants and AI search engines mention or recommend your brand, content, or products in their ans",
+  "url": "aeoptimizer.com/faq/what-exactly-is-ai-citation-tracking-and-why-does-it-matter-for-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is “AI citation tracking” and why does it matter for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI citation tracking is the practice of monitoring when and how AI assistants and AI search engines mention or recommend your brand, content, or products in their answers. It helps you understand your visibility in AI-driven recommendations and identify gaps where competitors are being cited instead.\n\nAs more people use tools like ChatGPT, Perplexity, and Google AI Overviews to make buying decisions, citations inside these systems function like a new kind of “search ranking.” Knowing whether you’re being cited, and under which prompts, is now essential for marketing, SEO, and brand strategy.\n\nKey factors:\n- Which AI platforms you monitor (ChatGPT, Perplexity, Gemini, Google AI Overviews, etc.)\n- The prompts and topics you test (informational, “best of”, comparisons)\n- How often your brand appears and in what position\n- Whether citations include links, brand mentions, or both\n\nPractically, you build a prompt library, run those prompts across major AI engines on a set cadence, and log whether you’re cited, how you’re described, and which competitors appear. Over time, you can tie citation trends to traffic, leads, and revenue.\n\nIf you treat AI citation tracking as a core visibility metric rather than a curiosity, it becomes a powerful input to content and growth strategy.",
+        "description": "AI citation tracking means systematically monitoring when AI assistants and AI search engines mention or recommend your brand, content, or products in their answers. It matters because these citations influence how often you’re chosen, how you compare to competitors, and where to focus content and SEO to grow AI-driven visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

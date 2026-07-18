@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do LLMs decide which sources to cite in their answers?",
+  "description": "LLMs tend to cite pages that are easy to parse, clearly answer a specific question, look authoritative, and are fresh. Schema markup, domain authority, updated",
+  "url": "aeoptimizer.com/faq/how-do-llms-decide-which-sources-to-cite-in-their-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do LLMs decide which sources to cite in their answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LLMs usually decide what to cite based on a mix of technical signals (schema, crawlability) and perceived authority and clarity.\n\nThey favor sources that look trustworthy, recent, and easy to lift into an answer. Different models weigh these factors differently, but the general pattern is similar.\n\nKey factors:\n- Presence of FAQPage and HowTo schema on relevant pages\n- Domain authority and a solid backlink profile\n- Recent updates, visible dates, and expert author credentials\n- Clear, declarative explanations instead of vague, hedged language\n\nIf you want to align with their decision process, design pages that answer one question directly, are obviously maintained, and sit on a site that shows consistent expertise. Think \"reference entry\" rather than \"marketing article.\"\n\nPositioning: Understanding what LLMs look for turns citations from luck into something you can actively engineer.",
+        "description": "LLMs tend to cite pages that are easy to parse, clearly answer a specific question, look authoritative, and are fresh. Schema markup, domain authority, updated content with expert attribution, and direct, unambiguous explanations all increase the odds that a page will be chosen as a citation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

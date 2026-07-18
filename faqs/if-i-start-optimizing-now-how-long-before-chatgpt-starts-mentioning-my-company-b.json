@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I start optimizing now, how long before ChatGPT starts mentioning my company by name?",
+  "description": "Expect at least a few months before you see your company mentioned in ChatGPT, and closer to 6–12 months for consistent visibility. It depends on how often craw",
+  "url": "aeoptimizer.com/faq/if-i-start-optimizing-now-how-long-before-chatgpt-starts-mentioning-my-company-b",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I start optimizing now, how long before ChatGPT starts mentioning my company by name?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You typically need a few months of sustained effort before you start seeing your brand appear in ChatGPT answers, and 6–12 months for consistent visibility.\nTiming depends on crawl frequencies, how competitive your niche is, and the strength of your existing footprint.\n\n**Key factors**\n- How fast search engines and AI crawlers discover and index your updates.\n- Whether you already rank for key searches.\n- Volume and quality of third‑party citations you earn.\n- How often models refresh their knowledge and retrieval layers.\n\nPlan for a 90‑day “proof of concept” where you publish pillar content, add schema, and secure a handful of strong citations.\nMonitor both web rankings and ChatGPT answers on a fixed prompt set each month.\nFrame this internally as a medium‑term visibility investment, not a quick hack.",
+        "description": "Expect at least a few months before you see your company mentioned in ChatGPT, and closer to 6–12 months for consistent visibility. It depends on how often crawlers index your content, how strong your current SEO is, and how quickly you earn credible third‑party citations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

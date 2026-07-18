@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why don’t AI tools mention my brand even though my SEO rankings look good?",
+  "description": "Strong SEO doesn’t automatically translate into AI visibility. If AI tools skip your brand, you probably lack clear, structured answers, robust FAQ/schema marku",
+  "url": "aeoptimizer.com/faq/why-don-t-ai-tools-mention-my-brand-even-though-my-seo-rankings-look-good",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why don’t AI tools mention my brand even though my SEO rankings look good?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your brand barely shows up in AI tools despite strong SEO, you likely lack clear, structured answers and third‑party authority that AI models rely on.\nSearch rankings alone don’t guarantee recommendation in conversational answers.\n\n**Key factors**\n- Content may be **fragmented** or buried in long paragraphs\n- Missing or weak **FAQ and schema markup**\n- Limited **high-authority mentions** on trusted external sites\n- Confusing or inconsistent brand **entity data** across the web\n\n**Practical guidance**\nAudit your top ranking pages from an AI perspective: can a model easily extract concise, self-contained answers about what you do, for whom, and why you’re credible?\nThen focus on cleaning up entity consistency and earning citations from respected publications and directories.\nThink “answerability,” not just “rankability.”",
+        "description": "Strong SEO doesn’t automatically translate into AI visibility. If AI tools skip your brand, you probably lack clear, structured answers, robust FAQ/schema markup, and authoritative third‑party mentions. Make your content easy to quote and reinforce your brand facts across trusted external sites."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

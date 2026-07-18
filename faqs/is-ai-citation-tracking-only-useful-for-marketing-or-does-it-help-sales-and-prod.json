@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI citation tracking only useful for marketing, or does it help sales and product too?",
+  "description": "AI citation tracking helps multiple teams. Marketing gets visibility and traffic insights, sales sees which competitors AI recommends, support checks answer acc",
+  "url": "aeoptimizer.com/faq/is-ai-citation-tracking-only-useful-for-marketing-or-does-it-help-sales-and-prod",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI citation tracking only useful for marketing, or does it help sales and product too?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI citation tracking isn’t just for marketing; product, sales, and support teams also benefit. Marketing sees visibility and traffic, sales sees which competitors AI recommends, and support sees how AI answers common questions about your product.\n\nContext: AI answers shape expectations across the customer journey, so limiting tracking to marketing misses key insights about perception and friction points.\n\nKey factors:\n- Marketing: brand visibility, share of voice, traffic.\n- Sales: competitor positioning and objection patterns.\n- Support: accuracy of AI answers to help-related queries.\n- Product: how features and use cases are described by AI.\n\nPractical guidance: Share your tracking sheet with cross-functional stakeholders and add columns for “sales impact” or “support accuracy.” Use regular reviews to tweak messaging, documentation, and positioning where AI answers are misleading or incomplete.\n\nSoft positioning: Treat AI citation tracking as a cross-team visibility tool, not just a marketing dashboard, to get full value from the effort.",
+        "description": "AI citation tracking helps multiple teams. Marketing gets visibility and traffic insights, sales sees which competitors AI recommends, support checks answer accuracy, and product learns how features are described. Share your tracking data across teams and use it to refine messaging, documentation, and positioning, not just SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I get my brand mentioned in ChatGPT if I have basically no budget and do most things myself?",
+  "description": "On a low budget, pick 5–10 real customer questions, create clear answer‑first pages with simple FAQs and basic schema, and show up in relevant online communitie",
+  "url": "aeoptimizer.com/faq/how-can-i-get-my-brand-mentioned-in-chatgpt-if-i-have-basically-no-budget-and-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I get my brand mentioned in ChatGPT if I have basically no budget and do most things myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re on a tight budget, focus on a narrow set of high‑value questions and use free or low‑cost tactics that move the needle most.\nYou don’t need a big team or expensive tools to start showing up.\n\n**Key factors**\n- Choose 5–10 queries that closely match your ideal customer’s questions.\n- Create simple, text‑first answer pages with clear headings and FAQs.\n- Use basic schema generators and open‑source SEO tools.\n- Participate in relevant communities (Reddit, forums) with real, helpful answers.\n\nAllocate a few hours a week to publishing and updating content, then sample ChatGPT answers monthly with your chosen prompts.\nPrioritize depth and clarity on fewer pages instead of thin content across many topics.\nFrame this as “focused expertise building” rather than trying to win the whole category overnight.",
+        "description": "On a low budget, pick 5–10 real customer questions, create clear answer‑first pages with simple FAQs and basic schema, and show up in relevant online communities with genuinely helpful replies. Test those prompts in ChatGPT monthly and improve the same few pages over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

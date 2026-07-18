@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should we do if AI tools are citing wrong or misleading information about our brand?",
+  "description": "When AI assistants cite incorrect information about your brand, document the answers, review and fix confusing or outdated content on your site and key third-pa",
+  "url": "aeoptimizer.com/faq/what-should-we-do-if-ai-tools-are-citing-wrong-or-misleading-information-about-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should we do if AI tools are citing wrong or misleading information about our brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Misleading or wrong AI citations about your brand are serious because they can shape user perception at scale. Your first step is to document the problematic answers, then correct the underlying content and, where possible, submit feedback through the AI platform’s mechanisms.\n\nAI models learn from published content patterns; fixing source material and clarifying facts increases the odds of better future answers.\n\nKey factors:\n- Severity of the misinformation (minor nuance vs major misrepresentation)\n- Which platforms and prompts produce it\n- Underlying sources that might be confusing the models\n- Availability of feedback or report channels\n\nCapture screenshots and full text of the problematic answers, then review your own site and key third-party coverage for ambiguous or outdated statements. Update and clarify those sources, and use platform feedback tools to flag specific issues with context. Monitor the same prompts regularly to see whether improvements take hold.\n\nTreat AI misinformation as both a reputational risk and a signal that your content needs clearer, more authoritative framing.",
+        "description": "When AI assistants cite incorrect information about your brand, document the answers, review and fix confusing or outdated content on your site and key third-party pages, and use platform feedback channels to flag issues. Then re-run the same prompts over time to see if answers improve."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

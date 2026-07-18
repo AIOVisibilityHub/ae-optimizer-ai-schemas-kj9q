@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do my AI visibility monitoring results keep changing, and what should I do when they suddenly drop?",
+  "description": "AI visibility is inherently volatile because models and cited content change over time. When results drop, compare old and new answers, see which domains are no",
+  "url": "aeoptimizer.com/faq/why-do-my-ai-visibility-monitoring-results-keep-changing-and-what-should-i-do-wh",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do my AI visibility monitoring results keep changing, and what should I do when they suddenly drop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It’s normal for AI visibility results to be inconsistent or to change unexpectedly, especially after model updates or major content changes across the web. The goal is to track trends and causes, not to freeze results.\n\nSudden swings can signal either model shifts or competitor moves that you should understand and respond to.\n\n**Key factors:**\n- Model or platform update announcements\n- New or refreshed content from you or competitors\n- Changes in which domains AI cites for key prompts\n- Monitoring cadence and historical logs\n\nWhen you see a sudden visibility drop, compare answer citations and framing before and after the change, and check whether competitors or new sources appeared. Adjust your content and partnerships accordingly, focusing on the domains and topics that currently influence answers. Maintain a log of notable shifts so you can correlate them with external events.\n\nTeams that expect some volatility and respond with data-driven content updates handle AI ecosystem changes more calmly and effectively.",
+        "description": "AI visibility is inherently volatile because models and cited content change over time. When results drop, compare old and new answers, see which domains are now being cited, and respond by updating your content and strengthening presence on the sources AI currently trusts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

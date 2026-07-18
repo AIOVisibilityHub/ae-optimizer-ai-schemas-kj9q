@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do robots.txt and llms.txt affect whether LLMs can cite my content?",
+  "description": "Robots.txt and llms.txt mainly determine whether AI crawlers can access your pages and how they’re allowed to use them. If key content is blocked, it can’t be c",
+  "url": "aeoptimizer.com/faq/how-do-robots-txt-and-llms-txt-affect-whether-llms-can-cite-my-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do robots.txt and llms.txt affect whether LLMs can cite my content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can use llms.txt and robots rules to allow or guide AI crawlers, but they’re advisory, not hard standards across all models.\n\nMost major LLMs respect common crawling conventions; some also recognize llms.txt as a signal for what’s allowed or preferred. None of this guarantees citations, but blocking access can prevent them entirely.\n\nKey factors:\n- Keep important content crawlable for AI-related user agents\n- Use llms.txt to express permissions and guidance for LLM usage\n- Avoid accidentally blocking key sections with over‑strict robots rules\n- Remember that access is necessary but not sufficient for being cited\n\nIn practice, audit your robots and llms.txt files, make sure your high‑value FAQ and documentation pages are accessible, and only restrict truly sensitive areas.\n\nPositioning: Technical access control is the foundation—without it, no amount of content or schema will ever turn into LLM citations.",
+        "description": "Robots.txt and llms.txt mainly determine whether AI crawlers can access your pages and how they’re allowed to use them. If key content is blocked, it can’t be cited. If it’s accessible and permissions are clear, you improve the chances that LLMs will consider it for citations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

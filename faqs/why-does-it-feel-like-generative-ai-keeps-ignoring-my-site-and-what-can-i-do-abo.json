@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does it feel like generative AI keeps ignoring my site, and what can I do about it?",
+  "description": "If AI seems to ignore your site, it’s usually because your content isn’t clearly answering real questions, lacks authority signals, or isn’t well structured for",
+  "url": "aeoptimizer.com/faq/why-does-it-feel-like-generative-ai-keeps-ignoring-my-site-and-what-can-i-do-abo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does it feel like generative AI keeps ignoring my site, and what can I do about it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If it feels like AI keeps ignoring your site, you’re probably missing one of three things: clear question coverage, strong authority signals, or machine-readable structure. You need to systematically audit and close those gaps.\n\nGenerative systems don’t “dislike” specific domains; they simply favor sources that look obviously helpful, credible, and easy to parse.\n\nKey factors:\n- Your content may be too generic, thin, or keyword-stuffed instead of question-driven\n- Authority may be weak: few external mentions, outdated data, or no expert voice\n- Technical issues like poor schema, slow pages, or weak internal linking can hurt\n- Brand signals (About page, team bios, contact details) may be underdeveloped\n\nPractically, run an AI visibility audit, test your pages in chatbots, and compare them to the sources AI *is* citing. Use that gap analysis to guide content rewrites and schema improvements.\n\nPersistent invisibility is usually fixable once you know why you’re being skipped.",
+        "description": "If AI seems to ignore your site, it’s usually because your content isn’t clearly answering real questions, lacks authority signals, or isn’t well structured for machines. Audit what AI is citing instead, then improve question coverage, schema, internal linking, and credibility so you look like the best source to quote."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much time should I realistically plan to spend on AI citation tracking each week?",
+  "description": "Expect 30–60 minutes a week once you’re set up. Use that time to run a fixed set of 20–30 prompts across key AI engines, log whether you’re cited or not, and re",
+  "url": "aeoptimizer.com/faq/how-much-time-should-i-realistically-plan-to-spend-on-ai-citation-tracking-each",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much time should I realistically plan to spend on AI citation tracking each week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a small team, plan to spend 30–60 minutes per week manually tracking AI citations once your system is set up. Initial configuration (prompt list, spreadsheet, analytics tags) may take a few hours, but weekly monitoring can be very lightweight.\n\nContext: AI answers change frequently, but you don’t need daily tracking unless you’re in a hyper-competitive category. A weekly or bi-weekly cadence is usually enough to catch big shifts.\n\nKey factors:\n- Upfront setup: prompts, logging template, analytics.\n- Number of AI engines you monitor regularly.\n- Depth of analysis (just “cited or not,” vs sentiment and share of voice).\n- Category volatility and business reliance on AI visibility.\n\nPractical guidance: Start with a monthly run; if you see frequent changes, move to weekly. For most B2B and SaaS teams, 30 minutes to log and review 20–30 prompts across a few engines is realistic.\n\nSoft positioning: As your volume and stakes grow, you can automate portions of this workflow with tools, but manual tracking is enough at the beginning.",
+        "description": "Expect 30–60 minutes a week once you’re set up. Use that time to run a fixed set of 20–30 prompts across key AI engines, log whether you’re cited or not, and review any major changes. You can start monthly and move to weekly if your category or results change quickly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

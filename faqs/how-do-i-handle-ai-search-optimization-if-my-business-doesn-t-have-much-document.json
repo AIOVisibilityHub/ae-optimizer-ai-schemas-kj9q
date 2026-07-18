@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I handle AI search optimization if my business doesn’t have much documentation or structured content yet?",
+  "description": "Begin by capturing and structuring your internal knowledge: interview experts, document the top recurring customer questions, and publish them as FAQs, how‑tos,",
+  "url": "aeoptimizer.com/faq/how-do-i-handle-ai-search-optimization-if-my-business-doesn-t-have-much-document",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I handle AI search optimization if my business doesn’t have much documentation or structured content yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have almost no documentation or process history, AI search optimization should start with **knowledge capture** and content restructuring. AI tools can’t recommend what they can’t see, and they especially struggle when expertise lives only in people’s heads.\n\nYour goal is to turn tribal knowledge into structured, answerable content.\n\nKey factors:\n- Interview subject‑matter experts and record common customer questions\n- Turn those into documented SOPs, FAQs, how‑tos, and troubleshooting guides\n- Organize content by themes and user intent, not departments\n- Add schema and internal links as your knowledge base grows\n\nPractically, start with the top 10–15 recurring questions your team answers by email or phone, and build a public knowledge hub around them.\n\nOnce that foundation exists, AI search optimization becomes far more effective because models finally have concrete, well‑structured information to work with.",
+        "description": "Begin by capturing and structuring your internal knowledge: interview experts, document the top recurring customer questions, and publish them as FAQs, how‑tos, and guides. Once this content exists and is organized with schema, AI tools have something solid to learn from and recommend."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

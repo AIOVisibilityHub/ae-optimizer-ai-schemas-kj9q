@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should we do if our AI visibility suddenly drops or answers turn negative?",
+  "description": "Treat a sudden drop in AI visibility like an incident. Verify which prompts and tools changed, check for recent site or branding updates, scan for new competito",
+  "url": "aeoptimizer.com/faq/what-should-we-do-if-our-ai-visibility-suddenly-drops-or-answers-turn-negative",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should we do if our AI visibility suddenly drops or answers turn negative?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI answers about your brand suddenly get worse—or you stop appearing—you need to treat it like an incident: investigate, triage, and respond.\nAct quickly but with a structured approach.\n\n**Key factors**\n- Confirm **scope**: which prompts, which tools, which markets\n- Check for recent **site changes, outages, or rebrands**\n- Look for new **competitor content or authority spikes**\n- Review any **negative coverage or reviews** that may be influencing answers\n\n**Practical guidance**\nDocument the before/after state of key AI answers, then map changes to what has shifted in your digital footprint.\nRollback or fix harmful site changes, address reputational issues, and reinforce your best content and third‑party signals.\nFollow up with more frequent monitoring until patterns stabilize.",
+        "description": "Treat a sudden drop in AI visibility like an incident. Verify which prompts and tools changed, check for recent site or branding updates, scan for new competitor or negative coverage, then fix content and authority issues. Increase monitoring until AI answers return to accurate, neutral or positive territory."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

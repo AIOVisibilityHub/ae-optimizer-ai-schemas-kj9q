@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do AI tools keep mentioning my competitors but ignore my brand, even though we’re similar?",
+  "description": "AI tools mention competitors instead of you when their content, citations, and entity signals are stronger for specific prompts. Study which pages and sources A",
+  "url": "aeoptimizer.com/faq/why-do-ai-tools-keep-mentioning-my-competitors-but-ignore-my-brand-even-though-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do AI tools keep mentioning my competitors but ignore my brand, even though we’re similar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI tools are mentioning my competitors but not my brand, it usually means they have stronger content, more trusted citations, or clearer entity signals for those prompts.\nContext: AI systems favor brands whose information is easy to understand, frequently referenced, and backed by reputable sources. Absence is a signal of a visibility and authority gap, not necessarily a penalty.\nKey factors:\n- Competitors likely own more “best of” and comparison content.\n- They may have richer schema and more consistent brand data.\n- Third-party reviews, media coverage, and community mentions add weight.\n- Your brand might be underrepresented or unclear for that topic or location.\nPractical guidance: Analyze AI answers to see which sources are cited for competitors, then model your strategy on those patterns—create similar but differentiated content, pursue those publications, and clean up your entity data and schema.\nSoft positioning: Treat competitor AI mentions as a roadmap for what you need to build, not a dead-end.",
+        "description": "AI tools mention competitors instead of you when their content, citations, and entity signals are stronger for specific prompts. Study which pages and sources AI is citing, then strengthen your own content, schema, and third‑party reviews to close those visibility gaps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

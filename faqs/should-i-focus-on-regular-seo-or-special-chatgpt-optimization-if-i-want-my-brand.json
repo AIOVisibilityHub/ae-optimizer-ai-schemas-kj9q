@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I focus on regular SEO or special \"ChatGPT optimization\" if I want my brand mentioned more often?",
+  "description": "You should primarily strengthen regular SEO—technical health, search‑driven content, and links—then layer ChatGPT‑specific tactics like answer‑first pages and F",
+  "url": "aeoptimizer.com/faq/should-i-focus-on-regular-seo-or-special-chatgpt-optimization-if-i-want-my-brand",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I focus on regular SEO or special \"ChatGPT optimization\" if I want my brand mentioned more often?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t choose between SEO and \"ChatGPT optimization\"—they’re tightly connected and should be done together.\nRanking in search and providing structured, answer‑first content both feed into being cited by AI.\n\n**Key factors**\n- Strong organic rankings increase the chance your pages are in training and retrieval sets.\n- Schema markup and FAQs help both search engines and ChatGPT.\n- High‑quality backlinks are still crucial for authority and discovery.\n- User‑focused content improves performance across all channels.\n\nIf you have limited resources, prioritize foundational SEO: technical health, relevant content, and links, then add AI‑specific tactics like BLUF writing and prompt‑driven content planning.\nUse your target ChatGPT prompts to inform which SEO pages you improve first.\nTreat AI visibility as an extension of good search practice, not a different sport.",
+        "description": "You should primarily strengthen regular SEO—technical health, search‑driven content, and links—then layer ChatGPT‑specific tactics like answer‑first pages and FAQ/schema on top. Search performance and AI visibility reinforce each other, so it’s not an either/or choice."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

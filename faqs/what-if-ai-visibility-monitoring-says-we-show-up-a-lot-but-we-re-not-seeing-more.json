@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if AI visibility monitoring says we show up a lot, but we’re not seeing more clicks or conversions?",
+  "description": "High visibility with low action usually means your brand is mentioned but not framed compellingly. Review how AI answers describe you and what next steps they s",
+  "url": "aeoptimizer.com/faq/what-if-ai-visibility-monitoring-says-we-show-up-a-lot-but-we-re-not-seeing-more",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if AI visibility monitoring says we show up a lot, but we’re not seeing more clicks or conversions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When AI visibility monitoring shows strong presence but weak clicks or conversions, it usually means your brand is mentioned yet not compelling enough for users to act. Visibility alone isn’t sufficient—you need answers that make people curious and confident.\n\nFocus on the quality of framing and the calls-to-action suggested in AI responses.\n\n**Key factors:**\n- How your brand is described (benefits, differentiation, clarity)\n- Whether AI answers mention next steps like trials, demos, or resources\n- Alignment between answer content and your landing pages\n- On-page experience when users do click through\n\nReview sample answers where you appear and ask whether they clearly communicate why someone should care and what they should do next. Update your content to better match the questions and highlight compelling reasons to engage. Where possible, refine your positioning on third-party sites that AI cites.\n\nTeams that treat AI visibility as the top of a funnel and intentionally design the “post-answer” experience see better downstream performance.",
+        "description": "High visibility with low action usually means your brand is mentioned but not framed compellingly. Review how AI answers describe you and what next steps they suggest, then update your content and positioning to better match user questions and drive trials, demos, or signups."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

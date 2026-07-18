@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I track when LLMs are citing my site or brand, and see changes over time?",
+  "description": "Set up a recurring audit: list your key questions, run them in major LLMs every month, and log every cited URL and domain. Watch for which explanations consiste",
+  "url": "aeoptimizer.com/faq/how-do-i-track-when-llms-are-citing-my-site-or-brand-and-see-changes-over-time",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I track when LLMs are citing my site or brand, and see changes over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monitoring LLM citations means regularly checking which of your pages AI systems are referencing for key queries and tracking changes over time.\n\nYou can’t rely on a single dashboard yet, so most teams combine manual prompts, periodic audits, and specialized tracking tools where available. The goal is to see where you’re already a source and where competitors are getting the credit.\n\nKey factors:\n- Define a set of priority questions and prompts\n- Test them monthly in tools like ChatGPT, Perplexity, and Gemini\n- Log cited URLs, domains, and whether your brand appears\n- Track drift: whether models keep citing you for the same explanation\n\nIn practice, build a simple spreadsheet, run your main prompts across multiple LLMs, and record every citation—direct links, mentions, and competitor wins. Use those insights to decide which pages to improve or where to publish new reference content.\n\nPositioning: Treat citation monitoring like rank tracking for the AI era—structured, repeated, and tied to specific questions.",
+        "description": "Set up a recurring audit: list your key questions, run them in major LLMs every month, and log every cited URL and domain. Watch for which explanations consistently pull your pages versus competitors, and treat that as your \"AI rankings\" to improve with targeted content updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

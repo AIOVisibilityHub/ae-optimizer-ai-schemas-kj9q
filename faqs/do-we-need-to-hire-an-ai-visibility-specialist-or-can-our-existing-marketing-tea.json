@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do we need to hire an AI visibility specialist, or can our existing marketing team handle this?",
+  "description": "You can start AI visibility work with your current marketing team by running audits and improving key content. Bring in a specialist or robust platform once you",
+  "url": "aeoptimizer.com/faq/do-we-need-to-hire-an-ai-visibility-specialist-or-can-our-existing-marketing-tea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do we need to hire an AI visibility specialist, or can our existing marketing team handle this?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most businesses can start AI visibility work without hiring a specialist, but expert support helps once you move beyond basic audits into systematic content and entity optimization.\nIt’s similar to when you outgrow purely DIY SEO.\n\n**Key factors**\n- Internal team’s **comfort** with AI tools, SEO, and analytics\n- Complexity of your **market, products, and buyer questions**\n- Need for **structured schema and data modeling**\n- Desire for ongoing **competitive monitoring**\n\n**Practical guidance**\nBegin with internal audits and simple content improvements; if you struggle to interpret results or implement changes, consider bringing in a specialist or using a platform with strong onboarding.\nUse external help for the heavy lifting while keeping strategic ownership in‑house.\nThat balance preserves institutional knowledge and agility.",
+        "description": "You can start AI visibility work with your current marketing team by running audits and improving key content. Bring in a specialist or robust platform once you need deeper schema work, complex entity clean‑up, or ongoing competitive monitoring that exceeds your team’s time or expertise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

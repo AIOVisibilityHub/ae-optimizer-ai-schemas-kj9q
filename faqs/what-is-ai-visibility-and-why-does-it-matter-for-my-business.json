@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is “AI visibility” and why does it matter for my business?",
+  "description": "AI visibility is how often and how accurately your brand appears in AI-generated answers from tools like ChatGPT, Perplexity, Gemini, and Google AI Overviews. I",
+  "url": "aeoptimizer.com/faq/what-is-ai-visibility-and-why-does-it-matter-for-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is “AI visibility” and why does it matter for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI visibility is how often and how accurately your brand shows up in answers from tools like ChatGPT, Perplexity, Gemini, and Google AI Overviews when people ask relevant questions.\nIt focuses on mentions and citations inside AI-generated responses rather than traditional search rankings.\n\n**Key factors**\n- Frequency of brand **mentions** in AI answers\n- Accuracy of how your products, pricing, and positioning are described\n- **Sentiment** (recommended, neutral, or cautionary)\n- Relative **share of voice** vs competitors\n\n**Practical guidance**\nStart by running 20–50 real buyer prompts about your category in major AI tools, then log when and how your brand appears.\nNote gaps where competitors show up and you do not, and use those to guide content and authority-building efforts.\nAI visibility is becoming a core discovery channel, so treating it like a measurable marketing metric keeps you ahead of slower-moving competitors.",
+        "description": "AI visibility is how often and how accurately your brand appears in AI-generated answers from tools like ChatGPT, Perplexity, Gemini, and Google AI Overviews. It matters because more accurate, frequent mentions mean more discovery, trust, and leads as buyers increasingly use AI tools instead of traditional search."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to pay or advertise to get mentioned in ChatGPT, and what does it realistically cost to do this right?",
+  "description": "You can’t buy placements in ChatGPT answers. Instead, you invest in top‑tier content, technical SEO (schema, crawlability), and outreach to earn citations on tr",
+  "url": "aeoptimizer.com/faq/do-i-have-to-pay-or-advertise-to-get-mentioned-in-chatgpt-and-what-does-it-reali",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to pay or advertise to get mentioned in ChatGPT, and what does it realistically cost to do this right?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t pay ChatGPT directly to be mentioned; the costs are in content creation, technical work, and outreach.\nMost businesses treat this as part of their SEO/content budget rather than a separate paid channel.\n\n**Key factors**\n- Content costs: strategy, writing, design, and updates.\n- Technical costs: schema, performance, crawlability improvements.\n- Outreach costs: time or tools for partnerships, directories, PR.\n- Optional: software for prompt testing and monitoring.\n\nOn a tight budget, focus on one or two high‑value questions and create “best anywhere” answer pages, then pursue a few targeted citations instead of broad campaigns.\nTrack organic and AI‑driven referrals to judge whether the investment is paying off.\nPosition this as a way to amplify existing SEO work rather than a new, unproven expense line.",
+        "description": "You can’t buy placements in ChatGPT answers. Instead, you invest in top‑tier content, technical SEO (schema, crawlability), and outreach to earn citations on trusted sites. Costs vary, but most companies fold this into their SEO/content budget, starting with a few key questions and pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

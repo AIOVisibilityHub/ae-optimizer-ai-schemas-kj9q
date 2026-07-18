@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI visibility monitoring shows that ChatGPT or Perplexity are describing my brand incorrectly?",
+  "description": "Document the wrong descriptions, identify which pages AI is using, then publish clear, updated content on your site and trusted third-party sites that corrects",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-visibility-monitoring-shows-that-chatgpt-or-perplexity-ar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI visibility monitoring shows that ChatGPT or Perplexity are describing my brand incorrectly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When AI visibility monitoring shows that assistants are getting your brand wrong, focus on publishing clear, authoritative content that corrects the narrative and is easy for models to learn from. Complaining about the result won’t change it; high-quality data will.\n\nYou need to fix both your own site and the third-party sources AI engines rely on.\n\n**Key factors:**\n- Identify which prompts and platforms produce incorrect descriptions\n- Check which URLs are being cited or referenced\n- Publish updated, accurate content on your domain and trusted third-party sites\n- Re-run affected prompts regularly to see when the description updates\n\nStart by listing specific inaccuracies (e.g., wrong pricing, outdated features, misclassified category) and mapping them to content gaps. Create or refresh pages that directly address these topics, and where possible, work with partners or directories that already rank and get cited to ensure they’re correct. Monitor changes over time.\n\nTeams that respond to misrepresentations with targeted content updates usually see AI descriptions self-correct as models refresh.",
+        "description": "Document the wrong descriptions, identify which pages AI is using, then publish clear, updated content on your site and trusted third-party sites that corrects the narrative. Re-run the same prompts over time—models tend to adjust as fresher, more accurate sources become available."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

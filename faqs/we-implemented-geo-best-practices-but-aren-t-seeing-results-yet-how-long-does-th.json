@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "We implemented GEO best practices but aren’t seeing results yet—how long does this usually take?",
+  "description": "GEO results rarely show up overnight. It often takes several weeks to a few months for search and generative engines to recrawl, reindex, and start citing your",
+  "url": "aeoptimizer.com/faq/we-implemented-geo-best-practices-but-aren-t-seeing-results-yet-how-long-does-th",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "We implemented GEO best practices but aren’t seeing results yet—how long does this usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delays in seeing GEO impact are normal—AI ecosystems don’t update in real time and need repeated exposure to your improved content. Expect a few weeks to a few months before you see consistent citation changes.\n\nDuring that window, you should keep testing and refining rather than assuming failure.\n\nKey factors:\n- Search engines need time to crawl, index, and incorporate structural changes.\n- Generative tools’ training and retrieval layers may lag behind web updates.\n- Competitive topics require stronger or more distinctive content to displace incumbents.\n- Sporadic testing can miss progress; you need consistent prompt tracking.\n\nIf results feel slow, confirm your technical setup is clean, then double‑check that your content truly answers questions better than existing cited sources. Document prompt tests monthly so you can spot trends.\n\nPatience plus iteration is part of GEO best practice—not every change will show immediate wins.",
+        "description": "GEO results rarely show up overnight. It often takes several weeks to a few months for search and generative engines to recrawl, reindex, and start citing your updated content. Use that time to keep refining structure, answers, and schema, and track prompt‑level changes monthly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

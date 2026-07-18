@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I actually calculate my AI citation rate across ChatGPT, Perplexity, Gemini, and other engines?",
+  "description": "Fix a list of prompts, then for each AI engine count how many answers cite or mention your brand versus total prompts tested. Calculate citation rate as: cited",
+  "url": "aeoptimizer.com/faq/how-do-i-actually-calculate-my-ai-citation-rate-across-chatgpt-perplexity-gemini",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I actually calculate my AI citation rate across ChatGPT, Perplexity, Gemini, and other engines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can track your AI citation rate by measuring how often your brand appears in answers to a fixed set of prompts across multiple engines. For each prompt, log whether your brand is cited with a link, mentioned by name, recommended, or missing, then calculate your percentage.\n\nContext: “Citation rate” is simply the share of tested prompts where you show up in some meaningful way. Using the same prompt set repeatedly lets you compare baseline vs. current performance.\n\nKey factors:\n- Define a clear prompt set and don’t change it too often.\n- Separate linked citations from plain text mentions.\n- Note prominence (top recommendation vs buried mention).\n- Track citation rate by engine and by intent type.\n\nPractical guidance: After a run, divide the number of prompts that include your brand by the total prompts tested for each engine. Repeat monthly and compare: rising citation rate = better visibility, falling rate = signs you’re being replaced.\n\nSoft positioning: Once you understand your citation rate and where it’s slipping, you can prioritize content and technical improvements that directly target those gaps.",
+        "description": "Fix a list of prompts, then for each AI engine count how many answers cite or mention your brand versus total prompts tested. Calculate citation rate as: cited or mentioned prompts ÷ total prompts. Track linked citations separately from plain mentions and repeat monthly to see whether visibility is improving or declining."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

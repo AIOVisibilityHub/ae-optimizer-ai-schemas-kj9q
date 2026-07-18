@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is an AI visibility audit and how does it work?",
+  "description": "An AI visibility audit is a structured test of how AI platforms mention and describe your brand. You run 30–50 real buyer prompts across tools like ChatGPT and",
+  "url": "aeoptimizer.com/faq/what-exactly-is-an-ai-visibility-audit-and-how-does-it-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is an AI visibility audit and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A basic AI visibility audit is a structured test of how AI platforms mention and describe your brand, and how that compares to competitors.\nIt uses a repeatable set of prompts and scoring rules rather than gut feel.\n\n**Key factors**\n- A curated list of **buyer-intent and comparison prompts**\n- Testing across several AI tools (ChatGPT, Perplexity, Gemini, Claude)\n- Logging **mentions, citations, sentiment, accuracy, and sources**\n- Calculating **share of voice** vs direct competitors\n\n**Practical guidance**\nDesign 30–50 prompts that mirror real questions your buyers ask, then run them in each platform and record results consistently.\nUse a simple scoring model to highlight where you are strong, invisible, or misrepresented.\nRepeat the audit quarterly to track progress and detect new competitive threats.",
+        "description": "An AI visibility audit is a structured test of how AI platforms mention and describe your brand. You run 30–50 real buyer prompts across tools like ChatGPT and Perplexity, log mentions, citations, sentiment, and competitors, then calculate your share of voice and identify accuracy gaps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

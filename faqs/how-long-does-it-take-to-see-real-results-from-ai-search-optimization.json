@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see real results from AI search optimization?",
+  "description": "Most businesses see meaningful changes in AI search visibility in 6–12 weeks, with faster wins from technical and schema fixes and slower gains from content and",
+  "url": "aeoptimizer.com/faq/how-long-does-it-take-to-see-real-results-from-ai-search-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see real results from AI search optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should expect 6–12 weeks to see meaningful shifts in AI search visibility, and longer for highly competitive categories. AI models update on slower cycles than traditional search indexes, and third‑party citations take time to be discovered and trusted.\n\nEarly wins often come from fixing access issues or adding missing schema; deeper content and entity work shows up later as models re‑crawl and retrain. Timelines vary by how often platforms refresh their knowledge.\n\nKey factors:\n- How quickly AI crawlers can reach your updated content\n- Whether you fix critical technical issues (robots, JavaScript, llms.txt)\n- The number and authority of new third‑party citations you earn\n- The recency and frequency of model or index updates\n\nPractically, plan in phases: technical and schema cleanup in month 1, content restructuring and FAQ work in months 1–2, and external citation building in months 2–3 and beyond.\n\nAI search optimization is an ongoing process, so treat early gains as signals and keep iterating rather than expecting overnight transformation.",
+        "description": "Most businesses see meaningful changes in AI search visibility in 6–12 weeks, with faster wins from technical and schema fixes and slower gains from content and citation work. Treat it as an ongoing process rather than a quick campaign."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

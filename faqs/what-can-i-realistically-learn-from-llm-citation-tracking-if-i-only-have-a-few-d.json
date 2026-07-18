@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can I realistically learn from LLM citation tracking if I only have a few days before a big launch or pitch?",
+  "description": "In a few days you can run 20–30 key prompts across major LLMs and see whether you’re mentioned, how you’re described, and which competitors dominate. It’s enoug",
+  "url": "aeoptimizer.com/faq/what-can-i-realistically-learn-from-llm-citation-tracking-if-i-only-have-a-few-d",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can I realistically learn from LLM citation tracking if I only have a few days before a big launch or pitch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you need quick answers—say for an upcoming launch in Austin or a pitch in Los Angeles—you can do a fast-pass LLM citation audit in a single day: run a small set of high-intent prompts and capture the most critical gaps and misalignments.\n\nContext: A compressed timeline isn’t ideal for trend analysis, but it’s enough to see who AI currently recommends, whether you appear at all, and what flavor of description prospects might see right now.\n\nKey factors:\n- Limit prompts to 20–30 that matter for your immediate decision.\n- Cover category, comparison, and brand validation queries.\n- Test across at least three major LLMs.\n- Focus on qualitative notes and glaring issues, not detailed metrics.\n\nPractical guidance: Treat this as a “triage” rather than a full program. Document the top problems (e.g., no mention, wrong positioning, competitor dominance) and convert them into a short list of content fixes to start immediately. \n\nSoft positioning: An urgent mini-audit can be a useful on-ramp into more systematic LLM citation tracking once the immediate crunch passes.",
+        "description": "In a few days you can run 20–30 key prompts across major LLMs and see whether you’re mentioned, how you’re described, and which competitors dominate. It’s enough for a “triage” view to spot glaring gaps and mispositioning before a launch or pitch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

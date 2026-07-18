@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If my site is already optimized for SEO, what’s the first thing I should do differently for generative AI search?",
+  "description": "Don’t rebuild your site. Start by auditing top pages and converting them to answer-first, Q&A-style content with FAQ/HowTo/Article schema. Make each page clearl",
+  "url": "aeoptimizer.com/faq/if-my-site-is-already-optimized-for-seo-what-s-the-first-thing-i-should-do-diffe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If my site is already optimized for SEO, what’s the first thing I should do differently for generative AI search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by mapping the real questions your audience asks and restructuring existing pages into answer-first Q&A formats backed by schema markup. You don’t need to rebuild your whole site—focus on high-impact pages and topics first.\n\nMost sites already have valuable content; the issue is structure and signals, not starting completely over. Generative engines favor pages that clearly map to user prompts and are easy to parse technically.\n\nKey factors:\n- Audit your top 20–50 pages by traffic and conversions\n- Rewrite intros to answer the main question in 1–2 sentences\n- Add FAQ sections with individual questions and concise answers\n- Layer in JSON-LD schema (FAQPage, HowTo, Article) and tighten internal links\n\nPractically, run your key pages through an AI tool and ask it to answer core questions using only that URL—if it struggles or mis-summarizes, reformat for clarity. Treat this as an iterative retrofit, not a full rebuild.\n\nThis approach lets you modernize for generative search while preserving the SEO equity you already have.",
+        "description": "Don’t rebuild your site. Start by auditing top pages and converting them to answer-first, Q&A-style content with FAQ/HowTo/Article schema. Make each page clearly answer specific user questions and be easy for AI systems to parse, cite, and summarize."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

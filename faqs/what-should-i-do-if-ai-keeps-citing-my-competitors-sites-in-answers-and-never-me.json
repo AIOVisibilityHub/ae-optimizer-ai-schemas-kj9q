@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI keeps citing my competitors’ sites in answers and never mentions my brand at all?",
+  "description": "Study the competitor pages that AI cites: their structure, headings, data, and comparisons. Then upgrade your content to be clearer, more comprehensive, and bet",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-keeps-citing-my-competitors-sites-in-answers-and-never-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI keeps citing my competitors’ sites in answers and never mentions my brand at all?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI keeps citing your competitors, you need to study their cited pages and adjust your content and positioning, not just add more keywords.\n\nAI tools are signaling that those competitors’ pages are easier to summarize, more authoritative, or more comprehensive for the specific questions being asked.\n\nKey factors:\n- Analyze cited competitor pages: structure, headings, data, comparisons, and tone.\n- Check whether they cover more entities, options, or scenarios than you do.\n- Identify gaps in your own content: missing tables, unclear answers, few examples.\n- Ensure your brand signals (bios, reviews, third-party mentions) aren’t weaker.\n\nThen build or upgrade pages that are objectively more useful than competitor pages for those queries.\nYou’re aiming to be the “best training data” in the category, not merely another similar source.",
+        "description": "Study the competitor pages that AI cites: their structure, headings, data, and comparisons. Then upgrade your content to be clearer, more comprehensive, and better supported by schema and trust signals. Your goal is to become the most useful, summarizable source for those queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

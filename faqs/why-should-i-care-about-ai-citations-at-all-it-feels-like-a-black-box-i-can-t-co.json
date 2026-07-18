@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should I care about AI citations at all? It feels like a black box I can’t control, so isn’t this just a distraction from real marketing?",
+  "description": "AI citations are testable and observable, not pure guesswork. You can run queries, log when you’re mentioned, monitor referral and branded traffic, and focus on",
+  "url": "aeoptimizer.com/faq/why-should-i-care-about-ai-citations-at-all-it-feels-like-a-black-box-i-can-t-co",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should I care about AI citations at all? It feels like a black box I can’t control, so isn’t this just a distraction from real marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t have to rely blindly on AI tools; you can regularly test them, log results, and decide whether the visibility you’re getting justifies the effort.\n\nAI citation optimization isn’t magic or opaque if you treat it like an experiment you can inspect and adjust over time.\n\nKey factors:\n- You can run your own queries and capture screenshots of answers that mention you.\n- You can track referral traffic and branded search alongside those tests.\n- You can pivot your strategy if citations aren’t driving meaningful visibility or trust.\n- You can prioritize queries where AI answers are clearly influencing decisions.\n\nSet expectations internally that this is an observable channel with measurable signals, not a black box.\nIf, after testing, AI visibility doesn’t support your goals, you can consciously reallocate effort instead of “trusting the algorithm.”",
+        "description": "AI citations are testable and observable, not pure guesswork. You can run queries, log when you’re mentioned, monitor referral and branded traffic, and focus on decision-stage questions where AI answers influence buyers. If testing shows low value, you can consciously deprioritize them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

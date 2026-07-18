@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How important are the technical details (schema, robots.txt, etc.) for getting mentioned in ChatGPT, and what should I fix first?",
+  "description": "Technical basics are critical. Ensure your key content is in plain HTML, pages are fast and reliably available, robots.txt doesn’t block important sections, and",
+  "url": "aeoptimizer.com/faq/how-important-are-the-technical-details-schema-robots-txt-etc-for-getting-mentio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How important are the technical details (schema, robots.txt, etc.) for getting mentioned in ChatGPT, and what should I fix first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technical factors matter because if crawlers can’t easily read and interpret your site, your content won’t be considered, no matter how good it is.\nYou need a solid technical base before expecting AI mentions.\n\n**Key factors**\n- Crawlable HTML (avoid burying key info in images, PDFs, or heavy JS).\n- Fast page load times and reliable uptime.\n- Clean robots.txt and sitemaps that allow AI and search crawlers.\n- Valid schema markup for FAQs, articles, products, and organization.\n\nHave your team or a specialist run a technical audit focusing on crawlability and schema, then fix any blockers and mark up your most important pages first.\nRe‑test using tools that simulate crawlers to confirm they can access the content.\nOnce the site is technically healthy, every content and outreach effort is more likely to translate into mentions.",
+        "description": "Technical basics are critical. Ensure your key content is in plain HTML, pages are fast and reliably available, robots.txt doesn’t block important sections, and you use valid schema (FAQ, Article, Product, Organization). Without this, even great content is unlikely to be cited by ChatGPT."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

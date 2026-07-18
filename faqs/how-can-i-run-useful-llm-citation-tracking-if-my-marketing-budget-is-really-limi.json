@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I run useful LLM citation tracking if my marketing budget is really limited right now?",
+  "description": "Focus on a small set of revenue-critical prompts, use free tiers of major LLMs, and log results in a shared spreadsheet monthly. This lean approach keeps costs",
+  "url": "aeoptimizer.com/faq/how-can-i-run-useful-llm-citation-tracking-if-my-marketing-budget-is-really-limi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I run useful LLM citation tracking if my marketing budget is really limited right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When budgets are tight, narrow your LLM citation tracking to a small, high-impact prompt set and use free or low-cost methods: direct queries in LLMs, spreadsheets, and simple scripts that call public APIs within usage limits.\n\nContext: Many teams in Salt Lake City or Boulder operate with constrained budgets but still need visibility into AI-driven discovery. You don’t need full-featured dashboards to get meaningful directional insights.\n\nKey factors:\n- Limit prompts to those closest to revenue.\n- Use free tiers of major LLMs for testing.\n- Store results in a shared spreadsheet for the team.\n- Reassess tool spend only after proving value.\n\nPractical guidance: Commit to tracking 30–40 prompts that truly matter, run them monthly, and have one owner summarize key changes in a one-page memo. Use that memo to justify any future spend on tools if the impact is clear. \n\nSoft positioning: A focused, low-cost LLM citation tracking program beats an expensive, sprawling setup that produces more data than your team can act on.",
+        "description": "Focus on a small set of revenue-critical prompts, use free tiers of major LLMs, and log results in a shared spreadsheet monthly. This lean approach keeps costs near zero while still showing whether AI mentions and cites you where it matters most."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the simplest way to start tracking AI citations for my brand without buying a tool?",
+  "description": "Start with a spreadsheet and 10–20 realistic customer prompts. Run each prompt across ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews in incognito,",
+  "url": "aeoptimizer.com/faq/what-s-the-simplest-way-to-start-tracking-ai-citations-for-my-brand-without-buyi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the simplest way to start tracking AI citations for my brand without buying a tool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need a tool to start tracking AI citations; begin by building a small prompt list and logging results in a simple spreadsheet. Run 10–20 realistic questions your buyers would ask across ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews, then record whether your brand is mentioned, linked, or missing.\n\nContext: AI engines rotate their citations frequently, so you need a consistent method more than fancy software. A lightweight manual process lets you understand your baseline visibility before you invest in automation.\n\nKey factors:\n- Define 10–20 buyer-style prompts (informational, “best of,” and comparison).\n- Test the same prompts across multiple AI engines.\n- Log brand mentions, links, position in the answer, and sentiment.\n- Repeat weekly or monthly to see trends instead of one-off snapshots.\n\nPractical guidance: Open an incognito window, run each prompt, copy the answer text, and log who’s cited and where. After 3–4 cycles, you’ll see patterns: where you show up, where competitors dominate, and which queries drive the best citations.\n\nSoft positioning: Once this manual system is working, you can decide whether specialized tools or automation will save you time at your current scale.",
+        "description": "Start with a spreadsheet and 10–20 realistic customer prompts. Run each prompt across ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews in incognito, then log whether your brand is mentioned or linked, where it appears, and the sentiment. Repeat weekly or monthly to build trend data before worrying about dedicated tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

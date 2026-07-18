@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if LLM citation tracking shows that my brand basically never gets cited in AI answers?",
+  "description": "If you’re rarely cited, deepen and restructure content around the queries you track, add distinctive data or expertise, and study which competitor pages are bei",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-llm-citation-tracking-shows-that-my-brand-basically-never-ge",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if LLM citation tracking shows that my brand basically never gets cited in AI answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your brand isn’t being cited, focus on three levers: publish more authoritative content on the queries you’re tracking, structure it clearly for machines, and make sure it includes distinctive data or expertise that LLMs can’t easily get elsewhere.\n\nContext: Lack of citations in Denver or Salt Lake City isn’t usually “bias” against smaller markets—it's more often a content and authority gap. AI systems tend to favor pages that are comprehensive, well-structured, and already referenced online.\n\nKey factors:\n- Expand content depth on high-value topics.\n- Use strong structure: headings, tables, FAQ sections, schema.\n- Add external references and original research to build authority.\n- Monitor competitor pages that are currently being cited.\n\nPractical guidance: Compare your uncited pages to competitors’ cited pages for the same prompts, then systematically close gaps in detail, clarity, and uniqueness. Re-run your citation tracking after each major update to see if AI responses shift. \n\nSoft positioning: Think of “no citations yet” as a roadmap, not a verdict—it shows exactly where your content needs to become more authoritative and machine-understandable.",
+        "description": "If you’re rarely cited, deepen and restructure content around the queries you track, add distinctive data or expertise, and study which competitor pages are being cited. Then update your pages to close those gaps and re-run your prompts to see if AI responses start shifting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

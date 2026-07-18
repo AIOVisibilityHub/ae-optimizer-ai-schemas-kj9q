@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI tools keep getting my services wrong or mixing us up with another company?",
+  "description": "Identify specific AI answers that are wrong, trace them back to likely source pages, and then fix both your own content and misleading third‑party descriptions.",
+  "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-tools-keep-getting-my-services-wrong-or-mixing-us-up-with",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI tools keep getting my services wrong or mixing us up with another company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When AI tools describe your services incorrectly, treat it like any other reputation or messaging problem: diagnose the sources and systematically correct them.\nYou need both content fixes and external corroboration.\n\n**Key factors**\n- Identify **which answers** are wrong and **which sources** they appear to use\n- Update and clarify your own **service pages and FAQs**\n- Correct or remove inaccurate **third‑party descriptions** where possible\n- Publish **authoritative explanations** on trusted external sites\n\n**Practical guidance**\nDocument specific misstatements, then map them to the web pages or profiles they likely come from.\nReplace vague or outdated copy with precise, up-to-date explanations, and consider publishing “What we do” explainers on respected industry platforms.\nMonitor AI answers monthly until they reflect the corrected narrative.",
+        "description": "Identify specific AI answers that are wrong, trace them back to likely source pages, and then fix both your own content and misleading third‑party descriptions. Strengthen clear service explanations and FAQs on authoritative sites, then recheck AI tools until they reflect your corrected positioning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it usually take to see results from AI visibility work?",
+  "description": "You can measure AI visibility in a few days, but seeing real improvement typically takes 1–3 months. You’ll need time to fix content, secure third‑party authori",
+  "url": "aeoptimizer.com/faq/how-long-does-it-usually-take-to-see-results-from-ai-visibility-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it usually take to see results from AI visibility work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can get a rough baseline of AI visibility in a weekend, but meaningful improvement usually takes 1–3 months of focused work.\nTimeframes depend on how much content and authority you already have.\n\n**Key factors**\n- **Audit speed:** 1–3 days for a structured prompt-based audit\n- **Content fixes:** 2–8 weeks to create and update strategic pages\n- **Third-party signals:** several weeks to secure high-authority mentions\n- **Model refresh cycles:** AI tools update their knowledge at different cadences\n\n**Practical guidance**\nPlan on a quick initial audit, then a 90‑day sprint to fix content, consolidate brand facts, and earn authoritative citations.\nMonitor monthly to see when AI tools start reflecting those changes, and adjust your strategy based on what moves the needle fastest.\nSetting realistic expectations prevents you from abandoning the effort just before results show up.",
+        "description": "You can measure AI visibility in a few days, but seeing real improvement typically takes 1–3 months. You’ll need time to fix content, secure third‑party authority, and wait for AI tools to refresh their knowledge before your brand shows up more often and more accurately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

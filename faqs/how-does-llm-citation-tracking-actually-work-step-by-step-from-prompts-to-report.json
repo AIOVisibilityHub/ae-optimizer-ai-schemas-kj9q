@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does LLM citation tracking actually work step by step, from prompts to reports?",
+  "description": "You define a fixed list of real buyer prompts, run them regularly in major LLMs, and log whether you’re mentioned, cited, and how you’re described. Then you ana",
+  "url": "aeoptimizer.com/faq/how-does-llm-citation-tracking-actually-work-step-by-step-from-prompts-to-report",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does LLM citation tracking actually work step by step, from prompts to reports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The basic process is to define a fixed set of buyer-like prompts, run them across major LLMs on a regular schedule, and log whether your brand is mentioned or cited, how accurately, and in what context. Over time you analyze those logs for patterns and gaps.\n\nContext: A good workflow mirrors SEO rank-tracking but tuned for AI answers instead of search results. You’re not just measuring visibility—you’re auditing *how* AI describes and positions you relative to competitors.\n\nKey factors:\n- Prompt design: capture category, comparison, and problem queries.\n- Platform coverage: track at least 3–4 major LLMs consistently.\n- Scoring: mention vs citation, sentiment, and link destination.\n- Cadence: weekly or bi-weekly runs with the same prompt set.\n\nPractical guidance: Use a shared spreadsheet or simple database to store runs, then chart mention rate, citation rate, and competitor share of voice. Add a short qualitative note per prompt when descriptions are off or harmful. \n\nSoft positioning: A structured, repeatable process is more valuable than one-off experiments, because it turns LLM citation tracking into a reliable visibility metric you can manage.",
+        "description": "You define a fixed list of real buyer prompts, run them regularly in major LLMs, and log whether you’re mentioned, cited, and how you’re described. Then you analyze those logs over time for trends, gaps, and competitor share of voice, similar to SEO rank tracking but for AI answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

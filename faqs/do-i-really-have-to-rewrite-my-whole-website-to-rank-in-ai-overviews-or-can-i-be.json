@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really have to rewrite my whole website to rank in AI Overviews, or can I be selective?",
+  "description": "Be selective. Start by deeply optimizing 5–15 high‑value pages that already rank or nearly rank for question‑style queries, using Q&A structure, schema, and per",
+  "url": "aeoptimizer.com/faq/do-i-really-have-to-rewrite-my-whole-website-to-rank-in-ai-overviews-or-can-i-be",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really have to rewrite my whole website to rank in AI Overviews, or can I be selective?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need to rewrite your entire site for AI Overviews; start by heavily optimizing a small set of pages that already rank or almost rank for question‑style queries. Then expand changes to other content based on what works.\n\nA full rewrite can be wasteful if you haven’t validated which structures and topics actually earn citations. Iteration beats wholesale overhaul.\n\nKey factors:\n- Identify pages with impressions or near‑page‑one positions\n- Prioritize high‑value, informational queries\n- Apply Q&A structure, schema, and performance fixes\n- Measure impact before scaling changes\n\nBegin with 5–15 “pilot” pages, redesigning them around user questions and concise answers. After 8–12 weeks, apply winning patterns to other content.\n\nThis phased approach minimizes risk and lets you learn how AI responds to your specific site and niche.",
+        "description": "Be selective. Start by deeply optimizing 5–15 high‑value pages that already rank or nearly rank for question‑style queries, using Q&A structure, schema, and performance improvements. Measure AI Overview impact, then roll successful patterns out to the rest of your site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

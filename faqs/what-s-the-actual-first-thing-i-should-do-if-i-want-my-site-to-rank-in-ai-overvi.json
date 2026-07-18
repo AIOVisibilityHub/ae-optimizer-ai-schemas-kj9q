@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the actual first thing I should do if I want my site to rank in AI Overviews?",
+  "description": "Start by getting your pages into the top 10 organic results for question‑style queries, then rewrite those pages so each key heading asks a real question and op",
+  "url": "aeoptimizer.com/faq/what-s-the-actual-first-thing-i-should-do-if-i-want-my-site-to-rank-in-ai-overvi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the actual first thing I should do if I want my site to rank in AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t “apply” to rank in AI Overviews—you earn it by having pages that already rank in the top 10 and that answer specific questions clearly and completely in a way AI can easily quote. Most sites need 4–12 weeks of consistent optimization to start seeing citations.\n\nAI Overviews mainly pull from high‑ranking, credible pages with clear question‑and‑answer structure, strong authority signals, and clean technical SEO. If your pages aren’t on page one yet, focus on traditional SEO while restructuring content for AI extraction.\n\nKey factors:\n- Already ranking in the **top 10** for the query\n- Concise, self‑contained answer passages near the top\n- Strong E‑E‑A‑T (expertise, experience, authority, trust)\n- Fast, mobile‑friendly, crawlable site with proper schema\n\nStart by picking 10–20 question‑style keywords, improving their organic rankings, then rewriting those pages so each H2 poses a question and opens with a 2–3 sentence direct answer. Monitor impressions and citations in Search Console and refine content monthly.\n\nHandled well, this turns “how do we rank in AI Overviews?” into a repeatable content and SEO process, not a one‑time trick.",
+        "description": "Start by getting your pages into the top 10 organic results for question‑style queries, then rewrite those pages so each key heading asks a real question and opens with a 2–3 sentence direct answer. Without page‑one rankings and clear answer passages, AI Overviews are unlikely to cite your site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

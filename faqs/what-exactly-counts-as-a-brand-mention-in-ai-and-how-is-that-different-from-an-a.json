@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly counts as a “brand mention” in AI, and how is that different from an AI citation or source link?",
+  "description": "A brand mention is when an AI answer names your brand, product, or organization in the text, with or without a link. A citation is the specific source the AI at",
+  "url": "aeoptimizer.com/faq/what-exactly-counts-as-a-brand-mention-in-ai-and-how-is-that-different-from-an-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly counts as a “brand mention” in AI, and how is that different from an AI citation or source link?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI brand mentions are any instance where an AI system names your brand, product, or organization in a generated answer, regardless of whether there’s a link.\nContext: That could be in recommendations, comparisons, summaries, or “best of” lists. Citations, on the other hand, are the specific sources the AI attributes its answer to, often as links or reference notes.\nKey factors:\n- Mentions = brand name appears in the narrative answer.\n- Citations = underlying sources the AI says it used.\n- You can be mentioned without being cited, and vice versa.\n- Both matter: mentions for awareness, citations for authority and click-through.\nPractical guidance: When auditing AI answers, record both whether your brand is named and whether your site or profiles are cited. Use that distinction to decide whether you need more authoritative third-party content (citations) or clearer, brand-led messaging (mentions).\nSoft positioning: Think of mentions as “front-of-stage visibility” and citations as “backstage credibility” and optimize for both together.",
+        "description": "A brand mention is when an AI answer names your brand, product, or organization in the text, with or without a link. A citation is the specific source the AI attributes its answer to. Mentions drive visibility; citations signal authority and usually carry the link."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

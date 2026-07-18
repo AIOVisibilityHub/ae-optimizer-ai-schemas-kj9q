@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do Google’s AI Overviews actually decide which sites to quote and rank?",
+  "description": "AI Overviews mainly choose pages already ranking on page one, then lift short, self‑contained passages that directly answer the query and its sub‑questions. If",
+  "url": "aeoptimizer.com/faq/how-do-google-s-ai-overviews-actually-decide-which-sites-to-quote-and-rank",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do Google’s AI Overviews actually decide which sites to quote and rank?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Overviews mostly pull from pages that already rank on page one for a query, then quote self‑contained passages that directly answer the user’s question. Your job is to engineer those passages and authority signals so you’re the easiest page to cite.\n\nGoogle’s AI analyzes the query, expands it into sub‑questions, finds high‑ranking pages, and extracts short, clear answer blocks. Pages with question‑based headings, concise answers, and supporting detail tend to be favored.\n\nKey factors:\n- Strong organic ranking for the base keyword\n- Question‑shaped H2/H3 headings\n- 2–3 sentence summary answers at the top of each section\n- Schema that clarifies FAQ, HowTo, and article content\n\nMap the fan‑out of questions around your main keyword, then structure each page so it logically walks through those sub‑questions in order. Make each paragraph self‑contained, accurate, and easy to quote.\n\nWhen you understand how AI Overviews assemble answers, you stop guessing and start designing your content to be the default citation.",
+        "description": "AI Overviews mainly choose pages already ranking on page one, then lift short, self‑contained passages that directly answer the query and its sub‑questions. If your content is clearly structured as questions with concise answers and strong authority signals, you’re more likely to be quoted."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

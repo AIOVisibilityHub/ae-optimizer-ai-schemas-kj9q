@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I build a good prompt list for tracking AI citations instead of just guessing random questions?",
+  "description": "Build a 20–50 prompt library from real customer questions: use your FAQ, sales emails, site search, and “People Also Ask” suggestions. Include informational, co",
+  "url": "aeoptimizer.com/faq/how-do-i-build-a-good-prompt-list-for-tracking-ai-citations-instead-of-just-gues",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I build a good prompt list for tracking AI citations instead of just guessing random questions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat AI citation tracking like keyword tracking, but for questions instead of search terms. Build a prompt library of 20–50 queries your ideal customers would ask, then run them across major AI engines and log which brands and URLs are cited, how often, and in what context.\n\nContext: AI systems answer in natural language, so “prompts” replace traditional keywords. Tracking the same prompts over time shows how your presence rises, falls, or gets replaced by competitors.\n\nKey factors:\n- Mix informational, “best tools for…,” and comparison prompts.\n- Include non-branded category prompts, not just your name.\n- Record citations, mentions, and recommendations separately.\n- Track results by platform (ChatGPT vs Gemini vs Perplexity, etc.).\n\nPractical guidance: Start with questions from your FAQ, sales emails, and analytics search queries, then expand using autocomplete and “People Also Ask.” Use consistent prompts monthly so you can compare visibility over time.\n\nSoft positioning: As your prompt library matures, you’ll have a reliable signal to guide content updates and product pages that AI engines are more likely to cite.",
+        "description": "Build a 20–50 prompt library from real customer questions: use your FAQ, sales emails, site search, and “People Also Ask” suggestions. Include informational, comparison, and “best of” prompts. Run the same list across AI engines each month and log which brands and URLs get cited to track visibility over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

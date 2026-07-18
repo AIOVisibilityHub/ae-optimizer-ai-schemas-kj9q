@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if better AI visibility is actually improving leads or revenue, not just vanity metrics?",
+  "description": "Track AI visibility metrics (mentions, citations, framing) alongside branded search, direct traffic, and key conversions. If improved presence in AI answers lin",
+  "url": "aeoptimizer.com/faq/how-do-i-know-if-better-ai-visibility-is-actually-improving-leads-or-revenue-not",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if better AI visibility is actually improving leads or revenue, not just vanity metrics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To connect AI visibility monitoring to business outcomes, you need to track a few downstream metrics alongside visibility and citations. The goal is to see whether improved presence in AI answers correlates with more branded search, visits, demos, or sales.\n\nThis turns visibility work from “vanity metrics” into measurable impact on growth.\n\n**Key factors:**\n- Branded search volume in tools like Search Console\n- Direct traffic and AI-referred visits\n- Demo requests, trials, signups, or key conversions\n- Changes in lead quality after visibility improves\n\nSet a baseline for both visibility metrics and business KPIs, then monitor them together over time. Tag major content or visibility initiatives and look for lagged changes in branded search or conversions. Avoid attributing every fluctuation to AI, but watch for consistent patterns when AI recommendations increase.\n\nTeams that tie AI visibility monitoring to a small set of business KPIs are better positioned to keep leadership support and justify ongoing investment.",
+        "description": "Track AI visibility metrics (mentions, citations, framing) alongside branded search, direct traffic, and key conversions. If improved presence in AI answers lines up with sustained lifts in those KPIs, you can confidently tie visibility gains to real business outcomes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

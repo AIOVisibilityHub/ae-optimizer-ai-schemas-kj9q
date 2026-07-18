@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI search optimization really worth the effort, or is it just hype?",
+  "description": "It’s worth it if your customers use AI tools to research and compare options—ignoring it means you may never be mentioned in those answers. Treat AI search opti",
+  "url": "aeoptimizer.com/faq/is-ai-search-optimization-really-worth-the-effort-or-is-it-just-hype",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI search optimization really worth the effort, or is it just hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI search optimization is worth it if AI tools already influence how your customers research, compare, or choose providers—and that’s becoming true in most B2B and local service categories. If you ignore it, you risk disappearing from recommendation‑style answers.\n\nIt’s less about chasing a trend and more about protecting and growing your share of voice as search behavior shifts from keywords to questions.\n\nKey factors:\n- Whether your audience is using AI assistants or AI Overviews in your niche\n- How much your business depends on discovery and comparison queries\n- Current visibility vs competitors in AI answers\n- Ability to repurpose SEO work into AI‑friendly structures\n\nPractically, run a quick test: ask AI tools for “best [your category] near me” and core comparison questions; if you don’t appear, the opportunity cost is already real.\n\nFor most digital‑dependent businesses, AI search optimization is now a necessary extension of SEO, not an optional experiment.",
+        "description": "It’s worth it if your customers use AI tools to research and compare options—ignoring it means you may never be mentioned in those answers. Treat AI search optimization as an extension of SEO that protects and grows your visibility as search shifts to conversational queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

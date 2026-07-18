@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should we be checking and tracking our AI visibility?",
+  "description": "Most teams should run a full AI visibility audit quarterly and do quick spot checks on a few high‑value prompts monthly. This cadence lets you catch shifts in h",
+  "url": "aeoptimizer.com/faq/how-often-should-we-be-checking-and-tracking-our-ai-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should we be checking and tracking our AI visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Best practice is to monitor AI visibility at least quarterly, with light checks monthly if your market is fast-moving.\nYou want to catch shifts in recommendations before they impact pipeline.\n\n**Key factors**\n- **Quarterly audits** with full prompt sets and competitor analysis\n- **Monthly spot checks** on a handful of “money prompts”\n- Extra reviews after major **site changes or campaigns**\n- Ongoing log of answer changes and new competitors\n\n**Practical guidance**\nDefine a small set of high-value prompts and track them monthly, then run a broader 30–50 prompt audit every quarter.\nUse a consistent template so you can compare results over time.\nThink of AI visibility monitoring like performance analytics, not a one‑time project.",
+        "description": "Most teams should run a full AI visibility audit quarterly and do quick spot checks on a few high‑value prompts monthly. This cadence lets you catch shifts in how AI tools recommend or describe your brand without turning monitoring into a daily burden."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

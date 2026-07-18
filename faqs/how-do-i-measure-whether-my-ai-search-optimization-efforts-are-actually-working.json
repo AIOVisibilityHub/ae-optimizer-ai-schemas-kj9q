@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I measure whether my AI search optimization efforts are actually working?",
+  "description": "Measure AI visibility (% of prompts where you’re mentioned), share of voice versus competitors, how often your content is cited, and the accuracy of how AI tool",
+  "url": "aeoptimizer.com/faq/how-do-i-measure-whether-my-ai-search-optimization-efforts-are-actually-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I measure whether my AI search optimization efforts are actually working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should track whether AI tools mention your brand, how often, in what context, and compared to competitors. Traditional metrics like organic traffic still matter, but they won’t tell you if you’re winning conversational answers and recommendations.\n\nThink in terms of visibility, share of voice, and citations.\n\nKey factors:\n- AI visibility: % of tested prompts where your brand appears at all\n- Share of voice: how often you’re mentioned vs specific competitors\n- Citation depth: how many times your own content is cited or linked\n- Accuracy: whether descriptions of your services and locations are correct\n\nPractically, maintain a recurring testing sheet: run the same set of prompts monthly and chart movement in mentions, citations, and accuracy over time.\n\nThese measurements turn AI search optimization from a vague experiment into a trackable, accountable part of your search strategy.",
+        "description": "Measure AI visibility (% of prompts where you’re mentioned), share of voice versus competitors, how often your content is cited, and the accuracy of how AI tools describe you. Run a fixed set of prompts monthly and track changes to see whether optimization efforts are paying off."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

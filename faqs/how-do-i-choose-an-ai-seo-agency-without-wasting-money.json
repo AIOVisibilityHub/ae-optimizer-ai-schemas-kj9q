@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose an AI SEO agency without wasting money?",
+  "description": "Choose a provider that explains its process, metrics, and priorities clearly. Avoid anyone who sells hype, guaranteed outcomes, or vague deliverables.",
+  "url": "aeoptimizer.com/faq/how-do-i-choose-an-ai-seo-agency-without-wasting-money",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose an AI SEO agency without wasting money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for providers who explain their method, show how they measure results, and identify which pages or queries they will prioritize. Be cautious if they focus on hype, promise guaranteed citations, or cannot explain how they connect work to revenue.",
+        "description": "Choose a provider that explains its process, metrics, and priorities clearly. Avoid anyone who sells hype, guaranteed outcomes, or vague deliverables."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

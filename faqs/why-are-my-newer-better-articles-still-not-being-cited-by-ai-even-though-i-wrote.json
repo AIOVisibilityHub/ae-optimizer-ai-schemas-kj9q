@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why are my newer, better articles still not being cited by AI, even though I wrote them specifically for that purpose?",
+  "description": "New content needs time, internal links, topical clustering, and clear signals before AI assistants trust it. Ensure fresh pages are linked from strong existing",
+  "url": "aeoptimizer.com/faq/why-are-my-newer-better-articles-still-not-being-cited-by-ai-even-though-i-wrote",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why are my newer, better articles still not being cited by AI, even though I wrote them specifically for that purpose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI seems to ignore your newest content, it’s usually a timing and signals issue rather than a permanent block.\n\nNew pages need to be crawled, indexed, and repeatedly referenced or linked before AI assistants consider them reliable sources for answers.\n\nKey factors:\n- Internal links from strong existing pages help AIs discover and trust new content.\n- Publishing multiple related pieces builds topical authority around your new topic.\n- Structured data and clear entity naming make new pages easier to recognize.\n- Fresh content should still be comprehensive and evidence-backed, not just “news.”\n\nStrengthen your internal linking, cluster your new content around clear themes, and give it a few weeks before judging AI visibility.\nUse that time to test AI queries and see whether older pages are still being cited instead.",
+        "description": "New content needs time, internal links, topical clustering, and clear signals before AI assistants trust it. Ensure fresh pages are linked from strong existing ones, include schema and entity clarity, and form part of a coherent topic cluster, then recheck AI visibility after several weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

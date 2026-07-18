@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I try to track AI citations myself or hire someone or buy a tool to do it for me?",
+  "description": "Begin with a DIY workflow to understand your visibility and needs. As the number of prompts, markets, and products grows—and AI visibility becomes critical—cons",
+  "url": "aeoptimizer.com/faq/should-i-try-to-track-ai-citations-myself-or-hire-someone-or-buy-a-tool-to-do-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I try to track AI citations myself or hire someone or buy a tool to do it for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’ll usually get more value from DIY AI citation tracking initially, then consider professional help or tools when volume and stakes grow. If you’re managing dozens of prompts across multiple regions and products, a specialized platform or consultant can save time and add structure.\n\nContext: Early on, the main challenge is just building a routine, not technical complexity. Advanced setups (multi-market tracking, detailed analytics, CRM integration) may justify outside support.\n\nKey factors:\n- Number of prompts and AI engines you monitor.\n- Need for multi-city or multi-language visibility.\n- Internal analytics and data capabilities.\n- Time constraints for your team.\n\nPractical guidance: Start manual; if tracking becomes too time-consuming or strategically critical, evaluate tools that automate prompt runs and logging, or work with an expert to design your measurement framework. Avoid jumping to services before you’ve validated the value.\n\nSoft positioning: Treat external help as an accelerator for a process you already understand, not a shortcut that replaces learning how AI visibility works for your brand.",
+        "description": "Begin with a DIY workflow to understand your visibility and needs. As the number of prompts, markets, and products grows—and AI visibility becomes critical—consider tools or expert help to automate testing and integrate analytics. Use external support to scale a process you’ve already validated, not replace it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

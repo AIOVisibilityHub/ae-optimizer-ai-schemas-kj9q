@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If my business is based in San Diego, how should I adapt my AI citation strategy so assistants actually surface me for local questions?",
+  "description": "In San Diego, weave local context into your content: coastal climate, tourism, industries, and neighborhoods that matter for your niche. Mark your address and s",
+  "url": "aeoptimizer.com/faq/if-my-business-is-based-in-san-diego-how-should-i-adapt-my-ai-citation-strategy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If my business is based in San Diego, how should I adapt my AI citation strategy so assistants actually surface me for local questions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego, your local environment and audience shape the questions AI receives about your niche, so your content needs to reflect that context to be cited.\n\nAI assistants look for sources that understand local conditions—regional demand, seasonal patterns, and city-specific constraints.\n\nKey factors:\n- Address San Diego-specific realities: coastal climate, tourism, local industries, and common regional concerns in your space.\n- Use geo-relevant terms and neighborhood names where they matter to users.\n- Make sure your address, service area, and local details are present in structured data.\n- Publish “San Diego-focused” FAQs and guides that answer location-specific questions.\n\nRun test queries like “in San Diego” plus your core topic in AI tools and examine which pages get cited.\nThen, adjust your content to be the most useful, context-aware San Diego explainer for those queries.",
+        "description": "In San Diego, weave local context into your content: coastal climate, tourism, industries, and neighborhoods that matter for your niche. Mark your address and service area in schema and publish San Diego-specific guides and FAQs, then test AI queries with “San Diego” plus your topic and refine."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
