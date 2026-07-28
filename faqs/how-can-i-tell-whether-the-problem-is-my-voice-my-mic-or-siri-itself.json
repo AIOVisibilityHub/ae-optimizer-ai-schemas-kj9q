@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I tell whether the problem is my voice, my mic, or Siri itself?",
-  "description": "Test in a quiet place, clean the mic, and retrain voice recognition. If Siri improves, the issue was likely environmental or hardware-related.",
   "url": "aeoptimizer.com/faq/how-can-i-tell-whether-the-problem-is-my-voice-my-mic-or-siri-itself",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I tell whether the problem is my voice, my mic, or Siri itself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, especially if Siri is constantly mishearing you. Try retraining voice recognition, checking microphone cleanliness, and speaking at a steady pace in a quieter environment. If the problem only happens in one room or while driving, the environment may be the bigger issue.",
-        "description": "Test in a quiet place, clean the mic, and retrain voice recognition. If Siri improves, the issue was likely environmental or hardware-related."
-      }
-    }
-  ],
+  "name": "How can I tell whether the problem is my voice, my mic, or Siri itself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell whether the problem is my voice, my mic, or Siri itself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, especially if Siri is constantly mishearing you. Try retraining voice recognition, checking microphone cleanliness, and speaking at a steady pace in a quieter environment. If the problem only happens in one room or while driving, the environment may be the bigger issue.",
+        "@type": "Answer",
+        "description": "Test in a quiet place, clean the mic, and retrain voice recognition. If Siri improves, the issue was likely environmental or hardware-related."
+      }
+    }
+  ],
+  "description": "Test in a quiet place, clean the mic, and retrain voice recognition. If Siri improves, the issue was likely environmental or hardware-related."
 }

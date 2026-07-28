@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I optimize my current website without rebuilding it?",
-  "description": "Yes. In many cases you can improve voice visibility by adding FAQ-style answers, schema, and better internal linking to existing pages.",
   "url": "aeoptimizer.com/faq/can-i-optimize-my-current-website-without-rebuilding-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I optimize my current website without rebuilding it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You do not need a massive content rewrite to start. Often the fastest win is to turn your top customer questions into short FAQ-style answers on existing pages, then add the right schema and internal links.",
-        "description": "Yes. In many cases you can improve voice visibility by adding FAQ-style answers, schema, and better internal linking to existing pages."
-      }
-    }
-  ],
+  "name": "Can I optimize my current website without rebuilding it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I optimize my current website without rebuilding it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not need a massive content rewrite to start. Often the fastest win is to turn your top customer questions into short FAQ-style answers on existing pages, then add the right schema and internal links.",
+        "@type": "Answer",
+        "description": "Yes. In many cases you can improve voice visibility by adding FAQ-style answers, schema, and better internal linking to existing pages."
+      }
+    }
+  ],
+  "description": "Yes. In many cases you can improve voice visibility by adding FAQ-style answers, schema, and better internal linking to existing pages."
 }

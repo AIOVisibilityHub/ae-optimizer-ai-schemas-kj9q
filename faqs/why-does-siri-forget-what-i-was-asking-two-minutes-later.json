@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why does Siri forget what I was asking two minutes later?",
-  "description": "Siri only keeps short conversational context. Use complete requests instead of expecting long memory.",
   "url": "aeoptimizer.com/faq/why-does-siri-forget-what-i-was-asking-two-minutes-later",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why does Siri forget what I was asking two minutes later?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A common reason people think Siri optimization failed is that they expect Siri to remember context for too long. Siri can handle short follow-ups, but it does not maintain long, multi-day conversation history the way a human assistant would. Use complete requests rather than relying on memory from earlier.",
-        "description": "Siri only keeps short conversational context. Use complete requests instead of expecting long memory."
-      }
-    }
-  ],
+  "name": "Why does Siri forget what I was asking two minutes later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why does Siri forget what I was asking two minutes later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A common reason people think Siri optimization failed is that they expect Siri to remember context for too long. Siri can handle short follow-ups, but it does not maintain long, multi-day conversation history the way a human assistant would. Use complete requests rather than relying on memory from earlier.",
+        "@type": "Answer",
+        "description": "Siri only keeps short conversational context. Use complete requests instead of expecting long memory."
+      }
+    }
+  ],
+  "description": "Siri only keeps short conversational context. Use complete requests instead of expecting long memory."
 }

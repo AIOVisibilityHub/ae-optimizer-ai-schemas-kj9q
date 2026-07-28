@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to show up in voice search near me results?",
-  "description": "Small fixes can show results in days, but meaningful voice search gains usually take weeks. Search engines need time to recrawl your profiles and content.",
   "url": "aeoptimizer.com/faq/how-long-does-it-take-to-show-up-in-voice-search-near-me-results",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to show up in voice search near me results?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Basic fixes can take a few days, while stronger visibility often takes several weeks or longer. Search systems need time to recrawl your listings, index new content, and build confidence in your business signals.",
-        "description": "Small fixes can show results in days, but meaningful voice search gains usually take weeks. Search engines need time to recrawl your profiles and content."
-      }
-    }
-  ],
+  "name": "How long does it take to show up in voice search near me results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to show up in voice search near me results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basic fixes can take a few days, while stronger visibility often takes several weeks or longer. Search systems need time to recrawl your listings, index new content, and build confidence in your business signals.",
+        "@type": "Answer",
+        "description": "Small fixes can show results in days, but meaningful voice search gains usually take weeks. Search engines need time to recrawl your profiles and content."
+      }
+    }
+  ],
+  "description": "Small fixes can show results in days, but meaningful voice search gains usually take weeks. Search engines need time to recrawl your profiles and content."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if voice search optimization is working?",
-  "description": "Track calls, direction requests, bookings, and query impressions. Those show whether voice search is bringing real local action.",
   "url": "aeoptimizer.com/faq/how-do-i-know-if-voice-search-optimization-is-working",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if voice search optimization is working?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The smartest approach is to measure calls, direction requests, bookings, and impression changes for question-based queries. Voice search success is not just rankings; it is whether more local customers take action after finding you.",
-        "description": "Track calls, direction requests, bookings, and query impressions. Those show whether voice search is bringing real local action."
-      }
-    }
-  ],
+  "name": "How do I know if voice search optimization is working?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if voice search optimization is working?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The smartest approach is to measure calls, direction requests, bookings, and impression changes for question-based queries. Voice search success is not just rankings; it is whether more local customers take action after finding you.",
+        "@type": "Answer",
+        "description": "Track calls, direction requests, bookings, and query impressions. Those show whether voice search is bringing real local action."
+      }
+    }
+  ],
+  "description": "Track calls, direction requests, bookings, and query impressions. Those show whether voice search is bringing real local action."
 }

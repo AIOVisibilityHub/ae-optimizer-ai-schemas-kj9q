@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the fastest fixes for voice search near me?",
-  "description": "Update your business profile, hours, reviews, and FAQs first. Those are usually the quickest improvements for local voice visibility.",
   "url": "aeoptimizer.com/faq/what-are-the-fastest-fixes-for-voice-search-near-me",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the fastest fixes for voice search near me?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Usually the fastest wins are your business profile, hours, reviews, and a few clear FAQ sections on your main pages. Those elements tend to feed local answers more reliably than long blog posts with broad topics.",
-        "description": "Update your business profile, hours, reviews, and FAQs first. Those are usually the quickest improvements for local voice visibility."
-      }
-    }
-  ],
+  "name": "What are the fastest fixes for voice search near me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the fastest fixes for voice search near me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Usually the fastest wins are your business profile, hours, reviews, and a few clear FAQ sections on your main pages. Those elements tend to feed local answers more reliably than long blog posts with broad topics.",
+        "@type": "Answer",
+        "description": "Update your business profile, hours, reviews, and FAQs first. Those are usually the quickest improvements for local voice visibility."
+      }
+    }
+  ],
+  "description": "Update your business profile, hours, reviews, and FAQs first. Those are usually the quickest improvements for local voice visibility."
 }

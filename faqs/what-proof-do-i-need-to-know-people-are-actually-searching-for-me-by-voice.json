@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proof do I need to know people are actually searching for me by voice?",
-  "description": "Look at Search Console queries, customer reviews, and the questions people already ask your team. Those are the best signs of real voice-style demand.",
   "url": "aeoptimizer.com/faq/what-proof-do-i-need-to-know-people-are-actually-searching-for-me-by-voice",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What proof do I need to know people are actually searching for me by voice?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The strongest evidence is real customer language: repeated review themes, common support questions, and queries already appearing in Search Console. Those clues tell you how people naturally ask for your service and what voice assistants are most likely to understand.",
-        "description": "Look at Search Console queries, customer reviews, and the questions people already ask your team. Those are the best signs of real voice-style demand."
-      }
-    }
-  ],
+  "name": "What proof do I need to know people are actually searching for me by voice?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What proof do I need to know people are actually searching for me by voice?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The strongest evidence is real customer language: repeated review themes, common support questions, and queries already appearing in Search Console. Those clues tell you how people naturally ask for your service and what voice assistants are most likely to understand.",
+        "@type": "Answer",
+        "description": "Look at Search Console queries, customer reviews, and the questions people already ask your team. Those are the best signs of real voice-style demand."
+      }
+    }
+  ],
+  "description": "Look at Search Console queries, customer reviews, and the questions people already ask your team. Those are the best signs of real voice-style demand."
 }

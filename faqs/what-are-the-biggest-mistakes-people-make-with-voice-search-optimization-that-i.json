@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the biggest mistakes people make with voice search optimization that I should avoid?",
-  "description": "Avoid treating voice search as keyword stuffing for “near me” phrases, using generic or copied FAQs, over‑or misusing schema, and ignoring mobile speed and UX.",
   "url": "aeoptimizer.com/faq/what-are-the-biggest-mistakes-people-make-with-voice-search-optimization-that-i",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the biggest mistakes people make with voice search optimization that I should avoid?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest mistake is treating voice search optimization as keyword stuffing for “near me” phrases instead of rethinking content, answers, and structure. This leads to clumsy copy that neither users nor assistants trust.\n\nOther pitfalls include overusing schema, ignoring mobile speed, and copying FAQs from competitors instead of using your own customer questions.\n\nKey factors:\n- Writing for humans and assistants, not just algorithms\n- Keeping schema accurate and relevant to on‑page content\n- Prioritizing mobile UX and performance\n- Using authentic, brand‑specific FAQs\n\nPractically, avoid shortcuts like generic FAQ dumps or automated schema on every paragraph. Instead, invest in clear, honest answers and validate that markup matches reality.\n\nQuality‑first voice optimization builds durable trust with both users and platforms, rather than chasing temporary ranking tricks.",
-        "description": "Avoid treating voice search as keyword stuffing for “near me” phrases, using generic or copied FAQs, over‑or misusing schema, and ignoring mobile speed and UX. Focus instead on clear, human‑friendly answers to real questions, with accurate schema and strong technical performance underpinning your content."
-      }
-    }
-  ],
+  "name": "What are the biggest mistakes people make with voice search optimization that I should avoid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the biggest mistakes people make with voice search optimization that I should avoid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest mistake is treating voice search optimization as keyword stuffing for “near me” phrases instead of rethinking content, answers, and structure. This leads to clumsy copy that neither users nor assistants trust.\n\nOther pitfalls include overusing schema, ignoring mobile speed, and copying FAQs from competitors instead of using your own customer questions.\n\nKey factors:\n- Writing for humans and assistants, not just algorithms\n- Keeping schema accurate and relevant to on‑page content\n- Prioritizing mobile UX and performance\n- Using authentic, brand‑specific FAQs\n\nPractically, avoid shortcuts like generic FAQ dumps or automated schema on every paragraph. Instead, invest in clear, honest answers and validate that markup matches reality.\n\nQuality‑first voice optimization builds durable trust with both users and platforms, rather than chasing temporary ranking tricks.",
+        "@type": "Answer",
+        "description": "Avoid treating voice search as keyword stuffing for “near me” phrases, using generic or copied FAQs, over‑or misusing schema, and ignoring mobile speed and UX. Focus instead on clear, human‑friendly answers to real questions, with accurate schema and strong technical performance underpinning your content."
+      }
+    }
+  ],
+  "description": "Avoid treating voice search as keyword stuffing for “near me” phrases, using generic or copied FAQs, over‑or misusing schema, and ignoring mobile speed and UX."
 }
