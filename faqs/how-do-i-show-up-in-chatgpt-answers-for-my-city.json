@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I show up in ChatGPT answers for my city?",
-  "description": "Build consistent city-specific pages and keep your listings identical across major platforms.",
   "url": "aeoptimizer.com/faq/how-do-i-show-up-in-chatgpt-answers-for-my-city",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I show up in ChatGPT answers for my city?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For local visibility, your city pages, Google Business Profile, Bing Places, and directory listings should all tell the same story. If you serve Austin or Denver, make sure your location wording, hours, services, and phone number match everywhere.",
-        "description": "Build consistent city-specific pages and keep your listings identical across major platforms."
-      }
-    }
-  ],
+  "name": "How do I show up in ChatGPT answers for my city?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I show up in ChatGPT answers for my city?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For local visibility, your city pages, Google Business Profile, Bing Places, and directory listings should all tell the same story. If you serve Austin or Denver, make sure your location wording, hours, services, and phone number match everywhere.",
+        "@type": "Answer",
+        "description": "Build consistent city-specific pages and keep your listings identical across major platforms."
+      }
+    }
+  ],
+  "description": "Build consistent city-specific pages and keep your listings identical across major platforms."
 }

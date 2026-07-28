@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do if AI tools are already giving wrong information about my company or services?",
-  "description": "Audit the prompts and sources behind those answers, then update your own site with clear, prominent corrections and supporting schema. Where AI is citing third-",
   "url": "aeoptimizer.com/faq/what-should-i-do-if-ai-tools-are-already-giving-wrong-information-about-my-compa",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do if AI tools are already giving wrong information about my company or services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If AI answers about your brand are wrong or outdated, you need to **fix both your own content and the external sources AI relies on**.\n\nSimply updating one page rarely changes entrenched misconceptions by itself.\n\nKey factors:\n- Identify which sites or documents AI is citing in incorrect answers\n- Update your website with clear, prominent corrections and explanations\n- Reach out to third-party platforms to update or clarify old information\n- Add structured data and FAQs addressing the specific misconceptions\n\nTrack key prompts over time and adjust your content until AI answers shift toward the corrected narrative.\n\nYou’re essentially running a reputation and facts alignment project across both owned and external content.",
-        "description": "Audit the prompts and sources behind those answers, then update your own site with clear, prominent corrections and supporting schema. Where AI is citing third-party pages, work to update or clarify those as well. Monitor the same prompts over time until the AI responses reflect your corrected information."
-      }
-    }
-  ],
+  "name": "What should I do if AI tools are already giving wrong information about my company or services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if AI tools are already giving wrong information about my company or services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If AI answers about your brand are wrong or outdated, you need to **fix both your own content and the external sources AI relies on**.\n\nSimply updating one page rarely changes entrenched misconceptions by itself.\n\nKey factors:\n- Identify which sites or documents AI is citing in incorrect answers\n- Update your website with clear, prominent corrections and explanations\n- Reach out to third-party platforms to update or clarify old information\n- Add structured data and FAQs addressing the specific misconceptions\n\nTrack key prompts over time and adjust your content until AI answers shift toward the corrected narrative.\n\nYou’re essentially running a reputation and facts alignment project across both owned and external content.",
+        "@type": "Answer",
+        "description": "Audit the prompts and sources behind those answers, then update your own site with clear, prominent corrections and supporting schema. Where AI is citing third-party pages, work to update or clarify those as well. Monitor the same prompts over time until the AI responses reflect your corrected information."
+      }
+    }
+  ],
+  "description": "Audit the prompts and sources behind those answers, then update your own site with clear, prominent corrections and supporting schema. Where AI is citing third-"
 }

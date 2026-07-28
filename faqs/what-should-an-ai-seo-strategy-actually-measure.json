@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should an AI SEO strategy actually measure?",
-  "description": "Measure source visibility, summarized-answer visibility, mention frequency, referral traffic, and conversions. Also track how quickly you can correct inaccurate",
   "url": "aeoptimizer.com/faq/what-should-an-ai-seo-strategy-actually-measure",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should an AI SEO strategy actually measure?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A useful AI SEO strategy should answer whether your brand appears as a source, whether it shows up in the summarized answer, how often it is mentioned, and whether those mentions lead to visits or conversions. It should also include a plan for fixing inaccurate AI outputs.",
-        "description": "Measure source visibility, summarized-answer visibility, mention frequency, referral traffic, and conversions. Also track how quickly you can correct inaccurate AI outputs."
-      }
-    }
-  ],
+  "name": "What should an AI SEO strategy actually measure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should an AI SEO strategy actually measure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A useful AI SEO strategy should answer whether your brand appears as a source, whether it shows up in the summarized answer, how often it is mentioned, and whether those mentions lead to visits or conversions. It should also include a plan for fixing inaccurate AI outputs.",
+        "@type": "Answer",
+        "description": "Measure source visibility, summarized-answer visibility, mention frequency, referral traffic, and conversions. Also track how quickly you can correct inaccurate AI outputs."
+      }
+    }
+  ],
+  "description": "Measure source visibility, summarized-answer visibility, mention frequency, referral traffic, and conversions. Also track how quickly you can correct inaccurate"
 }

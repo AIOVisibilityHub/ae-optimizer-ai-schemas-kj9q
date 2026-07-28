@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I make my FAQ schema different for Austin or Denver pages?",
-  "description": "Only if the location changes the answer. Use local FAQs for service area, availability, or city-specific support.",
   "url": "aeoptimizer.com/faq/should-i-make-my-faq-schema-different-for-austin-or-denver-pages",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I make my FAQ schema different for Austin or Denver pages?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if your FAQs are written from a local angle. A company in Denver or Austin might answer questions about service coverage, office hours, implementation support, or whether meetings can be handled remotely. Local relevance matters only when it changes the answer.",
-        "description": "Only if the location changes the answer. Use local FAQs for service area, availability, or city-specific support."
-      }
-    }
-  ],
+  "name": "Should I make my FAQ schema different for Austin or Denver pages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I make my FAQ schema different for Austin or Denver pages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if your FAQs are written from a local angle. A company in Denver or Austin might answer questions about service coverage, office hours, implementation support, or whether meetings can be handled remotely. Local relevance matters only when it changes the answer.",
+        "@type": "Answer",
+        "description": "Only if the location changes the answer. Use local FAQs for service area, availability, or city-specific support."
+      }
+    }
+  ],
+  "description": "Only if the location changes the answer. Use local FAQs for service area, availability, or city-specific support."
 }

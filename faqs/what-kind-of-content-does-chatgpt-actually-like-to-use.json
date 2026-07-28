@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of content does ChatGPT actually like to use?",
-  "description": "ChatGPT tends to use concise, factual, answer-first content that directly solves a question.",
   "url": "aeoptimizer.com/faq/what-kind-of-content-does-chatgpt-actually-like-to-use",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of content does ChatGPT actually like to use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you want results, focus on pages that answer specific questions in plain language rather than broad brand storytelling. The content that tends to work best is concise, factual, and immediately useful to the reader.",
-        "description": "ChatGPT tends to use concise, factual, answer-first content that directly solves a question."
-      }
-    }
-  ],
+  "name": "What kind of content does ChatGPT actually like to use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of content does ChatGPT actually like to use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you want results, focus on pages that answer specific questions in plain language rather than broad brand storytelling. The content that tends to work best is concise, factual, and immediately useful to the reader.",
+        "@type": "Answer",
+        "description": "ChatGPT tends to use concise, factual, answer-first content that directly solves a question."
+      }
+    }
+  ],
+  "description": "ChatGPT tends to use concise, factual, answer-first content that directly solves a question."
 }

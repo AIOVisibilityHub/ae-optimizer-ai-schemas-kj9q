@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I not use FAQ schema for AEO?",
-  "description": "Do not use it on thin, generic, or hidden content. Add it only when the page has real, visible Q&A value.",
   "url": "aeoptimizer.com/faq/when-should-i-not-use-faq-schema-for-aeo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I not use FAQ schema for AEO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the page is about a service, add FAQ schema only for questions that support the buying decision. If the page is about a guide, use FAQ schema when the questions clarify common confusion. If the page is thin or generic, start by improving the content before adding markup.",
-        "description": "Do not use it on thin, generic, or hidden content. Add it only when the page has real, visible Q&A value."
-      }
-    }
-  ],
+  "name": "When should I not use FAQ schema for AEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I not use FAQ schema for AEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the page is about a service, add FAQ schema only for questions that support the buying decision. If the page is about a guide, use FAQ schema when the questions clarify common confusion. If the page is thin or generic, start by improving the content before adding markup.",
+        "@type": "Answer",
+        "description": "Do not use it on thin, generic, or hidden content. Add it only when the page has real, visible Q&A value."
+      }
+    }
+  ],
+  "description": "Do not use it on thin, generic, or hidden content. Add it only when the page has real, visible Q&A value."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the best way to use AI in an SEO workflow?",
-  "description": "Use AI for research and drafting, then have humans handle strategy, fact-checking, and approval. That combination is usually stronger than full automation.",
   "url": "aeoptimizer.com/faq/what-is-the-best-way-to-use-ai-in-an-seo-workflow",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the best way to use AI in an SEO workflow?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use AI to speed up research and drafting, not to replace expert judgment. The strongest setups pair AI efficiency with human strategy, fact-checking, and final editorial approval.",
-        "description": "Use AI for research and drafting, then have humans handle strategy, fact-checking, and approval. That combination is usually stronger than full automation."
-      }
-    }
-  ],
+  "name": "What is the best way to use AI in an SEO workflow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best way to use AI in an SEO workflow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Use AI to speed up research and drafting, not to replace expert judgment. The strongest setups pair AI efficiency with human strategy, fact-checking, and final editorial approval.",
+        "@type": "Answer",
+        "description": "Use AI for research and drafting, then have humans handle strategy, fact-checking, and approval. That combination is usually stronger than full automation."
+      }
+    }
+  ],
+  "description": "Use AI for research and drafting, then have humans handle strategy, fact-checking, and approval. That combination is usually stronger than full automation."
 }

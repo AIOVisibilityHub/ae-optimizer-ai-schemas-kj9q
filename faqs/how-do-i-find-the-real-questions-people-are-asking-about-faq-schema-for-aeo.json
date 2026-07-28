@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I find the real questions people are asking about FAQ schema for AEO?",
-  "description": "Pull questions from support, sales, search data, and competitor pages. Real wording usually sounds more natural than keyword lists.",
   "url": "aeoptimizer.com/faq/how-do-i-find-the-real-questions-people-are-asking-about-faq-schema-for-aeo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I find the real questions people are asking about FAQ schema for AEO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use questions people actually ask in search and in conversations with your team. Good formats include natural rewrites like “How does this work?”, “How long does it take?”, and “What does it cost?” because they match real search behavior better than keyword-stuffed headings.",
-        "description": "Pull questions from support, sales, search data, and competitor pages. Real wording usually sounds more natural than keyword lists."
-      }
-    }
-  ],
+  "name": "How do I find the real questions people are asking about FAQ schema for AEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I find the real questions people are asking about FAQ schema for AEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Use questions people actually ask in search and in conversations with your team. Good formats include natural rewrites like “How does this work?”, “How long does it take?”, and “What does it cost?” because they match real search behavior better than keyword-stuffed headings.",
+        "@type": "Answer",
+        "description": "Pull questions from support, sales, search data, and competitor pages. Real wording usually sounds more natural than keyword lists."
+      }
+    }
+  ],
+  "description": "Pull questions from support, sales, search data, and competitor pages. Real wording usually sounds more natural than keyword lists."
 }

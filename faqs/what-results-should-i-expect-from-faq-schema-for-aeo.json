@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What results should I expect from FAQ schema for AEO?",
-  "description": "Expect better clarity and answer matching first. Ranking or citation gains are possible, but they are not automatic.",
   "url": "aeoptimizer.com/faq/what-results-should-i-expect-from-faq-schema-for-aeo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What results should I expect from FAQ schema for AEO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The goal is usually better clarity and stronger answer matching, not an immediate ranking jump. Many pages use FAQ schema to improve relevance for question-based searches and to help AI systems extract direct answers. The strongest gains come when the FAQ is built from real user intent.",
-        "description": "Expect better clarity and answer matching first. Ranking or citation gains are possible, but they are not automatic."
-      }
-    }
-  ],
+  "name": "What results should I expect from FAQ schema for AEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What results should I expect from FAQ schema for AEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The goal is usually better clarity and stronger answer matching, not an immediate ranking jump. Many pages use FAQ schema to improve relevance for question-based searches and to help AI systems extract direct answers. The strongest gains come when the FAQ is built from real user intent.",
+        "@type": "Answer",
+        "description": "Expect better clarity and answer matching first. Ranking or citation gains are possible, but they are not automatic."
+      }
+    }
+  ],
+  "description": "Expect better clarity and answer matching first. Ranking or citation gains are possible, but they are not automatic."
 }

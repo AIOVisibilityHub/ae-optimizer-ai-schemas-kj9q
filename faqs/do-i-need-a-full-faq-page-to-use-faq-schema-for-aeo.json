@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a full FAQ page to use FAQ schema for AEO?",
-  "description": "No. You need visible, relevant Q&A content on the page. A full FAQ page is optional if the questions fit naturally on a service or help page.",
   "url": "aeoptimizer.com/faq/do-i-need-a-full-faq-page-to-use-faq-schema-for-aeo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a full FAQ page to use FAQ schema for AEO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "FAQ schema is best used when you already have a page with genuine questions and answers that users can read. It works well on service pages, help pages, and resource pages where people need quick, direct answers. It is not a shortcut for thin or hidden content.",
-        "description": "No. You need visible, relevant Q&A content on the page. A full FAQ page is optional if the questions fit naturally on a service or help page."
-      }
-    }
-  ],
+  "name": "Do I need a full FAQ page to use FAQ schema for AEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a full FAQ page to use FAQ schema for AEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "FAQ schema is best used when you already have a page with genuine questions and answers that users can read. It works well on service pages, help pages, and resource pages where people need quick, direct answers. It is not a shortcut for thin or hidden content.",
+        "@type": "Answer",
+        "description": "No. You need visible, relevant Q&A content on the page. A full FAQ page is optional if the questions fit naturally on a service or help page."
+      }
+    }
+  ],
+  "description": "No. You need visible, relevant Q&A content on the page. A full FAQ page is optional if the questions fit naturally on a service or help page."
 }

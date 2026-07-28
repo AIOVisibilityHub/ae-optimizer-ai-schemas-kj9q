@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does FAQ schema for AEO cost?",
-  "description": "Cost depends on whether you only add schema or also build the FAQ content. The research and writing usually matter more than the code.",
   "url": "aeoptimizer.com/faq/how-much-does-faq-schema-for-aeo-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does FAQ schema for AEO cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost depends on whether you are only adding schema or also creating the FAQ content strategy. Basic implementation is usually low effort if the page already exists, while a full AEO FAQ project costs more because it includes research, writing, page updates, and testing.",
-        "description": "Cost depends on whether you only add schema or also build the FAQ content. The research and writing usually matter more than the code."
-      }
-    }
-  ],
+  "name": "How much does FAQ schema for AEO cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does FAQ schema for AEO cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost depends on whether you are only adding schema or also creating the FAQ content strategy. Basic implementation is usually low effort if the page already exists, while a full AEO FAQ project costs more because it includes research, writing, page updates, and testing.",
+        "@type": "Answer",
+        "description": "Cost depends on whether you only add schema or also build the FAQ content. The research and writing usually matter more than the code."
+      }
+    }
+  ],
+  "description": "Cost depends on whether you only add schema or also build the FAQ content. The research and writing usually matter more than the code."
 }

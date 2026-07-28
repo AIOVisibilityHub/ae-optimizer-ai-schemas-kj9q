@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if FAQ schema for AEO is working?",
-  "description": "Look for better engagement, better-qualified clicks, and fewer repetitive questions—not just schema validation.",
   "url": "aeoptimizer.com/faq/how-do-i-know-if-faq-schema-for-aeo-is-working",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if FAQ schema for AEO is working?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Measure whether the page gets more qualified clicks, better engagement, and fewer repetitive questions from prospects. Also watch for signs that the page answers the question fully, such as lower bounce on key pages or more demo requests from the right visitors. Schema alone is not the metric; the whole page experience is.",
-        "description": "Look for better engagement, better-qualified clicks, and fewer repetitive questions—not just schema validation."
-      }
-    }
-  ],
+  "name": "How do I know if FAQ schema for AEO is working?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if FAQ schema for AEO is working?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Measure whether the page gets more qualified clicks, better engagement, and fewer repetitive questions from prospects. Also watch for signs that the page answers the question fully, such as lower bounce on key pages or more demo requests from the right visitors. Schema alone is not the metric; the whole page experience is.",
+        "@type": "Answer",
+        "description": "Look for better engagement, better-qualified clicks, and fewer repetitive questions—not just schema validation."
+      }
+    }
+  ],
+  "description": "Look for better engagement, better-qualified clicks, and fewer repetitive questions—not just schema validation."
 }

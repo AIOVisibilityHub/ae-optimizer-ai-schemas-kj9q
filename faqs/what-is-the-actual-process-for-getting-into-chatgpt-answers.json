@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the actual process for getting into ChatGPT answers?",
-  "description": "Start with your top customer questions, rewrite your key pages with direct answers, and add FAQ-style sections.",
   "url": "aeoptimizer.com/faq/what-is-the-actual-process-for-getting-into-chatgpt-answers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the actual process for getting into ChatGPT answers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start with your most important customer questions and build one page at a time. Open each page with a direct answer, use question-style headings, and add a short FAQ so the content is easy for AI systems to extract and reuse.",
-        "description": "Start with your top customer questions, rewrite your key pages with direct answers, and add FAQ-style sections."
-      }
-    }
-  ],
+  "name": "What is the actual process for getting into ChatGPT answers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the actual process for getting into ChatGPT answers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with your most important customer questions and build one page at a time. Open each page with a direct answer, use question-style headings, and add a short FAQ so the content is easy for AI systems to extract and reuse.",
+        "@type": "Answer",
+        "description": "Start with your top customer questions, rewrite your key pages with direct answers, and add FAQ-style sections."
+      }
+    }
+  ],
+  "description": "Start with your top customer questions, rewrite your key pages with direct answers, and add FAQ-style sections."
 }
