@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T22:42:08.656Z",
+  "generatedAt": "2026-07-28T16:50:41.786Z",
   "files": [
     {
       "path": "services/answer-engine-optimization-aeo-software-los-angeles-service.json",
@@ -25888,10 +25888,31 @@
       "mime": "application/ld+json"
     },
     {
+      "path": "help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2666,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/integrating-aeo-tools-5-mistakes-agencies-make.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2463,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/my-agency-needs-aeo-software-what-now.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2653,
+      "mime": "application/ld+json"
+    },
+    {
       "path": "index.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 2384,
+      "bytes": 2409,
       "mime": "text/html"
     },
     {
@@ -25933,7 +25954,7 @@
       "path": "articles.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 1701,
+      "bytes": 16162,
       "mime": "text/html"
     },
     {
@@ -26206,14 +26227,14 @@
       "path": "help-articles.jsonld",
       "category": "help",
       "purpose": "Help articles ItemList",
-      "bytes": 148,
+      "bytes": 11950,
       "mime": "application/octet-stream"
     },
     {
       "path": "help-articles.md",
       "category": "help",
       "purpose": "Help articles (markdown)",
-      "bytes": 47,
+      "bytes": 3022,
       "mime": "text/markdown"
     },
     {
@@ -26234,7 +26255,7 @@
       "path": "semantic-authority-pages.json",
       "category": "hubs",
       "purpose": "Semantic authority pages",
-      "bytes": 108,
+      "bytes": 11074,
       "mime": "application/ld+json"
     },
     {
@@ -26339,7 +26360,7 @@
       "path": "help.html",
       "category": "pages",
       "purpose": "Help page",
-      "bytes": 1764,
+      "bytes": 2065,
       "mime": "text/html"
     },
     {
@@ -26423,7 +26444,7 @@
       "path": "data/help-articles.json",
       "category": "data",
       "purpose": "Help articles data",
-      "bytes": 94,
+      "bytes": 11060,
       "mime": "application/ld+json"
     },
     {
@@ -26458,7 +26479,7 @@
       "path": "data/internal-links.json",
       "category": "data",
       "purpose": "Internal links index",
-      "bytes": 484208,
+      "bytes": 484542,
       "mime": "application/ld+json"
     }
   ]

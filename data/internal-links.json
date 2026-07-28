@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T22:42:08.654Z",
+  "generatedAt": "2026-07-28T16:50:41.784Z",
   "links": [
     {
       "path": "services/answer-engine-optimization-aeo-software-los-angeles-service.json",
@@ -14792,6 +14792,18 @@
     {
       "path": "faqs/do-different-local-seo-or-optimization-tools-really-matter-for-voice-search-or-a.json",
       "category": "faqs"
+    },
+    {
+      "path": "help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.json",
+      "category": "help"
+    },
+    {
+      "path": "help/integrating-aeo-tools-5-mistakes-agencies-make.json",
+      "category": "help"
+    },
+    {
+      "path": "help/my-agency-needs-aeo-software-what-now.json",
+      "category": "help"
     },
     {
       "path": "index.html",

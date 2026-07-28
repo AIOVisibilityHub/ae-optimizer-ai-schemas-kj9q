@@ -9,22 +9,15 @@ Canonical AI Data Package for AE Optimizer.
 - LLM hint: [llms.txt](./llms.txt)
 
 ## Stats
+- 43 qna
 - 2020 faqs
+- 112 research
 - 49 services
 - 1627 webpages
 - 1 locations
+- 3 helpArticles
 - 1 organization
-- 43 qna
-- 112 research
-- **3853** total
-
-## Cross-Destination Index — Related AI Data Sources
-- [canonical] AE Optimizer — canonical website — aeoptimizer.com
-- [ai-data-hub] AE Optimizer — AI Data Hub — https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html
-- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html
-
-Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
+- **3856** total
 
 
 ## Package Contents
@@ -123,7 +116,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`locations/ae-optimizer-office.json`](./locations/ae-optimizer-office.json) — schema
 - [`service-areas.jsonld`](./service-areas.jsonld) — Service areas ItemList
 
-### Attorneys / Team (6)
+### Team Members (6)
 - [`professionals.jsonld`](./professionals.jsonld) — Professionals ItemList
 - [`professionalservice-team.jsonld`](./professionalservice-team.jsonld) — ProfessionalService team wrapper
 - [`team-bios.json`](./team-bios.json) — Team bios (JSON)
@@ -2159,9 +2152,12 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`qna.md`](./qna.md) — Q&A (markdown)
 - [`qnas.jsonld`](./qnas.jsonld) — Q&A ItemList
 
-### Help Articles (2)
+### Help Articles (5)
 - [`help-articles.jsonld`](./help-articles.jsonld) — Help articles ItemList
 - [`help-articles.md`](./help-articles.md) — Help articles (markdown)
+- [`help/integrating-aeo-tools-5-mistakes-agencies-make.json`](./help/integrating-aeo-tools-5-mistakes-agencies-make.json) — schema
+- [`help/my-agency-needs-aeo-software-what-now.json`](./help/my-agency-needs-aeo-software-what-now.json) — schema
+- [`help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.json`](./help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.json) — schema
 
 ### Topical Hubs (3)
 - [`semantic-authority-pages.json`](./semantic-authority-pages.json) — Semantic authority pages

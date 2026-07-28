@@ -12,7 +12,7 @@ This AI Data Package for AE Optimizer is assembled from:
 - Data Files: 16 file(s)
 - Entity Profile: 13 file(s)
 - FAQs: 2022 file(s)
-- Help Articles: 2 file(s)
+- Help Articles: 5 file(s)
 - Topical Hubs: 3 file(s)
 - Locations: 6 file(s)
 - Organization & About: 1 file(s)
@@ -22,7 +22,7 @@ This AI Data Package for AE Optimizer is assembled from:
 - Q&A: 2 file(s)
 - Reviews: 2 file(s)
 - Services: 56 file(s)
-- Attorneys / Team: 6 file(s)
+- Team Members: 6 file(s)
 - Web Pages: 1627 file(s)
 
-Last updated: 2026-07-18
+Last updated: 2026-07-28

@@ -1,6 +1,6 @@
 {
   "entity": "AE Optimizer",
-  "generatedAt": "2026-07-18T22:42:08.660Z",
+  "generatedAt": "2026-07-28T16:50:41.789Z",
   "workflow": "research → review → approval → public",
   "notes": "Research and Q&A items require explicit approval before publishing. Non-research entity files (services, locations, attorneys, FAQs) are produced from supplied entity data.",
   "files": [
@@ -25885,6 +25885,27 @@
     },
     {
       "path": "faqs/do-different-local-seo-or-optimization-tools-really-matter-for-voice-search-or-a.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/integrating-aeo-tools-5-mistakes-agencies-make.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/my-agency-needs-aeo-software-what-now.json",
       "status": "entity-data",
       "visibility": "published",
       "reviewedAt": null,

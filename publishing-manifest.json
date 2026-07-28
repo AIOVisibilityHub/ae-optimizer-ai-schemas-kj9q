@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-18T22:42:49.301Z",
+  "generatedAt": "2026-07-28T16:50:41.832Z",
   "client": {
     "name": "AE Optimizer",
     "canonicalUrl": "aeoptimizer.com",
@@ -128,24 +128,24 @@
     ]
   },
   "package": {
-    "totalFiles": 3804,
-    "totalBytes": 26510357,
+    "totalFiles": 3807,
+    "totalBytes": 26568944,
     "stats": {
+      "qna": 43,
       "faqs": 2020,
-      "helpArticles": 0,
+      "press": 0,
+      "total": 3856,
+      "awards": 0,
+      "reviews": 0,
+      "products": 0,
+      "research": 112,
       "services": 49,
       "webpages": 1627,
-      "personnel": 0,
-      "products": 0,
       "locations": 1,
-      "awards": 0,
+      "personnel": 0,
       "caseStudies": 0,
-      "organization": 1,
-      "press": 0,
-      "reviews": 0,
-      "qna": 43,
-      "research": 112,
-      "total": 3853
+      "helpArticles": 3,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -18729,10 +18729,37 @@
         "purpose": "FAQs (markdown)"
       }
     ],
+    "help": [
+      {
+        "path": "help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.json",
+        "bytes": 2666,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/integrating-aeo-tools-5-mistakes-agencies-make.json",
+        "bytes": 2463,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-agency-needs-aeo-software-what-now.json",
+        "bytes": 2653,
+        "purpose": "schema"
+      },
+      {
+        "path": "help-articles.jsonld",
+        "bytes": 11950,
+        "purpose": "Help articles ItemList"
+      },
+      {
+        "path": "help-articles.md",
+        "bytes": 3022,
+        "purpose": "Help articles (markdown)"
+      }
+    ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 2384,
+        "bytes": 2409,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -18762,7 +18789,7 @@
       },
       {
         "path": "articles.html",
-        "bytes": 1701,
+        "bytes": 16162,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -18892,18 +18919,6 @@
         "purpose": "Q&A (markdown)"
       }
     ],
-    "help": [
-      {
-        "path": "help-articles.jsonld",
-        "bytes": 148,
-        "purpose": "Help articles ItemList"
-      },
-      {
-        "path": "help-articles.md",
-        "bytes": 47,
-        "purpose": "Help articles (markdown)"
-      }
-    ],
     "hubs": [
       {
         "path": "topical-hubs.jsonld",
@@ -18917,7 +18932,7 @@
       },
       {
         "path": "semantic-authority-pages.json",
-        "bytes": 108,
+        "bytes": 11074,
         "purpose": "Semantic authority pages"
       }
     ],
@@ -19002,7 +19017,7 @@
       },
       {
         "path": "help.html",
-        "bytes": 1764,
+        "bytes": 2065,
         "purpose": "Help page"
       },
       {
@@ -19064,7 +19079,7 @@
       },
       {
         "path": "data/help-articles.json",
-        "bytes": 94,
+        "bytes": 11060,
         "purpose": "Help articles data"
       },
       {
@@ -19089,12 +19104,12 @@
       },
       {
         "path": "data/internal-links.json",
-        "bytes": 484208,
+        "bytes": 484542,
         "purpose": "Internal links index"
       },
       {
         "path": "data/source-map.json",
-        "bytes": 803193,
+        "bytes": 803792,
         "purpose": "Source-map of all entity files"
       },
       {
@@ -19121,12 +19136,12 @@
       },
       {
         "path": "data-sources.md",
-        "bytes": 672,
+        "bytes": 668,
         "purpose": "Data sources"
       },
       {
         "path": "content-review-status.json",
-        "bytes": 818915,
+        "bytes": 819519,
         "purpose": "Content review status"
       },
       {
@@ -19155,7 +19170,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4012,
+        "bytes": 3360,
         "purpose": "LLM hint"
       },
       {
@@ -19175,37 +19190,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1580,
+        "bytes": 929,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1842965,
+        "bytes": 1842874,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 569408,
+        "bytes": 569169,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 569408,
+        "bytes": 569169,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3893,
+        "bytes": 3262,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 620164,
+        "bytes": 619923,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 710884,
+        "bytes": 711404,
         "purpose": "AI sitemap"
       },
       {
@@ -19215,11 +19230,5 @@
       }
     ]
   },
-  "destinations": {
-    "github": {
-      "url": "https://github.com/AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q",
-      "pagesUrl": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/",
-      "repo": "AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q"
-    }
-  }
+  "destinations": {}
 }

@@ -1,26 +1,19 @@
 AE Optimizer — Extended AI Context
 
 Canonical: aeoptimizer.com
-Generated: 2026-07-18
+Generated: 2026-07-28
 
 AE Optimizer maintains a canonical AI Data Package designed so AI systems (ChatGPT, Perplexity, Claude, Google AI) can find the entity reliably, understand its services and team, and trust its citations and structured data.
 
 Package contents:
+- 43 qna
 - 2020 faqs
+- 112 research
 - 49 services
 - 1627 webpages
 - 1 locations
+- 3 helpArticles
 - 1 organization
-- 43 qna
-- 112 research
-
-## Cross-Destination Index — Related AI Data Sources
-- [canonical] AE Optimizer — canonical website — aeoptimizer.com
-- [ai-data-hub] AE Optimizer — AI Data Hub — https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html
-- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html
-
-Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
 Services offered:
 - Answer Engine Optimization (AEO) software
@@ -226,7 +219,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/locations/ae-optimizer-office.json — schema
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/service-areas.jsonld — Service areas ItemList
 
-### Attorneys / Team (6)
+### Team Members (6)
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/professionals.jsonld — Professionals ItemList
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/professionalservice-team.jsonld — ProfessionalService team wrapper
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/team-bios.json — Team bios (JSON)
@@ -2262,9 +2255,12 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/qna.md — Q&A (markdown)
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/qnas.jsonld — Q&A ItemList
 
-### Help Articles (2)
+### Help Articles (5)
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/help-articles.jsonld — Help articles ItemList
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/help-articles.md — Help articles (markdown)
+- https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/help/integrating-aeo-tools-5-mistakes-agencies-make.json — schema
+- https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/help/my-agency-needs-aeo-software-what-now.json — schema
+- https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.json — schema
 
 ### Topical Hubs (3)
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/semantic-authority-pages.json — Semantic authority pages
