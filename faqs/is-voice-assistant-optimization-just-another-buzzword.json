@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is voice assistant optimization just another buzzword?",
-  "description": "No. It is a practical mix of content, schema, and technical SEO aimed at conversational searches. It matters most when users ask direct questions or search loca",
   "url": "aeoptimizer.com/faq/is-voice-assistant-optimization-just-another-buzzword",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is voice assistant optimization just another buzzword?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main pushback is usually that the work sounds abstract or hard to measure. In practice, it becomes much more concrete when you tie it to specific pages, specific queries, and specific actions like calls or bookings.",
-        "description": "No. It is a practical mix of content, schema, and technical SEO aimed at conversational searches. It matters most when users ask direct questions or search locally."
-      }
-    }
-  ],
+  "name": "Is voice assistant optimization just another buzzword?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is voice assistant optimization just another buzzword?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main pushback is usually that the work sounds abstract or hard to measure. In practice, it becomes much more concrete when you tie it to specific pages, specific queries, and specific actions like calls or bookings.",
+        "@type": "Answer",
+        "description": "No. It is a practical mix of content, schema, and technical SEO aimed at conversational searches. It matters most when users ask direct questions or search locally."
+      }
+    }
+  ],
+  "description": "No. It is a practical mix of content, schema, and technical SEO aimed at conversational searches. It matters most when users ask direct questions or search loca"
 }

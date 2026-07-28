@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I compare voice assistant optimization providers?",
-  "description": "Choose the provider that can show a real process, not just vague SEO promises. Look for content strategy, schema expertise, technical performance work, and meas",
   "url": "aeoptimizer.com/faq/how-do-i-compare-voice-assistant-optimization-providers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I compare voice assistant optimization providers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Compare providers by the quality of their keyword research, their schema approach, and whether they track actual search and conversion data. A good partner should explain what they will change, how they will measure it, and why it matters.",
-        "description": "Choose the provider that can show a real process, not just vague SEO promises. Look for content strategy, schema expertise, technical performance work, and measurable reporting."
-      }
-    }
-  ],
+  "name": "How do I compare voice assistant optimization providers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare voice assistant optimization providers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compare providers by the quality of their keyword research, their schema approach, and whether they track actual search and conversion data. A good partner should explain what they will change, how they will measure it, and why it matters.",
+        "@type": "Answer",
+        "description": "Choose the provider that can show a real process, not just vague SEO promises. Look for content strategy, schema expertise, technical performance work, and measurable reporting."
+      }
+    }
+  ],
+  "description": "Choose the provider that can show a real process, not just vague SEO promises. Look for content strategy, schema expertise, technical performance work, and meas"
 }

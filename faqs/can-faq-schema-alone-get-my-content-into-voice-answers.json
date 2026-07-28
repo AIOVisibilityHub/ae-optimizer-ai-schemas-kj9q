@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can FAQ schema alone get my content into voice answers?",
-  "description": "FAQ schema helps, but it is not enough by itself. The content has to answer real questions clearly, and the page still needs strong technical SEO.",
   "url": "aeoptimizer.com/faq/can-faq-schema-alone-get-my-content-into-voice-answers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can FAQ schema alone get my content into voice answers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but only if your FAQ answers are written like real questions people ask and the answers are short and complete. FAQ schema helps search engines understand the page, but the content still has to be useful on its own.",
-        "description": "FAQ schema helps, but it is not enough by itself. The content has to answer real questions clearly, and the page still needs strong technical SEO."
-      }
-    }
-  ],
+  "name": "Can FAQ schema alone get my content into voice answers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can FAQ schema alone get my content into voice answers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but only if your FAQ answers are written like real questions people ask and the answers are short and complete. FAQ schema helps search engines understand the page, but the content still has to be useful on its own.",
+        "@type": "Answer",
+        "description": "FAQ schema helps, but it is not enough by itself. The content has to answer real questions clearly, and the page still needs strong technical SEO."
+      }
+    }
+  ],
+  "description": "FAQ schema helps, but it is not enough by itself. The content has to answer real questions clearly, and the page still needs strong technical SEO."
 }

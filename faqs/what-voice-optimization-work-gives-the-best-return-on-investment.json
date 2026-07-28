@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What voice optimization work gives the best return on investment?",
-  "description": "The best ROI usually comes from content and technical fixes that help both voice and SEO. FAQs, speed, schema, and local pages are often the highest-value start",
   "url": "aeoptimizer.com/faq/what-voice-optimization-work-gives-the-best-return-on-investment",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What voice optimization work gives the best return on investment?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best value usually comes from fixes that improve both voice and standard search at the same time. That includes better FAQs, faster mobile pages, cleaner headings, and schema that helps search engines extract answers.",
-        "description": "The best ROI usually comes from content and technical fixes that help both voice and SEO. FAQs, speed, schema, and local pages are often the highest-value starting points."
-      }
-    }
-  ],
+  "name": "What voice optimization work gives the best return on investment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What voice optimization work gives the best return on investment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best value usually comes from fixes that improve both voice and standard search at the same time. That includes better FAQs, faster mobile pages, cleaner headings, and schema that helps search engines extract answers.",
+        "@type": "Answer",
+        "description": "The best ROI usually comes from content and technical fixes that help both voice and SEO. FAQs, speed, schema, and local pages are often the highest-value starting points."
+      }
+    }
+  ],
+  "description": "The best ROI usually comes from content and technical fixes that help both voice and SEO. FAQs, speed, schema, and local pages are often the highest-value start"
 }

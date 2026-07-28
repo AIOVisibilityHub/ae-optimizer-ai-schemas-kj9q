@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proof do I need to show voice assistant optimization is working?",
-  "description": "Look for rising impressions on question queries, more featured snippet visibility, better local visibility, and conversion lift from optimized pages. Tracking t",
   "url": "aeoptimizer.com/faq/what-proof-do-i-need-to-show-voice-assistant-optimization-is-working",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What proof do I need to show voice assistant optimization is working?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The strongest evidence comes from search impressions, featured snippet wins, local pack visibility, and voice-related engagement metrics. If you can track question-based queries in Search Console and conversions from those pages, you have a good signal.",
-        "description": "Look for rising impressions on question queries, more featured snippet visibility, better local visibility, and conversion lift from optimized pages. Tracking these together is more useful than any single metric."
-      }
-    }
-  ],
+  "name": "What proof do I need to show voice assistant optimization is working?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What proof do I need to show voice assistant optimization is working?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The strongest evidence comes from search impressions, featured snippet wins, local pack visibility, and voice-related engagement metrics. If you can track question-based queries in Search Console and conversions from those pages, you have a good signal.",
+        "@type": "Answer",
+        "description": "Look for rising impressions on question queries, more featured snippet visibility, better local visibility, and conversion lift from optimized pages. Tracking these together is more useful than any single metric."
+      }
+    }
+  ],
+  "description": "Look for rising impressions on question queries, more featured snippet visibility, better local visibility, and conversion lift from optimized pages. Tracking t"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How should I prioritize speakable schema if my budget and dev resources are limited?",
-  "description": "Concentrate speakable schema on 5–10 high-impact pages that already perform well in search or voice and benefit from a spoken summary. Use a reusable JSON-LD te",
   "url": "aeoptimizer.com/faq/how-should-i-prioritize-speakable-schema-if-my-budget-and-dev-resources-are-limi",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How should I prioritize speakable schema if my budget and dev resources are limited?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you’re on a tight budget, focus speakable efforts on a very small set of high-intent pages rather than trying to cover your entire site.\n\nPick a few URLs that already drive significant search or assistant-like traffic and where a spoken summary could meaningfully improve user experience—think flagship guides, city-specific explainers for places like Denver or San Diego, or key editorial pieces. Implement and test speakable there, then evaluate whether the results justify expanding.\n\n**Key factors:**\n- Limit scope to 5–10 priority pages\n- Choose content already performing well\n- Use reusable templates to reduce implementation overhead\n- Measure impact before committing more budget\n\nDocument a simple internal playbook for selecting snippets and adding JSON-LD so future updates are efficient. This keeps speakable from becoming a broad, costly initiative.\n\nFor resource-constrained teams, a focused pilot is the most cost-effective way to capture value from speakable schema.",
-        "description": "Concentrate speakable schema on 5–10 high-impact pages that already perform well in search or voice and benefit from a spoken summary. Use a reusable JSON-LD template, validate carefully, and measure impact before expanding so you don’t overcommit scarce budget or developer time."
-      }
-    }
-  ],
+  "name": "How should I prioritize speakable schema if my budget and dev resources are limited?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prioritize speakable schema if my budget and dev resources are limited?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you’re on a tight budget, focus speakable efforts on a very small set of high-intent pages rather than trying to cover your entire site.\n\nPick a few URLs that already drive significant search or assistant-like traffic and where a spoken summary could meaningfully improve user experience—think flagship guides, city-specific explainers for places like Denver or San Diego, or key editorial pieces. Implement and test speakable there, then evaluate whether the results justify expanding.\n\n**Key factors:**\n- Limit scope to 5–10 priority pages\n- Choose content already performing well\n- Use reusable templates to reduce implementation overhead\n- Measure impact before committing more budget\n\nDocument a simple internal playbook for selecting snippets and adding JSON-LD so future updates are efficient. This keeps speakable from becoming a broad, costly initiative.\n\nFor resource-constrained teams, a focused pilot is the most cost-effective way to capture value from speakable schema.",
+        "@type": "Answer",
+        "description": "Concentrate speakable schema on 5–10 high-impact pages that already perform well in search or voice and benefit from a spoken summary. Use a reusable JSON-LD template, validate carefully, and measure impact before expanding so you don’t overcommit scarce budget or developer time."
+      }
+    }
+  ],
+  "description": "Concentrate speakable schema on 5–10 high-impact pages that already perform well in search or voice and benefit from a spoken summary. Use a reusable JSON-LD te"
 }

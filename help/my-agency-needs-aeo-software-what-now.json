@@ -1,0 +1,104 @@
+{
+  "name": "My Agency Needs AEO Software: What Now?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "So, your agency is ready to dive into answer engine optimization with dedicated software—awesome! Here's a quick look at the process. Phase 1 is all about getting set up: you’ll onboard your agency onto the platform, setting up your core business context like brand claims and compliance rules. This is also where you define your AEO service tiers so you know what you're offering clients. Phase 2 moves into auditing and initial configuration. You’ll run initial answer readiness audits for your clients to see how their current content stacks up for AI use. Then, you configure prompt sets and personas for each client and set up baseline visibility tracking across the answer engines that matter most. Phase 3 focuses on analysis and recommendations. This is where you leverage the software's citation analysis modules to figure out which domains and content are actually driving AI answers in various categories. The software will then spit out prioritized recommendations, like content changes or schema updates, which you can plug directly into your production workflows. Finally, Phase 4 is ongoing monitoring and adjustment. You'll keep an eye on brand visibility scores and KPI dashboards week over week, adjusting your strategy based on what you’re seeing. Remember, it can take several weeks for improvements to show up in AI answers, so patience and consistent monitoring are key. If this seems like a lot, or if you're looking to really productize these services for your agency, bringing in a professional can help you define packages and KPIs effectively.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Washington D.C.",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Boulder",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Burlington",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas-Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "New York",
+      "@type": "State"
+    }
+  ],
+  "description": "My Agency Needs AEO Software: What Now?"
+}

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can bad business info stop Siri from using my site?",
-  "description": "Yes. Inconsistent business data can prevent Siri from matching your content correctly.",
   "url": "aeoptimizer.com/faq/can-bad-business-info-stop-siri-from-using-my-site",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can bad business info stop Siri from using my site?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, and that is one of the most common reasons Siri gives weak or wrong answers. Mismatched names, old addresses, duplicate pages, and inconsistent hours can confuse both Siri and search systems. Clean up contradictions everywhere your business appears before expecting better results.",
-        "description": "Yes. Inconsistent business data can prevent Siri from matching your content correctly."
-      }
-    }
-  ],
+  "name": "Can bad business info stop Siri from using my site?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can bad business info stop Siri from using my site?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, and that is one of the most common reasons Siri gives weak or wrong answers. Mismatched names, old addresses, duplicate pages, and inconsistent hours can confuse both Siri and search systems. Clean up contradictions everywhere your business appears before expecting better results.",
+        "@type": "Answer",
+        "description": "Yes. Inconsistent business data can prevent Siri from matching your content correctly."
+      }
+    }
+  ],
+  "description": "Yes. Inconsistent business data can prevent Siri from matching your content correctly."
 }

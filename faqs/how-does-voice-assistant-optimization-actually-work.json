@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does voice assistant optimization actually work?",
-  "description": "It works by matching spoken search intent with concise answers, structured content, and fast mobile pages. Search engines and assistants can then extract your c",
   "url": "aeoptimizer.com/faq/how-does-voice-assistant-optimization-actually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does voice assistant optimization actually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with question research, then content rewriting, then structured data, then performance checks. After that, you monitor which queries gain impressions and refine the answers that are not getting picked up.",
-        "description": "It works by matching spoken search intent with concise answers, structured content, and fast mobile pages. Search engines and assistants can then extract your content more easily for a voice response."
-      }
-    }
-  ],
+  "name": "How does voice assistant optimization actually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does voice assistant optimization actually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with question research, then content rewriting, then structured data, then performance checks. After that, you monitor which queries gain impressions and refine the answers that are not getting picked up.",
+        "@type": "Answer",
+        "description": "It works by matching spoken search intent with concise answers, structured content, and fast mobile pages. Search engines and assistants can then extract your content more easily for a voice response."
+      }
+    }
+  ],
+  "description": "It works by matching spoken search intent with concise answers, structured content, and fast mobile pages. Search engines and assistants can then extract your c"
 }

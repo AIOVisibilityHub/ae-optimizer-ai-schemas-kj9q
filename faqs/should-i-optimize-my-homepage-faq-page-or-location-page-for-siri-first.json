@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I optimize my homepage, FAQ page, or location page for Siri first?",
-  "description": "Start with the page that can answer the target question most clearly and accurately.",
   "url": "aeoptimizer.com/faq/should-i-optimize-my-homepage-faq-page-or-location-page-for-siri-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I optimize my homepage, FAQ page, or location page for Siri first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should compare clarity, authority, and maintenance effort. A short, accurate page that gets updated regularly is usually more useful than a long page with broad claims. For local businesses, compare how consistently each option presents the same business facts across the web.",
-        "description": "Start with the page that can answer the target question most clearly and accurately."
-      }
-    }
-  ],
+  "name": "Should I optimize my homepage, FAQ page, or location page for Siri first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I optimize my homepage, FAQ page, or location page for Siri first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should compare clarity, authority, and maintenance effort. A short, accurate page that gets updated regularly is usually more useful than a long page with broad claims. For local businesses, compare how consistently each option presents the same business facts across the web.",
+        "@type": "Answer",
+        "description": "Start with the page that can answer the target question most clearly and accurately."
+      }
+    }
+  ],
+  "description": "Start with the page that can answer the target question most clearly and accurately."
 }
