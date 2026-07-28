@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What tools do I need to track AI SEO progress?",
-  "description": "Use Search Console and crawl tools for technical checks, then monitor AI citations, mentions, and accuracy. Technical visibility and AI visibility are related b",
   "url": "aeoptimizer.com/faq/what-tools-do-i-need-to-track-ai-seo-progress",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What tools do I need to track AI SEO progress?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Google Search Console is useful for checking crawl coverage and page visibility, while tools like Screaming Frog can help find blocked or broken pages. For AI visibility, you also need to monitor whether your brand is appearing in AI answers and whether those answers are accurate.",
-        "description": "Use Search Console and crawl tools for technical checks, then monitor AI citations, mentions, and accuracy. Technical visibility and AI visibility are related but not the same thing."
-      }
-    }
-  ],
+  "name": "What tools do I need to track AI SEO progress?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What tools do I need to track AI SEO progress?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Google Search Console is useful for checking crawl coverage and page visibility, while tools like Screaming Frog can help find blocked or broken pages. For AI visibility, you also need to monitor whether your brand is appearing in AI answers and whether those answers are accurate.",
+        "@type": "Answer",
+        "description": "Use Search Console and crawl tools for technical checks, then monitor AI citations, mentions, and accuracy. Technical visibility and AI visibility are related but not the same thing."
+      }
+    }
+  ],
+  "description": "Use Search Console and crawl tools for technical checks, then monitor AI citations, mentions, and accuracy. Technical visibility and AI visibility are related b"
 }

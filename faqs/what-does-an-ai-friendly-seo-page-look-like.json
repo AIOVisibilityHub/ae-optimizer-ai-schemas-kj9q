@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does an AI-friendly SEO page look like?",
-  "description": "Put the direct answer first, then support it with facts, examples, and clear headings. Pages that are easy to parse are easier for AI systems to use.",
   "url": "aeoptimizer.com/faq/what-does-an-ai-friendly-seo-page-look-like",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does an AI-friendly SEO page look like?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A strong AI SEO page usually starts with the direct answer, then adds supporting facts, examples, and related questions. It should also use a clean heading structure, consistent terminology, and enough detail for a model to understand the page’s purpose.",
-        "description": "Put the direct answer first, then support it with facts, examples, and clear headings. Pages that are easy to parse are easier for AI systems to use."
-      }
-    }
-  ],
+  "name": "What does an AI-friendly SEO page look like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does an AI-friendly SEO page look like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A strong AI SEO page usually starts with the direct answer, then adds supporting facts, examples, and related questions. It should also use a clean heading structure, consistent terminology, and enough detail for a model to understand the page’s purpose.",
+        "@type": "Answer",
+        "description": "Put the direct answer first, then support it with facts, examples, and clear headings. Pages that are easy to parse are easier for AI systems to use."
+      }
+    }
+  ],
+  "description": "Put the direct answer first, then support it with facts, examples, and clear headings. Pages that are easy to parse are easier for AI systems to use."
 }

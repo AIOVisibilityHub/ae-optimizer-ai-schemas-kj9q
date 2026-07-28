@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first if I want my content to show up in AI search answers?",
-  "description": "Start with priority pages, put the direct answer near the top, and add factual supporting details. Clear Q&A structure helps AI systems extract and cite your co",
   "url": "aeoptimizer.com/faq/what-should-i-do-first-if-i-want-my-content-to-show-up-in-ai-search-answers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first if I want my content to show up in AI search answers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start with your highest-value pages and make the main answer visible near the top, then support it with factual details, examples, and clear headings. Pages that directly answer a question and use an FAQ-style structure are easier for AI systems to parse and retrieve.",
-        "description": "Start with priority pages, put the direct answer near the top, and add factual supporting details. Clear Q&A structure helps AI systems extract and cite your content."
-      }
-    }
-  ],
+  "name": "What should I do first if I want my content to show up in AI search answers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want my content to show up in AI search answers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with your highest-value pages and make the main answer visible near the top, then support it with factual details, examples, and clear headings. Pages that directly answer a question and use an FAQ-style structure are easier for AI systems to parse and retrieve.",
+        "@type": "Answer",
+        "description": "Start with priority pages, put the direct answer near the top, and add factual supporting details. Clear Q&A structure helps AI systems extract and cite your content."
+      }
+    }
+  ],
+  "description": "Start with priority pages, put the direct answer near the top, and add factual supporting details. Clear Q&A structure helps AI systems extract and cite your co"
 }

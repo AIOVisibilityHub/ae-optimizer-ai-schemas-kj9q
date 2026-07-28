@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my generative AI search optimization efforts are actually working?",
-  "description": "Measure generative AI optimization by tracking organic traffic and engagement on optimized pages, testing whether your content appears or is cited in AI answers",
   "url": "aeoptimizer.com/faq/how-do-i-know-if-my-generative-ai-search-optimization-efforts-are-actually-worki",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my generative AI search optimization efforts are actually working?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To measure success, track both direct traffic/conversion metrics and how often your content is cited or surfaced in AI experiences. While you can’t see everything, you can piece together a picture from search tools, analytics, and controlled tests.\n\nGenerative AI visibility is partly opaque, but certain indicators reliably show progress over time.\n\nKey factors:\n- Changes in organic traffic and engagement to optimized pages\n- Appearance in AI overviews or assistant answers when you query your core topics\n- Increases in branded and question-based searches that match your content\n- Growth in external mentions, links, and social shares of your resources\n\nPractically, document a baseline before changes, then run consistent monthly check-ins using the same test prompts and dashboards. Watch for both qualitative improvements (better answers) and quantitative ones.\n\nThink of measurement as a mosaic: no single metric is perfect, but together they show whether your optimization is working.",
-        "description": "Measure generative AI optimization by tracking organic traffic and engagement on optimized pages, testing whether your content appears or is cited in AI answers, monitoring question-based search trends, and watching for more external mentions and links. Use baselines and monthly check-ins to see progress over time."
-      }
-    }
-  ],
+  "name": "How do I know if my generative AI search optimization efforts are actually working?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my generative AI search optimization efforts are actually working?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To measure success, track both direct traffic/conversion metrics and how often your content is cited or surfaced in AI experiences. While you can’t see everything, you can piece together a picture from search tools, analytics, and controlled tests.\n\nGenerative AI visibility is partly opaque, but certain indicators reliably show progress over time.\n\nKey factors:\n- Changes in organic traffic and engagement to optimized pages\n- Appearance in AI overviews or assistant answers when you query your core topics\n- Increases in branded and question-based searches that match your content\n- Growth in external mentions, links, and social shares of your resources\n\nPractically, document a baseline before changes, then run consistent monthly check-ins using the same test prompts and dashboards. Watch for both qualitative improvements (better answers) and quantitative ones.\n\nThink of measurement as a mosaic: no single metric is perfect, but together they show whether your optimization is working.",
+        "@type": "Answer",
+        "description": "Measure generative AI optimization by tracking organic traffic and engagement on optimized pages, testing whether your content appears or is cited in AI answers, monitoring question-based search trends, and watching for more external mentions and links. Use baselines and monthly check-ins to see progress over time."
+      }
+    }
+  ],
+  "description": "Measure generative AI optimization by tracking organic traffic and engagement on optimized pages, testing whether your content appears or is cited in AI answers"
 }
