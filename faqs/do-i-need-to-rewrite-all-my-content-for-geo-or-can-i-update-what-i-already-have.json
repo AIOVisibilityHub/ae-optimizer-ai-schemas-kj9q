@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to rewrite all my content for GEO, or can I update what I already have?",
-  "description": "Most teams can update existing content instead of rewriting everything. Focus on structure, clarity, evidence, and schema first.",
   "url": "aeoptimizer.com/faq/do-i-need-to-rewrite-all-my-content-for-geo-or-can-i-update-what-i-already-have",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to rewrite all my content for GEO, or can I update what I already have?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You usually do not need a full rewrite. Most GEO improvements come from restructuring existing content so AI systems can parse it more easily, adding concise answers, strengthening evidence, and improving schema. A full rewrite is only needed when the page is too thin, outdated, or off-topic for the query it is meant to answer.",
-        "description": "Most teams can update existing content instead of rewriting everything. Focus on structure, clarity, evidence, and schema first."
-      }
-    }
-  ],
+  "name": "Do I need to rewrite all my content for GEO, or can I update what I already have?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to rewrite all my content for GEO, or can I update what I already have?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You usually do not need a full rewrite. Most GEO improvements come from restructuring existing content so AI systems can parse it more easily, adding concise answers, strengthening evidence, and improving schema. A full rewrite is only needed when the page is too thin, outdated, or off-topic for the query it is meant to answer.",
+        "@type": "Answer",
+        "description": "Most teams can update existing content instead of rewriting everything. Focus on structure, clarity, evidence, and schema first."
+      }
+    }
+  ],
+  "description": "Most teams can update existing content instead of rewriting everything. Focus on structure, clarity, evidence, and schema first."
 }

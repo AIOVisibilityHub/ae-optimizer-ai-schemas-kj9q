@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does voice search optimization for lawyers actually work?",
-  "description": "It works by combining conversational content, structured data, and strong local business signals so assistants can understand and surface your pages.",
   "url": "aeoptimizer.com/faq/how-does-voice-search-optimization-for-lawyers-actually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does voice search optimization for lawyers actually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The usual setup includes FAQ sections, service pages written in plain language, schema markup, and a complete Google Business Profile. The goal is to make it easy for search engines to identify who you are, what you do, and where you serve.",
-        "description": "It works by combining conversational content, structured data, and strong local business signals so assistants can understand and surface your pages."
-      }
-    }
-  ],
+  "name": "How does voice search optimization for lawyers actually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does voice search optimization for lawyers actually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The usual setup includes FAQ sections, service pages written in plain language, schema markup, and a complete Google Business Profile. The goal is to make it easy for search engines to identify who you are, what you do, and where you serve.",
+        "@type": "Answer",
+        "description": "It works by combining conversational content, structured data, and strong local business signals so assistants can understand and surface your pages."
+      }
+    }
+  ],
+  "description": "It works by combining conversational content, structured data, and strong local business signals so assistants can understand and surface your pages."
 }

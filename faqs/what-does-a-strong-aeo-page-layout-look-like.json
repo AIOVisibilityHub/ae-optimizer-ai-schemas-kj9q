@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a strong AEO page layout look like?",
-  "description": "Use a direct answer first, then short supporting sections with clear headings and bullets. The best pages are easy for both humans and answer engines to scan.",
   "url": "aeoptimizer.com/faq/what-does-a-strong-aeo-page-layout-look-like",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a strong AEO page layout look like?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A good AEO page usually uses short paragraphs, descriptive headings, bullets for steps or constraints, and a direct answer near the top. This makes the page easy for people to scan and for answer engines to extract the most useful passage.",
-        "description": "Use a direct answer first, then short supporting sections with clear headings and bullets. The best pages are easy for both humans and answer engines to scan."
-      }
-    }
-  ],
+  "name": "What does a strong AEO page layout look like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a strong AEO page layout look like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good AEO page usually uses short paragraphs, descriptive headings, bullets for steps or constraints, and a direct answer near the top. This makes the page easy for people to scan and for answer engines to extract the most useful passage.",
+        "@type": "Answer",
+        "description": "Use a direct answer first, then short supporting sections with clear headings and bullets. The best pages are easy for both humans and answer engines to scan."
+      }
+    }
+  ],
+  "description": "Use a direct answer first, then short supporting sections with clear headings and bullets. The best pages are easy for both humans and answer engines to scan."
 }

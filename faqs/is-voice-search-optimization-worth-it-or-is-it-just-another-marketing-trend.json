@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is voice search optimization worth it, or is it just another marketing trend?",
-  "description": "It is worth doing because it improves clarity, local visibility, and mobile usability even beyond voice search itself.",
   "url": "aeoptimizer.com/faq/is-voice-search-optimization-worth-it-or-is-it-just-another-marketing-trend",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is voice search optimization worth it, or is it just another marketing trend?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A common objection is that voice search sounds trendy, but the practical value is in clearer content and stronger local visibility. Even if the technology changes, the underlying work still helps people find and understand your site.",
-        "description": "It is worth doing because it improves clarity, local visibility, and mobile usability even beyond voice search itself."
-      }
-    }
-  ],
+  "name": "Is voice search optimization worth it, or is it just another marketing trend?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is voice search optimization worth it, or is it just another marketing trend?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A common objection is that voice search sounds trendy, but the practical value is in clearer content and stronger local visibility. Even if the technology changes, the underlying work still helps people find and understand your site.",
+        "@type": "Answer",
+        "description": "It is worth doing because it improves clarity, local visibility, and mobile usability even beyond voice search itself."
+      }
+    }
+  ],
+  "description": "It is worth doing because it improves clarity, local visibility, and mobile usability even beyond voice search itself."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I really need schema markup for voice search, or is that overkill?",
-  "description": "Schema is not mandatory, but it makes your business data easier for search engines to interpret. LocalBusiness and FAQ schema are especially useful for voice-fr",
   "url": "aeoptimizer.com/faq/do-i-really-need-schema-markup-for-voice-search-or-is-that-overkill",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I really need schema markup for voice search, or is that overkill?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Schema helps search engines identify your business details, FAQs, and service information more clearly. It does not replace good content, but it can make your answers easier for systems to extract and display.",
-        "description": "Schema is not mandatory, but it makes your business data easier for search engines to interpret. LocalBusiness and FAQ schema are especially useful for voice-friendly pages."
-      }
-    }
-  ],
+  "name": "Do I really need schema markup for voice search, or is that overkill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I really need schema markup for voice search, or is that overkill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Schema helps search engines identify your business details, FAQs, and service information more clearly. It does not replace good content, but it can make your answers easier for systems to extract and display.",
+        "@type": "Answer",
+        "description": "Schema is not mandatory, but it makes your business data easier for search engines to interpret. LocalBusiness and FAQ schema are especially useful for voice-friendly pages."
+      }
+    }
+  ],
+  "description": "Schema is not mandatory, but it makes your business data easier for search engines to interpret. LocalBusiness and FAQ schema are especially useful for voice-fr"
 }

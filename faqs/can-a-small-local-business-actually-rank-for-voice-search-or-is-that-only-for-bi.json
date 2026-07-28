@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a small local business actually rank for voice search, or is that only for big brands?",
-  "description": "Yes. Small local businesses can win voice results when their business details are complete, consistent, and easy to understand. Big brands do not automatically",
   "url": "aeoptimizer.com/faq/can-a-small-local-business-actually-rank-for-voice-search-or-is-that-only-for-bi",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a small local business actually rank for voice search, or is that only for big brands?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You do not need a huge site to benefit from voice search, but you do need a real local presence that can be verified. Complete business profiles, consistent contact information, and location-specific pages matter more than having lots of content.",
-        "description": "Yes. Small local businesses can win voice results when their business details are complete, consistent, and easy to understand. Big brands do not automatically outrank a well-optimized local listing."
-      }
-    }
-  ],
+  "name": "Can a small local business actually rank for voice search, or is that only for big brands?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a small local business actually rank for voice search, or is that only for big brands?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not need a huge site to benefit from voice search, but you do need a real local presence that can be verified. Complete business profiles, consistent contact information, and location-specific pages matter more than having lots of content.",
+        "@type": "Answer",
+        "description": "Yes. Small local businesses can win voice results when their business details are complete, consistent, and easy to understand. Big brands do not automatically outrank a well-optimized local listing."
+      }
+    }
+  ],
+  "description": "Yes. Small local businesses can win voice results when their business details are complete, consistent, and easy to understand. Big brands do not automatically"
 }

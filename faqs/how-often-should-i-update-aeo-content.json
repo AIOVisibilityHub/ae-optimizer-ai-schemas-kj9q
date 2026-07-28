@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How often should I update AEO content?",
-  "description": "Update high-value AEO pages regularly, with quarterly review as a practical starting point. Fresh, accurate content is more likely to keep earning visibility ov",
   "url": "aeoptimizer.com/faq/how-often-should-i-update-aeo-content",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How often should I update AEO content?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Refresh your highest-value pages regularly, especially if the topic changes or competitors publish stronger answers. Quarterly reviews are a practical baseline for keeping information current, correcting gaps, and maintaining freshness signals that can support citation visibility.",
-        "description": "Update high-value AEO pages regularly, with quarterly review as a practical starting point. Fresh, accurate content is more likely to keep earning visibility over time."
-      }
-    }
-  ],
+  "name": "How often should I update AEO content?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I update AEO content?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refresh your highest-value pages regularly, especially if the topic changes or competitors publish stronger answers. Quarterly reviews are a practical baseline for keeping information current, correcting gaps, and maintaining freshness signals that can support citation visibility.",
+        "@type": "Answer",
+        "description": "Update high-value AEO pages regularly, with quarterly review as a practical starting point. Fresh, accurate content is more likely to keep earning visibility over time."
+      }
+    }
+  ],
+  "description": "Update high-value AEO pages regularly, with quarterly review as a practical starting point. Fresh, accurate content is more likely to keep earning visibility ov"
 }

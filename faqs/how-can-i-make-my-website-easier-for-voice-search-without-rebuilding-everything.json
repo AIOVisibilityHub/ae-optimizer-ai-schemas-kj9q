@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I make my website easier for voice search without rebuilding everything?",
-  "description": "Rewrite key headings as real questions, answer them in one or two sentences, and make contact details easy to find on mobile.",
   "url": "aeoptimizer.com/faq/how-can-i-make-my-website-easier-for-voice-search-without-rebuilding-everything",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I make my website easier for voice search without rebuilding everything?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use plain-language headings, short answers, and questions that sound like something a real person would ask aloud. Review your site on a phone and remove anything that makes it hard to quickly find hours, contact details, and next steps.",
-        "description": "Rewrite key headings as real questions, answer them in one or two sentences, and make contact details easy to find on mobile."
-      }
-    }
-  ],
+  "name": "How can I make my website easier for voice search without rebuilding everything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my website easier for voice search without rebuilding everything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Use plain-language headings, short answers, and questions that sound like something a real person would ask aloud. Review your site on a phone and remove anything that makes it hard to quickly find hours, contact details, and next steps.",
+        "@type": "Answer",
+        "description": "Rewrite key headings as real questions, answer them in one or two sentences, and make contact details easy to find on mobile."
+      }
+    }
+  ],
+  "description": "Rewrite key headings as real questions, answer them in one or two sentences, and make contact details easy to find on mobile."
 }

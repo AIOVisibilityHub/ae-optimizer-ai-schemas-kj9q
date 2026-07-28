@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What metrics should I watch after optimizing for voice search?",
-  "description": "Watch question queries, local impressions, calls, direction requests, and map actions. Those signals are usually more useful than trying to isolate every voice",
   "url": "aeoptimizer.com/faq/what-metrics-should-i-watch-after-optimizing-for-voice-search",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What metrics should I watch after optimizing for voice search?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Track question-based queries, impressions for local terms, click-to-call actions, direction requests, and pages that earn map-related visits. Search Console and Google Business Profile are usually the most practical starting points.",
-        "description": "Watch question queries, local impressions, calls, direction requests, and map actions. Those signals are usually more useful than trying to isolate every voice search directly."
-      }
-    }
-  ],
+  "name": "What metrics should I watch after optimizing for voice search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What metrics should I watch after optimizing for voice search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Track question-based queries, impressions for local terms, click-to-call actions, direction requests, and pages that earn map-related visits. Search Console and Google Business Profile are usually the most practical starting points.",
+        "@type": "Answer",
+        "description": "Watch question queries, local impressions, calls, direction requests, and map actions. Those signals are usually more useful than trying to isolate every voice search directly."
+      }
+    }
+  ],
+  "description": "Watch question queries, local impressions, calls, direction requests, and map actions. Those signals are usually more useful than trying to isolate every voice"
 }
