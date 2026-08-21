@@ -1,0 +1,27 @@
+{
+  "url": "aeoptimizer.com/faq/what-results-should-i-expect-from-voice-search-optimization-for-lawyers",
+  "name": "What results should I expect from voice search optimization for lawyers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What results should I expect from voice search optimization for lawyers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main outcome is better visibility for spoken, question-based searches and a stronger chance of getting contacted by people who are ready to act. It can also improve mobile usability and the clarity of your website overall.",
+        "@type": "Answer",
+        "description": "Expect better visibility for conversational searches, cleaner mobile content, and more qualified contact attempts from people with clear intent."
+      }
+    }
+  ],
+  "description": "Expect better visibility for conversational searches, cleaner mobile content, and more qualified contact attempts from people with clear intent."
+}
