@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-28T16:51:41.192Z",
+  "generatedAt": "2026-08-21T21:46:11.306Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -11,14 +11,14 @@
   "notALinkWheel": true,
   "entity": {
     "name": "AE Optimizer",
-    "canonicalUrl": "aeoptimizer.com",
+    "canonicalUrl": "https://ai.aeoptimizer.com",
     "aiDataHub": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
       "label": "AE Optimizer — canonical website",
-      "url": "aeoptimizer.com"
+      "url": "https://ai.aeoptimizer.com"
     },
     {
       "role": "ai-data-hub",

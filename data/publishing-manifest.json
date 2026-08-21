@@ -1,23 +1,13 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-28T16:51:41.232Z",
+  "generatedAt": "2026-08-21T21:46:11.341Z",
   "client": {
     "name": "AE Optimizer",
-    "canonicalUrl": "aeoptimizer.com",
+    "canonicalUrl": "https://ai.aeoptimizer.com",
     "pagesUrl": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q",
-    "phone": "(213) 537-5613",
+    "phone": "(800) 770-2171",
     "email": "support@aeoptimizer.com",
-    "locations": [
-      {
-        "zip": "90049",
-        "city": "Los Angeles",
-        "name": "AE Optimizer Office",
-        "email": "support@aeoptimizer.com",
-        "phone": "(213) 537-5613",
-        "state": "CA",
-        "address": "11177 San Vicente Blvd"
-      }
-    ],
+    "locations": [],
     "services": [
       "Answer Engine Optimization (AEO) software",
       "AI Visibility website optimization",
@@ -128,8 +118,8 @@
     ]
   },
   "package": {
-    "totalFiles": 3807,
-    "totalBytes": 26574226,
+    "totalFiles": 3724,
+    "totalBytes": 14841036,
     "stats": {
       "qna": 43,
       "faqs": 2020,
@@ -154,7 +144,7 @@
     "llms": "llms.txt",
     "aiSitemap": "ai-sitemap.xml",
     "sitemap": "sitemap.xml",
-    "manifest": "publishing-manifest.json",
+    "manifest": "data/publishing-manifest.json",
     "canonicalManifest": "data/publishing-manifest.json",
     "readme": "README.md"
   },
@@ -404,41 +394,6 @@
         "path": "services/ai-citations-generation-san-francisco-service.json",
         "bytes": 1885,
         "purpose": "schema"
-      },
-      {
-        "path": "services.jsonld",
-        "bytes": 151729,
-        "purpose": "Services ItemList"
-      },
-      {
-        "path": "practice-areas.jsonld",
-        "bytes": 151735,
-        "purpose": "Practice areas ItemList"
-      },
-      {
-        "path": "specialties.jsonld",
-        "bytes": 151732,
-        "purpose": "Specialties ItemList"
-      },
-      {
-        "path": "case-types.json",
-        "bytes": 2911,
-        "purpose": "Case types"
-      },
-      {
-        "path": "offer-catalog.jsonld",
-        "bytes": 150842,
-        "purpose": "OfferCatalog JSON-LD"
-      },
-      {
-        "path": "service-catalog.json",
-        "bytes": 139296,
-        "purpose": "Service catalog data"
-      },
-      {
-        "path": "service-pages.json",
-        "bytes": 139301,
-        "purpose": "Service pages data"
       }
     ],
     "locations": [
@@ -446,31 +401,6 @@
         "path": "locations/ae-optimizer-office.json",
         "bytes": 305,
         "purpose": "schema"
-      },
-      {
-        "path": "locations.jsonld",
-        "bytes": 663,
-        "purpose": "Locations ItemList"
-      },
-      {
-        "path": "service-areas.jsonld",
-        "bytes": 667,
-        "purpose": "Service areas ItemList"
-      },
-      {
-        "path": "location-pages.json",
-        "bytes": 522,
-        "purpose": "Location pages data"
-      },
-      {
-        "path": "city-service-areas.json",
-        "bytes": 416,
-        "purpose": "City service areas"
-      },
-      {
-        "path": "geo-coverage.json",
-        "bytes": 436,
-        "purpose": "Geographic coverage summary"
       }
     ],
     "organization": [
@@ -3817,102 +3747,102 @@
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-los-angeles-hub.json",
+        "path": "webpages/voice-search-for-team-members-los-angeles-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-san-diego-hub.json",
+        "path": "webpages/voice-search-for-team-members-san-diego-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-austin-hub.json",
+        "path": "webpages/voice-search-for-team-members-austin-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-denver-hub.json",
+        "path": "webpages/voice-search-for-team-members-denver-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-salt-lake-city-hub.json",
+        "path": "webpages/voice-search-for-team-members-salt-lake-city-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-las-vegas-hub.json",
+        "path": "webpages/voice-search-for-team-members-las-vegas-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-san-francisco-hub.json",
+        "path": "webpages/voice-search-for-team-members-san-francisco-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-atlanta-hub.json",
+        "path": "webpages/voice-search-for-team-members-atlanta-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-washington-d-c-hub.json",
+        "path": "webpages/voice-search-for-team-members-washington-d-c-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-columbus-hub.json",
+        "path": "webpages/voice-search-for-team-members-columbus-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-boulder-hub.json",
+        "path": "webpages/voice-search-for-team-members-boulder-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-pittsburgh-hub.json",
+        "path": "webpages/voice-search-for-team-members-pittsburgh-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-burlington-hub.json",
+        "path": "webpages/voice-search-for-team-members-burlington-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-minneapolis-hub.json",
+        "path": "webpages/voice-search-for-team-members-minneapolis-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-portland-hub.json",
+        "path": "webpages/voice-search-for-team-members-portland-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-seattle-hub.json",
+        "path": "webpages/voice-search-for-team-members-seattle-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-san-jose-hub.json",
+        "path": "webpages/voice-search-for-team-members-san-jose-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-boston-hub.json",
+        "path": "webpages/voice-search-for-team-members-boston-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-dallas-fort-worth-hub.json",
+        "path": "webpages/voice-search-for-team-members-dallas-fort-worth-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
       {
-        "path": "webpages/voice-search-for-lawyers-new-york-hub.json",
+        "path": "webpages/voice-search-for-team-members-new-york-hub.json",
         "bytes": 0,
         "purpose": "webpage"
       },
@@ -13074,17 +13004,17 @@
         "purpose": "schema"
       },
       {
-        "path": "faqs/what-should-i-do-first-if-i-want-voice-search-to-work-for-lawyers.json",
+        "path": "faqs/what-should-i-do-first-if-i-want-voice-search-to-work-for-team-members.json",
         "bytes": 1087,
         "purpose": "schema"
       },
       {
-        "path": "faqs/what-kind-of-website-content-actually-gets-picked-up-in-voice-search-for-lawyers.json",
+        "path": "faqs/what-kind-of-website-content-actually-gets-picked-up-in-voice-search-for-team-me.json",
         "bytes": 1076,
         "purpose": "schema"
       },
       {
-        "path": "faqs/how-does-voice-search-optimization-for-lawyers-actually-work.json",
+        "path": "faqs/how-does-voice-search-optimization-for-team-members-actually-work.json",
         "bytes": 1066,
         "purpose": "schema"
       },
@@ -13094,7 +13024,7 @@
         "purpose": "schema"
       },
       {
-        "path": "faqs/how-much-does-voice-search-optimization-for-lawyers-usually-cost.json",
+        "path": "faqs/how-much-does-voice-search-optimization-for-team-members-usually-cost.json",
         "bytes": 973,
         "purpose": "schema"
       },
@@ -13104,22 +13034,22 @@
         "purpose": "schema"
       },
       {
-        "path": "faqs/what-can-go-wrong-with-voice-search-optimization-for-lawyers.json",
+        "path": "faqs/what-can-go-wrong-with-voice-search-optimization-for-team-members.json",
         "bytes": 1013,
         "purpose": "schema"
       },
       {
-        "path": "faqs/what-results-should-i-expect-from-voice-search-optimization-for-lawyers.json",
+        "path": "faqs/what-results-should-i-expect-from-voice-search-optimization-for-team-members.json",
         "bytes": 1075,
         "purpose": "schema"
       },
       {
-        "path": "faqs/is-voice-search-optimization-different-from-regular-seo-for-lawyers.json",
+        "path": "faqs/is-voice-search-optimization-different-from-regular-seo-for-team-members.json",
         "bytes": 1059,
         "purpose": "schema"
       },
       {
-        "path": "faqs/does-voice-search-matter-more-for-lawyers-in-big-cities-like-los-angeles-or-aust.json",
+        "path": "faqs/does-voice-search-matter-more-for-team-members-in-big-cities-like-los-angeles-or.json",
         "bytes": 1168,
         "purpose": "schema"
       },
@@ -13149,7 +13079,7 @@
         "purpose": "schema"
       },
       {
-        "path": "faqs/what-is-the-cheapest-way-to-improve-voice-search-for-lawyers.json",
+        "path": "faqs/what-is-the-cheapest-way-to-improve-voice-search-for-team-members.json",
         "bytes": 953,
         "purpose": "schema"
       },
@@ -13164,7 +13094,7 @@
         "purpose": "schema"
       },
       {
-        "path": "faqs/what-does-a-good-voice-search-result-look-like-for-a-lawyer-website.json",
+        "path": "faqs/what-does-a-good-voice-search-result-look-like-for-a-team-members-website.json",
         "bytes": 999,
         "purpose": "schema"
       },
@@ -18717,16 +18647,6 @@
         "path": "faqs/do-different-local-seo-or-optimization-tools-really-matter-for-voice-search-or-a.json",
         "bytes": 2033,
         "purpose": "schema"
-      },
-      {
-        "path": "faqs.jsonld",
-        "bytes": 4576084,
-        "purpose": "FAQs ItemList"
-      },
-      {
-        "path": "faq.md",
-        "bytes": 1939969,
-        "purpose": "FAQs (markdown)"
       }
     ],
     "help": [
@@ -18744,422 +18664,53 @@
         "path": "help/my-agency-needs-aeo-software-what-now.json",
         "bytes": 2653,
         "purpose": "schema"
-      },
-      {
-        "path": "help-articles.jsonld",
-        "bytes": 11950,
-        "purpose": "Help articles ItemList"
-      },
-      {
-        "path": "help-articles.md",
-        "bytes": 3022,
-        "purpose": "Help articles (markdown)"
       }
     ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 2409,
+        "bytes": 7360,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 5209,
+        "bytes": 10120,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 150460,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "reviews.html",
-        "bytes": 1653,
+        "bytes": 155749,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 3106,
+        "bytes": 7781,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2066468,
+        "bytes": 2281078,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 16162,
+        "bytes": 22110,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 503247,
+        "bytes": 3764805,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "questions-people-ask.html",
-        "bytes": 262674,
+        "bytes": 267843,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 139827,
+        "bytes": 144933,
         "purpose": "LLM-optimized public page"
-      }
-    ],
-    "entity": [
-      {
-        "path": "organization.jsonld",
-        "bytes": 2462,
-        "purpose": "Primary Organization JSON-LD"
-      },
-      {
-        "path": "professional-service.jsonld",
-        "bytes": 2469,
-        "purpose": "ProfessionalService JSON-LD"
-      },
-      {
-        "path": "local-business.jsonld",
-        "bytes": 2463,
-        "purpose": "LocalBusiness JSON-LD"
-      },
-      {
-        "path": "entity-profile.json",
-        "bytes": 6047,
-        "purpose": "Entity profile summary"
-      },
-      {
-        "path": "business-overview.json",
-        "bytes": 6047,
-        "purpose": "Business overview"
-      },
-      {
-        "path": "brand-profile.json",
-        "bytes": 255,
-        "purpose": "Brand profile"
-      },
-      {
-        "path": "identifiers.json",
-        "bytes": 243,
-        "purpose": "External identifiers & sameAs"
-      },
-      {
-        "path": "same-as.jsonld",
-        "bytes": 252,
-        "purpose": "sameAs graph for entity disambiguation"
-      },
-      {
-        "path": "about.jsonld",
-        "bytes": 2802,
-        "purpose": "AboutPage JSON-LD"
-      },
-      {
-        "path": "contact.jsonld",
-        "bytes": 278,
-        "purpose": "ContactPage JSON-LD"
-      },
-      {
-        "path": "knowledge-graph.json",
-        "bytes": 142528,
-        "purpose": "Combined Schema.org @graph"
-      },
-      {
-        "path": "full-context.json",
-        "bytes": 6047,
-        "purpose": "Full entity context (JSON)"
-      },
-      {
-        "path": "full-context.yaml",
-        "bytes": 5044,
-        "purpose": "Full entity context (YAML)"
-      }
-    ],
-    "team": [
-      {
-        "path": "team.jsonld",
-        "bytes": 142,
-        "purpose": "Aggregate team ItemList"
-      },
-      {
-        "path": "professionals.jsonld",
-        "bytes": 151,
-        "purpose": "Professionals ItemList"
-      },
-      {
-        "path": "team.json",
-        "bytes": 94,
-        "purpose": "Team data bundle"
-      },
-      {
-        "path": "team-bios.md",
-        "bytes": 51,
-        "purpose": "Team bios (markdown)"
-      },
-      {
-        "path": "team-bios.json",
-        "bytes": 80,
-        "purpose": "Team bios (JSON)"
-      },
-      {
-        "path": "professionalservice-team.jsonld",
-        "bytes": 170,
-        "purpose": "ProfessionalService team wrapper"
-      }
-    ],
-    "qna": [
-      {
-        "path": "qnas.jsonld",
-        "bytes": 138,
-        "purpose": "Q&A ItemList"
-      },
-      {
-        "path": "qna.md",
-        "bytes": 29,
-        "purpose": "Q&A (markdown)"
-      }
-    ],
-    "hubs": [
-      {
-        "path": "topical-hubs.jsonld",
-        "bytes": 147,
-        "purpose": "Topical hubs ItemList"
-      },
-      {
-        "path": "topical-hubs.md",
-        "bytes": 47,
-        "purpose": "Topical hubs (markdown)"
-      },
-      {
-        "path": "semantic-authority-pages.json",
-        "bytes": 11074,
-        "purpose": "Semantic authority pages"
-      }
-    ],
-    "reviews": [
-      {
-        "path": "reviews.jsonld",
-        "bytes": 142,
-        "purpose": "Reviews ItemList"
-      },
-      {
-        "path": "testimonials.jsonld",
-        "bytes": 147,
-        "purpose": "Testimonials ItemList"
-      }
-    ],
-    "awards": [
-      {
-        "path": "awards.jsonld",
-        "bytes": 141,
-        "purpose": "Awards ItemList"
-      },
-      {
-        "path": "licenses.jsonld",
-        "bytes": 143,
-        "purpose": "Licenses ItemList"
-      },
-      {
-        "path": "associations.jsonld",
-        "bytes": 147,
-        "purpose": "Associations ItemList"
-      },
-      {
-        "path": "credentials.json",
-        "bytes": 100,
-        "purpose": "Credentials summary"
-      }
-    ],
-    "case-results": [
-      {
-        "path": "case-results.jsonld",
-        "bytes": 147,
-        "purpose": "Case results ItemList"
-      }
-    ],
-    "press": [
-      {
-        "path": "media-mentions.jsonld",
-        "bytes": 149,
-        "purpose": "Media mentions ItemList"
-      }
-    ],
-    "pages": [
-      {
-        "path": "about.html",
-        "bytes": 3914,
-        "purpose": "About page"
-      },
-      {
-        "path": "services.html",
-        "bytes": 18405,
-        "purpose": "Services page"
-      },
-      {
-        "path": "locations.html",
-        "bytes": 1909,
-        "purpose": "Locations page"
-      },
-      {
-        "path": "team.html",
-        "bytes": 1764,
-        "purpose": "Team page"
-      },
-      {
-        "path": "faqs.html",
-        "bytes": 788375,
-        "purpose": "FAQs page"
-      },
-      {
-        "path": "qnas.html",
-        "bytes": 1776,
-        "purpose": "Q&A page"
-      },
-      {
-        "path": "help.html",
-        "bytes": 2065,
-        "purpose": "Help page"
-      },
-      {
-        "path": "topical-hubs.html",
-        "bytes": 1796,
-        "purpose": "Topical hubs page"
-      },
-      {
-        "path": "reviews.html",
-        "bytes": 1776,
-        "purpose": "Reviews page"
-      },
-      {
-        "path": "case-results.html",
-        "bytes": 1796,
-        "purpose": "Case results page"
-      },
-      {
-        "path": "contact.html",
-        "bytes": 1841,
-        "purpose": "Contact page"
-      }
-    ],
-    "data": [
-      {
-        "path": "data/entity.json",
-        "bytes": 6047,
-        "purpose": "Entity data (JSON)"
-      },
-      {
-        "path": "data/entity.yaml",
-        "bytes": 5044,
-        "purpose": "Entity data (YAML)"
-      },
-      {
-        "path": "data/entity.jsonl",
-        "bytes": 4565,
-        "purpose": "Entity data (JSONL)"
-      },
-      {
-        "path": "data/services.json",
-        "bytes": 139296,
-        "purpose": "Services data"
-      },
-      {
-        "path": "data/locations.json",
-        "bytes": 522,
-        "purpose": "Locations data"
-      },
-      {
-        "path": "data/faqs.json",
-        "bytes": 4327214,
-        "purpose": "FAQs data"
-      },
-      {
-        "path": "data/qnas.json",
-        "bytes": 94,
-        "purpose": "Q&A data"
-      },
-      {
-        "path": "data/help-articles.json",
-        "bytes": 11060,
-        "purpose": "Help articles data"
-      },
-      {
-        "path": "data/team.json",
-        "bytes": 94,
-        "purpose": "Team data"
-      },
-      {
-        "path": "data/reviews.json",
-        "bytes": 97,
-        "purpose": "Reviews data"
-      },
-      {
-        "path": "data/case-results.json",
-        "bytes": 102,
-        "purpose": "Case results data"
-      },
-      {
-        "path": "data/knowledge-graph.json",
-        "bytes": 142528,
-        "purpose": "Knowledge graph @graph"
-      },
-      {
-        "path": "data/internal-links.json",
-        "bytes": 484542,
-        "purpose": "Internal links index"
-      },
-      {
-        "path": "data/source-map.json",
-        "bytes": 803792,
-        "purpose": "Source-map of all entity files"
-      },
-      {
-        "path": "data/research-sources.json",
-        "bytes": 258,
-        "purpose": "Approved research items with source attribution"
-      },
-      {
-        "path": "data/source-provenance.json",
-        "bytes": 330,
-        "purpose": "External source provenance for approved research"
-      }
-    ],
-    "compliance": [
-      {
-        "path": "ai-disclaimer.md",
-        "bytes": 435,
-        "purpose": "AI disclaimer"
-      },
-      {
-        "path": "legal-disclaimer.md",
-        "bytes": 397,
-        "purpose": "Legal disclaimer"
-      },
-      {
-        "path": "data-sources.md",
-        "bytes": 668,
-        "purpose": "Data sources"
-      },
-      {
-        "path": "content-review-status.json",
-        "bytes": 819519,
-        "purpose": "Content review status"
-      },
-      {
-        "path": "approval-log.json",
-        "bytes": 136,
-        "purpose": "Content approval log"
-      }
-    ],
-    "security": [
-      {
-        "path": "security.txt",
-        "bytes": 131,
-        "purpose": "Security.txt (RFC 9116)"
-      },
-      {
-        "path": "humans.txt",
-        "bytes": 128,
-        "purpose": "humans.txt"
       }
     ],
     "root": [
@@ -19170,7 +18721,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4012,
+        "bytes": 4039,
         "purpose": "LLM hint"
       },
       {
@@ -19190,42 +18741,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1580,
+        "bytes": 1602,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1844245,
+        "bytes": 1816755,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 569821,
+        "bytes": 560780,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 569821,
+        "bytes": 560780,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3914,
+        "bytes": 3946,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 620575,
+        "bytes": 614853,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 711404,
+        "bytes": 704289,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 3245,
+        "bytes": 1686,
         "purpose": "Standard sitemap"
       }
     ]

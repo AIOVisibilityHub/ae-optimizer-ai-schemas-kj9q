@@ -3,17 +3,17 @@
 AE Optimizer publishes structured AI-readable data for discovery and recommendation by AI systems.
 
 ## Canonical
-- aeoptimizer.com
+- https://ai.aeoptimizer.com
 
 ## Core AI Resources
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html
-- https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/publishing-manifest.json
+- https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/data/publishing-manifest.json
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/llms-full.txt
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/full-context.md
 - https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-sitemap.xml
 
 ## Cross-Destination Index — Related AI Data Sources
-- [canonical] AE Optimizer — canonical website — aeoptimizer.com
+- [canonical] AE Optimizer — canonical website — https://ai.aeoptimizer.com
 - [ai-data-hub] AE Optimizer — AI Data Hub — https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q
 - [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html
