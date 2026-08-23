@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-21T21:46:11.341Z",
+  "generatedAt": "2026-08-23T00:47:37.188Z",
   "client": {
     "name": "AE Optimizer",
     "canonicalUrl": "https://ai.aeoptimizer.com",
-    "pagesUrl": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q",
+    "pagesUrl": "https://ai.aeoptimizer.com",
     "phone": "(800) 770-2171",
     "email": "support@aeoptimizer.com",
     "locations": [],
@@ -119,7 +119,7 @@
   },
   "package": {
     "totalFiles": 3724,
-    "totalBytes": 14841036,
+    "totalBytes": 14230090,
     "stats": {
       "qna": 43,
       "faqs": 2020,
@@ -18669,59 +18669,59 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 7360,
+        "bytes": 12262,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 10120,
+        "bytes": 19506,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 155749,
+        "bytes": 160888,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 7781,
+        "bytes": 12695,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2281078,
+        "bytes": 2285986,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 22110,
+        "bytes": 26976,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 3764805,
+        "bytes": 3769671,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "questions-people-ask.html",
-        "bytes": 267843,
+        "bytes": 272886,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 144933,
+        "bytes": 149882,
         "purpose": "LLM-optimized public page"
       }
     ],
     "root": [
       {
         "path": "robots.txt",
-        "bytes": 367,
+        "bytes": 293,
         "purpose": "Robots policy"
       },
       {
         "path": "llms.txt",
-        "bytes": 4039,
+        "bytes": 3780,
         "purpose": "LLM hint"
       },
       {
@@ -18731,7 +18731,7 @@
       },
       {
         "path": "index.html",
-        "bytes": 376,
+        "bytes": 339,
         "purpose": "Landing page (redirects to ai-data.html)"
       },
       {
@@ -18741,42 +18741,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1602,
+        "bytes": 1454,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1816755,
+        "bytes": 1679078,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 560780,
+        "bytes": 423214,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 560780,
+        "bytes": 423214,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3946,
+        "bytes": 3872,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 614853,
+        "bytes": 614779,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 704289,
+        "bytes": 458637,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1686,
+        "bytes": 894,
         "purpose": "Standard sitemap"
       }
     ]
@@ -18784,7 +18784,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q",
-      "pagesUrl": "https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/",
+      "pagesUrl": "https://ai.aeoptimizer.com/",
       "repo": "AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q"
     }
   }

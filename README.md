@@ -21,9 +21,9 @@ Canonical AI Data Package for AE Optimizer.
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] AE Optimizer — canonical website — https://ai.aeoptimizer.com
-- [ai-data-hub] AE Optimizer — AI Data Hub — https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html
+- [ai-data-hub] AE Optimizer — AI Data Hub — https://ai.aeoptimizer.com/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/ae-optimizer-ai-schemas-kj9q
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/ae-optimizer-ai-schemas-kj9q/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — https://ai.aeoptimizer.com/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
