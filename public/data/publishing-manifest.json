@@ -1,9 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T00:48:14.520Z",
+  "generatedAt": "2026-08-23T18:27:11.092Z",
   "client": {
     "name": "AE Optimizer",
     "canonicalUrl": "https://ai.aeoptimizer.com",
+    "primaryWebsiteUrl": "https://ai.aeoptimizer.com",
     "pagesUrl": "https://ai.aeoptimizer.com",
     "phone": "(800) 770-2171",
     "email": "support@aeoptimizer.com",
@@ -119,7 +120,7 @@
   },
   "package": {
     "totalFiles": 3724,
-    "totalBytes": 14186384,
+    "totalBytes": 14233540,
     "stats": {
       "qna": 43,
       "faqs": 2020,
@@ -18669,47 +18670,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 7462,
+        "bytes": 16393,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 14571,
+        "bytes": 19414,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 155851,
+        "bytes": 160796,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 7883,
+        "bytes": 12603,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2281180,
+        "bytes": 2285894,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 22212,
+        "bytes": 26884,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 3764907,
+        "bytes": 3769579,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "questions-people-ask.html",
-        "bytes": 267945,
+        "bytes": 272794,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 145035,
+        "bytes": 149790,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -18741,7 +18742,7 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1454,
+        "bytes": 1509,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
