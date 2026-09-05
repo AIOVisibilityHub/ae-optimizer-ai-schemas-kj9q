@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T22:01:28.856Z",
+  "generatedAt": "2026-09-05T22:02:17.569Z",
   "client": {
     "name": "AE Optimizer",
     "canonicalUrl": "https://ai.aeoptimizer.com",
@@ -120,7 +120,7 @@
   },
   "package": {
     "totalFiles": 3727,
-    "totalBytes": 14270475,
+    "totalBytes": 14209838,
     "stats": {
       "qna": 43,
       "faqs": 2020,
@@ -18670,62 +18670,62 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16673,
+        "bytes": 11618,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 19499,
+        "bytes": 14564,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 160882,
+        "bytes": 155845,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 12683,
+        "bytes": 7871,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2285980,
+        "bytes": 2281174,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 13904,
+        "bytes": 9140,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 3769665,
+        "bytes": 3764901,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "questions-people-ask.html",
-        "bytes": 272880,
+        "bytes": 267939,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 149876,
+        "bytes": 145029,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.html",
-        "bytes": 16027,
+        "bytes": 10169,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/integrating-aeo-tools-5-mistakes-agencies-make.html",
-        "bytes": 15607,
+        "bytes": 9752,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-agency-needs-aeo-software-what-now.html",
-        "bytes": 14403,
+        "bytes": 9440,
         "purpose": "LLM-optimized public page"
       }
     ],
