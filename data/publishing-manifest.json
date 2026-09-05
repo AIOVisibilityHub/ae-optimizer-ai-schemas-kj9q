@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T18:27:41.828Z",
+  "generatedAt": "2026-09-05T22:01:28.856Z",
   "client": {
     "name": "AE Optimizer",
     "canonicalUrl": "https://ai.aeoptimizer.com",
-    "primaryWebsiteUrl": "https://ai.aeoptimizer.com",
+    "primaryWebsiteUrl": "https://aeoptimizer.com",
     "pagesUrl": "https://ai.aeoptimizer.com",
     "phone": "(800) 770-2171",
     "email": "support@aeoptimizer.com",
@@ -119,8 +119,8 @@
     ]
   },
   "package": {
-    "totalFiles": 3724,
-    "totalBytes": 14189579,
+    "totalFiles": 3727,
+    "totalBytes": 14270475,
     "stats": {
       "qna": 43,
       "faqs": 2020,
@@ -18670,47 +18670,62 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11338,
+        "bytes": 16673,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 14479,
+        "bytes": 19499,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 155759,
+        "bytes": 160882,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 7791,
+        "bytes": 12683,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2281088,
+        "bytes": 2285980,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 22120,
+        "bytes": 13904,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 3764815,
+        "bytes": 3769665,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "questions-people-ask.html",
-        "bytes": 267853,
+        "bytes": 272880,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 144943,
+        "bytes": 149876,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.html",
+        "bytes": 16027,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/integrating-aeo-tools-5-mistakes-agencies-make.html",
+        "bytes": 15607,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-agency-needs-aeo-software-what-now.html",
+        "bytes": 14403,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -18742,22 +18757,22 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1509,
+        "bytes": 1506,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1679078,
+        "bytes": 1680290,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 423214,
+        "bytes": 423561,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 423214,
+        "bytes": 423561,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -18767,17 +18782,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 614779,
+        "bytes": 615235,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 458637,
+        "bytes": 458959,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 894,
+        "bytes": 1216,
         "purpose": "Standard sitemap"
       }
     ]

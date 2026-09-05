@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T18:27:41.783Z",
+  "generatedAt": "2026-09-05T22:01:28.810Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -12,7 +12,7 @@
   "entity": {
     "name": "AE Optimizer",
     "canonicalUrl": "https://ai.aeoptimizer.com",
-    "primaryWebsiteUrl": "https://ai.aeoptimizer.com",
+    "primaryWebsiteUrl": "https://aeoptimizer.com",
     "aiDataHub": "https://ai.aeoptimizer.com/ai-data.html"
   },
   "related": [

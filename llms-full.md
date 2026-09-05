@@ -1,7 +1,7 @@
 AE Optimizer — Extended AI Context
 
 Canonical: https://ai.aeoptimizer.com
-Generated: 2026-08-23
+Generated: 2026-09-05
 
 AE Optimizer maintains a canonical AI Data Package designed so AI systems (ChatGPT, Perplexity, Claude, Google AI) can find the entity reliably, understand its services and team, and trust its citations and structured data.
 
@@ -3856,11 +3856,14 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://ai.aeoptimizer.com/webpages/zero-click-visibility-seattle-hub.json — webpage
 - https://ai.aeoptimizer.com/webpages/zero-click-visibility-washington-d-c-hub.json — webpage
 
-### Public Pages (9)
+### Public Pages (12)
 - https://ai.aeoptimizer.com/about.html — LLM-optimized public page
 - https://ai.aeoptimizer.com/articles.html — LLM-optimized public page
 - https://ai.aeoptimizer.com/contact.html — LLM-optimized public page
 - https://ai.aeoptimizer.com/faqs.html — LLM-optimized public page
+- https://ai.aeoptimizer.com/help/integrating-aeo-tools-5-mistakes-agencies-make.html — LLM-optimized public page
+- https://ai.aeoptimizer.com/help/my-agency-needs-aeo-software-what-now.html — LLM-optimized public page
+- https://ai.aeoptimizer.com/help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.html — LLM-optimized public page
 - https://ai.aeoptimizer.com/index.html — LLM-optimized public page
 - https://ai.aeoptimizer.com/qnas.html — LLM-optimized public page
 - https://ai.aeoptimizer.com/questions-people-ask.html — LLM-optimized public page

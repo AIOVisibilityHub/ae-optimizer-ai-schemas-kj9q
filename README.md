@@ -3753,11 +3753,14 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`webpages/zero-click-visibility-seattle-hub.json`](./webpages/zero-click-visibility-seattle-hub.json) — webpage
 - [`webpages/zero-click-visibility-washington-d-c-hub.json`](./webpages/zero-click-visibility-washington-d-c-hub.json) — webpage
 
-### Public Pages (9)
+### Public Pages (12)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
+- [`help/integrating-aeo-tools-5-mistakes-agencies-make.html`](./help/integrating-aeo-tools-5-mistakes-agencies-make.html) — LLM-optimized public page
+- [`help/my-agency-needs-aeo-software-what-now.html`](./help/my-agency-needs-aeo-software-what-now.html) — LLM-optimized public page
+- [`help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.html`](./help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
 - [`qnas.html`](./qnas.html) — LLM-optimized public page
 - [`questions-people-ask.html`](./questions-people-ask.html) — LLM-optimized public page
