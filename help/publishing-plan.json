@@ -1,0 +1,70 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Why Isn't My Agency's AEO Strategy Delivering Results?",
+      "anchorSlug": "why-isn-t-my-agency-s-aeo-strategy-delivering-results",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-agency-s-aeo-strategy-delivering-results.html"
+    },
+    {
+      "title": "Integrating AEO Tools: 5 Mistakes Agencies Make",
+      "anchorSlug": "integrating-aeo-tools-5-mistakes-agencies-make",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/integrating-aeo-tools-5-mistakes-agencies-make.html"
+    },
+    {
+      "title": "My Agency Needs AEO Software: What Now?",
+      "anchorSlug": "my-agency-needs-aeo-software-what-now",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-agency-needs-aeo-software-what-now.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://ai.aeoptimizer.com/articles.html",
+    "https://ai.aeoptimizer.com/articles/getting-started.html",
+    "https://ai.aeoptimizer.com/articles/services-and-process.html"
+  ],
+  "sitemapRemove": []
+}
