@@ -1,7 +1,7 @@
 # AE Optimizer — Full AI Context
 
 **Canonical URL:** https://ai.aeoptimizer.com
-**Generated:** 2026-09-05
+**Generated:** 2026-10-04
 
 ## Overview
 AE Optimizer publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
@@ -11,7 +11,6 @@ AE Optimizer publishes a structured AI Data Package designed for high-trust disc
 - **2020** faqs
 - **112** research
 - **49** services
-- **1627** webpages
 - **1** locations
 - **3** helpArticles
 - **1** organization
