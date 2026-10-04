@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:54:12.708Z",
+  "generatedAt": "2026-10-04T00:54:32.406Z",
   "client": {
     "name": "AE Optimizer",
     "canonicalUrl": "https://ai.aeoptimizer.com",
@@ -120,7 +120,7 @@
   },
   "package": {
     "totalFiles": 2100,
-    "totalBytes": 9229187,
+    "totalBytes": 9180319,
     "stats": {
       "qna": 43,
       "faqs": 2020,
@@ -10545,52 +10545,52 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16479,
+        "bytes": 11426,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 20737,
+        "bytes": 15824,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 71796,
+        "bytes": 66855,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 13921,
+        "bytes": 9135,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2287218,
+        "bytes": 2282432,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 14143,
+        "bytes": 9332,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "questions-people-ask.html",
-        "bytes": 274118,
+        "bytes": 269229,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 151114,
+        "bytes": 146287,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 13316,
+        "bytes": 8420,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 13656,
+        "bytes": 8690,
         "purpose": "LLM-optimized public page"
       }
     ],
